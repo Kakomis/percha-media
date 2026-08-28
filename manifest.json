@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "今日はいい天気ですね",
+    "orden": 1,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/audio/Track02.cda",
+    "lineas": [
+      { "id": 101, "textoJP": "おはようございます", "lecturaFurigana": "おはようございます" },
+      { "id": 102, "textoJP": "今日はいい天気ですね", "lecturaFurigana": "きょうはいいてんきですね" },
+      { "id": 103, "textoJP": "お元気ですか", "lecturaFurigana": "おげんきですか" }
+    ]
+  }
+]
