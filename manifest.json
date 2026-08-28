@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Unidad 5 - Sección 1",
     "orden": 1,
-    "version": "v1",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/audio/Track02.cda",
     "lineas": [
       { "id": 101, "textoJP": "今日は何日だっけ？", "lecturaFurigana": "きょうはなんにちだっけ？" },
