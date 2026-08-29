@@ -186,8 +186,8 @@
     "id": 3,
     "titulo": "てる・てく・とく　2",
     "orden": 3,
-    "version": "v1",
-    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/audio/02+Track+3.mp3",
+    "version": "v2",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/audio/03+Track+3.mp3",
     "lineas": [
       {
         "id": 301,
