@@ -182,7 +182,7 @@
         "lecturaFurigana": "あに：まだわからない？ほら、いちばんきれいなひとだよ。ぼうしかぶってる。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 3,
@@ -267,7 +267,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 4,
@@ -327,7 +327,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 5,
@@ -402,7 +402,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 7,
@@ -472,7 +472,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 8,
@@ -537,7 +537,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 9,
@@ -612,7 +612,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 10,
@@ -677,7 +677,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 12,
@@ -757,7 +757,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 13,
@@ -827,7 +827,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 14,
@@ -892,7 +892,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 15,
@@ -972,7 +972,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 16,
@@ -1042,7 +1042,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 17,
@@ -1117,7 +1117,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 18,
@@ -1187,7 +1187,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 19,
@@ -1262,7 +1262,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 20,
@@ -1337,7 +1337,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 21,
@@ -1412,7 +1412,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 22,
@@ -1512,7 +1512,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 23,
@@ -1577,7 +1577,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 24,
@@ -1657,7 +1657,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 25,
@@ -1732,7 +1732,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 26,
@@ -1812,7 +1812,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 27,
@@ -1887,7 +1887,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 29,
@@ -1972,7 +1972,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 30,
@@ -2057,7 +2057,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 31,
@@ -2132,7 +2132,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 32,
@@ -2217,7 +2217,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 34,
@@ -2292,7 +2292,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 35,
@@ -2362,7 +2362,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 36,
@@ -2427,7 +2427,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 37,
@@ -2492,7 +2492,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 38,
@@ -2562,7 +2562,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 39,
@@ -2632,7 +2632,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 40,
@@ -2712,7 +2712,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 41,
@@ -2777,7 +2777,7 @@
         "lecturaFurigana": "。。。"
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 42,
@@ -2847,7 +2847,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 43,
@@ -2907,7 +2907,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 44,
@@ -2972,7 +2972,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 45,
@@ -3047,7 +3047,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 48,
@@ -3132,7 +3132,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 47,
@@ -3192,7 +3192,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 49,
@@ -3282,7 +3282,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 50,
@@ -3352,7 +3352,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 51,
@@ -3437,7 +3437,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 52,
@@ -3507,7 +3507,7 @@
         "lecturaFurigana": ""
       }
     ],
-    "categoria": "shadowing"
+    "categoria": "comprension_libre"
   },
   {
     "id": 53,
