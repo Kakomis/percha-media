@@ -188,7 +188,7 @@
     "id": 3,
     "titulo": "てる・てく・とく　2",
     "orden": 3,
-    "version": "v1",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/audio/03+Track+3.mp3",
     "lineas": [
       {
@@ -218,8 +218,8 @@
       },
       {
         "id": 306,
-        "textoJP": "駅員　ちゃんとお金を払ってもらいますか。",
-        "lecturaFurigana": "えきいん　ちゃんとおかねをはらってもらいますか。"
+        "textoJP": "駅員　ちゃんとお金を払ってもらいますよ。",
+        "lecturaFurigana": "えきいん　ちゃんとおかねをはらってもらいますよ。"
       },
       {
         "id": 307,
@@ -243,8 +243,8 @@
       },
       {
         "id": 311,
-        "textoJP": "学生　すみませんけど、お願いがあるんですか…",
-        "lecturaFurigana": "がくせい　すみませんけど、おねがいがあるんですか…"
+        "textoJP": "学生　すみませんけど、お願いがあるんですが・・・。",
+        "lecturaFurigana": "がくせい　すみませんけど、おねがいがあるんですが・・・"
       },
       {
         "id": 312,
@@ -264,7 +264,7 @@
       {
         "id": 315,
         "textoJP": "。。。",
-        "lecturaFurigana": "。。。"
+        "lecturaFurigana": ""
       }
     ],
     "categoria": "comprension_libre"
