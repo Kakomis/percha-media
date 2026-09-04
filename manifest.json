@@ -5810,23 +5810,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/59.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5836,23 +5839,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/60.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "b",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5862,23 +5868,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/61.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5888,23 +5897,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/62.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5914,23 +5926,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/63.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "b",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5940,23 +5955,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/64.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5966,23 +5984,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/65.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "b",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -5992,23 +6013,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/66.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6018,23 +6042,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/67.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "b",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6044,23 +6071,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/68.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6070,23 +6100,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/69.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6096,23 +6129,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/70.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6122,23 +6158,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/71.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6148,23 +6187,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/72.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6174,23 +6216,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/73.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "a",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6200,23 +6245,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/74.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6226,23 +6274,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/75.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6252,23 +6303,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/76.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6278,23 +6332,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/77.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "b",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   },
   {
@@ -6304,23 +6361,26 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/78.mp3",
       "imagen_url": null,
-      "tiempo_limite_seg": 3,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
       "opciones": [
         {
           "id": "a",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "b",
-          "audio_url": ""
+          "texto": ""
         },
         {
           "id": "c",
-          "audio_url": ""
+          "texto": ""
         }
       ],
       "respuesta_correcta": "c",
-      "transcript_referencia": null
+      "tabla_apoyo": null
     }
   }
 ]
