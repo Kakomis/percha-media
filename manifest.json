@@ -3921,5 +3921,632 @@
       "respuesta_correcta": "d",
       "tabla_apoyo": null
     }
+  },
+  {
+    "id": "aud_0002",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/02.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "和太鼓を見学をする"
+        },
+        {
+          "id": "b",
+          "texto": "和太鼓の体験レッスンを受ける"
+        },
+        {
+          "id": "c",
+          "texto": "スポーツクラブに入る"
+        },
+        {
+          "id": "d",
+          "texto": "薬局にいく"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0003",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/03.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "車"
+        },
+        {
+          "id": "b",
+          "texto": "新幹線"
+        },
+        {
+          "id": "c",
+          "texto": "飛行機"
+        },
+        {
+          "id": "d",
+          "texto": "船"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0004",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/04.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/04.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア、ウ、エ"
+        },
+        {
+          "id": "b",
+          "texto": "イ、ウ、エ"
+        },
+        {
+          "id": "c",
+          "texto": "ア、エ、オ"
+        },
+        {
+          "id": "d",
+          "texto": "イ、エ、オ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0005",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/05.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "『地球の未来』の上巻"
+        },
+        {
+          "id": "b",
+          "texto": "『地球の未来』の上巻と下巻"
+        },
+        {
+          "id": "c",
+          "texto": "『世界を破壊する』の上巻"
+        },
+        {
+          "id": "d",
+          "texto": "『世界を破壊する』の上巻と下巻"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0006",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/06.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "電話で"
+        },
+        {
+          "id": "b",
+          "texto": "ファックスで"
+        },
+        {
+          "id": "c",
+          "texto": "メールで"
+        },
+        {
+          "id": "d",
+          "texto": "インターネットで"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0007",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/07.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "月曜日"
+        },
+        {
+          "id": "b",
+          "texto": "火曜日"
+        },
+        {
+          "id": "c",
+          "texto": "木曜日"
+        },
+        {
+          "id": "d",
+          "texto": "金曜日"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0008",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/08.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/08.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア→イ→ウ"
+        },
+        {
+          "id": "b",
+          "texto": "イ→ウ→ア"
+        },
+        {
+          "id": "c",
+          "texto": "ウ→ア→イ"
+        },
+        {
+          "id": "d",
+          "texto": "ウ→イ→ア"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0009",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/09.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "2300円"
+        },
+        {
+          "id": "b",
+          "texto": "2500円"
+        },
+        {
+          "id": "c",
+          "texto": "2700円"
+        },
+        {
+          "id": "d",
+          "texto": "2900円"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0010",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/10.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "カウンター席に座る"
+        },
+        {
+          "id": "b",
+          "texto": "テーブル席に座る"
+        },
+        {
+          "id": "c",
+          "texto": "テーブル席に移動する"
+        },
+        {
+          "id": "d",
+          "texto": "カウンター席に移動する"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0011",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/11.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "「担当者は検討中」と書き加える"
+        },
+        {
+          "id": "b",
+          "texto": "「候補者は検討中」と書き加える"
+        },
+        {
+          "id": "c",
+          "texto": "候補者の名前を消す"
+        },
+        {
+          "id": "d",
+          "texto": "担当者の名前を消す"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0012",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/12.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/12.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア"
+        },
+        {
+          "id": "b",
+          "texto": "イ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ"
+        },
+        {
+          "id": "d",
+          "texto": "エ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0013",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/13.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "学校のパソコンから、先生にファイルを送る"
+        },
+        {
+          "id": "b",
+          "texto": "学校のパソコンから、大学院にファイルを送る"
+        },
+        {
+          "id": "c",
+          "texto": "大学院に研究計画書を出す"
+        },
+        {
+          "id": "d",
+          "texto": "先生に研究計画書の相談をする"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0014",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/14.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "担当者の携帯電話に連絡する"
+        },
+        {
+          "id": "b",
+          "texto": "はやぶさ運輸のセンターに電話する"
+        },
+        {
+          "id": "c",
+          "texto": "自動受付の番号に電話する"
+        },
+        {
+          "id": "d",
+          "texto": "インターネットで申し込む"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0015",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/15.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "会議の資料を修正する"
+        },
+        {
+          "id": "b",
+          "texto": "男の人に資料を見せる"
+        },
+        {
+          "id": "c",
+          "texto": "会議に出席する人にメールを送る"
+        },
+        {
+          "id": "d",
+          "texto": "ほかの会議室が空いてないか、確認する"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0016",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/16.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/16.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア"
+        },
+        {
+          "id": "b",
+          "texto": "イ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ"
+        },
+        {
+          "id": "d",
+          "texto": "エ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0017",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/17.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/17.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア"
+        },
+        {
+          "id": "b",
+          "texto": "イ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ"
+        },
+        {
+          "id": "d",
+          "texto": "エ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0018",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/18.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/18.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア、ウ、オ、カ"
+        },
+        {
+          "id": "b",
+          "texto": "イ、ウ、エ、カ"
+        },
+        {
+          "id": "c",
+          "texto": "ア、ウ、エ"
+        },
+        {
+          "id": "d",
+          "texto": "イ、オ、カ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0019",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/19.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/19.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア、エ"
+        },
+        {
+          "id": "b",
+          "texto": "イ、オ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ、オ"
+        },
+        {
+          "id": "d",
+          "texto": "ア、イ、エ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0020",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/20.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/20.png",
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア"
+        },
+        {
+          "id": "b",
+          "texto": "イ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ"
+        },
+        {
+          "id": "d",
+          "texto": "エ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
   }
 ]
