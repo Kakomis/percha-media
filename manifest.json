@@ -3888,5 +3888,38 @@
         "lecturaFurigana": "グダグダいってるひまがあったら、さっさとやったら～？"
       }
     ]
+  },
+  {
+    "id": "aud_0001",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/01.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "新宿にいく"
+        },
+        {
+          "id": "b",
+          "texto": "ガイドブックを探す"
+        },
+        {
+          "id": "c",
+          "texto": "高尾山に登る"
+        },
+        {
+          "id": "d",
+          "texto": "ハイキングに行く"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
   }
 ]
