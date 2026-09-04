@@ -5672,138 +5672,6 @@
     }
   },
   {
-    "id": "aud_0055",
-    "categoria": "gaiyou_rikai",
-    "fuente": {},
-    "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/55.mp3",
-      "imagen_url": null,
-      "contexto": null,
-      "enfoque": null,
-      "pregunta": "",
-      "opciones_visibles_antes_audio": false,
-      "opciones": [
-        {
-          "id": "a",
-          "texto": ""
-        },
-        {
-          "id": "b",
-          "texto": ""
-        },
-        {
-          "id": "c",
-          "texto": ""
-        },
-        {
-          "id": "d",
-          "texto": ""
-        }
-      ],
-      "respuesta_correcta": "b",
-      "tabla_apoyo": null
-    }
-  },
-  {
-    "id": "aud_0056",
-    "categoria": "gaiyou_rikai",
-    "fuente": {},
-    "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/56.mp3",
-      "imagen_url": null,
-      "contexto": null,
-      "enfoque": null,
-      "pregunta": "",
-      "opciones_visibles_antes_audio": false,
-      "opciones": [
-        {
-          "id": "a",
-          "texto": ""
-        },
-        {
-          "id": "b",
-          "texto": ""
-        },
-        {
-          "id": "c",
-          "texto": ""
-        },
-        {
-          "id": "d",
-          "texto": ""
-        }
-      ],
-      "respuesta_correcta": "b",
-      "tabla_apoyo": null
-    }
-  },
-  {
-    "id": "aud_0057",
-    "categoria": "gaiyou_rikai",
-    "fuente": {},
-    "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/57.mp3",
-      "imagen_url": null,
-      "contexto": null,
-      "enfoque": null,
-      "pregunta": "",
-      "opciones_visibles_antes_audio": false,
-      "opciones": [
-        {
-          "id": "a",
-          "texto": ""
-        },
-        {
-          "id": "b",
-          "texto": ""
-        },
-        {
-          "id": "c",
-          "texto": ""
-        },
-        {
-          "id": "d",
-          "texto": ""
-        }
-      ],
-      "respuesta_correcta": "a",
-      "tabla_apoyo": null
-    }
-  },
-  {
-    "id": "aud_0058",
-    "categoria": "gaiyou_rikai",
-    "fuente": {},
-    "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/58.mp3",
-      "imagen_url": null,
-      "contexto": null,
-      "enfoque": null,
-      "pregunta": "",
-      "opciones_visibles_antes_audio": false,
-      "opciones": [
-        {
-          "id": "a",
-          "texto": ""
-        },
-        {
-          "id": "b",
-          "texto": ""
-        },
-        {
-          "id": "c",
-          "texto": ""
-        },
-        {
-          "id": "d",
-          "texto": ""
-        }
-      ],
-      "respuesta_correcta": "a",
-      "tabla_apoyo": null
-    }
-  },
-  {
     "id": "aud_0059",
     "categoria": "sokuji_outou",
     "fuente": {},
@@ -6380,6 +6248,180 @@
         }
       ],
       "respuesta_correcta": "c",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0079",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/79.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0080",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/80.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "a",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0081",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/81.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "c",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0082",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/82.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "a",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0083",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/83.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "a",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0084",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/audio/84.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
       "tabla_apoyo": null
     }
   }
