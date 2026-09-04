@@ -6424,5 +6424,335 @@
       "respuesta_correcta": "b",
       "tabla_apoyo": null
     }
+  },
+  {
+    "id": "aud_0085",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/85.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "c",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0086",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/86.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0087",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/87.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "c",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0088",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/88.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0089",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/89.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "a",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0090",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/90.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "a",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0091",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/91.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0092",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/92.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0093",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/93.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0094",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/94.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
   }
 ]
