@@ -4548,5 +4548,599 @@
       "respuesta_correcta": "d",
       "tabla_apoyo": null
     }
+  },
+  {
+    "id": "aud_0021",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/21.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "大学に近いから"
+        },
+        {
+          "id": "b",
+          "texto": "家賃が安いから"
+        },
+        {
+          "id": "c",
+          "texto": "駅に近いから"
+        },
+        {
+          "id": "d",
+          "texto": "静かだから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0022",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/22.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "これからすぐ"
+        },
+        {
+          "id": "b",
+          "texto": "今日の夜"
+        },
+        {
+          "id": "c",
+          "texto": "今月の15日"
+        },
+        {
+          "id": "d",
+          "texto": "次の休みの日"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0023",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/23.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "明日"
+        },
+        {
+          "id": "b",
+          "texto": "今週の水曜日"
+        },
+        {
+          "id": "c",
+          "texto": "来週の月曜日"
+        },
+        {
+          "id": "d",
+          "texto": "来週の水曜日"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0024",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/24.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "学生課"
+        },
+        {
+          "id": "b",
+          "texto": "図書館"
+        },
+        {
+          "id": "c",
+          "texto": "アルバイト先"
+        },
+        {
+          "id": "d",
+          "texto": "パン屋"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0025",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/25.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "空港に行く"
+        },
+        {
+          "id": "b",
+          "texto": "勉強会に行く"
+        },
+        {
+          "id": "c",
+          "texto": "昼食をとる"
+        },
+        {
+          "id": "d",
+          "texto": "メールを送る"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0026",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/26.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "Aランチ"
+        },
+        {
+          "id": "b",
+          "texto": "Bランチ"
+        },
+        {
+          "id": "c",
+          "texto": "Cランチ"
+        },
+        {
+          "id": "d",
+          "texto": "BランチとCランチ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0027",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/27.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "洋服のほうが似合うから"
+        },
+        {
+          "id": "b",
+          "texto": "洋服のほうが動きやすいから"
+        },
+        {
+          "id": "c",
+          "texto": "着物のほうが着るのが大変だぁら"
+        },
+        {
+          "id": "d",
+          "texto": "着物を着るのに慣れていないから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0028",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/28.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "山歩き"
+        },
+        {
+          "id": "b",
+          "texto": "ビジネスの勉強会"
+        },
+        {
+          "id": "c",
+          "texto": "紅葉を見に行く会"
+        },
+        {
+          "id": "d",
+          "texto": "旅行"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0029",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/29.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "授業に遅刻しそうになったから"
+        },
+        {
+          "id": "b",
+          "texto": "荷物の整理に使うから"
+        },
+        {
+          "id": "c",
+          "texto": "服をたくさん買ったから"
+        },
+        {
+          "id": "d",
+          "texto": "あとで買い物をするから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0030",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/30.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ゴルフ場"
+        },
+        {
+          "id": "b",
+          "texto": "スポーツ用品店"
+        },
+        {
+          "id": "c",
+          "texto": "ゲームコーナー"
+        },
+        {
+          "id": "d",
+          "texto": "回転ずしの店"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0031",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/31.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "大学で勉強した"
+        },
+        {
+          "id": "b",
+          "texto": "店長に教わった"
+        },
+        {
+          "id": "c",
+          "texto": "資料を見て、練習した"
+        },
+        {
+          "id": "d",
+          "texto": "仕事の中で自然に覚えた"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0032",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/32.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "子供っぽく見えるから"
+        },
+        {
+          "id": "b",
+          "texto": "スカートが地味でいやだったから"
+        },
+        {
+          "id": "c",
+          "texto": "リボンが派手でいやだったから"
+        },
+        {
+          "id": "d",
+          "texto": "スカートよりパンツをはきたかったから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0033",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/33.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "会員証"
+        },
+        {
+          "id": "b",
+          "texto": "保険証"
+        },
+        {
+          "id": "c",
+          "texto": "免許証"
+        },
+        {
+          "id": "d",
+          "texto": "身分証明書"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0034",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/34.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "バッグを5万8千円で"
+        },
+        {
+          "id": "b",
+          "texto": "バッグとポーチを３万５千円で"
+        },
+        {
+          "id": "c",
+          "texto": "二つのバッグを5万8千円で"
+        },
+        {
+          "id": "d",
+          "texto": "二つのバッグを３万５千円で"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0035",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/35.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "あまり楽しいと思えないから"
+        },
+        {
+          "id": "b",
+          "texto": "練習がつらいから"
+        },
+        {
+          "id": "c",
+          "texto": "上下関係が厳しいから"
+        },
+        {
+          "id": "d",
+          "texto": "周りの人がすぐけんかをするから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0036",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/36.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ほとんど焼けた"
+        },
+        {
+          "id": "b",
+          "texto": "倉庫が焼けた"
+        },
+        {
+          "id": "c",
+          "texto": "窓が焼けた"
+        },
+        {
+          "id": "d",
+          "texto": "全然焼けなかった"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0037",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/37.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "小さい会社も対象に入れること"
+        },
+        {
+          "id": "b",
+          "texto": "試験を受ける企業について、よく調べること"
+        },
+        {
+          "id": "c",
+          "texto": "あきらめないで、自分の行きたいところにこだわること"
+        },
+        {
+          "id": "d",
+          "texto": "自分が本当にやりたいことを確かめること"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0038",
+    "categoria": "pointo_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/speed/38.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ポイントを貯める"
+        },
+        {
+          "id": "b",
+          "texto": "新しい携帯にかえる"
+        },
+        {
+          "id": "c",
+          "texto": "ポイントを使って修理する"
+        },
+        {
+          "id": "d",
+          "texto": "「あんしんコース」で修理する"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
   }
 ]
