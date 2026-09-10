@@ -6807,5 +6807,126 @@
         }
       ]
     }
+  },
+  {
+    "id": "aud_0096",
+    "categoria": "entrenamiento_seleccion_sin_texto",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/11+Pista+11.mp3",
+      "imagen_url": null,
+      "titulo_seccion": "音の変化や縮約形　2",
+      "contexto": null,
+      "items": [
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": null,
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        }
+      ]
+    }
   }
 ]
