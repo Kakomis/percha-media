@@ -6754,5 +6754,57 @@
       "respuesta_correcta": "d",
       "tabla_apoyo": null
     }
+  },
+  {
+    "id": "aud_0095",
+    "categoria": "entrenamiento_respuesta_libre",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/10+Pista+10.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "items": [
+        {
+          "pregunta": "大変。この書類___________________________。\n",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "___________________________？",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "さっき、課長に___________________________。",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "さっきの話、___________________________。",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "これ、さっきと___________________________。",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "チケット、___________________________？",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "これ、___________________________？",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "この荷物、ここに___________________________。",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "これ、できるだけ早く___________________________。",
+          "respuesta_correcta": ""
+        },
+        {
+          "pregunta": "今から会社に___________________________。",
+          "respuesta_correcta": ""
+        }
+      ]
+    }
   }
 ]
