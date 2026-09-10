@@ -6819,7 +6819,7 @@
       "contexto": null,
       "items": [
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
@@ -6837,7 +6837,7 @@
           "respuesta_correcta": "c"
         },
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
@@ -6855,7 +6855,7 @@
           "respuesta_correcta": "b"
         },
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
@@ -6873,7 +6873,7 @@
           "respuesta_correcta": "a"
         },
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
@@ -6891,7 +6891,7 @@
           "respuesta_correcta": "c"
         },
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
@@ -6909,7 +6909,7 @@
           "respuesta_correcta": "a"
         },
         {
-          "pregunta": null,
+          "pregunta": "",
           "opciones": [
             {
               "id": "a",
