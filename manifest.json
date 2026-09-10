@@ -7494,5 +7494,150 @@
       "respuesta_correcta": "c",
       "tabla_apoyo": null
     }
+  },
+  {
+    "id": "aud_0103",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4.mp3",
+      "imagen_url": null,
+      "titulo_seccion": null,
+      "contexto": "まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+      "enfoque": null,
+      "opciones_visibles_antes_audio": false,
+      "items": [
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        }
+      ],
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0104",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/05+Pista+5.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0105",
+    "categoria": "tougou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/06+Pista+6.mp3",
+      "imagen_url": null,
+      "titulo_seccion": null,
+      "contexto": null,
+      "enfoque": null,
+      "opciones_visibles_antes_audio": false,
+      "items": [
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            },
+            {
+              "id": "d",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            },
+            {
+              "id": "d",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        }
+      ],
+      "tabla_apoyo": null
+    }
   }
 ]
