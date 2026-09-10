@@ -6928,5 +6928,472 @@
         }
       ]
     }
+  },
+  {
+    "id": "aud_0097",
+    "categoria": "entrenamiento_seleccion_sin_texto",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/07+Pista+7.mp3",
+      "imagen_url": null,
+      "titulo_seccion": "音声の特徴に慣れる　1",
+      "contexto": null,
+      "items": [
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aud_0098",
+    "categoria": "entrenamiento_seleccion_sin_texto",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/09+Pista+9.mp3",
+      "imagen_url": null,
+      "titulo_seccion": "音声の特徴に慣れる　3",
+      "contexto": null,
+      "items": [
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "pregunta": "",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": ""
+            },
+            {
+              "id": "b",
+              "texto": ""
+            },
+            {
+              "id": "c",
+              "texto": ""
+            }
+          ],
+          "respuesta_correcta": "c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aud_0099",
+    "categoria": "entrenamiento_seleccion_con_texto",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/08+Pista+8.mp3",
+      "imagen_url": null,
+      "titulo_seccion": "音声の特徴に慣れる　2",
+      "contexto": null,
+      "items": [
+        {
+          "pregunta": "＿＿＿＿＿＿＿＿＿＿の話です。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "せんしゅ"
+            },
+            {
+              "id": "b",
+              "texto": "せんしゅう"
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "＿＿＿＿＿＿＿＿＿＿なんだから、黙って。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "しけん"
+            },
+            {
+              "id": "b",
+              "texto": "しんけん"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "＿＿＿＿＿＿＿＿＿＿んですか。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "わかいっていった"
+            },
+            {
+              "id": "b",
+              "texto": "わかっていた"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "＿＿＿＿＿＿＿＿＿＿なりました。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "3人に"
+            },
+            {
+              "id": "b",
+              "texto": "3いに"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "ちょっと＿＿＿＿＿＿＿＿＿＿ください。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "だして"
+            },
+            {
+              "id": "b",
+              "texto": "たして"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "実はすごく＿＿＿＿＿＿＿＿＿＿んです。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "いいたかった"
+            },
+            {
+              "id": "b",
+              "texto": "いたかった"
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "あれ、＿＿＿＿＿＿＿＿＿＿。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "きょうかな"
+            },
+            {
+              "id": "b",
+              "texto": "きようかな"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "天気は＿＿＿＿＿＿＿＿＿＿そうです。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "よくない"
+            },
+            {
+              "id": "b",
+              "texto": "よくなり"
+            }
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "pregunta": "これ、＿＿＿＿＿＿＿＿＿＿おくりましょう。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "きょうじゅに"
+            },
+            {
+              "id": "b",
+              "texto": "きょうじゅうに"
+            }
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "pregunta": "お客さんが＿＿＿＿＿＿＿＿＿＿来ました。",
+          "opciones": [
+            {
+              "id": "a",
+              "texto": "急に"
+            },
+            {
+              "id": "b",
+              "texto": "9人"
+            }
+          ],
+          "respuesta_correcta": "a"
+        }
+      ]
+    }
   }
 ]
