@@ -6762,7 +6762,10 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/10+Pista+10.mp3",
       "imagen_url": null,
-      "titulo_seccion": "音の変化や縮約形　1",
+      "titulo_seccion": "練習２ー１",
+      "unidad_numero": 2,
+      "unidad_titulo": "音の変化や縮約形",
+      "tipo_ejercicio": "practica",
       "contexto": null,
       "items": [
         {
@@ -6815,7 +6818,10 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/11+Pista+11.mp3",
       "imagen_url": null,
-      "titulo_seccion": "音の変化や縮約形　2",
+      "titulo_seccion": "練習２ー２",
+      "unidad_numero": 2,
+      "unidad_titulo": "音の変化や縮約形",
+      "tipo_ejercicio": "practica",
       "contexto": null,
       "items": [
         {
@@ -6936,7 +6942,10 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/07+Pista+7.mp3",
       "imagen_url": null,
-      "titulo_seccion": "音声の特徴に慣れる　1",
+      "titulo_seccion": "練習１－１",
+      "unidad_numero": 1,
+      "unidad_titulo": "音声の特徴に慣れる",
+      "tipo_ejercicio": "practica",
       "contexto": null,
       "items": [
         {
@@ -7129,7 +7138,10 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/09+Pista+9.mp3",
       "imagen_url": null,
-      "titulo_seccion": "音声の特徴に慣れる　3",
+      "titulo_seccion": "練習１－３",
+      "unidad_numero": 1,
+      "unidad_titulo": "音声の特徴に慣れる",
+      "tipo_ejercicio": "practica",
       "contexto": null,
       "items": [
         {
@@ -7250,7 +7262,10 @@
     "contenido": {
       "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/08+Pista+8.mp3",
       "imagen_url": null,
-      "titulo_seccion": "音声の特徴に慣れる　2",
+      "titulo_seccion": "練習１－２",
+      "unidad_numero": 1,
+      "unidad_titulo": "音声の特徴に慣れる",
+      "tipo_ejercicio": "practica",
       "contexto": null,
       "items": [
         {
