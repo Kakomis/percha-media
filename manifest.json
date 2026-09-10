@@ -7395,5 +7395,104 @@
         }
       ]
     }
+  },
+  {
+    "id": "aud_0100",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/01+Pista+1.mp3",
+      "imagen_url": "https://hablar.s3.us-east-1.amazonaws.com/master/1.png",
+      "contexto": "この問題では、まず質問を聞いてください、それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つ選んでください。",
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "ア　イ　ウ"
+        },
+        {
+          "id": "b",
+          "texto": "ア　ウ　オ"
+        },
+        {
+          "id": "c",
+          "texto": "ウ　オ"
+        },
+        {
+          "id": "d",
+          "texto": "ア　ウ"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0101",
+    "categoria": "kadai_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/02+Pista+2.mp3",
+      "imagen_url": null,
+      "contexto": "この問題では、まず質問を聞いてください。そのあと、問題用紙の選択肢を読んでください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを選んでください。",
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": true,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": "家の用事でいそがしいから"
+        },
+        {
+          "id": "b",
+          "texto": "子供の具合が悪いから"
+        },
+        {
+          "id": "c",
+          "texto": "体調が悪いから"
+        },
+        {
+          "id": "d",
+          "texto": "健康診断を受けるから"
+        }
+      ],
+      "respuesta_correcta": "d",
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0102",
+    "categoria": "gaiyou_rikai",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/03+Pista+3.mp3",
+      "imagen_url": null,
+      "contexto": "この問題は、全体としてどんな内容かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問と選択肢を聞いて、1から4の中から、最もよいものを一つ選んでください。",
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        },
+        {
+          "id": "d",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "c",
+      "tabla_apoyo": null
+    }
   }
 ]
