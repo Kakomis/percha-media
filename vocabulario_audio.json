@@ -838,5 +838,365 @@
       "oracion_traduccion": "Los domingos es imposible encontrar dónde estacionarse en el centro de la ciudad.",
       "significadoPalabra": "estacionamiento"
     }
+  },
+  {
+    "id": "vaud_0071",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/71.mp3",
+      "palabraJP": "違反",
+      "lectura": "いはん",
+      "oracion": "規則に違反する。",
+      "oracion_traduccion": "Incumplir las reglas.",
+      "significadoPalabra": "infringir / incumplir / violar una regla o norma"
+    }
+  },
+  {
+    "id": "vaud_0072",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/72.mp3",
+      "palabraJP": "平日",
+      "lectura": "へいじつ",
+      "oracion": "あの店は、平日は9時まで営業している。",
+      "oracion_traduccion": "Esa tienda abre hasta las 9 entre semana.",
+      "significadoPalabra": "días laborables, de lunes a viernes."
+    }
+  },
+  {
+    "id": "vaud_0073",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/73.mp3",
+      "palabraJP": "日付",
+      "lectura": "ひづけ",
+      "oracion": "日付を書く。",
+      "oracion_traduccion": "Escribir la fecha.",
+      "significadoPalabra": "fecha"
+    }
+  },
+  {
+    "id": "vaud_0074",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/74.mp3",
+      "palabraJP": "日中",
+      "lectura": "にっちゅう",
+      "oracion": "朝晩は冷え込むが、日中は穏やかな天気が続いている。",
+      "oracion_traduccion": "Hace bastante frío por la mañana y por la noche, pero durante el día el clima sigue siendo agradable.",
+      "significadoPalabra": "durante el día."
+    }
+  },
+  {
+    "id": "vaud_0075",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/75.mp3",
+      "palabraJP": "日程",
+      "lectura": "にってい",
+      "oracion": "急な用事で、旅行の日程を変えた。",
+      "oracion_traduccion": "Tuve que cambiar el itinerario del viaje debido a un asunto imprevisto.",
+      "significadoPalabra": "itinerario / calendario previsto."
+    }
+  },
+  {
+    "id": "vaud_0076",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/76.mp3",
+      "palabraJP": "日帰り",
+      "lectura": "ひがえり",
+      "oracion": "日光は東京から日帰りで行けます。",
+      "oracion_traduccion": "Se puede ir a Nikko desde Tokio y regresar el mismo día.",
+      "significadoPalabra": "excursión o viaje de ida y vuelta en el mismo día."
+    }
+  },
+  {
+    "id": "vaud_0077",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/77.mp3",
+      "palabraJP": "順序",
+      "lectura": "じゅんじょ",
+      "oracion": "子どもたちが教室に順序よく並んで入っていく。",
+      "oracion_traduccion": "Los niños entran al salón haciendo fila ordenadamente.",
+      "significadoPalabra": "en orden"
+    }
+  },
+  {
+    "id": "vaud_0078",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/78.mp3",
+      "palabraJP": "時期",
+      "lectura": "じき",
+      "oracion": "三月から四月は、うちの会社にとって忙しい時期だ。",
+      "oracion_traduccion": "De marzo a abril es una época muy ocupada para nuestra empresa.",
+      "significadoPalabra": "época de mucho trabajo"
+    }
+  },
+  {
+    "id": "vaud_0079",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/79.mp3",
+      "palabraJP": "現在",
+      "lectura": "げんざい",
+      "oracion": "駅前は昔は畑だったが、現在は大きなショッピングセンターになっている。",
+      "oracion_traduccion": "La zona frente a la estación antes era un campo de cultivo, pero ahora se ha convertido en un gran centro comercial.",
+      "significadoPalabra": "ahora, actualidad"
+    }
+  },
+  {
+    "id": "vaud_0080",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/80.mp3",
+      "palabraJP": "臨時",
+      "lectura": "りんじ",
+      "oracion": "急病人が出たため、列車は臨時にこの駅に停車した。",
+      "oracion_traduccion": "Como un pasajero se enfermó repentinamente, el tren hizo una parada extraordinaria en esta estación.",
+      "significadoPalabra": "temporalmente, provisional"
+    }
+  },
+  {
+    "id": "vaud_0081",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/81.mp3",
+      "palabraJP": "費用",
+      "lectura": "ひよう",
+      "oracion": "旅行の費用をためる。",
+      "oracion_traduccion": "Ahorrar dinero para un viaje.",
+      "significadoPalabra": "gastos, costo."
+    }
+  },
+  {
+    "id": "vaud_0082",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/82.mp3",
+      "palabraJP": "定価",
+      "lectura": "ていか",
+      "oracion": "本はどこでも定価で売られている。",
+      "oracion_traduccion": "Los libros se venden al precio de lista en todas partes.",
+      "significadoPalabra": "precio establecido (oficial), precio de lista."
+    }
+  },
+  {
+    "id": "vaud_0083",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/83.mp3",
+      "palabraJP": "割引",
+      "lectura": "わりびき",
+      "oracion": "まとめて買うから、少し割引してください。",
+      "oracion_traduccion": "Como voy a comprar todo junto, ¿podría hacerme un pequeño descuento?",
+      "significadoPalabra": "hacer un descuento."
+    }
+  },
+  {
+    "id": "vaud_0084",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/84.mp3",
+      "palabraJP": "おまけ",
+      "lectura": "おまけ",
+      "oracion": "四個550円のりんごを、おまけしてもらって500円で買った。",
+      "oracion_traduccion": "Las cuatro manzanas costaban 550 yenes, pero me hicieron una rebaja y las compré por 500.",
+      "significadoPalabra": "conseguir que te hagan una rebaja / que te den algo extra."
+    }
+  },
+  {
+    "id": "vaud_0085",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/85.mp3",
+      "palabraJP": "無料",
+      "lectura": "むりょう",
+      "oracion": "ただ今、無料で試供品をさしあげております。",
+      "oracion_traduccion": "En este momento estamos ofreciendo muestras gratuitas.",
+      "significadoPalabra": "gratuito"
+    }
+  },
+  {
+    "id": "vaud_0086",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/86.mp3",
+      "palabraJP": "現金",
+      "lectura": "げんきん",
+      "oracion": "彼は新車を買って、なんと現金で支払ったそうだ。",
+      "oracion_traduccion": "Dicen que compró un auto nuevo y, nada menos, que lo pagó en efectivo.",
+      "significadoPalabra": "pagar en efectivo."
+    }
+  },
+  {
+    "id": "vaud_0087",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/87.mp3",
+      "palabraJP": "合計",
+      "lectura": "ごうけい",
+      "oracion": "東京23区の面積を合計すると、2187km²になる。",
+      "oracion_traduccion": "Si sumamos la superficie de los 23 distritos de Tokio, da un total de 2,187 km².",
+      "significadoPalabra": "suma total, sumar"
+    }
+  },
+  {
+    "id": "vaud_0088",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/88.mp3",
+      "palabraJP": "収入",
+      "lectura": "しゅうにゅう",
+      "oracion": "彼は喫茶店を経営して収入を得ている。",
+      "oracion_traduccion": "Tiene una cafetería y obtiene sus ingresos de ella.",
+      "significadoPalabra": "ingresos"
+    }
+  },
+  {
+    "id": "vaud_0089",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/89.mp3",
+      "palabraJP": "支出",
+      "lectura": "ししゅつ",
+      "oracion": "今年は支出が収入を上回って赤字になった。",
+      "oracion_traduccion": "Este año los gastos superaron los ingresos, por lo que hubo déficit.",
+      "significadoPalabra": "gastos, egresos."
+    }
+  },
+  {
+    "id": "vaud_0090",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/90.mp3",
+      "palabraJP": "予算",
+      "lectura": "よさん",
+      "oracion": "来年度の予算を立てる。",
+      "oracion_traduccion": "Elaborar el presupuesto para el próximo año fiscal.",
+      "significadoPalabra": "presupuesto"
+    }
+  },
+  {
+    "id": "vaud_0091",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/91.mp3",
+      "palabraJP": "利益",
+      "lectura": "りえき",
+      "oracion": "企業が利益を追求するのは当然だ。",
+      "oracion_traduccion": "Es natural que las empresas busquen obtener ganancias.",
+      "significadoPalabra": "ganancias, beneficios."
+    }
+  },
+  {
+    "id": "vaud_0092",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/92.mp3",
+      "palabraJP": "赤字",
+      "lectura": "あかじ",
+      "oracion": "今月は支出が多く、家計は赤字だった。",
+      "oracion_traduccion": "Este mes los gastos fueron elevados y las finanzas del hogar estuvieron en números rojos.",
+      "significadoPalabra": "déficit, gastar más de lo que se ingresa"
+    }
+  },
+  {
+    "id": "vaud_0093",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/93.mp3",
+      "palabraJP": "経費",
+      "lectura": "けいひ",
+      "oracion": "宣伝に経費をかけたので、売り上げが伸びた。",
+      "oracion_traduccion": "Como invertimos dinero en publicidad, aumentaron las ventas.",
+      "significadoPalabra": "gastar/invertir dinero en algo"
+    }
+  },
+  {
+    "id": "vaud_0094",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/94.mp3",
+      "palabraJP": "勘定",
+      "lectura": "かんじょう",
+      "oracion": "金を勘定する。",
+      "oracion_traduccion": "Contar el dinero",
+      "significadoPalabra": "contar/calcular, especialmente dinero o cuentas."
+    }
+  },
+  {
+    "id": "vaud_0095",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/95.mp3",
+      "palabraJP": "弁償",
+      "lectura": "べんしょう",
+      "oracion": "隣の家の窓ガラスを割ってしまったので、修理代を弁償した。",
+      "oracion_traduccion": "Como rompí accidentalmente el vidrio de la ventana de la casa de al lado, pagué los gastos de reparación.",
+      "significadoPalabra": "indemnizar / pagar por algo que dañaste."
+    }
+  },
+  {
+    "id": "vaud_0096",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/96.mp3",
+      "palabraJP": "請求",
+      "lectura": "せいきゅう",
+      "oracion": "大学に資料を請求する。",
+      "oracion_traduccion": "Solicitar material informativo a la universidad.",
+      "significadoPalabra": "solicitar formalmente algo."
+    }
+  },
+  {
+    "id": "vaud_0097",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/97.mp3",
+      "palabraJP": "景気",
+      "lectura": "けいき",
+      "oracion": "景気が悪くなると、倒産する会社が増える。",
+      "oracion_traduccion": "Cuando la economía empeora, aumenta el número de empresas que quiebran.",
+      "significadoPalabra": "negocios, situación económica"
+    }
+  },
+  {
+    "id": "vaud_0098",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/98.mp3",
+      "palabraJP": "募金",
+      "lectura": "ぼきん",
+      "oracion": "地震の被災者のために募金した。",
+      "oracion_traduccion": "Hice una donación para las víctimas del terremoto.",
+      "significadoPalabra": "donar dinero / hacer una colecta."
+    }
+  },
+  {
+    "id": "vaud_0099",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/99.mp3",
+      "palabraJP": "募集",
+      "lectura": "ぼしゅう",
+      "oracion": "アルバイトを募集していたので、応募した。",
+      "oracion_traduccion": "Como estaban buscando trabajadores para un empleo de medio tiempo, solicité el puesto.",
+      "significadoPalabra": "buscar/reclutar personas."
+    }
+  },
+  {
+    "id": "vaud_0100",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/100.mp3",
+      "palabraJP": "価値",
+      "lectura": "かち",
+      "oracion": "情報は新しいほど価値が高い。",
+      "oracion_traduccion": "Cuanto más reciente es la información, mayor es su valor.",
+      "significadoPalabra": "tener un valor alto / ser más valioso."
+    }
   }
 ]
