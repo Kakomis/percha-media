@@ -34,5 +34,209 @@
       "oracion_traduccion": "Recibí una llamada de alguien llamado Sato.",
       "significadoPalabra": "persona, ser humano"
     }
+  },
+  {
+    "id": "vaud_0004",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/4.mp3",
+      "palabraJP": "祖先",
+      "lectura": "そせん",
+      "oracion": "人類の祖先は、アフリカで発生したと考えられている。",
+      "oracion_traduccion": "Se considera que los antepasados de la humanidad surgieron en África.",
+      "significadoPalabra": "antepasados"
+    }
+  },
+  {
+    "id": "vaud_0005",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/5.mp3",
+      "palabraJP": "親戚",
+      "lectura": "しんせき",
+      "oracion": "うちの親戚はみな近くに住んでいる。",
+      "oracion_traduccion": "Todos mis parientes viven cerca.",
+      "significadoPalabra": "parientes"
+    }
+  },
+  {
+    "id": "vaud_0006",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/6.mp3",
+      "palabraJP": "夫婦",
+      "lectura": "ふうふ",
+      "oracion": "小林さん夫婦はいつも仲がいい。",
+      "oracion_traduccion": "El matrimonio de los Kobayashi siempre se lleva muy bien.",
+      "significadoPalabra": "marido y mujer / pareja casada"
+    }
+  },
+  {
+    "id": "vaud_0007",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/7.mp3",
+      "palabraJP": "長男",
+      "lectura": "ちょうなん",
+      "oracion": "日本では、長男は大事にされる傾向があった。",
+      "oracion_traduccion": "En Japón, tradicionalmente se tendía a dar un trato especial al hijo mayor.",
+      "significadoPalabra": "hijo mayor"
+    }
+  },
+  {
+    "id": "vaud_0008",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/8.mp3",
+      "palabraJP": "主人",
+      "lectura": "しゅじん",
+      "oracion": "あのそば屋の主人はまだ若いが、腕はいい。",
+      "oracion_traduccion": "El dueño de ese restaurante de soba todavía es joven, pero es muy bueno en lo que hace.",
+      "significadoPalabra": "dueño"
+    }
+  },
+  {
+    "id": "vaud_0009",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/9.mp3",
+      "palabraJP": "双子",
+      "lectura": "ふたご",
+      "oracion": "私には双子の弟がいます。",
+      "oracion_traduccion": "Tengo un hermano gemelo menor.",
+      "significadoPalabra": "gemelos"
+    }
+  },
+  {
+    "id": "vaud_0010",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/10.mp3",
+      "palabraJP": "迷子",
+      "lectura": "まいご",
+      "oracion": "迷子のお知らせをいたします。",
+      "oracion_traduccion": "Se solicita su atención: se ha perdido un niño.",
+      "significadoPalabra": "niño perdido"
+    }
+  },
+  {
+    "id": "vaud_0011",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/11.mp3",
+      "palabraJP": "他人",
+      "lectura": "たにん",
+      "oracion": "友だちだと思って声をかけたら、まったくの他人だった。",
+      "oracion_traduccion": "Pensé que era un amigo y le hablé, pero resultó ser un completo desconocido.",
+      "significadoPalabra": "otra persona, otros"
+    }
+  },
+  {
+    "id": "vaud_0012",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/12.mp3",
+      "palabraJP": "敵",
+      "lectura": "てき",
+      "oracion": "兄弟は敵と味方に分かれて戦った。",
+      "oracion_traduccion": "Los hermanos se dividieron entre los dos bandos y lucharon entre sí.",
+      "significadoPalabra": "enemigo"
+    }
+  },
+  {
+    "id": "vaud_0013",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/13.mp3",
+      "palabraJP": "味方",
+      "lectura": "みかた",
+      "oracion": "何があっても、私はあなたの味方です。",
+      "oracion_traduccion": "Pase lo que pase, estoy de tu lado.",
+      "significadoPalabra": "lado, apoyo, amigo"
+    }
+  },
+  {
+    "id": "vaud_0014",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/14.mp3",
+      "palabraJP": "筆者",
+      "lectura": "ひっしゃ",
+      "oracion": "筆者の最も言いたいことを下から選びなさい。",
+      "oracion_traduccion": "Elige de las opciones de abajo lo que el autor quiere expresar principalmente.",
+      "significadoPalabra": "autor, escritor"
+    }
+  },
+  {
+    "id": "vaud_0015",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/15.mp3",
+      "palabraJP": "寿命",
+      "lectura": "じゅみょう",
+      "oracion": "医学の進歩によって、人間の寿命は100年前に比べるとずいぶん伸びた。",
+      "oracion_traduccion": "Gracias a los avances de la medicina, la esperanza de vida humana ha aumentado considerablemente en comparación con la de hace 100 años.",
+      "significadoPalabra": "esperanza de vida, longevidad"
+    }
+  },
+  {
+    "id": "vaud_0016",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/16.mp3",
+      "palabraJP": "将来",
+      "lectura": "しょうらい",
+      "oracion": "将来の希望は海外で働くことだ。",
+      "oracion_traduccion": "Mi deseo para el futuro es trabajar en el extranjero.",
+      "significadoPalabra": "futuro"
+    }
+  },
+  {
+    "id": "vaud_0017",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/17.mp3",
+      "palabraJP": "才能",
+      "lectura": "さいのう",
+      "oracion": "彼女には、音楽の才能がある。",
+      "oracion_traduccion": "Ella tiene talento para la música.",
+      "significadoPalabra": "talento, aptitud natural"
+    }
+  },
+  {
+    "id": "vaud_0018",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/18.mp3",
+      "palabraJP": "能力",
+      "lectura": "のうりょく",
+      "oracion": "私にはこの問題を解決する能力はない。",
+      "oracion_traduccion": "No tengo la capacidad para resolver este problema.",
+      "significadoPalabra": "capacidad, habilidad para hacer algo."
+    }
+  },
+  {
+    "id": "vaud_0019",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/19.mp3",
+      "palabraJP": "長所",
+      "lectura": "ちょうしょ",
+      "oracion": "あなたの性格の長所と短所をを言ってください。",
+      "oracion_traduccion": "Dime cuáles son tus puntos fuertes y tus puntos débiles de personalidad.",
+      "significadoPalabra": "punto fuerte, virtud."
+    }
+  },
+  {
+    "id": "vaud_0020",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/20.mp3",
+      "palabraJP": "個性",
+      "lectura": "こせい",
+      "oracion": "子どもたちの個性を伸ばすような教育がしたい。",
+      "oracion_traduccion": "Quiero brindar una educación que ayude a desarrollar la individualidad de cada niño.",
+      "significadoPalabra": "personalidad, individualidad, características propias."
+    }
   }
 ]
