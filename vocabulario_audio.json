@@ -238,5 +238,605 @@
       "oracion_traduccion": "Quiero brindar una educación que ayude a desarrollar la individualidad de cada niño.",
       "significadoPalabra": "personalidad, individualidad, características propias."
     }
+  },
+  {
+    "id": "vaud_0021",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/21.mp3",
+      "palabraJP": "遺伝",
+      "lectura": "いでん",
+      "oracion": "私の左利きは親からの遺伝だ。",
+      "oracion_traduccion": "Ser zurdo lo heredé de mis padres.",
+      "significadoPalabra": "herencia"
+    }
+  },
+  {
+    "id": "vaud_0022",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/22.mp3",
+      "palabraJP": "動作",
+      "lectura": "どうさ",
+      "oracion": "彼女の動作は優雅で美しい。",
+      "oracion_traduccion": "Sus movimientos son elegantes y hermosos.",
+      "significadoPalabra": "movimientos"
+    }
+  },
+  {
+    "id": "vaud_0023",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/23.mp3",
+      "palabraJP": "真似",
+      "lectura": "まね",
+      "oracion": "子どもは何でも親のまねをしたがるものだ。",
+      "oracion_traduccion": "Los niños tienden a querer imitar todo lo que hacen sus padres.",
+      "significadoPalabra": "imitar"
+    }
+  },
+  {
+    "id": "vaud_0024",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/24.mp3",
+      "palabraJP": "睡眠",
+      "lectura": "すいみん",
+      "oracion": "アンケートの結果、睡眠時間は平均７時間という人が最も多かった。",
+      "oracion_traduccion": "Según los resultados de la encuesta, la mayoría de las personas dijo dormir un promedio de siete horas.",
+      "significadoPalabra": "sueño, hora de dormir"
+    }
+  },
+  {
+    "id": "vaud_0025",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/25.mp3",
+      "palabraJP": "食欲",
+      "lectura": "しょくよく",
+      "oracion": "今、かぜをひいて食欲がない。",
+      "oracion_traduccion": "Ahora estoy resfriado y no tengo apetito.",
+      "significadoPalabra": "apetito"
+    }
+  },
+  {
+    "id": "vaud_0026",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/26.mp3",
+      "palabraJP": "外食",
+      "lectura": "がいしょく",
+      "oracion": "一人暮らしになって、外食が増えた。",
+      "oracion_traduccion": "Desde que vivo solo, como fuera con más frecuencia.",
+      "significadoPalabra": "comer fuera de casa"
+    }
+  },
+  {
+    "id": "vaud_0027",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/27.mp3",
+      "palabraJP": "家事",
+      "lectura": "かじ",
+      "oracion": "最近は、家事や育児もする男性が増えた。",
+      "oracion_traduccion": "Últimamente ha aumentado el número de hombres que también se encargan de las tareas domésticas y del cuidado de los hijos.",
+      "significadoPalabra": "tareas domésticas"
+    }
+  },
+  {
+    "id": "vaud_0028",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/28.mp3",
+      "palabraJP": "出産",
+      "lectura": "しゅっさん",
+      "oracion": "先日、姉が女の子を出産した。",
+      "oracion_traduccion": "Hace unos días, mi hermana mayor dio a luz a una niña.",
+      "significadoPalabra": "dar a luz"
+    }
+  },
+  {
+    "id": "vaud_0029",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/29.mp3",
+      "palabraJP": "介護",
+      "lectura": "かいご",
+      "oracion": "お年寄りの介護をする。",
+      "oracion_traduccion": "Cuidar de una persona mayor.",
+      "significadoPalabra": "cuidados, especialmente de personas mayores o que necesitan asistencia."
+    }
+  },
+  {
+    "id": "vaud_0030",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/30.mp3",
+      "palabraJP": "共働き",
+      "lectura": "ともばたらき",
+      "oracion": "結婚20年、ずっと共働きです。",
+      "oracion_traduccion": "Llevamos 20 años casados y los dos hemos trabajado todo este tiempo.",
+      "significadoPalabra": "cuando ambos miembros de una pareja trabajan."
+    }
+  },
+  {
+    "id": "vaud_0031",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/31.mp3",
+      "palabraJP": "出勤",
+      "lectura": "しゅっきん",
+      "oracion": "毎朝8時に出勤している。",
+      "oracion_traduccion": "Todos los días entro a trabajar a las ocho de la mañana.",
+      "significadoPalabra": "ir al trabajo / presentarse a trabajar."
+    }
+  },
+  {
+    "id": "vaud_0032",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/32.mp3",
+      "palabraJP": "出世",
+      "lectura": "しゅっせ",
+      "oracion": "出世もしたいが、仕事ばかりの人生も嫌だ。",
+      "oracion_traduccion": "Quiero progresar profesionalmente, pero tampoco quiero una vida dedicada exclusivamente al trabajo.",
+      "significadoPalabra": "ascender / progresar profesionalmente."
+    }
+  },
+  {
+    "id": "vaud_0033",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/33.mp3",
+      "palabraJP": "地位",
+      "lectura": "ちい",
+      "oracion": "地位が上がるとともにストレスも増える。",
+      "oracion_traduccion": "A medida que aumenta el rango, también aumenta el estrés.",
+      "significadoPalabra": "posición, rango, estatus."
+    }
+  },
+  {
+    "id": "vaud_0034",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/34.mp3",
+      "palabraJP": "受験",
+      "lectura": "じゅけん",
+      "oracion": "東京の大学を受験した。",
+      "oracion_traduccion": "Presenté el examen de admisión para una universidad de Tokio.",
+      "significadoPalabra": "presentarse a un examen, especialmente de ingreso/admisión."
+    }
+  },
+  {
+    "id": "vaud_0035",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/35.mp3",
+      "palabraJP": "専攻",
+      "lectura": "せんこう",
+      "oracion": "私は大学で経済学を専攻した。",
+      "oracion_traduccion": "En la universidad me especialicé en economía.",
+      "significadoPalabra": "especializarse en / estudiar como carrera o especialidad."
+    }
+  },
+  {
+    "id": "vaud_0036",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/36.mp3",
+      "palabraJP": "支度",
+      "lectura": "したく",
+      "oracion": "出かけるから支度しなさい。",
+      "oracion_traduccion": "Vamos a salir, así que prepárate.",
+      "significadoPalabra": "preparación"
+    }
+  },
+  {
+    "id": "vaud_0037",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/37.mp3",
+      "palabraJP": "全身",
+      "lectura": "ぜんしん",
+      "oracion": "玄関に、全身を映す大きな鏡が置いてある。",
+      "oracion_traduccion": "En la entrada hay un espejo grande en el que puedes verte de cuerpo entero.",
+      "significadoPalabra": "cuerpo entero"
+    }
+  },
+  {
+    "id": "vaud_0038",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/38.mp3",
+      "palabraJP": "しわ",
+      "lectura": "しわ",
+      "oracion": "年をとると顔のしわが増える。",
+      "oracion_traduccion": "A medida que envejecemos, aumentan las arrugas de la cara.",
+      "significadoPalabra": "arrugas"
+    }
+  },
+  {
+    "id": "vaud_0039",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/39.mp3",
+      "palabraJP": "服装",
+      "lectura": "ふくそう",
+      "oracion": "面接にはきちんとした服装で行きなさい。",
+      "oracion_traduccion": "Ve a la entrevista vestido apropiadamente.",
+      "significadoPalabra": "vestimenta / forma de vestir."
+    }
+  },
+  {
+    "id": "vaud_0040",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/40.mp3",
+      "palabraJP": "礼",
+      "lectura": "れい",
+      "oracion": "親切にしてもらった礼を述べる。",
+      "oracion_traduccion": "Dar las gracias por la amabilidad que alguien tuvo contigo.",
+      "significadoPalabra": "expresar/dar las gracias."
+    }
+  },
+  {
+    "id": "vaud_0041",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/41.mp3",
+      "palabraJP": "世辞",
+      "lectura": "せじ",
+      "oracion": "「いいネクタイですね」とお世辞を言った。",
+      "oracion_traduccion": "Le hice un cumplido diciéndole: «Qué bonita corbata».",
+      "significadoPalabra": "cumplido"
+    }
+  },
+  {
+    "id": "vaud_0042",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/42.mp3",
+      "palabraJP": "言い訳",
+      "lectura": "いいわけ",
+      "oracion": "田中さんはいつも言い訳ばかりい言って、自分の失敗を認めようとしない。",
+      "oracion_traduccion": "Tanaka siempre pone excusas y se niega a reconocer sus propios errores.",
+      "significadoPalabra": "excusa / justificación."
+    }
+  },
+  {
+    "id": "vaud_0043",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/43.mp3",
+      "palabraJP": "話題",
+      "lectura": "わだい",
+      "oracion": "野中さんはとても話題が豊富な人で、話していて楽しい。",
+      "oracion_traduccion": "Nonaka es una persona que tiene muchos temas de conversación; es muy agradable hablar con él/ella.",
+      "significadoPalabra": "tema, topico"
+    }
+  },
+  {
+    "id": "vaud_0044",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/44.mp3",
+      "palabraJP": "秘密",
+      "lectura": "ひみつ",
+      "oracion": "あなたを信用して私の秘密を打ち明けます。",
+      "oracion_traduccion": "Confío en ti, así que voy a contarte un secreto.",
+      "significadoPalabra": "secreto"
+    }
+  },
+  {
+    "id": "vaud_0045",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/45.mp3",
+      "palabraJP": "尊敬",
+      "lectura": "そんけい",
+      "oracion": "マザー・テレサは世界中の人々に尊敬されている。",
+      "oracion_traduccion": "La Madre Teresa es respetada por personas de todo el mundo.",
+      "significadoPalabra": "respeto"
+    }
+  },
+  {
+    "id": "vaud_0046",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/46.mp3",
+      "palabraJP": "謙遜",
+      "lectura": "けんそん",
+      "oracion": "ほめられたとき、謙そんして「そんなことはありません」と言う人も多い。",
+      "oracion_traduccion": "Cuando reciben un cumplido, muchas personas reaccionan con modestia y dicen: «No es para tanto».",
+      "significadoPalabra": "modestia"
+    }
+  },
+  {
+    "id": "vaud_0047",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/47.mp3",
+      "palabraJP": "期待",
+      "lectura": "きたい",
+      "oracion": "山本選手の活躍を期待していたが、期待はずれの結果に終わった。",
+      "oracion_traduccion": "Esperaba que Yamamoto tuviera una gran actuación, pero el resultado fue decepcionante.",
+      "significadoPalabra": "decepcionante, que no cumple las expectativas."
+    }
+  },
+  {
+    "id": "vaud_0048",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/48.mp3",
+      "palabraJP": "苦労",
+      "lectura": "くろう",
+      "oracion": "父の死後、母は苦労して私たちを育ててくれた。",
+      "oracion_traduccion": "Después de la muerte de mi padre, mi madre nos crió con mucho esfuerzo y sacrificio.",
+      "significadoPalabra": "problemas, preocupaciones"
+    }
+  },
+  {
+    "id": "vaud_0049",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/49.mp3",
+      "palabraJP": "意思",
+      "lectura": "いし",
+      "oracion": "彼女は意思が固いから、きっと目的を達成するだろう。",
+      "oracion_traduccion": "Ella es muy determinada, así que seguramente alcanzará su objetivo.",
+      "significadoPalabra": "ser firme de voluntad, ser muy decidido."
+    }
+  },
+  {
+    "id": "vaud_0050",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/50.mp3",
+      "palabraJP": "感情",
+      "lectura": "かんじょう",
+      "oracion": "田中さんはすぐに感情が顔に出る。",
+      "oracion_traduccion": "A Tanaka se le notan enseguida las emociones en la cara.",
+      "significadoPalabra": "emoción, sentimientos"
+    }
+  },
+  {
+    "id": "vaud_0051",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/51.mp3",
+      "palabraJP": "材料",
+      "lectura": "ざいりょう",
+      "oracion": "スーパーへ夕食の材料を買いに行った。",
+      "oracion_traduccion": "Fui al supermercado a comprar los ingredientes para la cena.",
+      "significadoPalabra": "ingredientes/materiales, según el contexto."
+    }
+  },
+  {
+    "id": "vaud_0052",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/52.mp3",
+      "palabraJP": "石",
+      "lectura": "いし",
+      "oracion": "グラウンドに落ちている石を拾った。",
+      "oracion_traduccion": "Recogí una piedra que estaba tirada en el campo.",
+      "significadoPalabra": "piedra"
+    }
+  },
+  {
+    "id": "vaud_0053",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/53.mp3",
+      "palabraJP": "ひも",
+      "lectura": "ひも",
+      "oracion": "古新聞をひもで縛る。",
+      "oracion_traduccion": "Atar los periódicos viejos con una cuerda.",
+      "significadoPalabra": "cuerda, cordón"
+    }
+  },
+  {
+    "id": "vaud_0054",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/54.mp3",
+      "palabraJP": "券",
+      "lectura": "けん",
+      "oracion": "あの店はいつも込んでいて、入るのに整理券が必要だ。",
+      "oracion_traduccion": "Ese lugar siempre está lleno, así que necesitas sacar un número para entrar.",
+      "significadoPalabra": "boleto/número que se entrega para organizar el orden de entrada o atención."
+    }
+  },
+  {
+    "id": "vaud_0055",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/55.mp3",
+      "palabraJP": "名簿",
+      "lectura": "めいぼ",
+      "oracion": "クラスの名簿を作る。",
+      "oracion_traduccion": "Hacer la lista de alumnos de la clase.",
+      "significadoPalabra": "lista/registro de nombres."
+    }
+  },
+  {
+    "id": "vaud_0056",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/56.mp3",
+      "palabraJP": "表",
+      "lectura": "ひょう",
+      "oracion": "成績を表にする。",
+      "oracion_traduccion": "Poner las calificaciones en una tabla.",
+      "significadoPalabra": "lista, tabla"
+    }
+  },
+  {
+    "id": "vaud_0057",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/57.mp3",
+      "palabraJP": "針",
+      "lectura": "はり",
+      "oracion": "針に糸を通す。",
+      "oracion_traduccion": "Enhebrar una aguja.",
+      "significadoPalabra": "aguja"
+    }
+  },
+  {
+    "id": "vaud_0058",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/58.mp3",
+      "palabraJP": "栓",
+      "lectura": "せん",
+      "oracion": "ビールの栓を抜く。",
+      "oracion_traduccion": "Destapar una botella de cerveza.",
+      "significadoPalabra": "tapón, corcho"
+    }
+  },
+  {
+    "id": "vaud_0059",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/59.mp3",
+      "palabraJP": "湯気",
+      "lectura": "ゆげ",
+      "oracion": "うどんの湯気で眼鏡がくもってしまった。",
+      "oracion_traduccion": "Se me empañaron los lentes con el vapor de los udon.",
+      "significadoPalabra": "vapor"
+    }
+  },
+  {
+    "id": "vaud_0060",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/60.mp3",
+      "palabraJP": "日当たり",
+      "lectura": "ひあたり",
+      "oracion": "私の部屋は南向きで日当たりがいい。",
+      "oracion_traduccion": "Mi habitación está orientada al sur y recibe mucha luz solar.",
+      "significadoPalabra": "exposición al sol"
+    }
+  },
+  {
+    "id": "vaud_0061",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/61.mp3",
+      "palabraJP": "空",
+      "lectura": "から",
+      "oracion": "昨夜は一人でワイン一びんを空にした。",
+      "oracion_traduccion": "Anoche me terminé yo solo una botella de vino.",
+      "significadoPalabra": "vacío"
+    }
+  },
+  {
+    "id": "vaud_0062",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/62.mp3",
+      "palabraJP": "斜め",
+      "lectura": "ななめ",
+      "oracion": "地震で家が斜めに傾いた。",
+      "oracion_traduccion": "La casa quedó inclinada a causa del terremoto.",
+      "significadoPalabra": "inclinado, en diagonal."
+    }
+  },
+  {
+    "id": "vaud_0063",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/63.mp3",
+      "palabraJP": "履歴",
+      "lectura": "りれき",
+      "oracion": "会社に応募するにあたり、履歴書を書いた。",
+      "oracion_traduccion": "Al solicitar el puesto en la empresa, preparé mi currículum.",
+      "significadoPalabra": "currículum"
+    }
+  },
+  {
+    "id": "vaud_0064",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/64.mp3",
+      "palabraJP": "娯楽",
+      "lectura": "ごらく",
+      "oracion": "うちの父は、釣りを娯楽として楽しんている。",
+      "oracion_traduccion": "Mi padre disfruta de la pesca como pasatiempo.",
+      "significadoPalabra": "entretenimiento, pasatiempo."
+    }
+  },
+  {
+    "id": "vaud_0065",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/65.mp3",
+      "palabraJP": "司会",
+      "lectura": "しかい",
+      "oracion": "友人に結婚式の司会を頼んだ。",
+      "oracion_traduccion": "Le pedí a un amigo que fuera el maestro de ceremonias de la boda.",
+      "significadoPalabra": "maestro de ceremonias, persona que conduce un evento."
+    }
+  },
+  {
+    "id": "vaud_0066",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/66.mp3",
+      "palabraJP": "歓迎",
+      "lectura": "かんげい",
+      "oracion": "新入社員を歓迎する会が開かれた。",
+      "oracion_traduccion": "Se celebró una reunión de bienvenida para los nuevos empleados.",
+      "significadoPalabra": "bienvenida"
+    }
+  },
+  {
+    "id": "vaud_0067",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/67.mp3",
+      "palabraJP": "窓口",
+      "lectura": "まどぐち",
+      "oracion": "銀行の窓口には大勢の人が並んでいた。",
+      "oracion_traduccion": "Había mucha gente haciendo fila en las ventanillas del banco.",
+      "significadoPalabra": "ventanilla (de un banco, oficina, etc.)."
+    }
+  },
+  {
+    "id": "vaud_0068",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/68.mp3",
+      "palabraJP": "手続き",
+      "lectura": "てつづき",
+      "oracion": "入学の手続きをする。",
+      "oracion_traduccion": "Hacer los trámites de inscripción.",
+      "significadoPalabra": "trámite/procedimiento administrativo."
+    }
+  },
+  {
+    "id": "vaud_0069",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/69.mp3",
+      "palabraJP": "徒歩",
+      "lectura": "とほ",
+      "oracion": "駅からうちまで、徒歩10分です。",
+      "oracion_traduccion": "De la estación a mi casa son 10 minutos a pie.",
+      "significadoPalabra": "a pie"
+    }
+  },
+  {
+    "id": "vaud_0070",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/70.mp3",
+      "palabraJP": "駐車",
+      "lectura": "ちゅうしゃ",
+      "oracion": "日曜日の都心は駐車するところがない。",
+      "oracion_traduccion": "Los domingos es imposible encontrar dónde estacionarse en el centro de la ciudad.",
+      "significadoPalabra": "estacionamiento"
+    }
   }
 ]
