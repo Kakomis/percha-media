@@ -1,26 +1,38 @@
 [
-    {
-        "id": "vaud_0001",
-        "categoria": "vocabulario_audio",
-        "contenido": {
-            "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/1.mp3",
-            "palabraJP": "人生",
-            "lectura": "じんせい",
-            "oracion": "幸せな人生を送る。",
-            "oracion_traduccion": "Vivir una vida feliz.",
-            "significadoPalabra": "vida"
-        }
-    },
-    {
-        "id": "vaud_0002",
-        "categoria": "vocabulario_audio",
-        "contenido": {
-            "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/2.mp3",
-            "palabraJP": "人間",
-            "lectura": "にんげん",
-            "oracion": "人間は皆、平等である。",
-            "oracion_traduccion": "Todos los seres humanos son iguales.",
-            "significadoPalabra": "seres humanos, personalidad, hombre"
-        }
+  {
+    "id": "vaud_0001",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/1.mp3",
+      "palabraJP": "人生",
+      "lectura": "じんせい",
+      "oracion": "幸せな人生を送る。",
+      "oracion_traduccion": "Vivir una vida feliz.",
+      "significadoPalabra": "vida"
     }
+  },
+  {
+    "id": "vaud_0002",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/2.mp3",
+      "palabraJP": "人間",
+      "lectura": "にんげん",
+      "oracion": "人間は皆、平等である。",
+      "oracion_traduccion": "Todos los seres humanos son iguales.",
+      "significadoPalabra": "seres humanos, personalidad, hombre"
+    }
+  },
+  {
+    "id": "vaud_0003",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/3.mp3",
+      "palabraJP": "人",
+      "lectura": "ひと",
+      "oracion": "佐藤さんという人から電話がありましたよ。",
+      "oracion_traduccion": "Recibí una llamada de alguien llamado Sato.",
+      "significadoPalabra": "persona, ser humano"
+    }
+  }
 ]
