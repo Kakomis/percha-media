@@ -10897,5 +10897,14 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_1.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_1.srt"
+  },
+  {
+    "id": 65,
+    "titulo": "¿Por qué Google Drive está destinado a convertirse en un desastre?",
+    "categoria": "shadowing_srt",
+    "orden": 65,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_2.srt"
   }
 ]
