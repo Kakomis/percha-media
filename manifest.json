@@ -10888,5 +10888,14 @@
         "lecturaFurigana": "うーん。"
       }
     ]
+  },
+  {
+    "id": 64,
+    "titulo": "¿Por qué los niños quieren ir a la Universidad del Pulpo?",
+    "categoria": "shadowing_srt",
+    "orden": 64,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_1.srt"
   }
 ]
