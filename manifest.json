@@ -8309,31 +8309,31 @@
       }
     ]
   },
+    {
+    "id": 64,
+    "titulo": "Cómo llegó a dominar el japonés mediante la inmersión",
+    "categoria": "shadowing_srt",
+    "orden": 64,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_3.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_3.srt"
+  },
   {
-    "id": 61,
+    "id": 65,
     "titulo": "¿Por qué los niños quieren ir a la Universidad del Pulpo?",
     "categoria": "shadowing_srt",
-    "orden": 61,
-    "version": "v2",
+    "orden": 65,
+    "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_1.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_1.srt"
   },
   {
-    "id": 62,
+    "id": 66,
     "titulo": "¿Por qué Google Drive está destinado a convertirse en un desastre?",
     "categoria": "shadowing_srt",
-    "orden": 62,
-    "version": "v2",
+    "orden": 66,
+    "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_2.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_2.srt"
-  },
-  {
-    "id": 63,
-    "titulo": "Cómo llegó a dominar el japonés mediante la inmersión",
-    "categoria": "shadowing_srt",
-    "orden": 63,
-    "version": "v2",
-    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_3.mp3",
-    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_3.srt"
   }
 ]
