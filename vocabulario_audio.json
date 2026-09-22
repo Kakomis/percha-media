@@ -4438,5 +4438,1085 @@
       "oracion_traduccion": "Su equipaje pesaba 10 kilos más de lo permitido.",
       "significadoPalabra": "exceso, exceder el límite"
     }
+  },
+  {
+    "id": "vaud_0371",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/371.mp3",
+      "palabraJP": "立ち上がる",
+      "lectura": "たちあがる",
+      "oracion": "いすから立ち上がる。",
+      "oracion_traduccion": "Levantarse de la silla.",
+      "significadoPalabra": "levantarse, ponerse de pie"
+    }
+  },
+  {
+    "id": "vaud_0372",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/372.mp3",
+      "palabraJP": "飛び上がる",
+      "lectura": "とびあがる",
+      "oracion": "飛び上がって喜ぶ。",
+      "oracion_traduccion": "Brincar de alegría.",
+      "significadoPalabra": "saltar, dar un brinco"
+    }
+  },
+  {
+    "id": "vaud_0373",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/373.mp3",
+      "palabraJP": "浮かび上がる",
+      "lectura": "うかびあがる",
+      "oracion": "水面に浮かび上がる。",
+      "oracion_traduccion": "Salir a la superficie del agua.",
+      "significadoPalabra": "emerger, salir a flotar, salir a la luz"
+    }
+  },
+  {
+    "id": "vaud_0374",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/374.mp3",
+      "palabraJP": "舞い上がる",
+      "lectura": "まいあがる",
+      "oracion": "砂が舞い上がる。",
+      "oracion_traduccion": "El polvo se levanta por el aire.",
+      "significadoPalabra": "elevarse en el aire, entusiasmarse"
+    }
+  },
+  {
+    "id": "vaud_0375",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/375.mp3",
+      "palabraJP": "燃え上がる",
+      "lectura": "もえあがる",
+      "oracion": "火が燃え上がる。",
+      "oracion_traduccion": "El fuego estalla en llamas.",
+      "significadoPalabra": "estallar en llamas, inflamarse"
+    }
+  },
+  {
+    "id": "vaud_0376",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/376.mp3",
+      "palabraJP": "盛り上がる",
+      "lectura": "もりあがる",
+      "oracion": "筋肉が盛り上がっている。",
+      "oracion_traduccion": "Los músculos están bien desarrollados.",
+      "significadoPalabra": "sobresalir, animarse, abultarse"
+    }
+  },
+  {
+    "id": "vaud_0377",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/377.mp3",
+      "palabraJP": "沸き上がる",
+      "lectura": "わきあがる",
+      "oracion": "歓声が沸き上がる。",
+      "oracion_traduccion": "Un coro de aclamaciones resonó con fuerza.",
+      "significadoPalabra": "surgir con fuerza, estallar (emociones o vítores)"
+    }
+  },
+  {
+    "id": "vaud_0378",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/378.mp3",
+      "palabraJP": "晴れ上がる",
+      "lectura": "はれあがる",
+      "oracion": "晴れ上がった秋空。",
+      "oracion_traduccion": "Un cielo de otoño completamente despejado.",
+      "significadoPalabra": "despejarse por completo (el cielo)"
+    }
+  },
+  {
+    "id": "vaud_0379",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/379.mp3",
+      "palabraJP": "震え上がる",
+      "lectura": "ふるえあがる",
+      "oracion": "寒さに震え上がる。",
+      "oracion_traduccion": "Temblar intensamente de frío.",
+      "significadoPalabra": "temblar violentamente, tiritar"
+    }
+  },
+  {
+    "id": "vaud_0380",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/380.mp3",
+      "palabraJP": "縮み上がる",
+      "lectura": "ちぢみあがる",
+      "oracion": "恐怖に縮み上がる。",
+      "oracion_traduccion": "Encogerse del miedo.",
+      "significadoPalabra": "encogerse mucho, paralizarse de susto"
+    }
+  },
+  {
+    "id": "vaud_0381",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/381.mp3",
+      "palabraJP": "干上がる",
+      "lectura": "ひあがる",
+      "oracion": "池が干上がる。",
+      "oracion_traduccion": "El estanque se secó por completo.",
+      "significadoPalabra": "secarse por completo, evaporarse"
+    }
+  },
+  {
+    "id": "vaud_0382",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/382.mp3",
+      "palabraJP": "でき上がる",
+      "lectura": "できあがる",
+      "oracion": "料理ができ上がった。",
+      "oracion_traduccion": "La comida ya está lista.",
+      "significadoPalabra": "estar terminado, estar listo"
+    }
+  },
+  {
+    "id": "vaud_0383",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/383.mp3",
+      "palabraJP": "持ち上げる",
+      "lectura": "もちあげる",
+      "oracion": "荷物を持ち上げる。",
+      "oracion_traduccion": "Levantar el equipaje.",
+      "significadoPalabra": "levantar, alzarse"
+    }
+  },
+  {
+    "id": "vaud_0384",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/384.mp3",
+      "palabraJP": "見上げる",
+      "lectura": "みあげる",
+      "oracion": "空を見上げる。",
+      "oracion_traduccion": "Mirar hacia el cielo.",
+      "significadoPalabra": "mirar hacia arriba"
+    }
+  },
+  {
+    "id": "vaud_0385",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/385.mp3",
+      "palabraJP": "積み上げる",
+      "lectura": "つみあげる",
+      "oracion": "資料を積み上げる。",
+      "oracion_traduccion": "Apilar los documentos.",
+      "significadoPalabra": "apilar, acumular"
+    }
+  },
+  {
+    "id": "vaud_0386",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/386.mp3",
+      "palabraJP": "打ち上げる",
+      "lectura": "うちあげる",
+      "oracion": "ロケットを打ち上げる。",
+      "oracion_traduccion": "Lanzar un cohete.",
+      "significadoPalabra": "lanzar, arrojar hacia el cielo"
+    }
+  },
+  {
+    "id": "vaud_0387",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/387.mp3",
+      "palabraJP": "立ち上げる",
+      "lectura": "たちあげる",
+      "oracion": "コンピューターを立ち上げる。",
+      "oracion_traduccion": "Encender la computadora.",
+      "significadoPalabra": "iniciar, arrancar, lanzar un proyecto"
+    }
+  },
+  {
+    "id": "vaud_0388",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/388.mp3",
+      "palabraJP": "切り上げる",
+      "lectura": "きりあげる",
+      "oracion": "今日は仕事を5時で切り上げよう。",
+      "oracion_traduccion": "Hoy terminemos el trabajo a las 5.",
+      "significadoPalabra": "dar por terminado, redondear hacia arriba"
+    }
+  },
+  {
+    "id": "vaud_0389",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/389.mp3",
+      "palabraJP": "繰り上げる",
+      "lectura": "くりあげる",
+      "oracion": "時間を繰り上げる。",
+      "oracion_traduccion": "Adelantar el horario.",
+      "significadoPalabra": "adelantar (un evento o fecha)"
+    }
+  },
+  {
+    "id": "vaud_0390",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/390.mp3",
+      "palabraJP": "磨き上げる",
+      "lectura": "みがきあげる",
+      "oracion": "磨き上げた靴。",
+      "oracion_traduccion": "Zapatos bien lustrados.",
+      "significadoPalabra": "pulir brillantemente, lustrar"
+    }
+  },
+  {
+    "id": "vaud_0391",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/391.mp3",
+      "palabraJP": "鍛え上げる",
+      "lectura": "きたえあげる",
+      "oracion": "選手たちを鍛え上げる。",
+      "oracion_traduccion": "Entrenar arduamente a los atletas.",
+      "significadoPalabra": "entrenar intensamente, forjar"
+    }
+  },
+  {
+    "id": "vaud_0392",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/392.mp3",
+      "palabraJP": "書き上げる",
+      "lectura": "かきあげる",
+      "oracion": "レポートを書き上げた。",
+      "oracion_traduccion": "Terminé de redactar el informe.",
+      "significadoPalabra": "terminar de escribir"
+    }
+  },
+  {
+    "id": "vaud_0393",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/393.mp3",
+      "palabraJP": "育て上げる",
+      "lectura": "そだてあげる",
+      "oracion": "子どもを育て上げる。",
+      "oracion_traduccion": "Criar a un hijo hasta que sea adulto.",
+      "significadoPalabra": "criar por completo, educar hasta la madurez"
+    }
+  },
+  {
+    "id": "vaud_0394",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/394.mp3",
+      "palabraJP": "読み上げる",
+      "lectura": "よみあげる",
+      "oracion": "卒業生の名前を読み上げる。",
+      "oracion_traduccion": "Leer en voz alta los nombres de los graduados.",
+      "significadoPalabra": "leer en voz alta, pasar lista"
+    }
+  },
+  {
+    "id": "vaud_0395",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/395.mp3",
+      "palabraJP": "数え上げる",
+      "lectura": "かぞえあげる",
+      "oracion": "欠点を数え上げる。",
+      "oracion_traduccion": "Enumerar los defectos.",
+      "significadoPalabra": "enumerar, contar uno por uno"
+    }
+  },
+  {
+    "id": "vaud_0396",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/396.mp3",
+      "palabraJP": "投げ出す",
+      "lectura": "なげだす",
+      "oracion": "足を投げ出して座る。",
+      "oracion_traduccion": "Sentarse estirando las piernas hacia adelante.",
+      "significadoPalabra": "estirar (extremidades), abandonar, tirar fuera"
+    }
+  },
+  {
+    "id": "vaud_0397",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/397.mp3",
+      "palabraJP": "持ち出す",
+      "lectura": "もちだす",
+      "oracion": "この本は図書館から持ち出さないでください。",
+      "oracion_traduccion": "Por favor, no saque este libro de la biblioteca.",
+      "significadoPalabra": "sacar de un lugar, llevarse"
+    }
+  },
+  {
+    "id": "vaud_0398",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/398.mp3",
+      "palabraJP": "追い出す",
+      "lectura": "おいだす",
+      "oracion": "入ってきた虫を追い出す。",
+      "oracion_traduccion": "Espantar el insecto que se metió.",
+      "significadoPalabra": "expulsar, echar fuera"
+    }
+  },
+  {
+    "id": "vaud_0399",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/399.mp3",
+      "palabraJP": "放り出す",
+      "lectura": "ほうりだす",
+      "oracion": "子どもは学校から帰ってくると、かばんをほうり出して遊びに行った。",
+      "oracion_traduccion": "Al volver de la escuela, el niño aventó la mochila y se fue a jugar.",
+      "significadoPalabra": "arrojar a un lado, botar"
+    }
+  },
+  {
+    "id": "vaud_0400",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/400.mp3",
+      "palabraJP": "貸し出す",
+      "lectura": "かしだす",
+      "oracion": "この図書館では雑誌も貸し出していますか。",
+      "oracion_traduccion": "¿En esta biblioteca también prestan revistas?",
+      "significadoPalabra": "prestar (libros, artículos)"
+    }
+  },
+  {
+    "id": "vaud_0401",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/401.mp3",
+      "palabraJP": "聞き出す",
+      "lectura": "ききだす",
+      "oracion": "相手から情報を聞き出す。",
+      "oracion_traduccion": "Sacarle información a la otra persona.",
+      "significadoPalabra": "sacar información, averiguar preguntando"
+    }
+  },
+  {
+    "id": "vaud_0402",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/402.mp3",
+      "palabraJP": "連れ出す",
+      "lectura": "つれだす",
+      "oracion": "嫌がる娘をむりやり連れ出して病院へ行った。",
+      "oracion_traduccion": "Llevé a mi hija al hospital a la fuerza a pesar de que no quería ir.",
+      "significadoPalabra": "sacar a alguien, llevarse a alguien"
+    }
+  },
+  {
+    "id": "vaud_0403",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/403.mp3",
+      "palabraJP": "引っ張り出す",
+      "lectura": "ひっぱりだす",
+      "oracion": "押し入れの奥から古いアルバムを引っ張り出した。",
+      "oracion_traduccion": "Saqué un álbum viejo del fondo del armario.",
+      "significadoPalabra": "sacar arrastrando, extraer del fondo"
+    }
+  },
+  {
+    "id": "vaud_0404",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/404.mp3",
+      "palabraJP": "逃げ出す",
+      "lectura": "にげだす",
+      "oracion": "燃えている家の中から逃げ出す。",
+      "oracion_traduccion": "Escapar de la casa que se está incendiando.",
+      "significadoPalabra": "escapar, huir"
+    }
+  },
+  {
+    "id": "vaud_0405",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/405.mp3",
+      "palabraJP": "飛び出す",
+      "lectura": "とびだす",
+      "oracion": "箱を開けるとカエルが飛び出した。",
+      "oracion_traduccion": "Al abrir la caja, saltó una rana hacia afuera.",
+      "significadoPalabra": "salir disparado, saltar fuera"
+    }
+  },
+  {
+    "id": "vaud_0406",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/406.mp3",
+      "palabraJP": "見つけ出す",
+      "lectura": "みつけだす",
+      "oracion": "図書館の本棚から、探していた本を見つけ出した。",
+      "oracion_traduccion": "Encontré el libro que buscaba entre los estantes de la biblioteca.",
+      "significadoPalabra": "localizar, dar con el paradero de algo"
+    }
+  },
+  {
+    "id": "vaud_0407",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/407.mp3",
+      "palabraJP": "探し出す",
+      "lectura": "さがしだす",
+      "oracion": "行方不明になっていたペットを探し出した。",
+      "oracion_traduccion": "Logré rastrear a mi mascota que estaba perdida.",
+      "significadoPalabra": "rastrear y encontrar, dar con"
+    }
+  },
+  {
+    "id": "vaud_0408",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/408.mp3",
+      "palabraJP": "書き出す",
+      "lectura": "かきだす",
+      "oracion": "今日の予定をノートに書き出した。",
+      "oracion_traduccion": "Anoté los planes de hoy en mi libreta.",
+      "significadoPalabra": "anotar, poner por escrito"
+    }
+  },
+  {
+    "id": "vaud_0409",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/409.mp3",
+      "palabraJP": "飛び込む",
+      "lectura": "とびこむ",
+      "oracion": "プールに飛び込む。",
+      "oracion_traduccion": "Lanzarse a la alberca.",
+      "significadoPalabra": "echarse un clavado, abalanzarse"
+    }
+  },
+  {
+    "id": "vaud_0410",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/410.mp3",
+      "palabraJP": "駆け込む",
+      "lectura": "かけこむ",
+      "oracion": "大急ぎで教室に駆け込んだ。",
+      "oracion_traduccion": "Entré corriendo apresuradamente al salón de clases.",
+      "significadoPalabra": "entrar corriendo a toda prisa"
+    }
+  },
+  {
+    "id": "vaud_0411",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/411.mp3",
+      "palabraJP": "割り込む",
+      "lectura": "わりこむ",
+      "oracion": "列に割り込む。",
+      "oracion_traduccion": "Meterse en la fila.",
+      "significadoPalabra": "interrumpir, colarse"
+    }
+  },
+  {
+    "id": "vaud_0412",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/412.mp3",
+      "palabraJP": "差し込む",
+      "lectura": "さしこむ",
+      "oracion": "日の光が部屋いっぱいに差し込んでいる。",
+      "oracion_traduccion": "La luz del sol entra iluminando todo el cuarto.",
+      "significadoPalabra": "colarse (la luz), insertar"
+    }
+  },
+  {
+    "id": "vaud_0413",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/413.mp3",
+      "palabraJP": "染み込む",
+      "lectura": "しみこむ",
+      "oracion": "雨が土にしみ込む。",
+      "oracion_traduccion": "La lluvia se filtra en la tierra.",
+      "significadoPalabra": "empapar, filtrarse, penetrar"
+    }
+  },
+  {
+    "id": "vaud_0414",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/414.mp3",
+      "palabraJP": "引っ込む",
+      "lectura": "ひっこむ",
+      "oracion": "秘書は客を応接室に通すと、奥へ引っ込んだ。",
+      "oracion_traduccion": "La secretaria acompañó al cliente a la sala de visitas y luego se retiró hacia el fondo.",
+      "significadoPalabra": "retirarse hacia adentro, mantenerse al margen"
+    }
+  },
+  {
+    "id": "vaud_0415",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/415.mp3",
+      "palabraJP": "詰め込む",
+      "lectura": "つめこむ",
+      "oracion": "かばんに荷物を詰め込む。",
+      "oracion_traduccion": "Abarrotar la bolsa con cosas.",
+      "significadoPalabra": "empaquetar a presión, rellenar"
+    }
+  },
+  {
+    "id": "vaud_0416",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/416.mp3",
+      "palabraJP": "飲み込む",
+      "lectura": "のみこむ",
+      "oracion": "食べ物をかまずに飲み込む。",
+      "oracion_traduccion": "Tragarse la comida sin masticar.",
+      "significadoPalabra": "tragar entero, asimilar/comprender"
+    }
+  },
+  {
+    "id": "vaud_0417",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/417.mp3",
+      "palabraJP": "運び込む",
+      "lectura": "はこびこむ",
+      "oracion": "引っ越しの荷物を部屋に運び込む。",
+      "oracion_traduccion": "Meter las cajas de la mudanza a la habitación.",
+      "significadoPalabra": "meter cargando, trasladar al interior"
+    }
+  },
+  {
+    "id": "vaud_0418",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/418.mp3",
+      "palabraJP": "打ち込む",
+      "lectura": "うちこむ",
+      "oracion": "パソコンにデータを打ち込む。",
+      "oracion_traduccion": "Ingresar los datos en la computadora.",
+      "significadoPalabra": "ingresar datos, dedicarse de lleno"
+    }
+  },
+  {
+    "id": "vaud_0419",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/419.mp3",
+      "palabraJP": "注ぎ込む",
+      "lectura": "そそぎこむ",
+      "oracion": "子どもに愛情を注ぎ込む。",
+      "oracion_traduccion": "Darle todo el amor a un hijo.",
+      "significadoPalabra": "vertir, volcar (sentimientos o recursos)"
+    }
+  },
+  {
+    "id": "vaud_0420",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/420.mp3",
+      "palabraJP": "引き込む",
+      "lectura": "ひきこむ",
+      "oracion": "友人を悪の道に引き込む。",
+      "oracion_traduccion": "Arrastrar a un amigo por un mal camino.",
+      "significadoPalabra": "atraer, envolver, arrastrar"
+    }
+  },
+  {
+    "id": "vaud_0421",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/421.mp3",
+      "palabraJP": "書き込む",
+      "lectura": "かきこむ",
+      "oracion": "ノートに感想を書き込む。",
+      "oracion_traduccion": "Anotar mis opiniones en la libreta.",
+      "significadoPalabra": "escribir en, tomar notas en"
+    }
+  },
+  {
+    "id": "vaud_0422",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/422.mp3",
+      "palabraJP": "巻き込む",
+      "lectura": "まきこむ",
+      "oracion": "事故に巻き込まれてけがをした。",
+      "oracion_traduccion": "Me vi envuelto en un accidente y resulté herido.",
+      "significadoPalabra": "involucrar, verse envuelto"
+    }
+  },
+  {
+    "id": "vaud_0423",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/423.mp3",
+      "palabraJP": "追い込む",
+      "lectura": "おいこむ",
+      "oracion": "羊の群れを囲いに追い込む。",
+      "oracion_traduccion": "Acorralar al rebaño de ovejas dentro del corral.",
+      "significadoPalabra": "acorralar, acosar"
+    }
+  },
+  {
+    "id": "vaud_0424",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/424.mp3",
+      "palabraJP": "呼び込む",
+      "lectura": "よびこむ",
+      "oracion": "ある国では、赤は運を呼び込む色だと言われている。",
+      "oracion_traduccion": "En ciertos países se cree que el color rojo atrae la buena suerte.",
+      "significadoPalabra": "atraer, convocar"
+    }
+  },
+  {
+    "id": "vaud_0425",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/425.mp3",
+      "palabraJP": "座り込む",
+      "lectura": "すわりこむ",
+      "oracion": "疲れていすに座り込む。",
+      "oracion_traduccion": "Derrengarse en la silla por el cansancio.",
+      "significadoPalabra": "sentarse de golpe, desplomarse sentado"
+    }
+  },
+  {
+    "id": "vaud_0426",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/426.mp3",
+      "palabraJP": "寝込む",
+      "lectura": "ねこむ",
+      "oracion": "病気で1週間寝込んだ。",
+      "oracion_traduccion": "Caí en cama durante una semana por la enfermedad.",
+      "significadoPalabra": "caer en cama (por enfermedad)"
+    }
+  },
+  {
+    "id": "vaud_0427",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/427.mp3",
+      "palabraJP": "話し込む",
+      "lectura": "はなしこむ",
+      "oracion": "友人と電話で3時間も話し込んだ。",
+      "oracion_traduccion": "Me quedé platicando con un amigo por teléfono durante 3 horas.",
+      "significadoPalabra": "enfrascarse en una conversación"
+    }
+  },
+  {
+    "id": "vaud_0428",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/428.mp3",
+      "palabraJP": "黙り込む",
+      "lectura": "だまりこむ",
+      "oracion": "母は不機嫌になると黙り込む。",
+      "oracion_traduccion": "Cuando mi mamá se pone de mal humor, se queda completamente callada.",
+      "significadoPalabra": "quedarse en absoluto silencio"
+    }
+  },
+  {
+    "id": "vaud_0429",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/429.mp3",
+      "palabraJP": "泊まり込む",
+      "lectura": "とまりこむ",
+      "oracion": "病院に泊まり込んで看病する。",
+      "oracion_traduccion": "Quedarse a pasar la noche en el hospital para cuidar al enfermo.",
+      "significadoPalabra": "quedarse a pernoctar"
+    }
+  },
+  {
+    "id": "vaud_0430",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/430.mp3",
+      "palabraJP": "住み込む",
+      "lectura": "すみこむ",
+      "oracion": "弟子になって、師匠の家に住み込む。",
+      "oracion_traduccion": "Convertirse en aprendiz e irse a vivir a la casa del maestro.",
+      "significadoPalabra": "mudarse a vivir donde uno trabaja o estudia"
+    }
+  },
+  {
+    "id": "vaud_0431",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/431.mp3",
+      "palabraJP": "煮込む",
+      "lectura": "にこむ",
+      "oracion": "弱火で煮込む。",
+      "oracion_traduccion": "Cocer a fuego lento.",
+      "significadoPalabra": "guisar a fuego lento, estofar"
+    }
+  },
+  {
+    "id": "vaud_0432",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/432.mp3",
+      "palabraJP": "売り込む",
+      "lectura": "うりこむ",
+      "oracion": "新製品を売り込む。",
+      "oracion_traduccion": "Promocionar un producto nuevo en el mercado.",
+      "significadoPalabra": "promocionar, promocionarse"
+    }
+  },
+  {
+    "id": "vaud_0433",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/433.mp3",
+      "palabraJP": "頼み込む",
+      "lectura": "たのみこむ",
+      "oracion": "頭を下げて先輩に頼み込んだ。",
+      "oracion_traduccion": "Le rogué a mi compañero mayor agachando la cabeza.",
+      "significadoPalabra": "rogar encarecidamente, suplicar"
+    }
+  },
+  {
+    "id": "vaud_0434",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/434.mp3",
+      "palabraJP": "教え込む",
+      "lectura": "おしえこむ",
+      "oracion": "動物に根気よく芸を教え込んだ。",
+      "oracion_traduccion": "Le enseñé trucos al animal con mucha paciencia.",
+      "significadoPalabra": "inculcar, entrenar pacientemente"
+    }
+  },
+  {
+    "id": "vaud_0435",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/435.mp3",
+      "palabraJP": "話し合う",
+      "lectura": "はなしあう",
+      "oracion": "暴力はいけない。話し合って解決しよう。",
+      "oracion_traduccion": "La violencia no está bien. Resolvamos esto hablando.",
+      "significadoPalabra": "dialogar, discutir un asunto"
+    }
+  },
+  {
+    "id": "vaud_0436",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/436.mp3",
+      "palabraJP": "言い合う",
+      "lectura": "いいあう",
+      "oracion": "言いたいことを言い合って、最後に仲直りした。",
+      "oracion_traduccion": "Dijimos todo lo que teníamos guardado y al final nos reconciliamos.",
+      "significadoPalabra": "discutir, expresar mutuamente lo que se piensa"
+    }
+  },
+  {
+    "id": "vaud_0437",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/437.mp3",
+      "palabraJP": "語り合う",
+      "lectura": "かたりあう",
+      "oracion": "久しぶりに会った友人と深夜まで語り合った。",
+      "oracion_traduccion": "Platiqué hasta altas horas de la noche con un amigo que tenía tiempo de no ver.",
+      "significadoPalabra": "conversar profundamente entre sí"
+    }
+  },
+  {
+    "id": "vaud_0438",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/438.mp3",
+      "palabraJP": "見つめ合う",
+      "lectura": "みつめあう",
+      "oracion": "二人は互いの目を見つめ合った。",
+      "oracion_traduccion": "Ambos se miraron fijamente a los ojos.",
+      "significadoPalabra": "mirarse mutuamente a los ojos"
+    }
+  },
+  {
+    "id": "vaud_0439",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/439.mp3",
+      "palabraJP": "向かい合う",
+      "lectura": "むかいあう",
+      "oracion": "相手と向かい合って座る。",
+      "oracion_traduccion": "Sentarse de frente a la otra persona.",
+      "significadoPalabra": "estar frente a frente, encararse"
+    }
+  },
+  {
+    "id": "vaud_0440",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/440.mp3",
+      "palabraJP": "助け合う",
+      "lectura": "たすけあう",
+      "oracion": "困ったときは助け合おう。",
+      "oracion_traduccion": "Apoyémonos unos a otros cuando haya problemas.",
+      "significadoPalabra": "ayudarse mutuamente"
+    }
+  },
+  {
+    "id": "vaud_0441",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/441.mp3",
+      "palabraJP": "分け合う",
+      "lectura": "わけあう",
+      "oracion": "一つのパンをみんなで分け合って食べた。",
+      "oracion_traduccion": "Nos repartimos un solo pan entre todos y nos lo comimos.",
+      "significadoPalabra": "compartir entre sí"
+    }
+  },
+  {
+    "id": "vaud_0442",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/442.mp3",
+      "palabraJP": "出し合う",
+      "lectura": "だしあう",
+      "oracion": "兄弟でお金を出し合って、両親にプレゼントをした。",
+      "oracion_traduccion": "Juntamos dinero entre los hermanos para hacerle un regalo a nuestros padres.",
+      "significadoPalabra": "juntar recursos, aportar mutuamente"
+    }
+  },
+  {
+    "id": "vaud_0443",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/443.mp3",
+      "palabraJP": "申し合わせる",
+      "lectura": "もうしあわせる",
+      "oracion": "会議の内容は外部には言わないことを申し合わせた。",
+      "oracion_traduccion": "Acordamos no divulgar los asuntos de la reunión al exterior.",
+      "significadoPalabra": "acordar conjuntamente, pactar"
+    }
+  },
+  {
+    "id": "vaud_0444",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/444.mp3",
+      "palabraJP": "誘い合わせる",
+      "lectura": "さそいあわせる",
+      "oracion": "クラスメートたちと誘い合わせて富士山に行った。",
+      "oracion_traduccion": "Quedé de acuerdo con mis compañeros de clase para ir juntos al Monte Fuji.",
+      "significadoPalabra": "ponerse de acuerdo para ir en grupo"
+    }
+  },
+  {
+    "id": "vaud_0445",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/445.mp3",
+      "palabraJP": "隣り合わせる",
+      "lectura": "となりあわせる",
+      "oracion": "新幹線でたまたま隣り合わせた人と友だちになった。",
+      "oracion_traduccion": "Me hice amigo de la persona que casualmente se sentó a mi lado en el Shinkansen.",
+      "significadoPalabra": "estar o sentarse al lado de alguien"
+    }
+  },
+  {
+    "id": "vaud_0446",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/446.mp3",
+      "palabraJP": "組み合わせる",
+      "lectura": "くみあわせる",
+      "oracion": "部品を組み合わせてプラモデルを作る。",
+      "oracion_traduccion": "Armar una maqueta uniendo sus piezas.",
+      "significadoPalabra": "combinar, ensamblar"
+    }
+  },
+  {
+    "id": "vaud_0447",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/447.mp3",
+      "palabraJP": "詰め合わせる",
+      "lectura": "つめあわせる",
+      "oracion": "一箱にいろいろなお菓子が詰めさせてある。",
+      "oracion_traduccion": "En una sola caja vienen empacados dulces variados.",
+      "significadoPalabra": "empaquetar una variedad de productos"
+    }
+  },
+  {
+    "id": "vaud_0448",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/448.mp3",
+      "palabraJP": "重ね合わせる",
+      "lectura": "かさねあわせる",
+      "oracion": "二つの事件を重ね合わせて考えてみると、共通点が浮かび上がった。",
+      "oracion_traduccion": "Al analizar los dos casos en conjunto, salieron a relucir puntos en común.",
+      "significadoPalabra": "superponer, relacionar/comparar"
+    }
+  },
+  {
+    "id": "vaud_0449",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/449.mp3",
+      "palabraJP": "居合わせる",
+      "lectura": "いあわせる",
+      "oracion": "犯人は居合わせた客を人質に取って逃走した。",
+      "oracion_traduccion": "El criminal tomó como rehén a un cliente que estaba presente y huyó.",
+      "significadoPalabra": "coincidir en un lugar, estar presente por casualidad"
+    }
+  },
+  {
+    "id": "vaud_0450",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/450.mp3",
+      "palabraJP": "乗り合わせる",
+      "lectura": "のりあわせる",
+      "oracion": "バスで小銭がなくて困っていたら、乗り合わせていた人が200円貸してくれた。",
+      "oracion_traduccion": "Como no tenía cambio en el autobús, un pasajero que iba en el mismo transporte me prestó 200 yenes.",
+      "significadoPalabra": "coincidir en el mismo transporte público"
+    }
+  },
+  {
+    "id": "vaud_0451",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/451.mp3",
+      "palabraJP": "持ち合わせる",
+      "lectura": "もちあわせる",
+      "oracion": "すみません、今日は名刺を持ち合わせておりませんで。",
+      "oracion_traduccion": "Disculpe, hoy no traigo tarjetas de presentación conmigo.",
+      "significadoPalabra": "traer consigo al momento"
+    }
+  },
+  {
+    "id": "vaud_0452",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/452.mp3",
+      "palabraJP": "問い合わせる",
+      "lectura": "といあわせる",
+      "oracion": "住民登録について、区役所に問い合わせた。",
+      "oracion_traduccion": "Pedí información sobre el registro de residencia en la alcaldía.",
+      "significadoPalabra": "consultar, pedir informes"
+    }
+  },
+  {
+    "id": "vaud_0453",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/453.mp3",
+      "palabraJP": "照らし合わせる",
+      "lectura": "てらしあわせる",
+      "oracion": "過去の同様のケースと照らし合わせて考える。",
+      "oracion_traduccion": "Evaluar la situación cotejándola con casos similares del pasado.",
+      "significadoPalabra": "cotejar, verificar comparando"
+    }
+  },
+  {
+    "id": "vaud_0454",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/454.mp3",
+      "palabraJP": "聞き直す",
+      "lectura": "ききなおす",
+      "oracion": "聞こえなかったので聞き直した。",
+      "oracion_traduccion": "Como no escuché bien, volví a preguntar.",
+      "significadoPalabra": "volver a escuchar, preguntar de nuevo"
+    }
+  },
+  {
+    "id": "vaud_0455",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/455.mp3",
+      "palabraJP": "やり直す",
+      "lectura": "やりなおす",
+      "oracion": "実験がうまくいかなかったので、初めからやり直した。",
+      "oracion_traduccion": "Como el experimento no salió bien, lo rehíce desde el principio.",
+      "significadoPalabra": "rehacer, empezar de nuevo"
+    }
+  },
+  {
+    "id": "vaud_0456",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/456.mp3",
+      "palabraJP": "かけ直す",
+      "lectura": "かけなおす",
+      "oracion": "またあとでかけ直します。",
+      "oracion_traduccion": "Le vuelvo a llamar más tarde.",
+      "significadoPalabra": "regresar la llamada, volver a llamar"
+    }
+  },
+  {
+    "id": "vaud_0457",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/457.mp3",
+      "palabraJP": "出直す",
+      "lectura": "でなおす",
+      "oracion": "改めて出直してまいります。",
+      "oracion_traduccion": "Regresaré en otro momento.",
+      "significadoPalabra": "volver más tarde, volver a empezar"
+    }
+  },
+  {
+    "id": "vaud_0458",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/458.mp3",
+      "palabraJP": "持ち直す",
+      "lectura": "もちなおす",
+      "oracion": "落としそうになった荷物を持ち直す。",
+      "oracion_traduccion": "Reagarré la carga que se me iba a caer.",
+      "significadoPalabra": "reacomodar el agarre, recuperarse"
+    }
+  },
+  {
+    "id": "vaud_0459",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/459.mp3",
+      "palabraJP": "考え直す",
+      "lectura": "かんがえなおす",
+      "oracion": "仕事を辞めるつもりだったが、考え直したほうがいいと言われた。",
+      "oracion_traduccion": "Pensaba renunciar a mi trabajo, pero me aconsejaron que lo reconsiderara.",
+      "significadoPalabra": "reconsiderar, repensar"
+    }
+  },
+  {
+    "id": "vaud_0460",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/460.mp3",
+      "palabraJP": "思い直す",
+      "lectura": "おもいなおす",
+      "oracion": "就職するつもりだったが、思い直して進学することにした。",
+      "oracion_traduccion": "Pensaba ponerme a trabajar, pero lo pensé mejor y decidí continuar mis estudios.",
+      "significadoPalabra": "cambiar de parecer, pensarlo mejor"
+    }
   }
 ]
