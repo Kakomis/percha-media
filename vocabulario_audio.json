@@ -5518,5 +5518,593 @@
       "oracion_traduccion": "Pensaba ponerme a trabajar, pero lo pensé mejor y decidí continuar mis estudios.",
       "significadoPalabra": "cambiar de parecer, pensarlo mejor"
     }
+  },
+  {
+    "id": "vaud_0461",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/461.mp3",
+      "palabraJP": "アンテナ",
+      "lectura": "あんてな",
+      "oracion": "アンテナの向きのせいかテレビの映りが悪い。",
+      "oracion_traduccion": "Tal vez por la orientación de la antena, la televisión no se ve bien.",
+      "significadoPalabra": "antena"
+    }
+  },
+  {
+    "id": "vaud_0462",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/462.mp3",
+      "palabraJP": "イヤホン",
+      "lectura": "いやほん",
+      "oracion": "電車の中でイヤホンをつけて音楽を聴いている若者が多い。",
+      "oracion_traduccion": "Hay muchos jóvenes escuchando música con auriculares en el tren.",
+      "significadoPalabra": "auriculares, audífonos"
+    }
+  },
+  {
+    "id": "vaud_0463",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/463.mp3",
+      "palabraJP": "サイレン",
+      "lectura": "さいれん",
+      "oracion": "工場でお昼のサイレンが鳴った。",
+      "oracion_traduccion": "La sirena del mediodía sonó en la fábrica.",
+      "significadoPalabra": "sirena"
+    }
+  },
+  {
+    "id": "vaud_0464",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/464.mp3",
+      "palabraJP": "コード",
+      "lectura": "こーど",
+      "oracion": "アイロンのコードをコンセントにつないだ。",
+      "oracion_traduccion": "Enchufé el cable de la plancha al tomacorriente.",
+      "significadoPalabra": "cable, cordón eléctrico"
+    }
+  },
+  {
+    "id": "vaud_0465",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/465.mp3",
+      "palabraJP": "モニター",
+      "lectura": "もにたー",
+      "oracion": "パソコンのモニター",
+      "oracion_traduccion": "El monitor de la computadora.",
+      "significadoPalabra": "monitor, pantalla"
+    }
+  },
+  {
+    "id": "vaud_0466",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/466.mp3",
+      "palabraJP": "メーター",
+      "lectura": "めーたー",
+      "oracion": "メーターを見ると、電気やガスの使用量がわかる。",
+      "oracion_traduccion": "Al mirar el medidor, se puede saber el consumo de electricidad o gas.",
+      "significadoPalabra": "medidor, contador, metro"
+    }
+  },
+  {
+    "id": "vaud_0467",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/467.mp3",
+      "palabraJP": "ペア",
+      "lectura": "ぺあ",
+      "oracion": "男女がペアになってゲームをした。",
+      "oracion_traduccion": "Hombres y mujeres formaron parejas para jugar.",
+      "significadoPalabra": "pareja, par"
+    }
+  },
+  {
+    "id": "vaud_0468",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/468.mp3",
+      "palabraJP": "リズム",
+      "lectura": "りずむ",
+      "oracion": "この曲のリズムは3拍子だ。",
+      "oracion_traduccion": "El ritmo de esta canción es de tres tiempos.",
+      "significadoPalabra": "ritmo"
+    }
+  },
+  {
+    "id": "vaud_0469",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/469.mp3",
+      "palabraJP": "アクセント",
+      "lectura": "あくせんと",
+      "oracion": "方言によって語のアクセントが違う。",
+      "oracion_traduccion": "El acento de las palabras cambia según el dialecto.",
+      "significadoPalabra": "acento, entonación"
+    }
+  },
+  {
+    "id": "vaud_0470",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/470.mp3",
+      "palabraJP": "アルファベット",
+      "lectura": "あるふぁべっと",
+      "oracion": "図書館では英語の本はアルファベットの順に並べてある。",
+      "oracion_traduccion": "En la biblioteca, los libros en inglés están ordenados alfabéticamente.",
+      "significadoPalabra": "alfabeto, abecedario"
+    }
+  },
+  {
+    "id": "vaud_0471",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/471.mp3",
+      "palabraJP": "アドレス",
+      "lectura": "あどれす",
+      "oracion": "友だちとメールのアドレスを交換した。",
+      "oracion_traduccion": "Intercambié mi dirección de correo electrónico con un amigo.",
+      "significadoPalabra": "dirección (de correo electrónico / domicilio)"
+    }
+  },
+  {
+    "id": "vaud_0472",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/472.mp3",
+      "palabraJP": "メモ",
+      "lectura": "めも",
+      "oracion": "大事なことを紙にメモする。",
+      "oracion_traduccion": "Anoto los asuntos importantes en un papel.",
+      "significadoPalabra": "nota, apunte, nota rápida"
+    }
+  },
+  {
+    "id": "vaud_0473",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/473.mp3",
+      "palabraJP": "マーク",
+      "lectura": "まーく",
+      "oracion": "文章の重要なポイントにマークを付けて覚える。",
+      "oracion_traduccion": "Marco los puntos importantes del texto para memorizarlos.",
+      "significadoPalabra": "marca, símbolo, señal"
+    }
+  },
+  {
+    "id": "vaud_0474",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/474.mp3",
+      "palabraJP": "イラスト",
+      "lectura": "いらすと",
+      "oracion": "この本はイラストがたくさんあって内容が理解しやすい。",
+      "oracion_traduccion": "Este libro tiene muchas ilustraciones, por lo que es fácil comprender su contenido.",
+      "significadoPalabra": "ilustración, dibujo"
+    }
+  },
+  {
+    "id": "vaud_0475",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/475.mp3",
+      "palabraJP": "サイン",
+      "lectura": "さいん",
+      "oracion": "契約書にサインをする。",
+      "oracion_traduccion": "Firmar el contrato.",
+      "significadoPalabra": "firma, autógragfo, señal"
+    }
+  },
+  {
+    "id": "vaud_0476",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/476.mp3",
+      "palabraJP": "スター",
+      "lectura": "すたー",
+      "oracion": "映画がヒットし、主演俳優はたちまち世界的なスターになった。",
+      "oracion_traduccion": "La película fue un éxito y el actor principal se convirtió rápidamente en una estrella mundial.",
+      "significadoPalabra": "estrella, celebridad"
+    }
+  },
+  {
+    "id": "vaud_0477",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/477.mp3",
+      "palabraJP": "アンコール",
+      "lectura": "あんこーる",
+      "oracion": "観客のアンコールにこたえて出演者が舞台であいさつした。",
+      "oracion_traduccion": "En respuesta a la ovación del público, los intérpretes saludaron desde el escenario.",
+      "significadoPalabra": "bis, otra canción, ovación"
+    }
+  },
+  {
+    "id": "vaud_0478",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/478.mp3",
+      "palabraJP": "モデル",
+      "lectura": "もでる",
+      "oracion": "彼女はファッションショーのモデルをしている。",
+      "oracion_traduccion": "Ella trabaja como modelo en desfiles de moda.",
+      "significadoPalabra": "modelo"
+    }
+  },
+  {
+    "id": "vaud_0479",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/479.mp3",
+      "palabraJP": "サンプル",
+      "lectura": "さんぷる",
+      "oracion": "食堂の入り口に料理のサンプルが置いてある。",
+      "oracion_traduccion": "A la entrada del restaurante hay muestras plásticas de los platillos.",
+      "significadoPalabra": "muestra, muestra probatoria"
+    }
+  },
+  {
+    "id": "vaud_0480",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/480.mp3",
+      "palabraJP": "スタイル",
+      "lectura": "すたいる",
+      "oracion": "彼女はとてもスタイルがいい。",
+      "oracion_traduccion": "Ella tiene muy buena figura.",
+      "significadoPalabra": "figura, estilo, porte"
+    }
+  },
+  {
+    "id": "vaud_0481",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/481.mp3",
+      "palabraJP": "ウエスト",
+      "lectura": "うえすと",
+      "oracion": "最近太ってスカートのウエストがきつくなった。",
+      "oracion_traduccion": "He subido de peso últimamente y la cintura de la falda me aprieta.",
+      "significadoPalabra": "cintura"
+    }
+  },
+  {
+    "id": "vaud_0482",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/482.mp3",
+      "palabraJP": "カロリー",
+      "lectura": "かろりー",
+      "oracion": "成人男性が1日に必要なカロリーは、1,800~2,000kcal ぐらいと言われている。",
+      "oracion_traduccion": "Se dice que las calorías diarias necesarias para un hombre adulto son entre 1800 y 2000 kcal.",
+      "significadoPalabra": "caloría"
+    }
+  },
+  {
+    "id": "vaud_0483",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/483.mp3",
+      "palabraJP": "オーバー",
+      "lectura": "おーばー",
+      "oracion": "志願者が定員をオーバーした。",
+      "oracion_traduccion": "El número de aspirantes superó la capacidad máxima.",
+      "significadoPalabra": "exceso, superar, exagerado"
+    }
+  },
+  {
+    "id": "vaud_0484",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/484.mp3",
+      "palabraJP": "コントロール",
+      "lectura": "こんとろーる",
+      "oracion": "この機械はコンピューターでコントロールされている。",
+      "oracion_traduccion": "Esta máquina está controlada por una computadora.",
+      "significadoPalabra": "control, manejo"
+    }
+  },
+  {
+    "id": "vaud_0485",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/485.mp3",
+      "palabraJP": "カーブ",
+      "lectura": "かーぶ",
+      "oracion": "道が大きくカーブしている。",
+      "oracion_traduccion": "El camino tiene una curva muy pronunciada.",
+      "significadoPalabra": "curva"
+    }
+  },
+  {
+    "id": "vaud_0486",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/486.mp3",
+      "palabraJP": "コース",
+      "lectura": "こーす",
+      "oracion": "この道は市民マラソンのコースになっている。",
+      "oracion_traduccion": "Este camino forma parte de la ruta del maratón ciudadano.",
+      "significadoPalabra": "curso, ruta, carril, menú degustación"
+    }
+  },
+  {
+    "id": "vaud_0487",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/487.mp3",
+      "palabraJP": "レース",
+      "lectura": "れーす",
+      "oracion": "競輪場へレースを見に行った。",
+      "oracion_traduccion": "Fui al velódromo a ver las carreras de ciclismo.",
+      "significadoPalabra": "carrera, competición"
+    }
+  },
+  {
+    "id": "vaud_0488",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/488.mp3",
+      "palabraJP": "リード",
+      "lectura": "りーど",
+      "oracion": "A国は経済で世界をリードしている。",
+      "oracion_traduccion": "El país A lidera al mundo en materia económica.",
+      "significadoPalabra": "liderazgo, ventaja, guiar"
+    }
+  },
+  {
+    "id": "vaud_0489",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/489.mp3",
+      "palabraJP": "トップ",
+      "lectura": "とっぷ",
+      "oracion": "100メートル走でトップでゴールインした。",
+      "oracion_traduccion": "Cruzó la meta en primer lugar en los 100 metros planos.",
+      "significadoPalabra": "cima, primer lugar, cúpula"
+    }
+  },
+  {
+    "id": "vaud_0490",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/490.mp3",
+      "palabraJP": "ゴール",
+      "lectura": "ごーる",
+      "oracion": "山本選手は、100メートル背泳ぎで世界新記録でゴールした。",
+      "oracion_traduccion": "El atleta Yamamoto llegó a la meta rompiendo el récord mundial en los 100 metros estilo espalda.",
+      "significadoPalabra": "meta, gol, objetivo"
+    }
+  },
+  {
+    "id": "vaud_0491",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/491.mp3",
+      "palabraJP": "パス",
+      "lectura": "ぱす",
+      "oracion": "テストにパスする。",
+      "oracion_traduccion": "Aprobar un examen.",
+      "significadoPalabra": "aprobar, pase, pasar (de largo)"
+    }
+  },
+  {
+    "id": "vaud_0492",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/492.mp3",
+      "palabraJP": "ベスト",
+      "lectura": "べすと",
+      "oracion": "この方法はベストではないが、かなり効果がある。",
+      "oracion_traduccion": "Este método no es el mejor, pero es bastante efectivo.",
+      "significadoPalabra": "lo mejor, mejor marca"
+    }
+  },
+  {
+    "id": "vaud_0493",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/493.mp3",
+      "palabraJP": "レギュラー",
+      "lectura": "れぎゅらー",
+      "oracion": "チームのレギュラーになれるようにがんばっている。",
+      "oracion_traduccion": "Me estoy esforzando para ser un titular del equipo.",
+      "significadoPalabra": "titular, regular, habitual"
+    }
+  },
+  {
+    "id": "vaud_0494",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/494.mp3",
+      "palabraJP": "コーチ",
+      "lectura": "こーち",
+      "oracion": "ここの柔道部のコーチは厳しいことで有名だ。",
+      "oracion_traduccion": "El entrenador del club de judo de aquí es famoso por ser muy estricto.",
+      "significadoPalabra": "entrenador, instructor"
+    }
+  },
+  {
+    "id": "vaud_0495",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/495.mp3",
+      "palabraJP": "キャプテン",
+      "lectura": "きゃぷてん",
+      "oracion": "スポーツのキャプテンは、責任感とチームをまとめる力が求められる。",
+      "oracion_traduccion": "A un capitán deportivo se le exige sentido de responsabilidad y capacidad para unir al equipo.",
+      "significadoPalabra": "capitán"
+    }
+  },
+  {
+    "id": "vaud_0496",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/496.mp3",
+      "palabraJP": "サークル",
+      "lectura": "さーくる",
+      "oracion": "学生時代、演劇のサークルに入っていた。",
+      "oracion_traduccion": "En mis años de estudiante pertenecía a un club universitario de teatro.",
+      "significadoPalabra": "club universitario, grupo de interés"
+    }
+  },
+  {
+    "id": "vaud_0497",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/497.mp3",
+      "palabraJP": "キャンパス",
+      "lectura": "きゃんぱす",
+      "oracion": "この大学のキャンパスは緑が豊かだ。",
+      "oracion_traduccion": "El campus de esta universidad está lleno de vegetación.",
+      "significadoPalabra": "campus universitario"
+    }
+  },
+  {
+    "id": "vaud_0498",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/498.mp3",
+      "palabraJP": "オリエンテーション",
+      "lectura": "おりえんてーしょん",
+      "oracion": "新学期、学生を対象に授業登録のオリエンテーションがあった。",
+      "oracion_traduccion": "Al inicio del trimestre, hubo una sesión informativa sobre la inscripción a las clases dirigida a los estudiantes.",
+      "significadoPalabra": "orientación, sesión informativa"
+    }
+  },
+  {
+    "id": "vaud_0499",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/499.mp3",
+      "palabraJP": "カリキュラム",
+      "lectura": "かりきゅらむ",
+      "oracion": "カリキュラムに沿って授業を行う。",
+      "oracion_traduccion": "Impartir clases respetando el plan de estudios.",
+      "significadoPalabra": "plan de estudios, currículo"
+    }
+  },
+  {
+    "id": "vaud_0500",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/500.mp3",
+      "palabraJP": "プログラム",
+      "lectura": "ぷろぐらむ",
+      "oracion": "大会の参加者にプログラムが配られた。",
+      "oracion_traduccion": "Se distribuyó el programa del evento a los participantes.",
+      "significadoPalabra": "programa, itinerario"
+    }
+  },
+  {
+    "id": "vaud_0501",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/501.mp3",
+      "palabraJP": "レッスン",
+      "lectura": "れっすん",
+      "oracion": "ピアノのレッスンに通う。",
+      "oracion_traduccion": "Asistir a clases particulares de piano.",
+      "significadoPalabra": "clase, lección"
+    }
+  },
+  {
+    "id": "vaud_0502",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/502.mp3",
+      "palabraJP": "レクリエーション",
+      "lectura": "れくりえーしょん",
+      "oracion": "合宿では、勉強だけではなくレクリエーションも行われる。",
+      "oracion_traduccion": "Durante el campamento no solo se estudia, sino que también se realizan actividades recreativas.",
+      "significadoPalabra": "recreación, actividades recreativas"
+    }
+  },
+  {
+    "id": "vaud_0503",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/503.mp3",
+      "palabraJP": "レジャー",
+      "lectura": "れじゃー",
+      "oracion": "休みに海外へレジャーに出かける。",
+      "oracion_traduccion": "Salir al extranjero de vacaciones durante el tiempo libre.",
+      "significadoPalabra": "ocio, actividades de ocio"
+    }
+  },
+  {
+    "id": "vaud_0504",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/504.mp3",
+      "palabraJP": "ガイド",
+      "lectura": "がいど",
+      "oracion": "旅行会社でガイドをしている。",
+      "oracion_traduccion": "Trabaja como guía en una agencia de viajes.",
+      "significadoPalabra": "guía, orientación"
+    }
+  },
+  {
+    "id": "vaud_0505",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/505.mp3",
+      "palabraJP": "シーズン",
+      "lectura": "しーずん",
+      "oracion": "日本では12月から2月にかけてが受験のシーズンだ。",
+      "oracion_traduccion": "En Japón, el periodo entre diciembre y febrero es la temporada de exámenes de admisión.",
+      "significadoPalabra": "temporada, época"
+    }
+  },
+  {
+    "id": "vaud_0506",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/506.mp3",
+      "palabraJP": "ダイヤ",
+      "lectura": "だいや",
+      "oracion": "事故で列車のダイヤが乱れたが、数時間後に復旧した。",
+      "oracion_traduccion": "El horario de los trenes se interrumpió por un accidente, pero se restableció unas horas después.",
+      "significadoPalabra": "horario de servicios (trenes/autobuses)"
+    }
+  },
+  {
+    "id": "vaud_0507",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/507.mp3",
+      "palabraJP": "ウィークデー",
+      "lectura": "うぃーくでー",
+      "oracion": "この道路はウィークデーは渋滞するが、休日はがらがらだ。",
+      "oracion_traduccion": "Esta calle suele tener embotellamientos los días entre semana, pero los fines de semana está completamente vacía.",
+      "significadoPalabra": "días laborables, entre semana"
+    }
+  },
+  {
+    "id": "vaud_0508",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/508.mp3",
+      "palabraJP": "サービス",
+      "lectura": "さーびす",
+      "oracion": "「当社はお客さまに喜ばれるサービスを心がけております」",
+      "oracion_traduccion": "«En nuestra empresa procuramos ofrecer un servicio que satisfaga a nuestros clientes».",
+      "significadoPalabra": "servicio, atenciones, cortesía/descuento"
+    }
+  },
+  {
+    "id": "vaud_0509",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/509.mp3",
+      "palabraJP": "アルコール",
+      "lectura": "あるこーる",
+      "oracion": "注射の前にアルコールで消毒する。",
+      "oracion_traduccion": "Desinfectar con alcohol antes de una inyección.",
+      "significadoPalabra": "alcohol, bebida alcohólica"
+    }
   }
 ]
