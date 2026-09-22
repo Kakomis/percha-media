@@ -6106,5 +6106,17 @@
       "oracion_traduccion": "Desinfectar con alcohol antes de una inyección.",
       "significadoPalabra": "alcohol, bebida alcohólica"
     }
+  },
+  {
+    "id": "vaud_0510",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/510.mp3",
+      "palabraJP": "デコレーション",
+      "lectura": "でこれーしょん",
+      "oracion": "12月になると、多くの店がクリスマスのデコレーションをする。",
+      "oracion_traduccion": "Al llegar diciembre, muchas tiendas colocan decoraciones navideñas.",
+      "significadoPalabra": "decoración, adorno"
+    }
   }
 ]
