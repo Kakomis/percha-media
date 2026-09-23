@@ -6118,5 +6118,3965 @@
       "oracion_traduccion": "Al llegar diciembre, muchas tiendas colocan decoraciones navideñas.",
       "significadoPalabra": "decoración, adorno"
     }
+  },
+  {
+    "id": "vaud_0511",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/511.mp3",
+      "palabraJP": "最も",
+      "lectura": "もっとも",
+      "oracion": "世界で最も面積の広い国はロシアである。",
+      "oracion_traduccion": "Rusia es el país con mayor superficie del mundo.",
+      "significadoPalabra": "el más, lo más"
+    }
+  },
+  {
+    "id": "vaud_0512",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/512.mp3",
+      "palabraJP": "ほぼ",
+      "lectura": "ほぼ",
+      "oracion": "新しいビルはほぼ完成した。",
+      "oracion_traduccion": "El nuevo edificio está casi terminado.",
+      "significadoPalabra": "casi, aproximadamente"
+    }
+  },
+  {
+    "id": "vaud_0513",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/513.mp3",
+      "palabraJP": "相当",
+      "lectura": "そうとう",
+      "oracion": "彼の表情からすると、相当強く叱られたようだ。",
+      "oracion_traduccion": "A juzgar por su expresión, parece que lo regañaron bastante fuerte.",
+      "significadoPalabra": "bastante, considerablemente"
+    }
+  },
+  {
+    "id": "vaud_0514",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/514.mp3",
+      "palabraJP": "割に",
+      "lectura": "わりに",
+      "oracion": "道が込んでいるかと思ったら、わりにすいていた。",
+      "oracion_traduccion": "Pensé que el tráfico estaría pesado, pero estaba relativamente despejado.",
+      "significadoPalabra": "relativamente, comparativamente"
+    }
+  },
+  {
+    "id": "vaud_0515",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/515.mp3",
+      "palabraJP": "多少",
+      "lectura": "たしょう",
+      "oracion": "寒い日が続いているが、今日は多少暖かい。",
+      "oracion_traduccion": "Han continuado los días fríos, pero hoy está un poco más cálido.",
+      "significadoPalabra": "un poco, algo"
+    }
+  },
+  {
+    "id": "vaud_0516",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/516.mp3",
+      "palabraJP": "少々",
+      "lectura": "しょうしょう",
+      "oracion": "魚は水気を取り、塩を少々ふっておきます。",
+      "oracion_traduccion": "Séquese el pescado y espolvoree un poco de sal.",
+      "significadoPalabra": "un poco, una pizca"
+    }
+  },
+  {
+    "id": "vaud_0517",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/517.mp3",
+      "palabraJP": "すべて",
+      "lectura": "すべて",
+      "oracion": "問題はすべて解決した。",
+      "oracion_traduccion": "Todos los problemas se han resuelto.",
+      "significadoPalabra": "todo, totalmente"
+    }
+  },
+  {
+    "id": "vaud_0518",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/518.mp3",
+      "palabraJP": "何もかも",
+      "lectura": "なにしもかも",
+      "oracion": "何もかも捨てて人生をやり直したい。",
+      "oracion_traduccion": "Quiero dejarlo todo y reiniciar mi vida.",
+      "significadoPalabra": "absolutamente todo"
+    }
+  },
+  {
+    "id": "vaud_0519",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/519.mp3",
+      "palabraJP": "たっぷり",
+      "lectura": "たっぷり",
+      "oracion": "時間はたっぷりあるから、急がなくてもいい。",
+      "oracion_traduccion": "Hay tiempo de sobra, así que no hace falta apurarse.",
+      "significadoPalabra": "de sobra, abundante"
+    }
+  },
+  {
+    "id": "vaud_0520",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/520.mp3",
+      "palabraJP": "できるだけ",
+      "lectura": "できるだけ",
+      "oracion": "できるだけ早くお返事ください。",
+      "oracion_traduccion": "Por favor, responda lo antes posible.",
+      "significadoPalabra": "en la medida de lo posible"
+    }
+  },
+  {
+    "id": "vaud_0521",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/521.mp3",
+      "palabraJP": "次第に",
+      "lectura": "しだいに",
+      "oracion": "冬至を過ぎると、日はしだいに長くなる。",
+      "oracion_traduccion": "Pasado el solsticio de invierno, los días se van alargando poco a poco.",
+      "significadoPalabra": "gradualmente, paulatinamente"
+    }
+  },
+  {
+    "id": "vaud_0522",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/522.mp3",
+      "palabraJP": "徐々に",
+      "lectura": "じょじょに",
+      "oracion": "車は徐々にスピードを落とし、やがて止まった。",
+      "oracion_traduccion": "El auto redujo la velocidad progresivamente y al poco tiempo se detuvo.",
+      "significadoPalabra": "poco a poco, progresivamente"
+    }
+  },
+  {
+    "id": "vaud_0523",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/523.mp3",
+      "palabraJP": "さらに",
+      "lectura": "さらに",
+      "oracion": "7月も暑かったが、8月になるとさらに暑さが増した。",
+      "oracion_traduccion": "Julio fue caluroso, pero al llegar agosto el calor aumentó aún más.",
+      "significadoPalabra": "aún más, todavía más"
+    }
+  },
+  {
+    "id": "vaud_0524",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/524.mp3",
+      "palabraJP": "一層",
+      "lectura": "いっそう",
+      "oracion": "夜になって、風雨はいっそう激しくなった。",
+      "oracion_traduccion": "Al caer la noche, el viento y la lluvia se volvieron aún más intensos.",
+      "significadoPalabra": "aún más, mucho más"
+    }
+  },
+  {
+    "id": "vaud_0525",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/525.mp3",
+      "palabraJP": "一段と",
+      "lectura": "いちだんと",
+      "oracion": "1月になると、寒さは一段と厳しくなった。",
+      "oracion_traduccion": "Al llegar enero, el frío se volvió considerablemente más severo.",
+      "significadoPalabra": "mucho más, sensiblemente más"
+    }
+  },
+  {
+    "id": "vaud_0526",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/526.mp3",
+      "palabraJP": "より",
+      "lectura": "より",
+      "oracion": "より良い未来を築くために、みんなで力を合わせましょう。",
+      "oracion_traduccion": "Unamos fuerzas entre todos para construir un futuro mejor.",
+      "significadoPalabra": "más"
+    }
+  },
+  {
+    "id": "vaud_0527",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/527.mp3",
+      "palabraJP": "結局",
+      "lectura": "けっきょく",
+      "oracion": "いろいろ考えて、結局断ることにした。",
+      "oracion_traduccion": "Lo pensé bastante y al final decidí rechazarlo.",
+      "significadoPalabra": "al final, a fin de cuentas"
+    }
+  },
+  {
+    "id": "vaud_0528",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/528.mp3",
+      "palabraJP": "ようやく",
+      "lectura": "ようやく",
+      "oracion": "5年かかって、ようやく橋が完成した。",
+      "oracion_traduccion": "Tomó cinco años, pero por fin se completó el puente.",
+      "significadoPalabra": "por fin, finalmente"
+    }
+  },
+  {
+    "id": "vaud_0529",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/529.mp3",
+      "palabraJP": "再び",
+      "lectura": "ふたたび",
+      "oracion": "1年目は不合格だったので、翌年再び受験し、今度は合格した。",
+      "oracion_traduccion": "Como no aprobé el primer año, volví a presentar el examen al año siguiente y esta vez lo logré.",
+      "significadoPalabra": "de nuevo, otra vez"
+    }
+  },
+  {
+    "id": "vaud_0530",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/530.mp3",
+      "palabraJP": "たちまち",
+      "lectura": "たちまち",
+      "oracion": "空が暗くなったかと思うと、たちまち雨が降り始めた。",
+      "oracion_traduccion": "Apenas se oscureció el cielo, empezó a llover en un abrir y cerrar de ojos.",
+      "significadoPalabra": "de inmediato, en un instante"
+    }
+  },
+  {
+    "id": "vaud_0531",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/531.mp3",
+      "palabraJP": "今度",
+      "lectura": "こんど",
+      "oracion": "今度できたレストランは、味がいいと評判だ。",
+      "oracion_traduccion": "El restaurante que acaba de abrir tiene fama de servir comida muy rica.",
+      "significadoPalabra": "esta vez, la próxima vez"
+    }
+  },
+  {
+    "id": "vaud_0532",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/532.mp3",
+      "palabraJP": "今後",
+      "lectura": "こんご",
+      "oracion": "会社を辞めた。今後のことはまだ何も決まっていない。",
+      "oracion_traduccion": "Renuncié a la empresa. Todavía no he decidido nada sobre mi futuro.",
+      "significadoPalabra": "en adelante, de ahora en adelante"
+    }
+  },
+  {
+    "id": "vaud_0533",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/533.mp3",
+      "palabraJP": "後",
+      "lectura": "のち",
+      "oracion": "松本さんは文学部を卒業した後に、医学部に入り直したそうだ。",
+      "oracion_traduccion": "Dicen que el Sr. Matsumoto ingresó a Medicina después de graduarse de la Facultad de Letras.",
+      "significadoPalabra": "después, más adelante"
+    }
+  },
+  {
+    "id": "vaud_0534",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/534.mp3",
+      "palabraJP": "まもなく",
+      "lectura": "まもなく",
+      "oracion": "まもなく開演です。お席にお着きになってお待ちください。",
+      "oracion_traduccion": "El evento comenzará pronto. Por favor, tomen sus asientos y aguarden.",
+      "significadoPalabra": "pronto, en breve"
+    }
+  },
+  {
+    "id": "vaud_0535",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/535.mp3",
+      "palabraJP": "そのうち",
+      "lectura": "そのうち",
+      "oracion": "そんなめちゃくちゃな生活をしていたら、そのうち病気になるよ。",
+      "oracion_traduccion": "Si llevas una vida tan desordenada, te vas a enfermar en cualquier momento.",
+      "significadoPalabra": "eventualmente, tarde o temprano"
+    }
+  },
+  {
+    "id": "vaud_0536",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/536.mp3",
+      "palabraJP": "やがて",
+      "lectura": "やがて",
+      "oracion": "朝5時になった。やがて夜が明けるだろう。",
+      "oracion_traduccion": "Son las 5 de la mañana. Pronto amanecerá.",
+      "significadoPalabra": "pronto, con el tiempo"
+    }
+  },
+  {
+    "id": "vaud_0537",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/537.mp3",
+      "palabraJP": "いずれ",
+      "lectura": "いずれ",
+      "oracion": "子どもはいずれ親から離れていくものだ。",
+      "oracion_traduccion": "Los hijos terminan por independizarse de sus padres tarde o temprano.",
+      "significadoPalabra": "tarde o temprano, eventualmente"
+    }
+  },
+  {
+    "id": "vaud_0538",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/538.mp3",
+      "palabraJP": "先ほど",
+      "lectura": "さきほど",
+      "oracion": "先ほど、無事到着したとの連絡があった。",
+      "oracion_traduccion": "Hace un momento nos avisaron que llegaron sin novedad.",
+      "significadoPalabra": "hace un momento, hace poco"
+    }
+  },
+  {
+    "id": "vaud_0539",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/539.mp3",
+      "palabraJP": "とっくに",
+      "lectura": "とっくに",
+      "oracion": "「松井さんは？」「とっくに帰ったよ」",
+      "oracion_traduccion": "—¿Y Matsui? —Hace tiempo que se fue a casa.",
+      "significadoPalabra": "hace mucho tiempo, ya hace rato"
+    }
+  },
+  {
+    "id": "vaud_0540",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/540.mp3",
+      "palabraJP": "すでに",
+      "lectura": "すでに",
+      "oracion": "私が駅に着いたとき、終電はすでに出た後だった。",
+      "oracion_traduccion": "Cuando llegué a la estación, el último tren ya se había ido.",
+      "significadoPalabra": "ya, previamente"
+    }
+  },
+  {
+    "id": "vaud_0541",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/541.mp3",
+      "palabraJP": "事前に",
+      "lectura": "じぜんに",
+      "oracion": "インタビューの相手に、事前に質問を伝えておいた。",
+      "oracion_traduccion": "Le envié las preguntas al entrevistado con anticipación.",
+      "significadoPalabra": "con anticipación, de antemano"
+    }
+  },
+  {
+    "id": "vaud_0542",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/542.mp3",
+      "palabraJP": "当日",
+      "lectura": "とうじつ",
+      "oracion": "入試当日、熱を出してしまった。",
+      "oracion_traduccion": "El mismo día del examen de admisión me dio fiebre.",
+      "significadoPalabra": "el mismo día, aquel día"
+    }
+  },
+  {
+    "id": "vaud_0543",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/543.mp3",
+      "palabraJP": "当時",
+      "lectura": "とうじ",
+      "oracion": "私は京都出身だが、当時住んでいた家はもうない。",
+      "oracion_traduccion": "Soy de Kioto, pero la casa en la que vivía en aquel entonces ya no existe.",
+      "significadoPalabra": "en aquel entonces, por aquel tiempo"
+    }
+  },
+  {
+    "id": "vaud_0544",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/544.mp3",
+      "palabraJP": "一時",
+      "lectura": "いちじ",
+      "oracion": "子どものころ、一時アメリカに住んでいたことがある。",
+      "oracion_traduccion": "Cuando era niño, viví por un tiempo en Estados Unidos.",
+      "significadoPalabra": "por un tiempo, temporalmente"
+    }
+  },
+  {
+    "id": "vaud_0545",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/545.mp3",
+      "palabraJP": "至急",
+      "lectura": "しきゅう",
+      "oracion": "この患者は至急病院へ運ぶ必要がある。",
+      "oracion_traduccion": "Es necesario trasladar a este paciente al hospital con urgencia.",
+      "significadoPalabra": "con urgencia, de inmediato"
+    }
+  },
+  {
+    "id": "vaud_0546",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/546.mp3",
+      "palabraJP": "直ちに",
+      "lectura": "ただちに",
+      "oracion": "事故の情報はただちに社長に伝えられた。",
+      "oracion_traduccion": "La información del accidente le fue comunicada de inmediato al presidente de la empresa.",
+      "significadoPalabra": "de inmediato, acto seguido"
+    }
+  },
+  {
+    "id": "vaud_0547",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/547.mp3",
+      "palabraJP": "早速",
+      "lectura": "さっそく",
+      "oracion": "新しいレストランができたので、早速行ってみた。",
+      "oracion_traduccion": "Como abrieron un nuevo restaurante, fui enseguida a probarlo.",
+      "significadoPalabra": "enseguida, sin demora"
+    }
+  },
+  {
+    "id": "vaud_0548",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/548.mp3",
+      "palabraJP": "いきなり",
+      "lectura": "いきなり",
+      "oracion": "ノックもせずにいきなり部屋に入るのは失礼だ。",
+      "oracion_traduccion": "Es de mal gusto entrar a la habitación repentinamente sin tocar la puerta.",
+      "significadoPalabra": "de repente, sin avisar"
+    }
+  },
+  {
+    "id": "vaud_0549",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/549.mp3",
+      "palabraJP": "常に",
+      "lectura": "つねに",
+      "oracion": "鈴木さんは常に努力をおこたらない、すばらしい学生だ。",
+      "oracion_traduccion": "Suzuki es un estudiante brillante que nunca deja de esforzarse.",
+      "significadoPalabra": "siempre, constantemente"
+    }
+  },
+  {
+    "id": "vaud_0550",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/550.mp3",
+      "palabraJP": "絶えず",
+      "lectura": "たえず",
+      "oracion": "妹は体が弱くて、たえず風邪をひいている。",
+      "oracion_traduccion": "Mi hermana menor es enfermiza y vive resfriándose todo el tiempo.",
+      "significadoPalabra": "continuamente, sin cesar"
+    }
+  },
+  {
+    "id": "vaud_0551",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/551.mp3",
+      "palabraJP": "しばしば",
+      "lectura": "しばしば",
+      "oracion": "年のせいか、しばしば物忘れをするようになった。",
+      "oracion_traduccion": "Será por la edad, pero con frecuencia se me olvidan las cosas.",
+      "significadoPalabra": "con frecuencia, a menudo"
+    }
+  },
+  {
+    "id": "vaud_0552",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/552.mp3",
+      "palabraJP": "たびたび",
+      "lectura": "たびたび",
+      "oracion": "田中さんとは仕事以外でもたびたび会うようになった。",
+      "oracion_traduccion": "Empecé a ver a Tanaka con frecuencia incluso fuera del trabajo.",
+      "significadoPalabra": "seguido, repetidas veces"
+    }
+  },
+  {
+    "id": "vaud_0553",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/553.mp3",
+      "palabraJP": "しょっちゅう",
+      "lectura": "しょっちゅう",
+      "oracion": "この路線のバスはしょっちゅう遅れるから困る。",
+      "oracion_traduccion": "Es molesto que los autobuses de esta ruta se retrasen a cada rato.",
+      "significadoPalabra": "a cada rato, a todas horas"
+    }
+  },
+  {
+    "id": "vaud_0554",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/554.mp3",
+      "palabraJP": "たまに",
+      "lectura": "たまに",
+      "oracion": "最近運動不足なので、たまにたくさん歩くと疲れる。",
+      "oracion_traduccion": "Como no hago ejercicio últimamente, me canso cuando llego a caminar mucho de vez en cuando.",
+      "significadoPalabra": "de vez en cuando, ocasionalmente"
+    }
+  },
+  {
+    "id": "vaud_0555",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/555.mp3",
+      "palabraJP": "めったに",
+      "lectura": "めったに",
+      "oracion": "このあたりでは、雪はめったに降らない。",
+      "oracion_traduccion": "Rara vez nieva por esta zona.",
+      "significadoPalabra": "rara vez, casi nunca"
+    }
+  },
+  {
+    "id": "vaud_0556",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/556.mp3",
+      "palabraJP": "にこにこ",
+      "lectura": "にこにこ",
+      "oracion": "あの人はいつも愛想良く、にこにこしている。",
+      "oracion_traduccion": "Esa persona siempre es amable y está sonriendo.",
+      "significadoPalabra": "sonriente, de buen modo"
+    }
+  },
+  {
+    "id": "vaud_0557",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/557.mp3",
+      "palabraJP": "にやにや",
+      "lectura": "にやにや",
+      "oracion": "「何をにやにやしているんだ。気持ち悪い」",
+      "oracion_traduccion": "—¿De qué te sonríes maliciosamente? Da escalofríos.",
+      "significadoPalabra": "sonreír con malicia, poner sonrisa burlona"
+    }
+  },
+  {
+    "id": "vaud_0558",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/558.mp3",
+      "palabraJP": "どきどき",
+      "lectura": "どきどき",
+      "oracion": "緊張で胸がどきどきする。",
+      "oracion_traduccion": "El corazón me late con fuerza por los nervios.",
+      "significadoPalabra": "palpitar con fuerza, latir rápido"
+    }
+  },
+  {
+    "id": "vaud_0559",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/559.mp3",
+      "palabraJP": "はらはら",
+      "lectura": "はらはら",
+      "oracion": "桜の花びらがはらはらと散った。",
+      "oracion_traduccion": "Los pétalos de cerezo cayeron suavemente.",
+      "significadoPalabra": "caer suavemente, estar en vivo vilo"
+    }
+  },
+  {
+    "id": "vaud_0560",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/560.mp3",
+      "palabraJP": "かんかん",
+      "lectura": "かんかん",
+      "oracion": "「お父さん、怒ってる？」「かんかんだよ」",
+      "oracion_traduccion": "—¿Papá está enojado? —Está furioso.",
+      "significadoPalabra": "furioso, resplandeciente"
+    }
+  },
+  {
+    "id": "vaud_0561",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/561.mp3",
+      "palabraJP": "びしょびしょ",
+      "lectura": "びしょびしょ",
+      "oracion": "洗面台の周りがびしょびしょだ。",
+      "oracion_traduccion": "Alrededor del lavabo está todo empapado.",
+      "significadoPalabra": "empapado, empapada"
+    }
+  },
+  {
+    "id": "vaud_0562",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/562.mp3",
+      "palabraJP": "うろうろ",
+      "lectura": "うろうろ",
+      "oracion": "友人の家の場所がわからず、30分もうろうろと歩き回った。",
+      "oracion_traduccion": "Como no encontraba la casa de mi amigo, estuve dando vueltas sin rumbo por 30 minutos.",
+      "significadoPalabra": "deambular sin rumbo, dar vueltas sin saber a dónde ir"
+    }
+  },
+  {
+    "id": "vaud_0563",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/563.mp3",
+      "palabraJP": "のろのろ",
+      "lectura": "のろのろ",
+      "oracion": "渋滞で、車はのろのろとしか進まなかった。",
+      "oracion_traduccion": "Por el embotellamiento, el auto apenas avanzaba a paso de tortuga.",
+      "significadoPalabra": "lentamente, a paso de tortuga"
+    }
+  },
+  {
+    "id": "vaud_0564",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/564.mp3",
+      "palabraJP": "ふらふら",
+      "lectura": "ふらふら",
+      "oracion": "熱で頭がふらふらする。",
+      "oracion_traduccion": "Siento que me tambaleo por la fiebre.",
+      "significadoPalabra": "tambaleante, mareado"
+    }
+  },
+  {
+    "id": "vaud_0565",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/565.mp3",
+      "palabraJP": "ぶらぶら",
+      "lectura": "ぶらぶら",
+      "oracion": "折れた木の枝がぶらぶらと揺れている。",
+      "oracion_traduccion": "La rama rota del árbol está colgado balanceándose.",
+      "significadoPalabra": "balanceándose, pasear tranquilamente"
+    }
+  },
+  {
+    "id": "vaud_0566",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/566.mp3",
+      "palabraJP": "したがって",
+      "lectura": "したがって",
+      "oracion": "A社は大企業で給料も高い。したがって、入社希望者も多い。",
+      "oracion_traduccion": "La empresa A es una gran corporación con buenos salarios. Por lo tanto, hay muchos aspirantes para entrar.",
+      "significadoPalabra": "por lo tanto, por consiguiente"
+    }
+  },
+  {
+    "id": "vaud_0567",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/567.mp3",
+      "palabraJP": "だが",
+      "lectura": "だが",
+      "oracion": "必死に勉強した。だが、不合格だった。",
+      "oracion_traduccion": "Estudié desesperadamente. Sin embargo, no aprobé.",
+      "significadoPalabra": "sin embargo, pero"
+    }
+  },
+  {
+    "id": "vaud_0568",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/568.mp3",
+      "palabraJP": "ところが",
+      "lectura": "ところが",
+      "oracion": "8時には到着する予定だった。ところが事故で渋滞し、9時過ぎになってしまった。",
+      "oracion_traduccion": "Tenía previsto llegar a las 8. No obstante, por un accidente se formó un embotellamiento y se hicieron pasadas las 9.",
+      "significadoPalabra": "sin embargo, no obstante"
+    }
+  },
+  {
+    "id": "vaud_0569",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/569.mp3",
+      "palabraJP": "しかも",
+      "lectura": "しかも",
+      "oracion": "このあたりの夏は気温が高く、しかも湿度も高い。",
+      "oracion_traduccion": "El verano por esta zona tiene temperaturas elevadas y, encima, la humedad también es alta.",
+      "significadoPalabra": "además, encima"
+    }
+  },
+  {
+    "id": "vaud_0570",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/570.mp3",
+      "palabraJP": "すると",
+      "lectura": "すると",
+      "oracion": "カーテンを開けた。すると、目の前に海が見えた。",
+      "oracion_traduccion": "Abrí las cortinas y, de pronto, apareció el mar ante mis ojos.",
+      "significadoPalabra": "entonces, justo en ese momento"
+    }
+  },
+  {
+    "id": "vaud_0571",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/571.mp3",
+      "palabraJP": "なぜなら",
+      "lectura": "なぜなら",
+      "oracion": "このあたりは昔海だったと考えられる。なぜなら、貝の化石が見つかっているからだ。",
+      "oracion_traduccion": "Se piensa que esta zona era un mar antiguamente. La razón es que se han encontrado fósiles de conchas.",
+      "significadoPalabra": "porque, la razón es que"
+    }
+  },
+  {
+    "id": "vaud_0572",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/572.mp3",
+      "palabraJP": "だって",
+      "lectura": "だって",
+      "oracion": "「どうして食べないの？」「だって、嫌いなんだもん」",
+      "oracion_traduccion": "—¿Por qué no comes? —Es que no me gusta.",
+      "significadoPalabra": "es que, pero"
+    }
+  },
+  {
+    "id": "vaud_0573",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/573.mp3",
+      "palabraJP": "要するに",
+      "lectura": "ようするに",
+      "oracion": "不合格になったということは、要するに実力がなかったのだ。",
+      "oracion_traduccion": "Haber reprobado significa, en pocas palabras, que no tenía la preparación suficiente.",
+      "significadoPalabra": "en pocas palabras, en resumen"
+    }
+  },
+  {
+    "id": "vaud_0574",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/574.mp3",
+      "palabraJP": "すなわち",
+      "lectura": "すなわち",
+      "oracion": "一郎君は妻の兄の子ども、すなわち、おいに当たる。",
+      "oracion_traduccion": "Ichiro es hijo del hermano de mi esposa; es decir, es mi sobrino.",
+      "significadoPalabra": "es decir, o sea"
+    }
+  },
+  {
+    "id": "vaud_0575",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/575.mp3",
+      "palabraJP": "あるいは",
+      "lectura": "あるいは",
+      "oracion": "この書類にはサイン、あるいは印鑑が必要だ。",
+      "oracion_traduccion": "En este documento se requiere firma o, en su defecto, sello personal.",
+      "significadoPalabra": "o bien, tal vez"
+    }
+  },
+  {
+    "id": "vaud_0576",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/576.mp3",
+      "palabraJP": "さて",
+      "lectura": "さて",
+      "oracion": "これで文法の説明を終わります。さて、次は聴解です。",
+      "oracion_traduccion": "Con esto terminamos la explicación de gramática. Ahora, continuaremos con la comprensión auditiva.",
+      "significadoPalabra": "bueno, bien ahora"
+    }
+  },
+  {
+    "id": "vaud_0577",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/577.mp3",
+      "palabraJP": "では",
+      "lectura": "では",
+      "oracion": "みなさん、お集りですね。では、出発しましょう。",
+      "oracion_traduccion": "Ya están todos reunidos. Bien, pongámonos en marcha.",
+      "significadoPalabra": "entonces, bien"
+    }
+  },
+  {
+    "id": "vaud_0578",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/578.mp3",
+      "palabraJP": "ところで",
+      "lectura": "ところで",
+      "oracion": "今日はお疲れ様でした。ところで、今晩のご予定は？",
+      "oracion_traduccion": "Buen trabajo por hoy. Por cierto, ¿tiene algún plan para esta noche?",
+      "significadoPalabra": "por cierto, cambiando de tema"
+    }
+  },
+  {
+    "id": "vaud_0579",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/579.mp3",
+      "palabraJP": "そう言えば",
+      "lectura": "そういえば",
+      "oracion": "同窓会の会場、予約しました。ありがとう。そう言えば、山口先生が本を出されたそうですよ。",
+      "oracion_traduccion": "Ya reservé el lugar para la reunión de exalumnos. Gracias. Ahora que lo recuerdo, escuché que el profesor Yamaguchi publicó un libro.",
+      "significadoPalabra": "ahora que lo me acuerdo, hablando de eso"
+    }
+  },
+  {
+    "id": "vaud_0580",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/580.mp3",
+      "palabraJP": "ただ",
+      "lectura": "ただ",
+      "oracion": "あのレストランは味もいいし、値段も安い。ただ、場所がちょっと不便だ。",
+      "oracion_traduccion": "Aquel restaurante sirve buena comida y a buen precio. Lo único es que la ubicación resulta incómoda.",
+      "significadoPalabra": "lo único es que, sólo que"
+    }
+  },
+  {
+    "id": "vaud_0581",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/581.mp3",
+      "palabraJP": "食料",
+      "lectura": "しょくりょう",
+      "oracion": "日本は食料の自給率が低いと言われる。",
+      "oracion_traduccion": "Se dice que Japón tiene un bajo nivel de autosuficiencia alimentaria.",
+      "significadoPalabra": "alimentos, víveres"
+    }
+  },
+  {
+    "id": "vaud_0582",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/582.mp3",
+      "palabraJP": "粒",
+      "lectura": "つぶ",
+      "oracion": "ぶどうを一粒食べる。",
+      "oracion_traduccion": "Me comí un grano de uva.",
+      "significadoPalabra": "grano, gota"
+    }
+  },
+  {
+    "id": "vaud_0583",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/583.mp3",
+      "palabraJP": "くず",
+      "lectura": "くず",
+      "oracion": "野菜のくずを捨てる。",
+      "oracion_traduccion": "Tiro los restos de verdura.",
+      "significadoPalabra": "desperdicios, restos"
+    }
+  },
+  {
+    "id": "vaud_0584",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/584.mp3",
+      "palabraJP": "栽培",
+      "lectura": "さいばい",
+      "oracion": "この畑では小麦を栽培している。",
+      "oracion_traduccion": "En este campo cultivan trigo.",
+      "significadoPalabra": "cultivo"
+    }
+  },
+  {
+    "id": "vaud_0585",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/585.mp3",
+      "palabraJP": "収穫",
+      "lectura": "しゅうかく",
+      "oracion": "農作物を収穫する。",
+      "oracion_traduccion": "Cosechan los cultivos agrícolas.",
+      "significadoPalabra": "cosecha"
+    }
+  },
+  {
+    "id": "vaud_0586",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/586.mp3",
+      "palabraJP": "産地",
+      "lectura": "さんち",
+      "oracion": "青森県は、りんごの産地として有名だ。",
+      "oracion_traduccion": "La prefectura de Aomori es famosa por ser zona de producción de manzanas.",
+      "significadoPalabra": "lugar de producción, región reductora"
+    }
+  },
+  {
+    "id": "vaud_0587",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/587.mp3",
+      "palabraJP": "土地",
+      "lectura": "とち",
+      "oracion": "土地を買って家を建てる。",
+      "oracion_traduccion": "Comprar un terreno para construir una casa.",
+      "significadoPalabra": "terreno, tierra"
+    }
+  },
+  {
+    "id": "vaud_0588",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/588.mp3",
+      "palabraJP": "倉庫",
+      "lectura": "そうこ",
+      "oracion": "港には多くの倉庫が並んでいる。",
+      "oracion_traduccion": "En el puerto hay hileras de almacenes.",
+      "significadoPalabra": "almacén, bodega"
+    }
+  },
+  {
+    "id": "vaud_0589",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/589.mp3",
+      "palabraJP": "所有",
+      "lectura": "しょゆう",
+      "oracion": "山本家は広い畑を所有している。",
+      "oracion_traduccion": "La familia Yamamoto posee un terreno de cultivo extenso.",
+      "significadoPalabra": "posesión, propiedad"
+    }
+  },
+  {
+    "id": "vaud_0590",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/590.mp3",
+      "palabraJP": "収集",
+      "lectura": "しゅうしゅう",
+      "oracion": "ごみは可燃・不燃に分別して収集する地域が多い。",
+      "oracion_traduccion": "En muchas zonas, la basura se recolecta clasificándola en combustible y no combustible.",
+      "significadoPalabra": "recolección, colección"
+    }
+  },
+  {
+    "id": "vaud_0591",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/591.mp3",
+      "palabraJP": "滞在",
+      "lectura": "たいざい",
+      "oracion": "今回の海外出張は、約1ヵ月の滞在になる予定だ。",
+      "oracion_traduccion": "Está previsto que este viaje de negocios al extranjero sea de una estancia de un mes aproximadamente.",
+      "significadoPalabra": "estancia, estadía"
+    }
+  },
+  {
+    "id": "vaud_0592",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/592.mp3",
+      "palabraJP": "便",
+      "lectura": "べん",
+      "oracion": "ここは交通の便がいい。",
+      "oracion_traduccion": "La accesibilidad de transporte es conveniente en este lugar.",
+      "significadoPalabra": "conveniencia, facilidad"
+    }
+  },
+  {
+    "id": "vaud_0593",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/593.mp3",
+      "palabraJP": "便",
+      "lectura": "びん",
+      "oracion": "朝一番の便で書類を送ったから、明日の午前中に着くと思います。",
+      "oracion_traduccion": "Envié los documentos en el primer servicio de la mañana, así que calculo que llegarán mañana antes de mediodía.",
+      "significadoPalabra": "vuelo, servicio de envío"
+    }
+  },
+  {
+    "id": "vaud_0594",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/594.mp3",
+      "palabraJP": "設備",
+      "lectura": "せつび",
+      "oracion": "うちの大学はスポーツ設備が充実している。",
+      "oracion_traduccion": "Nuestra universidad cuenta con excelentes instalaciones deportivas.",
+      "significadoPalabra": "instalaciones, equipamiento"
+    }
+  },
+  {
+    "id": "vaud_0595",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/595.mp3",
+      "palabraJP": "設計",
+      "lectura": "せっけい",
+      "oracion": "このロボットは、設計から製作まですべて大学生たちが行った。",
+      "oracion_traduccion": "Los universitarios realizaron todo el proceso de este robot, desde el diseño hasta su fabricación.",
+      "significadoPalabra": "diseño, planificación"
+    }
+  },
+  {
+    "id": "vaud_0596",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/596.mp3",
+      "palabraJP": "製作",
+      "lectura": "せいさく",
+      "oracion": "機械を製作する。",
+      "oracion_traduccion": "Fabricar maquinaria.",
+      "significadoPalabra": "fabricación, elaboración"
+    }
+  },
+  {
+    "id": "vaud_0597",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/597.mp3",
+      "palabraJP": "製造",
+      "lectura": "せいぞう",
+      "oracion": "この会社は車を製造している。",
+      "oracion_traduccion": "Esta empresa se dedica a fabricar automóviles.",
+      "significadoPalabra": "manufactura, producción"
+    }
+  },
+  {
+    "id": "vaud_0598",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/598.mp3",
+      "palabraJP": "建築",
+      "lectura": "けんちく",
+      "oracion": "家を建築する。",
+      "oracion_traduccion": "Construir una vivienda.",
+      "significadoPalabra": "construcción, arquitectura"
+    }
+  },
+  {
+    "id": "vaud_0599",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/599.mp3",
+      "palabraJP": "人工",
+      "lectura": "じんこう",
+      "oracion": "このスキー場では人工の雪を降らせている。",
+      "oracion_traduccion": "En esta estación de esquí producen nieve artificial.",
+      "significadoPalabra": "artificial"
+    }
+  },
+  {
+    "id": "vaud_0600",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/600.mp3",
+      "palabraJP": "圧力",
+      "lectura": "あつりょく",
+      "oracion": "空気に圧力を加えて圧縮する。",
+      "oracion_traduccion": "Comprimir el aire aplicándole presión.",
+      "significadoPalabra": "presión"
+    }
+  },
+  {
+    "id": "vaud_0601",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/601.mp3",
+      "palabraJP": "刺激",
+      "lectura": "しげき",
+      "oracion": "筋肉に電気で刺激を与えると、ぴくりと動く。",
+      "oracion_traduccion": "Al aplicar un estímulo eléctrico a un músculo, este reacciona con un leve espasmo.",
+      "significadoPalabra": "estímulo, estimulación"
+    }
+  },
+  {
+    "id": "vaud_0602",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/602.mp3",
+      "palabraJP": "摩擦",
+      "lectura": "まさつ",
+      "oracion": "木の枝の摩擦の熱で森林火災が起こった。",
+      "oracion_traduccion": "Un incendio forestal se originó por el calor generado por la fricción de las ramas.",
+      "significadoPalabra": "fricción, rozamiento"
+    }
+  },
+  {
+    "id": "vaud_0603",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/603.mp3",
+      "palabraJP": "立場",
+      "lectura": "たちば",
+      "oracion": "自分の意見を主張するだけでなく、相手の立場に立って考えてみることも大事だ。",
+      "oracion_traduccion": "No sólo es importante expresar el propio punto de vista, sino también ponerse en la perspectiva del otro.",
+      "significadoPalabra": "postura, punto de vista"
+    }
+  },
+  {
+    "id": "vaud_0604",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/604.mp3",
+      "palabraJP": "役割",
+      "lectura": "やくわり",
+      "oracion": "仕事の役割を決める。",
+      "oracion_traduccion": "Definir los roles de trabajo.",
+      "significadoPalabra": "rol, función"
+    }
+  },
+  {
+    "id": "vaud_0605",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/605.mp3",
+      "palabraJP": "分担",
+      "lectura": "ぶんたん",
+      "oracion": "同僚と分担して仕事を進めている。",
+      "oracion_traduccion": "Avanzamos con el trabajo distribuyendo las tareas entre los compañeros.",
+      "significadoPalabra": "distribución de tareas, repartición"
+    }
+  },
+  {
+    "id": "vaud_0606",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/606.mp3",
+      "palabraJP": "担当",
+      "lectura": "たんとう",
+      "oracion": "会社で営業を担当している。",
+      "oracion_traduccion": "Estoy a cargo de las ventas en la empresa.",
+      "significadoPalabra": "estar a cargo, responsabilizarse"
+    }
+  },
+  {
+    "id": "vaud_0607",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/607.mp3",
+      "palabraJP": "交替",
+      "lectura": "こうたい",
+      "oracion": "首相が交代した。",
+      "oracion_traduccion": "Hubo un relevo en el puesto de primer ministro.",
+      "significadoPalabra": "relevo, cambio"
+    }
+  },
+  {
+    "id": "vaud_0608",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/608.mp3",
+      "palabraJP": "代理",
+      "lectura": "だいり",
+      "oracion": "父の代理で親戚の結婚式に出席した。",
+      "oracion_traduccion": "Asistí a la boda de un pariente en representación de mi padre.",
+      "significadoPalabra": "representación, suplencia"
+    }
+  },
+  {
+    "id": "vaud_0609",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/609.mp3",
+      "palabraJP": "審判",
+      "lectura": "しんばん",
+      "oracion": "審判が笛を吹いて、試合が始まった。",
+      "oracion_traduccion": "El árbitro tocó el silbato y dio inicio al partido.",
+      "significadoPalabra": "arbitraje, juzgamiento"
+    }
+  },
+  {
+    "id": "vaud_0610",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/610.mp3",
+      "palabraJP": "監督",
+      "lectura": "かんとく",
+      "oracion": "スポーツチームの監督を務める。",
+      "oracion_traduccion": "Desempeñarse como entrenador de un equipo deportivo.",
+      "significadoPalabra": "director, entrenador, supervisación"
+    }
+  },
+  {
+    "id": "vaud_0611",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/611.mp3",
+      "palabraJP": "予測",
+      "lectura": "よそく",
+      "oracion": "データに基づいて結果を予測する。",
+      "oracion_traduccion": "Predecir el resultado basándose en los datos.",
+      "significadoPalabra": "predicción, pronóstico"
+    }
+  },
+  {
+    "id": "vaud_0612",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/612.mp3",
+      "palabraJP": "予期",
+      "lectura": "よき",
+      "oracion": "今回の実験では、予期に反し、いいデータが得られなかった。",
+      "oracion_traduccion": "En este experimento, contrariamente a lo previsto, no se obtuvieron buenos datos.",
+      "significadoPalabra": "expectativa, previsión"
+    }
+  },
+  {
+    "id": "vaud_0613",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/613.mp3",
+      "palabraJP": "判断",
+      "lectura": "はんだん",
+      "oracion": "外見や肩書きで人を判断するのはよくない。",
+      "oracion_traduccion": "No está bien juzgar a las personas por la apariencia o sus títulos.",
+      "significadoPalabra": "juicio, criterio"
+    }
+  },
+  {
+    "id": "vaud_0614",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/614.mp3",
+      "palabraJP": "評価",
+      "lectura": "ひょうか",
+      "oracion": "この映画に対する世間の評価は高い。",
+      "oracion_traduccion": "La valoración del público sobre esta película es alta.",
+      "significadoPalabra": "valoración, evaluación"
+    }
+  },
+  {
+    "id": "vaud_0615",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/615.mp3",
+      "palabraJP": "指示",
+      "lectura": "しじ",
+      "oracion": "部長は田中さんに会議のレポートを出すよう指示した。",
+      "oracion_traduccion": "El director le indicó a Tanaka que entregara el informe de la reunión.",
+      "significadoPalabra": "instrucción, indicación"
+    }
+  },
+  {
+    "id": "vaud_0616",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/616.mp3",
+      "palabraJP": "無視",
+      "lectura": "むし",
+      "oracion": "話しかけたのに無視された。",
+      "oracion_traduccion": "Le hablé, pero me ignoró.",
+      "significadoPalabra": "ignorar, no hacer caso"
+    }
+  },
+  {
+    "id": "vaud_0617",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/617.mp3",
+      "palabraJP": "無断",
+      "lectura": "むだん",
+      "oracion": "無断で人の物を使ってはいけない。",
+      "oracion_traduccion": "No se deben usar las cosas ajenas sin permiso.",
+      "significadoPalabra": "sin permiso, de manera no autorizada"
+    }
+  },
+  {
+    "id": "vaud_0618",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/618.mp3",
+      "palabraJP": "承知",
+      "lectura": "しょうち",
+      "oracion": "「この仕事、明日までに頼みます」「承知しました」",
+      "oracion_traduccion": "—Te encargo este trabajo para mañana. —Entendido.",
+      "significadoPalabra": "aceptación, consentimiento, estar al tanto"
+    }
+  },
+  {
+    "id": "vaud_0619",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/619.mp3",
+      "palabraJP": "納得",
+      "lectura": "なっとく",
+      "oracion": "会社のやり方には納得できない。",
+      "oracion_traduccion": "No me termina de convencer el modo de actuar de la empresa.",
+      "significadoPalabra": "convencimiento, comprensión"
+    }
+  },
+  {
+    "id": "vaud_0620",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/620.mp3",
+      "palabraJP": "疑問",
+      "lectura": "ぎもん",
+      "oracion": "子どもはいろいろなことに疑問を持つ。",
+      "oracion_traduccion": "Los niños albergan dudas sobre muchas cosas.",
+      "significadoPalabra": "duda, cuestionamiento"
+    }
+  },
+  {
+    "id": "vaud_0621",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/621.mp3",
+      "palabraJP": "推測",
+      "lectura": "すいそく",
+      "oracion": "相手の気持ちを推測する。",
+      "oracion_traduccion": "Tratar de deducir lo que siente la otra persona.",
+      "significadoPalabra": "suposición, conjetura"
+    }
+  },
+  {
+    "id": "vaud_0622",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/622.mp3",
+      "palabraJP": "肯定",
+      "lectura": "こうてい",
+      "oracion": "相手の意見を肯定する。",
+      "oracion_traduccion": "Validar la opinión de la otra persona.",
+      "significadoPalabra": "afirmación, aprobación"
+    }
+  },
+  {
+    "id": "vaud_0623",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/623.mp3",
+      "palabraJP": "参考",
+      "lectura": "さんこう",
+      "oracion": "いろいろな資料を参考にしてレポートを書いた。",
+      "oracion_traduccion": "Escribí el informe tomando como referencia diversos materiales.",
+      "significadoPalabra": "referencia, consulta"
+    }
+  },
+  {
+    "id": "vaud_0624",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/624.mp3",
+      "palabraJP": "程度",
+      "lectura": "ていど",
+      "oracion": "彼女の学校は教育の程度が高い。",
+      "oracion_traduccion": "La escuela a la que asiste cuenta con un nivel educativo elevado.",
+      "significadoPalabra": "nivel, grado, medida"
+    }
+  },
+  {
+    "id": "vaud_0625",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/625.mp3",
+      "palabraJP": "評判",
+      "lectura": "ひょうばん",
+      "oracion": "大統領就任演説は評判がよかった。",
+      "oracion_traduccion": "El discurso de toma de posesión presidencial tuvo una excelente recepción.",
+      "significadoPalabra": "reputación, reputación pública"
+    }
+  },
+  {
+    "id": "vaud_0626",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/626.mp3",
+      "palabraJP": "批評",
+      "lectura": "ひひょう",
+      "oracion": "新聞に新刊書の批評が載った。",
+      "oracion_traduccion": "Salió publicada en el periódico la reseña de una novedad editorial.",
+      "significadoPalabra": "crítica, reseña"
+    }
+  },
+  {
+    "id": "vaud_0627",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/627.mp3",
+      "palabraJP": "推薦",
+      "lectura": "すいせん",
+      "oracion": "重役たちは、田中氏を次期社長に推薦した。",
+      "oracion_traduccion": "Los ejecutivos recomendaron al Sr. Tanaka como el próximo presidente de la compañía.",
+      "significadoPalabra": "recomendación, nominación"
+    }
+  },
+  {
+    "id": "vaud_0628",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/628.mp3",
+      "palabraJP": "信用",
+      "lectura": "しんよう",
+      "oracion": "人の言葉を信用してお金を貸す。",
+      "oracion_traduccion": "Prestar dinero confiando en la palabra de la persona.",
+      "significadoPalabra": "confianza, credibilidad"
+    }
+  },
+  {
+    "id": "vaud_0629",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/629.mp3",
+      "palabraJP": "信頼",
+      "lectura": "しんらい",
+      "oracion": "彼は信頼できる指導者だ。",
+      "oracion_traduccion": "Él es un líder en el que se puede confiar.",
+      "significadoPalabra": "confianza, fe"
+    }
+  },
+  {
+    "id": "vaud_0630",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/630.mp3",
+      "palabraJP": "尊重",
+      "lectura": "そんちょう",
+      "oracion": "人の意見を尊重する。",
+      "oracion_traduccion": "Respetar la opinión de los demás.",
+      "significadoPalabra": "respeto, consideración"
+    }
+  },
+  {
+    "id": "vaud_0631",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/631.mp3",
+      "palabraJP": "作業",
+      "lectura": "さぎょう",
+      "oracion": "時計を作る仕事は、作業が細かくて複雑だ。",
+      "oracion_traduccion": "La labor de fabricar relojes implica un trabajo minucioso y complejo.",
+      "significadoPalabra": "trabajo, tarea"
+    }
+  },
+  {
+    "id": "vaud_0632",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/632.mp3",
+      "palabraJP": "工夫",
+      "lectura": "くふう",
+      "oracion": "仕事のやり方を工夫すれば、もう少し時間を短縮できるだろう。",
+      "oracion_traduccion": "Si ingenias un mejor modo de hacer el trabajo, probablemente puedas reducir un poco el tiempo.",
+      "significadoPalabra": "ingenio, maña, método creativo"
+    }
+  },
+  {
+    "id": "vaud_0633",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/633.mp3",
+      "palabraJP": "消化",
+      "lectura": "しょうか",
+      "oracion": "私は胃腸が弱いので、消化にいいものを食べるようにしている。",
+      "oracion_traduccion": "Tengo el estómago delicado, así que procuro comer alimentos de fácil digestión.",
+      "significadoPalabra": "digestión, asimilación"
+    }
+  },
+  {
+    "id": "vaud_0634",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/634.mp3",
+      "palabraJP": "吸収",
+      "lectura": "きゅうしゅう",
+      "oracion": "植物は根から栄養を吸収する。",
+      "oracion_traduccion": "Las plantas absorben los nutrientes a través de sus raíces.",
+      "significadoPalabra": "absorción"
+    }
+  },
+  {
+    "id": "vaud_0635",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/635.mp3",
+      "palabraJP": "設置",
+      "lectura": "せっち",
+      "oracion": "工場に新しい機械を設置する。",
+      "oracion_traduccion": "Instalar maquinaria nueva en la fábrica.",
+      "significadoPalabra": "instalación, colocación"
+    }
+  },
+  {
+    "id": "vaud_0636",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/636.mp3",
+      "palabraJP": "設定",
+      "lectura": "せってい",
+      "oracion": "エアコンの温度を26度に設定する。",
+      "oracion_traduccion": "Ajustar la temperatura del aire acondicionado a 26 grados.",
+      "significadoPalabra": "configuración, ajuste"
+    }
+  },
+  {
+    "id": "vaud_0637",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/637.mp3",
+      "palabraJP": "調節",
+      "lectura": "ちょうせつ",
+      "oracion": "リモコンで温度の調節をする。",
+      "oracion_traduccion": "Regular la temperatura con el mando a distancia.",
+      "significadoPalabra": "regulación, ajuste"
+    }
+  },
+  {
+    "id": "vaud_0638",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/638.mp3",
+      "palabraJP": "調整",
+      "lectura": "ちょうせい",
+      "oracion": "テレビの映りが悪いので、アンテナの向きを調整した。",
+      "oracion_traduccion": "Como la imagen de la televisión se veía mal, acomodé la orientación de la antena.",
+      "significadoPalabra": "ajuste, acomodo"
+    }
+  },
+  {
+    "id": "vaud_0639",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/639.mp3",
+      "palabraJP": "解放",
+      "lectura": "かいほう",
+      "oracion": "人質を解放する。",
+      "oracion_traduccion": "Poner en libertad a los rehenes.",
+      "significadoPalabra": "liberación, emancipación"
+    }
+  },
+  {
+    "id": "vaud_0640",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/640.mp3",
+      "palabraJP": "総合",
+      "lectura": "そうごう",
+      "oracion": "皆の意見を総合して、結論を出した。",
+      "oracion_traduccion": "Sintetizando la opinión de todos, llegamos a una conclusión.",
+      "significadoPalabra": "síntesis, integración general"
+    }
+  },
+  {
+    "id": "vaud_0641",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/641.mp3",
+      "palabraJP": "連続",
+      "lectura": "れんぞく",
+      "oracion": "3回連続で失敗してしまった。",
+      "oracion_traduccion": "Tuve tres fallos seguidos.",
+      "significadoPalabra": "continuidad, sucesión consecutiva"
+    }
+  },
+  {
+    "id": "vaud_0642",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/642.mp3",
+      "palabraJP": "持続",
+      "lectura": "じぞく",
+      "oracion": "この薬の効果は6時間持続する。",
+      "oracion_traduccion": "El efecto de esta medicina se mantiene durante 6 horas.",
+      "significadoPalabra": "duración, permanencia"
+    }
+  },
+  {
+    "id": "vaud_0643",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/643.mp3",
+      "palabraJP": "中断",
+      "lectura": "ちゅうだん",
+      "oracion": "雨で試合が中断した。",
+      "oracion_traduccion": "El partido se interrumpió por la lluvia.",
+      "significadoPalabra": "interrupción, pausa"
+    }
+  },
+  {
+    "id": "vaud_0644",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/644.mp3",
+      "palabraJP": "安定",
+      "lectura": "あんてい",
+      "oracion": "正社員になって、安定した暮らしがしたい。",
+      "oracion_traduccion": "Quiero conseguir un empleo permanente para llevar una vida estable.",
+      "significadoPalabra": "estabilidad, firmeza"
+    }
+  },
+  {
+    "id": "vaud_0645",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/645.mp3",
+      "palabraJP": "混乱",
+      "lectura": "こんらん",
+      "oracion": "頭が混乱して、どうしていいのかわからない。",
+      "oracion_traduccion": "Tengo la mente en confusión y no sé qué hacer.",
+      "significadoPalabra": "confusión, desorden"
+    }
+  },
+  {
+    "id": "vaud_0646",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/646.mp3",
+      "palabraJP": "上昇",
+      "lectura": "じょうしょう",
+      "oracion": "午後から気温が急激に上昇した。",
+      "oracion_traduccion": "A partir del mediodía la temperatura subió repentinamente.",
+      "significadoPalabra": "ascenso, subida"
+    }
+  },
+  {
+    "id": "vaud_0647",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/647.mp3",
+      "palabraJP": "達成",
+      "lectura": "たっせい",
+      "oracion": "5年かかって、やっと目標を達成した。",
+      "oracion_traduccion": "Nos tomó cinco años, pero por fin alcanzamos la meta.",
+      "significadoPalabra": "logro, consecución"
+    }
+  },
+  {
+    "id": "vaud_0648",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/648.mp3",
+      "palabraJP": "事情",
+      "lectura": "じじょう",
+      "oracion": "このたび、事情により退社することになりました。",
+      "oracion_traduccion": "Por razones personales, dejaré la empresa en esta ocasión.",
+      "significadoPalabra": "circunstancias, razones"
+    }
+  },
+  {
+    "id": "vaud_0649",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/649.mp3",
+      "palabraJP": "事態",
+      "lectura": "じたい",
+      "oracion": "預金している銀行が倒産するという、大変な事態になった。",
+      "oracion_traduccion": "Surgió una situación crítica: el banco donde tengo mi dinero quebró.",
+      "significadoPalabra": "situación de crisis, coyuntura"
+    }
+  },
+  {
+    "id": "vaud_0650",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/650.mp3",
+      "palabraJP": "障害",
+      "lectura": "しょうがい",
+      "oracion": "彼は目が見えないという障害を乗り越えて、ピアニストになった。",
+      "oracion_traduccion": "Superó su discapacidad visual y logró convertirse en pianista.",
+      "significadoPalabra": "obstáculo, discapacidad"
+    }
+  },
+  {
+    "id": "vaud_0651",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/651.mp3",
+      "palabraJP": "福祉",
+      "lectura": "ふくし",
+      "oracion": "大学で福祉について勉強した。",
+      "oracion_traduccion": "Estudié sobre el bienestar social en la universidad.",
+      "significadoPalabra": "bienestar social"
+    }
+  },
+  {
+    "id": "vaud_0652",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/652.mp3",
+      "palabraJP": "社会",
+      "lectura": "しゃかい",
+      "oracion": "定年退職後は社会の役に立つことをしたい。",
+      "oracion_traduccion": "Tras jubilarme, quisiera hacer algo que beneficie a la comunidad.",
+      "significadoPalabra": "sociedad, comunidad"
+    }
+  },
+  {
+    "id": "vaud_0653",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/653.mp3",
+      "palabraJP": "都会",
+      "lectura": "とかい",
+      "oracion": "田舎の高校生だった私は、都会にあこがれていた。",
+      "oracion_traduccion": "Cuando estudiaba la preparatoria en el campo, soñaba con la vida en la gran ciudad.",
+      "significadoPalabra": "gran ciudad, zona urbana"
+    }
+  },
+  {
+    "id": "vaud_0654",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/654.mp3",
+      "palabraJP": "世論",
+      "lectura": "よろん",
+      "oracion": "現代の政治家は世論を無視することはできない。",
+      "oracion_traduccion": "Los políticos de hoy no pueden permitirse hacer oídos sordos a la opinión pública.",
+      "significadoPalabra": "opinión pública"
+    }
+  },
+  {
+    "id": "vaud_0655",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/655.mp3",
+      "palabraJP": "民族",
+      "lectura": "みんぞく",
+      "oracion": "世界にはさまざまな民族が存在する。",
+      "oracion_traduccion": "En el mundo existen muy diversas etnias.",
+      "significadoPalabra": "etnia, grupo étnico"
+    }
+  },
+  {
+    "id": "vaud_0656",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/656.mp3",
+      "palabraJP": "増大",
+      "lectura": "ぞうだい",
+      "oracion": "時が経つとともに、不安が増大した。",
+      "oracion_traduccion": "Con el paso del tiempo, la intranquilidad fue en aumento.",
+      "significadoPalabra": "aumento, crecimiento"
+    }
+  },
+  {
+    "id": "vaud_0657",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/657.mp3",
+      "palabraJP": "増量",
+      "lectura": "ぞうりょう",
+      "oracion": "現在、1割増量サービス中です。",
+      "oracion_traduccion": "En este momento tenemos una promoción con un 10 % más de contenido.",
+      "significadoPalabra": "incremento de cantidad, aumento de contenido"
+    }
+  },
+  {
+    "id": "vaud_0658",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/658.mp3",
+      "palabraJP": "増税",
+      "lectura": "ぞうぜい",
+      "oracion": "労働人口が減少し、政府は増税を考えているらしい。",
+      "oracion_traduccion": "Con el descenso de la población activa, parece que el gobierno evalúa subir los impuestos.",
+      "significadoPalabra": "alza de impuestos, incremento fiscal"
+    }
+  },
+  {
+    "id": "vaud_0659",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/659.mp3",
+      "palabraJP": "増員",
+      "lectura": "ぞういん",
+      "oracion": "アメリカ大統領来日に当たり、警備員が増員された。",
+      "oracion_traduccion": "Con motivo de la visita del presidente estadounidense, se reforzó el personal de seguridad.",
+      "significadoPalabra": "ampliación de personal, refuerzo de equipo"
+    }
+  },
+  {
+    "id": "vaud_0660",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/660.mp3",
+      "palabraJP": "減点",
+      "lectura": "げんてん",
+      "oracion": "漢字のテストで、送り仮名を間違えて減点された。",
+      "oracion_traduccion": "Me restaron puntos en la prueba de kanji por equivocarme en el okurigana.",
+      "significadoPalabra": "deducción de puntos, penalización"
+    }
+  },
+  {
+    "id": "vaud_0661",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/661.mp3",
+      "palabraJP": "減退",
+      "lectura": "げんたい",
+      "oracion": "暑さのせいで食欲が減退した。",
+      "oracion_traduccion": "El apetito se me redujo a causa del sofocante calor.",
+      "significadoPalabra": "disminución, pérdida gradual"
+    }
+  },
+  {
+    "id": "vaud_0662",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/662.mp3",
+      "palabraJP": "減量",
+      "lectura": "げんりょう",
+      "oracion": "洗剤の中身が減量された。",
+      "oracion_traduccion": "Redujeron la cantidad neta del detergente.",
+      "significadoPalabra": "reducción de peso, reducción de cantidad"
+    }
+  },
+  {
+    "id": "vaud_0663",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/663.mp3",
+      "palabraJP": "開発",
+      "lectura": "かいはつ",
+      "oracion": "資源を開発する。",
+      "oracion_traduccion": "Explotar y desarrollar recursos naturales.",
+      "significadoPalabra": "desarrollo, explotación"
+    }
+  },
+  {
+    "id": "vaud_0664",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/664.mp3",
+      "palabraJP": "開店",
+      "lectura": "かいてん",
+      "oracion": "近所に新しいレストランが開店した。",
+      "oracion_traduccion": "Abrió sus puertas un nuevo restaurante por mi vecindario.",
+      "significadoPalabra": "inauguración de tienda, apertura comercial"
+    }
+  },
+  {
+    "id": "vaud_0665",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/665.mp3",
+      "palabraJP": "開業",
+      "lectura": "かいぎょう",
+      "oracion": "近所に新しい書店が開業した。",
+      "oracion_traduccion": "Una nueva librería abrió sus puertas cerca de aquí.",
+      "significadoPalabra": "apertura de negocio, inicio de operaciones"
+    }
+  },
+  {
+    "id": "vaud_0666",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/666.mp3",
+      "palabraJP": "開催",
+      "lectura": "かいさい",
+      "oracion": "講演会を開催する。",
+      "oracion_traduccion": "Organizar y llevar a cabo una conferencia.",
+      "significadoPalabra": "celebración de evento, realización"
+    }
+  },
+  {
+    "id": "vaud_0667",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/667.mp3",
+      "palabraJP": "開放",
+      "lectura": "かいほう",
+      "oracion": "近所の小学校の校庭は、日曜日には市民に開放されている。",
+      "oracion_traduccion": "El patio de la escuela primaria del barrio permanece abierto al público los domingos.",
+      "significadoPalabra": "apertura al público, libre acceso"
+    }
+  },
+  {
+    "id": "vaud_0668",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/668.mp3",
+      "palabraJP": "閉鎖",
+      "lectura": "へいさ",
+      "oracion": "この公園の門は、夜間は閉鎖されている。",
+      "oracion_traduccion": "La puerta de este parque se mantiene cerrada durante la noche.",
+      "significadoPalabra": "cierre, clausura"
+    }
+  },
+  {
+    "id": "vaud_0669",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/669.mp3",
+      "palabraJP": "密閉",
+      "lectura": "みっぺい",
+      "oracion": "密閉された部屋の中で物を燃やすと、不完全燃焼を起こす。",
+      "oracion_traduccion": "Encender fuego en una habitación herméticamente cerrada provoca una combustión incompleta.",
+      "significadoPalabra": "sellado hermético, aislamiento del aire"
+    }
+  },
+  {
+    "id": "vaud_0670",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/670.mp3",
+      "palabraJP": "改善",
+      "lectura": "かいぜん",
+      "oracion": "組合は待遇の改善を求めてストを行った。",
+      "oracion_traduccion": "El sindicato se fue a la huelga en demanda de mejores condiciones de trabajo.",
+      "significadoPalabra": "mejora, optimización"
+    }
+  },
+  {
+    "id": "vaud_0671",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/671.mp3",
+      "palabraJP": "改良",
+      "lectura": "かいりょう",
+      "oracion": "その製品は改良を重ねることで、いっそう使いやすくなった。",
+      "oracion_traduccion": "A través de continuas mejoras, ese producto se volvió mucho más práctico de usar.",
+      "significadoPalabra": "perfeccionamiento, perfeccionar un producto"
+    }
+  },
+  {
+    "id": "vaud_0672",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/672.mp3",
+      "palabraJP": "改革",
+      "lectura": "かいかく",
+      "oracion": "古い制度を改革しなければ、この国の発展は望めない。",
+      "oracion_traduccion": "Si no se reforman las instituciones obsoletas, no podremos aspirar al crecimiento del país.",
+      "significadoPalabra": "reforma, transformación"
+    }
+  },
+  {
+    "id": "vaud_0673",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/673.mp3",
+      "palabraJP": "改正",
+      "lectura": "かいせい",
+      "oracion": "4月から新幹線のダイヤが改正されるそうだ。",
+      "oracion_traduccion": "Se anuncia que los horarios del tren bala serán ajustados a partir de abril.",
+      "significadoPalabra": "enmienda, modificación de normas"
+    }
+  },
+  {
+    "id": "vaud_0674",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/674.mp3",
+      "palabraJP": "改定",
+      "lectura": "かいてい",
+      "oracion": "来年から消費税率が改定されることになった。",
+      "oracion_traduccion": "Se determinó que el impuesto al consumo sufrirá una revisión desde el próximo año.",
+      "significadoPalabra": "revisión de tarifas, ajuste de impuestos"
+    }
+  },
+  {
+    "id": "vaud_0675",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/675.mp3",
+      "palabraJP": "改修",
+      "lectura": "かいしゅう",
+      "oracion": "アパートが古くなったので、大規模な改修が行われることになった。",
+      "oracion_traduccion": "Como el edificio de departamentos se deterioró con los años, decidieron hacer una remodelación integral.",
+      "significadoPalabra": "reparación integral, remodelación estructural"
+    }
+  },
+  {
+    "id": "vaud_0676",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/676.mp3",
+      "palabraJP": "一致",
+      "lectura": "いっち",
+      "oracion": "二人の意見が一致した。",
+      "oracion_traduccion": "Ambas opiniones coincidieron por completo.",
+      "significadoPalabra": "coincidencia, consenso"
+    }
+  },
+  {
+    "id": "vaud_0677",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/677.mp3",
+      "palabraJP": "一方",
+      "lectura": "いっぽう",
+      "oracion": "飛行機の中で乗客が一方に片寄ると危ない。",
+      "oracion_traduccion": "Si los pasajeros de un avión se concentran hacia un solo lado, resulta peligroso.",
+      "significadoPalabra": "un lado, una de las partes"
+    }
+  },
+  {
+    "id": "vaud_0678",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/678.mp3",
+      "palabraJP": "一定",
+      "lectura": "いってい",
+      "oracion": "倉庫の中は一定の温度に保たれている。",
+      "oracion_traduccion": "El interior de la bodega se mantiene a una temperatura fija.",
+      "significadoPalabra": "constante, fijado"
+    }
+  },
+  {
+    "id": "vaud_0679",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/679.mp3",
+      "palabraJP": "一人前",
+      "lectura": "いちにんまえ",
+      "oracion": "経済的に親から独立しなければ、一人前とは言えないだろう。",
+      "oracion_traduccion": "A menos que logres la independencia económica respecto a tus padres, difícilmente se te considerará un adulto hecho y derecho.",
+      "significadoPalabra": "adulto independiente, una porción"
+    }
+  },
+  {
+    "id": "vaud_0680",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/680.mp3",
+      "palabraJP": "一流",
+      "lectura": "いちりゅう",
+      "oracion": "彼はまだ若いですが、コックとしての腕は一流だ。",
+      "oracion_traduccion": "Aunque todavía es joven, su destreza como cocinero es de primera categoría.",
+      "significadoPalabra": "de primera categoría, de alto nivel"
+    }
+  },
+  {
+    "id": "vaud_0681",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/681.mp3",
+      "palabraJP": "映る",
+      "lectura": "うつる",
+      "oracion": "鏡には左右が逆に映る。",
+      "oracion_traduccion": "En el espejo, la izquierda y la derecha se reflejan al revés.",
+      "significadoPalabra": "reflejarse, proyectarse"
+    }
+  },
+  {
+    "id": "vaud_0682",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/682.mp3",
+      "palabraJP": "映す",
+      "lectura": "うつす",
+      "oracion": "全身を映せる鏡がほしい。",
+      "oracion_traduccion": "Quiero un espejo en el que pueda reflejarme de cuerpo entero.",
+      "significadoPalabra": "reflejar, proyectar"
+    }
+  },
+  {
+    "id": "vaud_0683",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/683.mp3",
+      "palabraJP": "つかる",
+      "lectura": "つかる",
+      "oracion": "大雨で家の床まで水につかった。",
+      "oracion_traduccion": "Por la fuerte lluvia, el agua llegó a inundar hasta el piso de la casa.",
+      "significadoPalabra": "sumergirse, inundarse, remojarse"
+    }
+  },
+  {
+    "id": "vaud_0684",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/684.mp3",
+      "palabraJP": "つける",
+      "lectura": "つける",
+      "oracion": "汚れが落ちにくいときは、洗剤の液にしばらくつけておくとよい。",
+      "oracion_traduccion": "Cuando la suciedad sea difícil de quitar, es bueno dejar la ropa en remojo con detergente un rato.",
+      "significadoPalabra": "remojar, poner en remojo"
+    }
+  },
+  {
+    "id": "vaud_0685",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/685.mp3",
+      "palabraJP": "浮かぶ",
+      "lectura": "うかぶ",
+      "oracion": "池にボートが浮かんでいる。",
+      "oracion_traduccion": "Hay un bote flotando en el estanque.",
+      "significadoPalabra": "flotar, venir a la mente"
+    }
+  },
+  {
+    "id": "vaud_0686",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/686.mp3",
+      "palabraJP": "浮かべる",
+      "lectura": "うかべる",
+      "oracion": "池におもちゃのボートを浮かべて遊んだ。",
+      "oracion_traduccion": "Jugué haciendo flotar un bote de juguete en el estanque.",
+      "significadoPalabra": "hacer flotar, mostrar en el rostro"
+    }
+  },
+  {
+    "id": "vaud_0687",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/687.mp3",
+      "palabraJP": "浮く",
+      "lectura": "うく",
+      "oracion": "1円玉は水に浮く。",
+      "oracion_traduccion": "La moneda de 1 yen flota en el agua.",
+      "significadoPalabra": "flotar, quedar aislado, ahorrarse"
+    }
+  },
+  {
+    "id": "vaud_0688",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/688.mp3",
+      "palabraJP": "潜る",
+      "lectura": "もぐる",
+      "oracion": "日本の「海女」は長時間海に潜って貝や魚を捕ることができる。",
+      "oracion_traduccion": "Las recolectoras marinas de Japón pueden sumergirse en el mar durante mucho tiempo para atrapar mariscos y peces.",
+      "significadoPalabra": "sumergirse, meterse debajo, esconderse"
+    }
+  },
+  {
+    "id": "vaud_0689",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/689.mp3",
+      "palabraJP": "跳ねる",
+      "lectura": "はねる",
+      "oracion": "カエルは地面から大きく跳ねて、草の中へ消えた。",
+      "oracion_traduccion": "La rana dio un gran salto desde el suelo y desapareció entre la hierba.",
+      "significadoPalabra": "saltar, salpicar, atropellar"
+    }
+  },
+  {
+    "id": "vaud_0690",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/690.mp3",
+      "palabraJP": "背負う",
+      "lectura": "せおう",
+      "oracion": "背中にリュックを背負う。",
+      "oracion_traduccion": "Llevar una mochila en la espalda.",
+      "significadoPalabra": "cargar a la espalda, asumir una carga"
+    }
+  },
+  {
+    "id": "vaud_0691",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/691.mp3",
+      "palabraJP": "追う",
+      "lectura": "おう",
+      "oracion": "子どもは走って母親の後を追った。",
+      "oracion_traduccion": "El niño fue corriendo tras su madre.",
+      "significadoPalabra": "seguir, perseguir, buscar"
+    }
+  },
+  {
+    "id": "vaud_0692",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/692.mp3",
+      "palabraJP": "追いかける",
+      "lectura": "おいかける",
+      "oracion": "犯人を追いかけたが、逃げられてしまった。",
+      "oracion_traduccion": "Perseguí al delincuente, pero logró escapar.",
+      "significadoPalabra": "perseguir, ir tras de"
+    }
+  },
+  {
+    "id": "vaud_0693",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/693.mp3",
+      "palabraJP": "追いつく",
+      "lectura": "おいつく",
+      "oracion": "彼は足が速いから、今から追いかけても追いつかないだろう。",
+      "oracion_traduccion": "Como corre muy rápido, aunque vaya tras él ahora, dudo que lo alcance.",
+      "significadoPalabra": "alcanzar, ponerse al día"
+    }
+  },
+  {
+    "id": "vaud_0694",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/694.mp3",
+      "palabraJP": "追い越す",
+      "lectura": "おいこす",
+      "oracion": "前を走る選手に追いついたが、追い越すことはできなかった。",
+      "oracion_traduccion": "Alcancé al corredor de adelante, pero no pude rebasarlo.",
+      "significadoPalabra": "rebasar, adelantar, superar"
+    }
+  },
+  {
+    "id": "vaud_0695",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/695.mp3",
+      "palabraJP": "振り向く",
+      "lectura": "ふりむく",
+      "oracion": "名前を呼ばれて振り向いた。",
+      "oracion_traduccion": "Me di la vuelta cuando me llamaron por mi nombre.",
+      "significadoPalabra": "voltearse, prestar atención"
+    }
+  },
+  {
+    "id": "vaud_0696",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/696.mp3",
+      "palabraJP": "捕る/採る/執る",
+      "lectura": "とる",
+      "oracion": "公園でセミを捕った。",
+      "oracion_traduccion": "Atrapé cigarras en el parque.",
+      "significadoPalabra": "atrapar, contratar, asumir el mando"
+    }
+  },
+  {
+    "id": "vaud_0697",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/697.mp3",
+      "palabraJP": "取り上げる",
+      "lectura": "とりあげる",
+      "oracion": "彼女は机の上の本を取り上げた。",
+      "oracion_traduccion": "Ella tomó el libro que estaba sobre el escritorio.",
+      "significadoPalabra": "tomar, confiscar, tratar un tema"
+    }
+  },
+  {
+    "id": "vaud_0698",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/698.mp3",
+      "palabraJP": "取り入れる",
+      "lectura": "とりいれる",
+      "oracion": "洗濯物を取り入れる。",
+      "oracion_traduccion": "Meter la ropa limpia.",
+      "significadoPalabra": "meter, cosechar, adoptar"
+    }
+  },
+  {
+    "id": "vaud_0699",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/699.mp3",
+      "palabraJP": "削る",
+      "lectura": "けずる",
+      "oracion": "ナイフでえんぴつを削った。",
+      "oracion_traduccion": "Le saqué punta al lápiz con una navaja.",
+      "significadoPalabra": "sacar punta, recortar, reducir"
+    }
+  },
+  {
+    "id": "vaud_0700",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/700.mp3",
+      "palabraJP": "縛る",
+      "lectura": "しばる",
+      "oracion": "古い雑誌を重ねてひもで縛る。",
+      "oracion_traduccion": "Atar con un cordón las revistas viejas apiladas.",
+      "significadoPalabra": "atar, amarrar, restringir"
+    }
+  },
+  {
+    "id": "vaud_0701",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/701.mp3",
+      "palabraJP": "絞る/搾る",
+      "lectura": "しぼる",
+      "oracion": "水にぬらしたタオルを絞る。",
+      "oracion_traduccion": "Exprimir una toalla mojada con agua.",
+      "significadoPalabra": "exprimir, estrujar, bajar el volumen"
+    }
+  },
+  {
+    "id": "vaud_0702",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/702.mp3",
+      "palabraJP": "回る",
+      "lectura": "まわる",
+      "oracion": "地球は太陽の周りを回っている。",
+      "oracion_traduccion": "La Tierra gira alrededor del Sol.",
+      "significadoPalabra": "girar, dar la vuelta, pasar por"
+    }
+  },
+  {
+    "id": "vaud_0703",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/703.mp3",
+      "palabraJP": "回す",
+      "lectura": "まわす",
+      "oracion": "ドアの取っ手を回して開ける。",
+      "oracion_traduccion": "Girar la perilla de la puerta para abrirla.",
+      "significadoPalabra": "girar, hacer circular, transferir"
+    }
+  },
+  {
+    "id": "vaud_0704",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/704.mp3",
+      "palabraJP": "区切る",
+      "lectura": "くぎる",
+      "oracion": "一つ一つ言葉を区切って話す。",
+      "oracion_traduccion": "Hablar haciendo pausas claras palabra por palabra.",
+      "significadoPalabra": "dividir, pausar, delimitar"
+    }
+  },
+  {
+    "id": "vaud_0705",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/705.mp3",
+      "palabraJP": "組む",
+      "lectura": "くむ",
+      "oracion": "足を組む。",
+      "oracion_traduccion": "Cruzar las piernas.",
+      "significadoPalabra": "cruzar, formar equipo, elaborar"
+    }
+  },
+  {
+    "id": "vaud_0706",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/706.mp3",
+      "palabraJP": "組み立てる",
+      "lectura": "くみたてる",
+      "oracion": "部品を組み立てて機械を作った。",
+      "oracion_traduccion": "Armé la máquina ensamblando sus piezas.",
+      "significadoPalabra": "armar, ensamblar, estructurar"
+    }
+  },
+  {
+    "id": "vaud_0707",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/707.mp3",
+      "palabraJP": "加わる",
+      "lectura": "くわわる",
+      "oracion": "新しい選手がチームに加わった。",
+      "oracion_traduccion": "Un nuevo jugador se unió al equipo.",
+      "significadoPalabra": "sumarse, unirse, añadirse"
+    }
+  },
+  {
+    "id": "vaud_0708",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/708.mp3",
+      "palabraJP": "加える",
+      "lectura": "くわえる",
+      "oracion": "3に8を加えると11になる。",
+      "oracion_traduccion": "Si le sumas 8 a 3, da 11.",
+      "significadoPalabra": "sumar, agregar, añadir"
+    }
+  },
+  {
+    "id": "vaud_0709",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/709.mp3",
+      "palabraJP": "仕上がる",
+      "lectura": "しあがる",
+      "oracion": "恋人にあげるマフラーがやっと仕上がった。",
+      "oracion_traduccion": "Por fin quedó terminada la bufanda para mi pareja.",
+      "significadoPalabra": "quedar terminado, completarse"
+    }
+  },
+  {
+    "id": "vaud_0710",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/710.mp3",
+      "palabraJP": "仕上げる",
+      "lectura": "しあげる",
+      "oracion": "「この仕事は月末までに仕上げてください」",
+      "oracion_traduccion": "\"Por favor, termine este trabajo antes de fin de mes.\"",
+      "significadoPalabra": "terminar, finalizar, dar el toque final"
+    }
+  },
+  {
+    "id": "vaud_0711",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/711.mp3",
+      "palabraJP": "通りかかる",
+      "lectura": "とおりかかる",
+      "oracion": "ラーメン屋の前を通りかかると、大勢の人が行列していた。",
+      "oracion_traduccion": "Al pasar por delante del restaurante de ramen, vi que había mucha gente haciendo fila.",
+      "significadoPalabra": "pasar por casualidad"
+    }
+  },
+  {
+    "id": "vaud_0712",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/712.mp3",
+      "palabraJP": "飛び回る",
+      "lectura": "とびまわる",
+      "oracion": "ミツバチが飛んできてぶんぶん飛び回っている。",
+      "oracion_traduccion": "Llegó una abeja y anda revoloteando zumbando por aquí.",
+      "significadoPalabra": "revolotear, andar de un lado a otro"
+    }
+  },
+  {
+    "id": "vaud_0713",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/713.mp3",
+      "palabraJP": "巡る",
+      "lectura": "めぐる",
+      "oracion": "地球は太陽の周りを巡っている。",
+      "oracion_traduccion": "La Tierra orbita alrededor del Sol.",
+      "significadoPalabra": "girar alrededor, recorrer, rodear un tema"
+    }
+  },
+  {
+    "id": "vaud_0714",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/714.mp3",
+      "palabraJP": "補う",
+      "lectura": "おぎなう",
+      "oracion": "栄養不足を補うために、薬を飲んでいる。",
+      "oracion_traduccion": "Tomo suplementos para compensar la falta de nutrientes.",
+      "significadoPalabra": "compensar, suplir, complementar"
+    }
+  },
+  {
+    "id": "vaud_0715",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/715.mp3",
+      "palabraJP": "防ぐ",
+      "lectura": "ふせぐ",
+      "oracion": "泥棒を防ぐために、鍵を二つ付けた。",
+      "oracion_traduccion": "Puse dos cerrojos para evitar que entren ladrones.",
+      "significadoPalabra": "prevenir, evitar, protegerse de"
+    }
+  },
+  {
+    "id": "vaud_0716",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/716.mp3",
+      "palabraJP": "救う",
+      "lectura": "すくう",
+      "oracion": "ペニシリンの発見は、多くの人々の命を救った。",
+      "oracion_traduccion": "El descubrimiento de la penicilina salvó la vida de muchísimas personas.",
+      "significadoPalabra": "salvar, rescatar"
+    }
+  },
+  {
+    "id": "vaud_0717",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/717.mp3",
+      "palabraJP": "除く",
+      "lectura": "のぞく",
+      "oracion": "この機械は空気中の有害物質を取り除く作用がある。",
+      "oracion_traduccion": "Esta máquina tiene la función de eliminar las sustancias nocivas del aire.",
+      "significadoPalabra": "eliminar, excluir, quitar"
+    }
+  },
+  {
+    "id": "vaud_0718",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/718.mp3",
+      "palabraJP": "省く",
+      "lectura": "はぶく",
+      "oracion": "「表1はあまり関係ないので資料から省きましょう」",
+      "oracion_traduccion": "\"Como la tabla 1 no tiene mucha relación, vamos a omitirla del documento.\"",
+      "significadoPalabra": "omitir, ahorrar (tiempo/esfuerzo)"
+    }
+  },
+  {
+    "id": "vaud_0719",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/719.mp3",
+      "palabraJP": "誤る",
+      "lectura": "あやまる",
+      "oracion": "運転を誤って、事故を起こしてしまった。",
+      "oracion_traduccion": "Cometí un error al conducir y provoqué un accidente.",
+      "significadoPalabra": "equivocarse, errar, cometer una falta"
+    }
+  },
+  {
+    "id": "vaud_0720",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/720.mp3",
+      "palabraJP": "奪う",
+      "lectura": "うばう",
+      "oracion": "コンビニに強盗が入り、レジから売上金を奪って逃走した。",
+      "oracion_traduccion": "Un asaltante entró a la tienda de conveniencia, arrebató la venta de la caja y se dio a la fuga.",
+      "significadoPalabra": "arrebatar, quitar por la fuerza, cautivar"
+    }
+  },
+  {
+    "id": "vaud_0721",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/721.mp3",
+      "palabraJP": "しまう",
+      "lectura": "しまう",
+      "oracion": "春になったので、冬物をしまった。",
+      "oracion_traduccion": "Como ya llegó la primavera, guardé la ropa de invierno.",
+      "significadoPalabra": "guardar, poner en su lugar"
+    }
+  },
+  {
+    "id": "vaud_0722",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/722.mp3",
+      "palabraJP": "怠ける",
+      "lectura": "なまける",
+      "oracion": "仕事を怠ける。",
+      "oracion_traduccion": "Haraganear en el trabajo.",
+      "significadoPalabra": "ser perezoso, descuidar"
+    }
+  },
+  {
+    "id": "vaud_0723",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/723.mp3",
+      "palabraJP": "失う",
+      "lectura": "うしなう",
+      "oracion": "地震で財産を失った。",
+      "oracion_traduccion": "Perdí mis bienes a causa del terremoto.",
+      "significadoPalabra": "perder, desaprovechar"
+    }
+  },
+  {
+    "id": "vaud_0724",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/724.mp3",
+      "palabraJP": "攻める",
+      "lectura": "せめる",
+      "oracion": "敵を攻める。",
+      "oracion_traduccion": "Atacar al enemigo.",
+      "significadoPalabra": "atacar, embestir"
+    }
+  },
+  {
+    "id": "vaud_0725",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/725.mp3",
+      "palabraJP": "にらむ",
+      "lectura": "にらむ",
+      "oracion": "その学生は注意されて、逆に先生をにらんだ。",
+      "oracion_traduccion": "Al ser reprendido, el estudiante se le quedó viendo feo al profesor.",
+      "significadoPalabra": "mirar fijamente, mirar con rabia, vigilar"
+    }
+  },
+  {
+    "id": "vaud_0726",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/726.mp3",
+      "palabraJP": "責める",
+      "lectura": "せめる",
+      "oracion": "相手の失敗を責める。",
+      "oracion_traduccion": "Culpar a la otra persona por su fallo.",
+      "significadoPalabra": "culpar, reprochar, criticar"
+    }
+  },
+  {
+    "id": "vaud_0727",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/727.mp3",
+      "palabraJP": "裏切る",
+      "lectura": "うらぎる",
+      "oracion": "彼は味方を裏切り、敵のグループに入った。",
+      "oracion_traduccion": "Él traicionó a sus aliados y se unió al bando enemigo.",
+      "significadoPalabra": "traicionar, defraudar"
+    }
+  },
+  {
+    "id": "vaud_0728",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/728.mp3",
+      "palabraJP": "頼る",
+      "lectura": "たよる",
+      "oracion": "彼は学費を親に頼らず、自分で働いて払っている。",
+      "oracion_traduccion": "Él no depende de sus padres para la colegiatura, se la paga trabajando por su cuenta.",
+      "significadoPalabra": "depender de, apoyarse en, recurrir a"
+    }
+  },
+  {
+    "id": "vaud_0729",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/729.mp3",
+      "palabraJP": "遭う",
+      "lectura": "あう",
+      "oracion": "交通事故に遭ってけがをした。",
+      "oracion_traduccion": "Sufrí lesiones tras tener un accidente de tránsito.",
+      "significadoPalabra": "sufrir, pasar por un percance"
+    }
+  },
+  {
+    "id": "vaud_0730",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/730.mp3",
+      "palabraJP": "招く",
+      "lectura": "まねく",
+      "oracion": "自宅に友人を招いた。",
+      "oracion_traduccion": "Invité a unos amigos a mi casa.",
+      "significadoPalabra": "invitar, llamar con la mano, provocar"
+    }
+  },
+  {
+    "id": "vaud_0731",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/731.mp3",
+      "palabraJP": "引っ掛かる",
+      "lectura": "ひっかかる",
+      "oracion": "山で服が木に引っかかって破れてしまった。",
+      "oracion_traduccion": "En la montaña, se me enganchó la ropa en un árbol y se rompió.",
+      "significadoPalabra": "engancharse, caer en una trampa, dar mala espina"
+    }
+  },
+  {
+    "id": "vaud_0732",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/732.mp3",
+      "palabraJP": "引っ掛ける",
+      "lectura": "ひっかけ",
+      "oracion": "釘に服をひっかけて破ってしまった。",
+      "oracion_traduccion": "Enganché la ropa en un clavo y la rompí.",
+      "significadoPalabra": "enganchar, ponerse encima rápidamente, engañar"
+    }
+  },
+  {
+    "id": "vaud_0733",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/733.mp3",
+      "palabraJP": "ひっくり返る",
+      "lectura": "ひっくりかえる",
+      "oracion": "ボートが波でひっくり返って上下さかさまになった。",
+      "oracion_traduccion": "El bote se volcó por las olas y quedó completamente de cabeza.",
+      "significadoPalabra": "volcarse, caerse de espaldas, ponerse patas arriba"
+    }
+  },
+  {
+    "id": "vaud_0734",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/734.mp3",
+      "palabraJP": "ひっくり返す",
+      "lectura": "ひっくりかえす",
+      "oracion": "魚をひっくり返して焼く。",
+      "oracion_traduccion": "Darle la vuelta al pescado para seguir cocinándolo.",
+      "significadoPalabra": "voltear, derramar, revolver"
+    }
+  },
+  {
+    "id": "vaud_0735",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/735.mp3",
+      "palabraJP": "ずれる",
+      "lectura": "ずれる",
+      "oracion": "地震で鉄道のレールがずれた。",
+      "oracion_traduccion": "Con el terremoto, las vías del tren se desalinearon.",
+      "significadoPalabra": "desplazarse, desalinearse, diferir"
+    }
+  },
+  {
+    "id": "vaud_0736",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/736.mp3",
+      "palabraJP": "ずらす",
+      "lectura": "ずらす",
+      "oracion": "机を少しずらして床を掃除した。",
+      "oracion_traduccion": "Moví un poco el escritorio para limpiar el suelo.",
+      "significadoPalabra": "mover ligeramente, aplazar, desplazar"
+    }
+  },
+  {
+    "id": "vaud_0737",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/737.mp3",
+      "palabraJP": "崩れる",
+      "lectura": "くずれる",
+      "oracion": "大雨で山が崩れた。",
+      "oracion_traduccion": "A causa de la intensa lluvia, ocurrió un deslave en la montaña.",
+      "significadoPalabra": "derrumbarse, arruinarse, desmoronarse"
+    }
+  },
+  {
+    "id": "vaud_0738",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/738.mp3",
+      "palabraJP": "崩す",
+      "lectura": "くずす",
+      "oracion": "山を崩して住宅地が造られている。",
+      "oracion_traduccion": "Están aplanando el cerro para construir una zona residencial.",
+      "significadoPalabra": "derribar, alterar, descomponer (billetes)"
+    }
+  },
+  {
+    "id": "vaud_0739",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/739.mp3",
+      "palabraJP": "荒れる",
+      "lectura": "あれる",
+      "oracion": "台風の接近で山も海も荒れている。",
+      "oracion_traduccion": "Por la cercanía del tifón, tanto el bosque como el mar están picados y violentos.",
+      "significadoPalabra": "ponerse bravo (clima/mar), agriarse, descuidarse"
+    }
+  },
+  {
+    "id": "vaud_0740",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/740.mp3",
+      "palabraJP": "荒らす",
+      "lectura": "あらす",
+      "oracion": "泥棒に入られ、部屋が荒らされた。",
+      "oracion_traduccion": "Entraron a robar y dejaron la habitación hecha un desastre.",
+      "significadoPalabra": "desordenar, destrozar, dañar"
+    }
+  },
+  {
+    "id": "vaud_0741",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/741.mp3",
+      "palabraJP": "認める",
+      "lectura": "みとめる",
+      "oracion": "「これは秋のものだと認めます」",
+      "oracion_traduccion": "\"Admito que esto le pertenece a Aki.\"",
+      "significadoPalabra": "admitir, reconocer, aprobar"
+    }
+  },
+  {
+    "id": "vaud_0742",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/742.mp3",
+      "palabraJP": "見直す",
+      "lectura": "みなおす",
+      "oracion": "「テストを出す前にもう一度見直しなさい」",
+      "oracion_traduccion": "\"Vuelve a revisar tu examen antes de entregarlo.\"",
+      "significadoPalabra": "revisar, reconsiderar, reevaluar para bien"
+    }
+  },
+  {
+    "id": "vaud_0743",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/743.mp3",
+      "palabraJP": "見慣れる",
+      "lectura": "みなれる",
+      "oracion": "見慣れない人が教室にいる。",
+      "oracion_traduccion": "Hay una persona desconocida en el salón de clases.",
+      "significadoPalabra": "acostumbrarse a ver, ser familiar"
+    }
+  },
+  {
+    "id": "vaud_0744",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/744.mp3",
+      "palabraJP": "求める",
+      "lectura": "もとめる",
+      "oracion": "彼女は救いを求めている。",
+      "oracion_traduccion": "Ella está pidiendo ayuda.",
+      "significadoPalabra": "buscar, pedir, adquirir"
+    }
+  },
+  {
+    "id": "vaud_0745",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/745.mp3",
+      "palabraJP": "漏れる",
+      "lectura": "もれる",
+      "oracion": "台所でガスが漏れている。",
+      "oracion_traduccion": "Hay una fuga de gas en la cocina.",
+      "significadoPalabra": "fugarse, filtrarse, quedar omitido"
+    }
+  },
+  {
+    "id": "vaud_0746",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/746.mp3",
+      "palabraJP": "漏らす",
+      "lectura": "もらす",
+      "oracion": "一滴も漏らさず水をバケツで運んだ。",
+      "oracion_traduccion": "Llevé el agua en la cubeta sin tirar ni una sola gota.",
+      "significadoPalabra": "dejar escapar, divulgar, dejar fuera"
+    }
+  },
+  {
+    "id": "vaud_0747",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/747.mp3",
+      "palabraJP": "なる",
+      "lectura": "なる",
+      "oracion": "庭に実がなる木を植えた。",
+      "oracion_traduccion": "Planté en el jardín un árbol que da frutos.",
+      "significadoPalabra": "dar fruto, dar cosecha"
+    }
+  },
+  {
+    "id": "vaud_0748",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/748.mp3",
+      "palabraJP": "焦げる",
+      "lectura": "こげる",
+      "oracion": "焼き過ぎて、魚が真っ黒に焦げてしまった。",
+      "oracion_traduccion": "Se me pasó de cocción y el pescado se quemó completamente.",
+      "significadoPalabra": "quemarse, chamuscarse"
+    }
+  },
+  {
+    "id": "vaud_0749",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/749.mp3",
+      "palabraJP": "反する",
+      "lectura": "はんする",
+      "oracion": "両親の期待に反して、大学に進学しなかった。",
+      "oracion_traduccion": "En contra de las expectativas de sus padres, no ingresó a la universidad.",
+      "significadoPalabra": "ir en contra, infringir, defraudar"
+    }
+  },
+  {
+    "id": "vaud_0750",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/750.mp3",
+      "palabraJP": "膨れる",
+      "lectura": "ふくれる",
+      "oracion": "網の上でもちがふくれている。",
+      "oracion_traduccion": "El mochi se está inflando sobre la rejilla.",
+      "significadoPalabra": "inflarse, aumentarse, ponerse de mal humor"
+    }
+  },
+  {
+    "id": "vaud_0751",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/751.mp3",
+      "palabraJP": "膨らむ",
+      "lectura": "ふくらむ",
+      "oracion": "桜のつぼみがふくらんだ。",
+      "oracion_traduccion": "Los capullos del cerezo se han hinchado.",
+      "significadoPalabra": "inflarse, crecer, abultarse"
+    }
+  },
+  {
+    "id": "vaud_0752",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/752.mp3",
+      "palabraJP": "膨らます",
+      "lectura": "ふくらます",
+      "oracion": "彼女は怒るとほおをふくらます。",
+      "oracion_traduccion": "Ella infla los cachetes cuando se enoja.",
+      "significadoPalabra": "inflar, abultar"
+    }
+  },
+  {
+    "id": "vaud_0753",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/753.mp3",
+      "palabraJP": "とがる",
+      "lectura": "とがる",
+      "oracion": "この靴は先がとがっている。",
+      "oracion_traduccion": "Estos zapatos tienen la punta afilada.",
+      "significadoPalabra": "estar afilado, ser puntiagudo"
+    }
+  },
+  {
+    "id": "vaud_0754",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/754.mp3",
+      "palabraJP": "当てはまる",
+      "lectura": "あてはまる",
+      "oracion": "昔の教訓は、現代にも当てはまるものが多い。",
+      "oracion_traduccion": "Muchas enseñanzas del pasado siguen aplicando hoy en día.",
+      "significadoPalabra": "aplicarse, encajar, ser aplicable"
+    }
+  },
+  {
+    "id": "vaud_0755",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/755.mp3",
+      "palabraJP": "就く",
+      "lectura": "つく",
+      "oracion": "大学を卒業して教職に就いた。",
+      "oracion_traduccion": "Tras graduarme de la universidad, asumí un puesto como docente.",
+      "significadoPalabra": "asumir un cargo, tomar un puesto"
+    }
+  },
+  {
+    "id": "vaud_0756",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/756.mp3",
+      "palabraJP": "受け持つ",
+      "lectura": "うけもつ",
+      "oracion": "サークルで、今年は会計を受け持つことになった。",
+      "oracion_traduccion": "En el club, este año me tocó estar a cargo de la contabilidad.",
+      "significadoPalabra": "hacerse cargo de, encargarse de"
+    }
+  },
+  {
+    "id": "vaud_0757",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/757.mp3",
+      "palabraJP": "従う",
+      "lectura": "したがう",
+      "oracion": "非常の際は係員の指示に従ってください。",
+      "oracion_traduccion": "En caso de emergencia, siga las instrucciones del personal.",
+      "significadoPalabra": "seguir, obedecer, acatar"
+    }
+  },
+  {
+    "id": "vaud_0758",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/758.mp3",
+      "palabraJP": "つぶやく",
+      "lectura": "つぶやく",
+      "oracion": "彼女は下を向いて、何かぶつぶつつぶやいていた。",
+      "oracion_traduccion": "Ella estaba mirando hacia abajo, murmurando algo entre dientes.",
+      "significadoPalabra": "murmurar, refunfuñar"
+    }
+  },
+  {
+    "id": "vaud_0759",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/759.mp3",
+      "palabraJP": "述べる",
+      "lectura": "のべる",
+      "oracion": "自分の意見を述べる。",
+      "oracion_traduccion": "Expresar la opinión propia.",
+      "significadoPalabra": "expresar, declarar, exponer"
+    }
+  },
+  {
+    "id": "vaud_0760",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/760.mp3",
+      "palabraJP": "目覚める",
+      "lectura": "めざめる",
+      "oracion": "早朝、鳥の声で目覚めた。",
+      "oracion_traduccion": "Por la mañana temprano, me desperté con el canto de los pájaros.",
+      "significadoPalabra": "despertar, tomar conciencia"
+    }
+  },
+  {
+    "id": "vaud_0761",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/761.mp3",
+      "palabraJP": "限る",
+      "lectura": "かぎる",
+      "oracion": "日本では、マンガを読むのは子どもに限らない。",
+      "oracion_traduccion": "En Japón, leer manga no se limita únicamente a los niños.",
+      "significadoPalabra": "limitarse, ser lo mejor, no necesariamente"
+    }
+  },
+  {
+    "id": "vaud_0762",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/762.mp3",
+      "palabraJP": "片寄る/偏る",
+      "lectura": "かたよる",
+      "oracion": "ボートで客が一方に片寄ったため、船体が傾いてしまった。",
+      "oracion_traduccion": "Como los pasajeros se inclinaron hacia un solo lado del bote, la embarcación se ladeó.",
+      "significadoPalabra": "inclinarse a un lado, ser imparcial/desequilibrado"
+    }
+  },
+  {
+    "id": "vaud_0763",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/763.mp3",
+      "palabraJP": "薄まる",
+      "lectura": "うすまる",
+      "oracion": "氷がとけてジュースが薄まった。",
+      "oracion_traduccion": "El hielo se derritió y el jugo se diluyó.",
+      "significadoPalabra": "diluirse, debilitarse"
+    }
+  },
+  {
+    "id": "vaud_0764",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/764.mp3",
+      "palabraJP": "薄める",
+      "lectura": "うすめる",
+      "oracion": "水を足して味を薄めた。",
+      "oracion_traduccion": "Agregué agua para suavizar el sabor.",
+      "significadoPalabra": "diluir, rebajar"
+    }
+  },
+  {
+    "id": "vaud_0765",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/765.mp3",
+      "palabraJP": "薄れる",
+      "lectura": "うすれる",
+      "oracion": "霧が薄れ、見通しが良くなった。",
+      "oracion_traduccion": "La neblina se disipó y la visibilidad mejoró.",
+      "significadoPalabra": "desvanecerse, atenuarse, perderse"
+    }
+  },
+  {
+    "id": "vaud_0766",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/766.mp3",
+      "palabraJP": "透き通る",
+      "lectura": "すきとおる",
+      "oracion": "川の水が透き通っている。",
+      "oracion_traduccion": "El agua del río es transparente.",
+      "significadoPalabra": "ser transparente, ser cristalino"
+    }
+  },
+  {
+    "id": "vaud_0767",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/767.mp3",
+      "palabraJP": "静まる/鎮まる",
+      "lectura": "しずまる",
+      "oracion": "先生が入ってくると、教室がしいんと静まった。",
+      "oracion_traduccion": "Cuando entró el profesor, el salón quedó en completo silencio.",
+      "significadoPalabra": "calmarse, aplacarse, atenuarse (dolor)"
+    }
+  },
+  {
+    "id": "vaud_0768",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/768.mp3",
+      "palabraJP": "静める/鎮める",
+      "lectura": "しずめる",
+      "oracion": "司会者は騒がしい場内を一言で静めた。",
+      "oracion_traduccion": "El moderador apaciguó el alboroto de la sala con una sola palabra.",
+      "significadoPalabra": "apaciguar, calmar, aliviar"
+    }
+  },
+  {
+    "id": "vaud_0769",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/769.mp3",
+      "palabraJP": "優れる",
+      "lectura": "すぐれる",
+      "oracion": "彼は運動能力に優れている。",
+      "oracion_traduccion": "Destaca en su capacidad física.",
+      "significadoPalabra": "sobresalir, ser excelente"
+    }
+  },
+  {
+    "id": "vaud_0770",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/770.mp3",
+      "palabraJP": "落ち着く",
+      "lectura": "おちつく",
+      "oracion": "「あわてないで、落ち着いて話してください」",
+      "oracion_traduccion": "\"No entren en pánico, hablen con calma, por favor.\"",
+      "significadoPalabra": "calmarse, estabilizarse, asentarse"
+    }
+  },
+  {
+    "id": "vaud_0771",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/771.mp3",
+      "palabraJP": "長引く",
+      "lectura": "ながびく",
+      "oracion": "仕事が長引いて約束に遅れてしまった。",
+      "oracion_traduccion": "El trabajo se prolongó y se me hizo tarde para el compromiso.",
+      "significadoPalabra": "prolongarse, alargarse"
+    }
+  },
+  {
+    "id": "vaud_0772",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/772.mp3",
+      "palabraJP": "衰える",
+      "lectura": "おとろえる",
+      "oracion": "年を取ると、体力が衰える。",
+      "oracion_traduccion": "Con los años, las fuerzas disminuyen.",
+      "significadoPalabra": "debilitarse, deteriorarse, mermar"
+    }
+  },
+  {
+    "id": "vaud_0773",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/773.mp3",
+      "palabraJP": "備わる",
+      "lectura": "そなわる",
+      "oracion": "新幹線にはさまざまな安全装置が備わっている。",
+      "oracion_traduccion": "El tren bala viene equipado con diversos dispositivos de seguridad.",
+      "significadoPalabra": "estar equipado, poseer (cualidad)"
+    }
+  },
+  {
+    "id": "vaud_0774",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/774.mp3",
+      "palabraJP": "備える",
+      "lectura": "そなえる",
+      "oracion": "学校には火災報知機が備えてある。",
+      "oracion_traduccion": "En la escuela hay instaladas alarmas contra incendios.",
+      "significadoPalabra": "equipar, instalar, prepararse para"
+    }
+  },
+  {
+    "id": "vaud_0775",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/775.mp3",
+      "palabraJP": "蓄える",
+      "lectura": "たくわえる",
+      "oracion": "お金を蓄える。",
+      "oracion_traduccion": "Guardar dinero.",
+      "significadoPalabra": "ahorrar, almacenar, acumular"
+    }
+  },
+  {
+    "id": "vaud_0776",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/776.mp3",
+      "palabraJP": "整う",
+      "lectura": "ととのう",
+      "oracion": "準備が整った。",
+      "oracion_traduccion": "Los preparativos están listos.",
+      "significadoPalabra": "estar listo, estar bien organizado"
+    }
+  },
+  {
+    "id": "vaud_0777",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/777.mp3",
+      "palabraJP": "整える/調える",
+      "lectura": "ととのえる",
+      "oracion": "準備を整えた。",
+      "oracion_traduccion": "Dejé listos los preparativos.",
+      "significadoPalabra": "preparar, arreglar, ajustar"
+    }
+  },
+  {
+    "id": "vaud_0778",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/778.mp3",
+      "palabraJP": "覆う",
+      "lectura": "おおう",
+      "oracion": "テーブルをテーブルクロスで覆った。",
+      "oracion_traduccion": "Cubrí la mesa con un mantel.",
+      "significadoPalabra": "cubrir, tapar"
+    }
+  },
+  {
+    "id": "vaud_0779",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/779.mp3",
+      "palabraJP": "照る",
+      "lectura": "てる",
+      "oracion": "日が照っているうちに洗濯物を干そう。",
+      "oracion_traduccion": "Aprovechemos a tender la ropa mientras haya sol.",
+      "significadoPalabra": "brillar (el sol/la luna), despejarse"
+    }
+  },
+  {
+    "id": "vaud_0780",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/780.mp3",
+      "palabraJP": "照らす",
+      "lectura": "てらす",
+      "oracion": "懐中電灯で足元を照らしながら夜道を歩いた。",
+      "oracion_traduccion": "Caminé de noche alumbrando el camino hacia mis pies con una linterna.",
+      "significadoPalabra": "alumbrar, iluminar, cotejar"
+    }
+  },
+  {
+    "id": "vaud_0781",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/781.mp3",
+      "palabraJP": "染まる",
+      "lectura": "そまる",
+      "oracion": "染料で布が染まる。",
+      "oracion_traduccion": "La tela se tiñe con el tinte.",
+      "significadoPalabra": "teñirse, teñirse de un color, influenciarse"
+    }
+  },
+  {
+    "id": "vaud_0782",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/782.mp3",
+      "palabraJP": "染める",
+      "lectura": "そめる",
+      "oracion": "染料で布を染める。",
+      "oracion_traduccion": "Teñir la tela con tinte.",
+      "significadoPalabra": "teñir, pintar"
+    }
+  },
+  {
+    "id": "vaud_0783",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/783.mp3",
+      "palabraJP": "ダブる",
+      "lectura": "ダブる",
+      "oracion": "目が疲れてパソコンの字がダブって見える。",
+      "oracion_traduccion": "De lo cansada que tengo la vista, veo borroso y doble las letras de la computadora.",
+      "significadoPalabra": "duplicarse, solaparse, verse doble"
+    }
+  },
+  {
+    "id": "vaud_0784",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/784.mp3",
+      "palabraJP": "あこがれる",
+      "lectura": "あこがれる",
+      "oracion": "プロの選手にあこがれる。",
+      "oracion_traduccion": "Siento admiración por los atletas profesionales.",
+      "significadoPalabra": "anhelar, admirar, ilusionarse"
+    }
+  },
+  {
+    "id": "vaud_0785",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/785.mp3",
+      "palabraJP": "うらやむ",
+      "lectura": "うらやむ",
+      "oracion": "人の幸せをうらやんでもしかたがない。",
+      "oracion_traduccion": "De nada sirve envidiar la felicidad ajena.",
+      "significadoPalabra": "envidiar, desear lo de otro"
+    }
+  },
+  {
+    "id": "vaud_0786",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/786.mp3",
+      "palabraJP": "あきらめる",
+      "lectura": "あきらめる",
+      "oracion": "大けがをして、プロのサッカー選手になる夢をあきらめた。",
+      "oracion_traduccion": "Tras una lesión grave, rendí mi sueño de ser futbolista profesional.",
+      "significadoPalabra": "rendirse, renunciar"
+    }
+  },
+  {
+    "id": "vaud_0787",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/787.mp3",
+      "palabraJP": "あきれる",
+      "lectura": "あきれる",
+      "oracion": "新入社員があまりにものを知らんので、あきれてしまった。",
+      "oracion_traduccion": "Me quedé consternado de ver lo desinformado que estaba el nuevo empleado.",
+      "significadoPalabra": "quedarse atónito, desconcertarse"
+    }
+  },
+  {
+    "id": "vaud_0788",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/788.mp3",
+      "palabraJP": "恐れる",
+      "lectura": "おそれる",
+      "oracion": "動物は火を恐れる。",
+      "oracion_traduccion": "Los animales le temen al fuego.",
+      "significadoPalabra": "temer, tener miedo de"
+    }
+  },
+  {
+    "id": "vaud_0789",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/789.mp3",
+      "palabraJP": "恨む",
+      "lectura": "うらむ",
+      "oracion": "私は今でも、私をいじめた同級生を恨んでいる。",
+      "oracion_traduccion": "Todavía le guardo rencor al compañero de clase que me molestaba.",
+      "significadoPalabra": "guardar rencor, resentir"
+    }
+  },
+  {
+    "id": "vaud_0790",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/790.mp3",
+      "palabraJP": "慰める",
+      "lectura": "なぐさめる",
+      "oracion": "失恋した友だちをみんなでなぐさめた。",
+      "oracion_traduccion": "Entre todos consolamos al amigo a quien le rompieron el corazón.",
+      "significadoPalabra": "consolar, reconfortar"
+    }
+  },
+  {
+    "id": "vaud_0791",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/791.mp3",
+      "palabraJP": "インテリア",
+      "lectura": "インテリア",
+      "oracion": "友だちの部屋はインテリアの趣味がいい。",
+      "oracion_traduccion": "Mi amigo tiene buen gusto para el diseño de interiores en su cuarto.",
+      "significadoPalabra": "decoración de interiores"
+    }
+  },
+  {
+    "id": "vaud_0792",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/792.mp3",
+      "palabraJP": "コーナー",
+      "lectura": "コーナー",
+      "oracion": "冬になるとデパートにはお歳暮のコーナーが設けられる。",
+      "oracion_traduccion": "Al llegar el invierno, en las tiendas departamentales se habilita una sección de regalos de fin de año.",
+      "significadoPalabra": "sección, esquina, rincón"
+    }
+  },
+  {
+    "id": "vaud_0793",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/793.mp3",
+      "palabraJP": "カウンター",
+      "lectura": "カウンター",
+      "oracion": "デパートには入口に案内のカウンターがある。",
+      "oracion_traduccion": "La tienda departamental tiene un mostrador de información en la entrada.",
+      "significadoPalabra": "mostrador, barra"
+    }
+  },
+  {
+    "id": "vaud_0794",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/794.mp3",
+      "palabraJP": "スペース",
+      "lectura": "スペース",
+      "oracion": "部屋に大型テレビを置きたいが、スペースがない。",
+      "oracion_traduccion": "Quiero poner una televisión grande en la habitación, pero no tengo espacio.",
+      "significadoPalabra": "espacio"
+    }
+  },
+  {
+    "id": "vaud_0795",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/795.mp3",
+      "palabraJP": "オープン",
+      "lectura": "オープン",
+      "oracion": "駅前に新しいデパートがオープンした。",
+      "oracion_traduccion": "Abrió un nuevo centro comercial frente a la estación.",
+      "significadoPalabra": "inauguración, apertura, personalidad abierta"
+    }
+  },
+  {
+    "id": "vaud_0796",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/796.mp3",
+      "palabraJP": "センター",
+      "lectura": "センター",
+      "oracion": "駅前のショッピングセンターで買い物をする。",
+      "oracion_traduccion": "Hacer las compras en el centro comercial frente a la estación.",
+      "significadoPalabra": "centro, medio"
+    }
+  },
+  {
+    "id": "vaud_0797",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/797.mp3",
+      "palabraJP": "カルチャー",
+      "lectura": "カルチャー",
+      "oracion": "外国の生活でカルチャーショックを受けることがある。",
+      "oracion_traduccion": "A veces se experimenta un choque cultural al vivir en el extranjero.",
+      "significadoPalabra": "cultura"
+    }
+  },
+  {
+    "id": "vaud_0798",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/798.mp3",
+      "palabraJP": "ブーム",
+      "lectura": "ブーム",
+      "oracion": "1960年代にフォークソングがブームになった。",
+      "oracion_traduccion": "En la década de 1960, la música folk se puso de gran moda.",
+      "significadoPalabra": "auge, moda, furor"
+    }
+  },
+  {
+    "id": "vaud_0799",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/799.mp3",
+      "palabraJP": "インフォメーション",
+      "lectura": "インフォメーション",
+      "oracion": "駅には観光客用のインフォメーションデスクがある。",
+      "oracion_traduccion": "La estación cuenta con un módulo de información para turistas.",
+      "significadoPalabra": "información, orientación"
+    }
+  },
+  {
+    "id": "vaud_0800",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/800.mp3",
+      "palabraJP": "キャッチ",
+      "lectura": "キャッチ",
+      "oracion": "ボールをキャッチする。",
+      "oracion_traduccion": "Atrapar la pelota.",
+      "significadoPalabra": "atrapada, captar, frase publicitaria"
+    }
+  },
+  {
+    "id": "vaud_0801",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/801.mp3",
+      "palabraJP": "メディア",
+      "lectura": "メディア",
+      "oracion": "今は、さまざまなメディアから情報を得ることができる。",
+      "oracion_traduccion": "Hoy en día, se puede obtener información a través de diversos medios.",
+      "significadoPalabra": "medios de comunicación"
+    }
+  },
+  {
+    "id": "vaud_0802",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/802.mp3",
+      "palabraJP": "コメント",
+      "lectura": "コメント",
+      "oracion": "評論家がテレビで経済についてコメントしていた。",
+      "oracion_traduccion": "Un analista estuvo comentando sobre la economía en la televisión.",
+      "significadoPalabra": "comentario, opinión"
+    }
+  },
+  {
+    "id": "vaud_0803",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/803.mp3",
+      "palabraJP": "コラム",
+      "lectura": "コラム",
+      "oracion": "新聞や雑誌には多くのコラムがある。",
+      "oracion_traduccion": "Los periódicos y las revistas tienen bastantes columnas de opinión.",
+      "significadoPalabra": "columna de opinión/prensa"
+    }
+  },
+  {
+    "id": "vaud_0804",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/804.mp3",
+      "palabraJP": "エピソード",
+      "lectura": "エピソード",
+      "oracion": "日常生活のエピソードをエッセイに書く。",
+      "oracion_traduccion": "Escribo anécdotas de la vida cotidiana en un ensayo.",
+      "significadoPalabra": "anécdota, episodio"
+    }
+  },
+  {
+    "id": "vaud_0805",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/805.mp3",
+      "palabraJP": "アリバイ",
+      "lectura": "アリバイ",
+      "oracion": "彼には事件当日のアリバイがある。",
+      "oracion_traduccion": "Él cuenta con una coartada para el día del incidente.",
+      "significadoPalabra": "coartada"
+    }
+  },
+  {
+    "id": "vaud_0806",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/806.mp3",
+      "palabraJP": "シリーズ",
+      "lectura": "シリーズ",
+      "oracion": "この映画は、評判がよかったのでシリーズ化された。",
+      "oracion_traduccion": "Esta película tuvo tan buena recepción que la convirtieron en saga.",
+      "significadoPalabra": "saga, serie"
+    }
+  },
+  {
+    "id": "vaud_0807",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/807.mp3",
+      "palabraJP": "ポイント",
+      "lectura": "ポイント",
+      "oracion": "スクリーンのポイントを指しながら、プレゼンテーションをした。",
+      "oracion_traduccion": "Hice la presentación señalando los puntos clave en la pantalla.",
+      "significadoPalabra": "punto clave, aspecto, puntos promocionales"
+    }
+  },
+  {
+    "id": "vaud_0808",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/808.mp3",
+      "palabraJP": "キー",
+      "lectura": "キー",
+      "oracion": "車のキーを中に入れたままロックしてしまった。",
+      "oracion_traduccion": "Dejé las llaves encerradas adentro del coche.",
+      "significadoPalabra": "llave, clave, tecla"
+    }
+  },
+  {
+    "id": "vaud_0809",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/809.mp3",
+      "palabraJP": "マスター",
+      "lectura": "マスター",
+      "oracion": "独学で日本語をマスターした。",
+      "oracion_traduccion": "Dominé el idioma japonés estudiando por mi cuenta.",
+      "significadoPalabra": "dominar, dueño de negocio, maestría"
+    }
+  },
+  {
+    "id": "vaud_0810",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/810.mp3",
+      "palabraJP": "ビジネス",
+      "lectura": "ビジネス",
+      "oracion": "彼はビジネスで世界中を飛び回っている。",
+      "oracion_traduccion": "Él viaja constantemente por todo el mundo por cuestiones de negocios.",
+      "significadoPalabra": "negocios, trabajo corporativo"
+    }
+  },
+  {
+    "id": "vaud_0811",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/811.mp3",
+      "palabraJP": "キャリア",
+      "lectura": "キャリア",
+      "oracion": "この仕事はキャリアのある人でないと務まらない。",
+      "oracion_traduccion": "Este puesto sólo puede desempeñarlo alguien con suficiente trayectoria profesional.",
+      "significadoPalabra": "experiencia laboral, trayectoria, portador"
+    }
+  },
+  {
+    "id": "vaud_0812",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/812.mp3",
+      "palabraJP": "ベテラン",
+      "lectura": "ベテラン",
+      "oracion": "田中さんは教師歴20年のベテランだ。",
+      "oracion_traduccion": "Tanaka es un experto con 20 años de experiencia en la docencia.",
+      "significadoPalabra": "veterano, experto con trayectoria"
+    }
+  },
+  {
+    "id": "vaud_0813",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/813.mp3",
+      "palabraJP": "フリー",
+      "lectura": "フリー",
+      "oracion": "彼はフリーのカメラマンをしている。",
+      "oracion_traduccion": "Trabaja como fotógrafo independiente.",
+      "significadoPalabra": "independiente, libre, gratuito"
+    }
+  },
+  {
+    "id": "vaud_0814",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/814.mp3",
+      "palabraJP": "エコノミー",
+      "lectura": "エコノミー",
+      "oracion": "飛行機ではいつもエコノミークラスに乗っている。",
+      "oracion_traduccion": "En los aviones siempre viajo en clase turista.",
+      "significadoPalabra": "clase turista, ahorro energético, economía"
+    }
+  },
+  {
+    "id": "vaud_0815",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/815.mp3",
+      "palabraJP": "キャッシュ",
+      "lectura": "キャッシュ",
+      "oracion": "彼は車の代金をキャッシュで払ったそうだ。",
+      "oracion_traduccion": "Me dijeron que pagó el coche al contado.",
+      "significadoPalabra": "efectivo, dinero en efectivo"
+    }
+  },
+  {
+    "id": "vaud_0816",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/816.mp3",
+      "palabraJP": "インフレ",
+      "lectura": "インフレ",
+      "oracion": "インフレで物価が上昇している。",
+      "oracion_traduccion": "Los precios están aumentando por la inflación.",
+      "significadoPalabra": "inflación"
+    }
+  },
+  {
+    "id": "vaud_0817",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/817.mp3",
+      "palabraJP": "デモ",
+      "lectura": "デモ",
+      "oracion": "増税に抗議して、国のあちこちでデモが行われた。",
+      "oracion_traduccion": "Hubo manifestaciones en varios puntos del país en protesta por el alza de impuestos.",
+      "significadoPalabra": "manifestación, marcha"
+    }
+  },
+  {
+    "id": "vaud_0818",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/818.mp3",
+      "palabraJP": "メーカー",
+      "lectura": "メーカー",
+      "oracion": "メーカーは海外に工場を持っていることが多い。",
+      "oracion_traduccion": "Es muy común que los fabricantes tengan plantas de producción en el extranjero.",
+      "significadoPalabra": "fabricante, marca"
+    }
+  },
+  {
+    "id": "vaud_0819",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/819.mp3",
+      "palabraJP": "システム",
+      "lectura": "システム",
+      "oracion": "今、教育システムの見直しが進んでいる。",
+      "oracion_traduccion": "Actualmente se está reestructurando el sistema educativo.",
+      "significadoPalabra": "sistema, estructura"
+    }
+  },
+  {
+    "id": "vaud_0820",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/820.mp3",
+      "palabraJP": "ケース",
+      "lectura": "ケース",
+      "oracion": "指輪をケースにしまった。",
+      "oracion_traduccion": "Guardé el anillo en su estuche.",
+      "significadoPalabra": "estuche, caja, caso"
+    }
+  },
+  {
+    "id": "vaud_0821",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/821.mp3",
+      "palabraJP": "パターン",
+      "lectura": "パターン",
+      "oracion": "血液型性格占いは、人間の性格を四つのパターンに分けている。",
+      "oracion_traduccion": "La astrología del tipo de sangre divide la personalidad humana en cuatro modelos.",
+      "significadoPalabra": "patrón, tipo, modelo"
+    }
+  },
+  {
+    "id": "vaud_0822",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/822.mp3",
+      "palabraJP": "プラン",
+      "lectura": "プラン",
+      "oracion": "両親は、定年後に海外移住するプランを立てている。",
+      "oracion_traduccion": "Mis padres están organizando un plan para mudarse al extranjero tras jubilarse.",
+      "significadoPalabra": "plan, proyecto, paquete de servicios"
+    }
+  },
+  {
+    "id": "vaud_0823",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/823.mp3",
+      "palabraJP": "トラブル",
+      "lectura": "トラブル",
+      "oracion": "テレビの音のことでアパートの隣人とトラブルになった。",
+      "oracion_traduccion": "Tuve un altercado con el vecino por el volumen de la televisión.",
+      "significadoPalabra": "problema, altercado, inconveniente"
+    }
+  },
+  {
+    "id": "vaud_0824",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/824.mp3",
+      "palabraJP": "エラー",
+      "lectura": "エラー",
+      "oracion": "このデジカメはよくエラーが起きる。",
+      "oracion_traduccion": "Esta cámara digital arroja fallas muy seguido.",
+      "significadoPalabra": "falla, error de sistema"
+    }
+  },
+  {
+    "id": "vaud_0825",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/825.mp3",
+      "palabraJP": "クレーム",
+      "lectura": "クレーム",
+      "oracion": "「買った肉が変なにおいがする」と、スーパーにクレームがあった。",
+      "oracion_traduccion": "El supermercado recibió una queja diciendo que la carne comprada olía mal.",
+      "significadoPalabra": "reclamo, queja"
+    }
+  },
+  {
+    "id": "vaud_0826",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/826.mp3",
+      "palabraJP": "キャンセル",
+      "lectura": "キャンセル",
+      "oracion": "ホテルの予約をキャンセルした。",
+      "oracion_traduccion": "Cancelé la reservación del hotel.",
+      "significadoPalabra": "cancelación"
+    }
+  },
+  {
+    "id": "vaud_0827",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/827.mp3",
+      "palabraJP": "ストップ",
+      "lectura": "ストップ",
+      "oracion": "踏切事故で電車が1時間ストップした。",
+      "oracion_traduccion": "El servicio de trenes se interrumpió por una hora debido a un accidente en el cruce.",
+      "significadoPalabra": "detención, interrupción, paro"
+    }
+  },
+  {
+    "id": "vaud_0828",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/828.mp3",
+      "palabraJP": "カット",
+      "lectura": "カット",
+      "oracion": "ケーキを八つにカットした。",
+      "oracion_traduccion": "Partí el pastel en ocho rebanadas.",
+      "significadoPalabra": "cortar, recorte, corte de cabello"
+    }
+  },
+  {
+    "id": "vaud_0829",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/829.mp3",
+      "palabraJP": "カバー",
+      "lectura": "カバー",
+      "oracion": "ソファーをカバーで覆う。",
+      "oracion_traduccion": "Cubrir el sillón con una funda.",
+      "significadoPalabra": "funda, respaldar a alguien, abarcar"
+    }
+  },
+  {
+    "id": "vaud_0830",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/830.mp3",
+      "palabraJP": "リハビリ",
+      "lectura": "リハビリ",
+      "oracion": "骨折で入院し、退院後もしばらくリハビリのため病院に通った。",
+      "oracion_traduccion": "Me hospitalizaron por una fractura y, aun después del alta, seguí yendo al hospital a rehabilitación un tiempo.",
+      "significadoPalabra": "rehabilitación física"
+    }
+  },
+  {
+    "id": "vaud_0831",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/831.mp3",
+      "palabraJP": "プレッシャー",
+      "lectura": "プレッシャー",
+      "oracion": "この仕事は、新入社員にはプレッシャーが大きい。",
+      "oracion_traduccion": "Este empleo implica demasiada presión para un trabajador novato.",
+      "significadoPalabra": "presión mental, tensión"
+    }
+  },
+  {
+    "id": "vaud_0832",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/832.mp3",
+      "palabraJP": "カウンセリング",
+      "lectura": "カウンセリング",
+      "oracion": "学校で子どもたちをカウンセリングする仕事をしている。",
+      "oracion_traduccion": "Trabajo brindando orientación psicológica a los niños en la escuela.",
+      "significadoPalabra": "asesoría psicológica, terapia"
+    }
+  },
+  {
+    "id": "vaud_0833",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/833.mp3",
+      "palabraJP": "キャラクター",
+      "lectura": "キャラクター",
+      "oracion": "彼はちょっと変わったキャラクターの持ち主だ。",
+      "oracion_traduccion": "Él tiene una personalidad un poco peculiar.",
+      "significadoPalabra": "personalidad, personaje"
+    }
+  },
+  {
+    "id": "vaud_0834",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/834.mp3",
+      "palabraJP": "ユニークな",
+      "lectura": "ユニークな",
+      "oracion": "彼女はユニークな性格だ。",
+      "oracion_traduccion": "Ella tiene una personalidad muy singular.",
+      "significadoPalabra": "singular, único, original"
+    }
+  },
+  {
+    "id": "vaud_0835",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/835.mp3",
+      "palabraJP": "ルーズな",
+      "lectura": "ルーズな",
+      "oracion": "あの人は時間にルーズだ。",
+      "oracion_traduccion": "Esa persona es muy descuidada e impuntual con el tiempo.",
+      "significadoPalabra": "despreocupado, descuidado, informal"
+    }
+  },
+  {
+    "id": "vaud_0836",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/836.mp3",
+      "palabraJP": "ロマンチックな",
+      "lectura": "ロマンチックな",
+      "oracion": "デートをするならロマンチックな場所がいい。",
+      "oracion_traduccion": "Si voy a tener una cita, prefiero que sea en un lugar romántico.",
+      "significadoPalabra": "romántico"
+    }
+  },
+  {
+    "id": "vaud_0837",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/837.mp3",
+      "palabraJP": "センス",
+      "lectura": "センス",
+      "oracion": "彼女はいつもセンスのいい服を着ている。",
+      "oracion_traduccion": "Ella viste ropa de muy buen gusto siempre.",
+      "significadoPalabra": "buen gusto, sensibilidad, sentido"
+    }
+  },
+  {
+    "id": "vaud_0838",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/838.mp3",
+      "palabraJP": "エコロジー",
+      "lectura": "エコロジー",
+      "oracion": "最近は、どの国でもエコロジーの考え方が当たり前になった。",
+      "oracion_traduccion": "Últimamente, en cualquier país la cultura ecológica se ha vuelto algo cotidiano.",
+      "significadoPalabra": "ecología"
+    }
+  },
+  {
+    "id": "vaud_0839",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/839.mp3",
+      "palabraJP": "ダム",
+      "lectura": "ダム",
+      "oracion": "川にダムが建設された。",
+      "oracion_traduccion": "Se construyó una presa en el río.",
+      "significadoPalabra": "presa, embalse"
+    }
+  },
+  {
+    "id": "vaud_0840",
+    "categoria": "vocabulario_audio",
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/mimi/840.mp3",
+      "palabraJP": "コンクリート",
+      "lectura": "コンクリート",
+      "oracion": "このビルはコンクリートでできている。",
+      "oracion_traduccion": "Este edificio está hecho de concreto.",
+      "significadoPalabra": "concreto, hormigón"
+    }
   }
 ]
