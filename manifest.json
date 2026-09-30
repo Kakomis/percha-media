@@ -7514,50 +7514,27 @@
     "categoria": "sokuji_outou",
     "fuente": {},
     "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4.mp3",
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4a.mp3",
       "imagen_url": null,
-      "titulo_seccion": null,
-      "contexto": "まず文を聞いてください。それから、それに対する返事を聞いて、1から3の中から、最もよいものを一つ選んでください。",
+      "contexto": null,
       "enfoque": null,
+      "pregunta": "",
       "opciones_visibles_antes_audio": false,
-      "items": [
+      "opciones": [
         {
-          "pregunta": "",
-          "opciones": [
-            {
-              "id": "a",
-              "texto": ""
-            },
-            {
-              "id": "b",
-              "texto": ""
-            },
-            {
-              "id": "c",
-              "texto": ""
-            }
-          ],
-          "respuesta_correcta": "c"
+          "id": "a",
+          "texto": ""
         },
         {
-          "pregunta": "",
-          "opciones": [
-            {
-              "id": "a",
-              "texto": ""
-            },
-            {
-              "id": "b",
-              "texto": ""
-            },
-            {
-              "id": "c",
-              "texto": ""
-            }
-          ],
-          "respuesta_correcta": "b"
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
         }
       ],
+      "respuesta_correcta": "c",
       "tabla_apoyo": null
     }
   },
@@ -7651,6 +7628,35 @@
           "respuesta_correcta": "c"
         }
       ],
+      "tabla_apoyo": null
+    }
+  },
+  {
+    "id": "aud_0106",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4b.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "b",
       "tabla_apoyo": null
     }
   },
@@ -8309,7 +8315,7 @@
       }
     ]
   },
-    {
+  {
     "id": 64,
     "titulo": "Cómo llegó a dominar el japonés mediante la inmersión",
     "categoria": "shadowing_srt",
