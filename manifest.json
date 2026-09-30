@@ -7510,35 +7510,6 @@
     }
   },
   {
-    "id": "aud_0103",
-    "categoria": "sokuji_outou",
-    "fuente": {},
-    "contenido": {
-      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4a.mp3",
-      "imagen_url": null,
-      "contexto": null,
-      "enfoque": null,
-      "pregunta": "",
-      "opciones_visibles_antes_audio": false,
-      "opciones": [
-        {
-          "id": "a",
-          "texto": ""
-        },
-        {
-          "id": "b",
-          "texto": ""
-        },
-        {
-          "id": "c",
-          "texto": ""
-        }
-      ],
-      "respuesta_correcta": "c",
-      "tabla_apoyo": null
-    }
-  },
-  {
     "id": "aud_0104",
     "categoria": "tougou_rikai",
     "fuente": {},
@@ -7657,6 +7628,35 @@
         }
       ],
       "respuesta_correcta": "b",
+      "tabla_apoyo": null
+    }
+  },
+    {
+    "id": "aud_0107",
+    "categoria": "sokuji_outou",
+    "fuente": {},
+    "contenido": {
+      "audio_url": "https://hablar.s3.us-east-1.amazonaws.com/master/04+Pista+4a.mp3",
+      "imagen_url": null,
+      "contexto": null,
+      "enfoque": null,
+      "pregunta": "",
+      "opciones_visibles_antes_audio": false,
+      "opciones": [
+        {
+          "id": "a",
+          "texto": ""
+        },
+        {
+          "id": "b",
+          "texto": ""
+        },
+        {
+          "id": "c",
+          "texto": ""
+        }
+      ],
+      "respuesta_correcta": "c",
       "tabla_apoyo": null
     }
   },
