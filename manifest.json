@@ -8341,5 +8341,419 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_2.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_2.srt"
+  },
+  {
+    "id": 67,
+    "titulo": "Cambio de sonido 1-1",
+    "categoria": "shadowing_srt",
+    "orden": 67,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S01-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S01-K1.srt"
+  },
+  {
+    "id": 68,
+    "titulo": "Cambio de sonido 1-2",
+    "categoria": "shadowing_srt",
+    "orden": 68,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S01-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S01-K2.srt"
+  },
+  {
+    "id": 69,
+    "titulo": "Cambio de sonido 2-1",
+    "categoria": "shadowing_srt",
+    "orden": 69,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S02-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S02-K1.srt"
+  },
+  {
+    "id": 70,
+    "titulo": "Cambio de sonido 2-2",
+    "categoria": "shadowing_srt",
+    "orden": 70,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S02-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S02-K2.srt"
+  },
+  {
+    "id": 71,
+    "titulo": "Cambio de sonido 3-1",
+    "categoria": "shadowing_srt",
+    "orden": 71,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S03-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S03-K1.srt"
+  },
+  {
+    "id": 72,
+    "titulo": "Cambio de sonido 3-2",
+    "categoria": "shadowing_srt",
+    "orden": 72,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S03-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S03-K2.srt"
+  },
+  {
+    "id": 73,
+    "titulo": "Cambio de sonido 4-1",
+    "categoria": "shadowing_srt",
+    "orden": 73,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S04-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S04-K1.srt"
+  },
+  {
+    "id": 74,
+    "titulo": "Cambio de sonido 4-2",
+    "categoria": "shadowing_srt",
+    "orden": 74,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S04-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S04-K2.srt"
+  },
+  {
+    "id": 75,
+    "titulo": "Cambio de sonido 5-1",
+    "categoria": "shadowing_srt",
+    "orden": 75,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S05-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S05-K1.srt"
+  },
+  {
+    "id": 76,
+    "titulo": "Cambio de sonido 5-2",
+    "categoria": "shadowing_srt",
+    "orden": 76,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S05-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S05-K2.srt"
+  },
+  {
+    "id": 77,
+    "titulo": "Cambio de sonido 6-1",
+    "categoria": "shadowing_srt",
+    "orden": 77,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S06-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S06-K1.srt"
+  },
+  {
+    "id": 78,
+    "titulo": "Cambio de sonido 6-2",
+    "categoria": "shadowing_srt",
+    "orden": 78,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S06-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S06-K2.srt"
+  },
+  {
+    "id": 79,
+    "titulo": "Estilo conversacional 7-1",
+    "categoria": "shadowing_srt",
+    "orden": 79,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S07-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S07-K1.srt"
+  },
+  {
+    "id": 80,
+    "titulo": "Estilo conversacional 7-2",
+    "categoria": "shadowing_srt",
+    "orden": 80,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S07-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S07-K2.srt"
+  },
+  {
+    "id": 81,
+    "titulo": "Estilo conversacional 8-1",
+    "categoria": "shadowing_srt",
+    "orden": 81,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S08-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S08-K1.srt"
+  },
+  {
+    "id": 82,
+    "titulo": "Estilo conversacional 8-2",
+    "categoria": "shadowing_srt",
+    "orden": 82,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S08-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S08-K2.srt"
+  },
+  {
+    "id": 83,
+    "titulo": "Estilo conversacional 9-1",
+    "categoria": "shadowing_srt",
+    "orden": 83,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S09-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S09-K1.srt"
+  },
+  {
+    "id": 84,
+    "titulo": "Estilo conversacional 9-2",
+    "categoria": "shadowing_srt",
+    "orden": 84,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S09-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S09-K2.srt"
+  },
+  {
+    "id": 85,
+    "titulo": "Estilo conversacional 10-1",
+    "categoria": "shadowing_srt",
+    "orden": 85,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S10-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S10-K1.srt"
+  },
+  {
+    "id": 86,
+    "titulo": "Estilo conversacional 10-2",
+    "categoria": "shadowing_srt",
+    "orden": 86,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S10-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S10-K2.srt"
+  },
+  {
+    "id": 87,
+    "titulo": "Estilo conversacional 11-1",
+    "categoria": "shadowing_srt",
+    "orden": 87,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S11-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S11-K1.srt"
+  },
+  {
+    "id": 88,
+    "titulo": "Estilo conversacional 11-2",
+    "categoria": "shadowing_srt",
+    "orden": 88,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S11-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S11-K2.srt"
+  },
+  {
+    "id": 89,
+    "titulo": "Estilo conversacional 12-1",
+    "categoria": "shadowing_srt",
+    "orden": 89,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S12-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S12-K1.srt"
+  },
+  {
+    "id": 90,
+    "titulo": "Estilo conversacional 12-2",
+    "categoria": "shadowing_srt",
+    "orden": 90,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S12-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S12-K2.srt"
+  },
+  {
+    "id": 91,
+    "titulo": "Funciones del habla 13-1",
+    "categoria": "shadowing_srt",
+    "orden": 91,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S13-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S13-K1.srt"
+  },
+  {
+    "id": 92,
+    "titulo": "Funciones del habla 13-2",
+    "categoria": "shadowing_srt",
+    "orden": 92,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S13-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S13-K2.srt"
+  },
+  {
+    "id": 93,
+    "titulo": "Funciones del habla 14-1",
+    "categoria": "shadowing_srt",
+    "orden": 93,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S14-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S14-K1.srt"
+  },
+  {
+    "id": 94,
+    "titulo": "Funciones del habla 14-2",
+    "categoria": "shadowing_srt",
+    "orden": 94,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S14-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S14-K2.srt"
+  },
+  {
+    "id": 95,
+    "titulo": "Funciones del habla 15-1",
+    "categoria": "shadowing_srt",
+    "orden": 95,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S15-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S15-K1.srt"
+  },
+  {
+    "id": 96,
+    "titulo": "Funciones del habla 15-2",
+    "categoria": "shadowing_srt",
+    "orden": 96,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S15-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S15-K2.srt"
+  },
+  {
+    "id": 97,
+    "titulo": "Funciones del habla 16-1",
+    "categoria": "shadowing_srt",
+    "orden": 97,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S16-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S16-K1.srt"
+  },
+  {
+    "id": 98,
+    "titulo": "Funciones del habla 16-2",
+    "categoria": "shadowing_srt",
+    "orden": 98,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S16-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S16-K2.srt"
+  },
+  {
+    "id": 99,
+    "titulo": "Funciones del habla 17-1",
+    "categoria": "shadowing_srt",
+    "orden": 99,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S17-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S17-K1.srt"
+  },
+  {
+    "id": 100,
+    "titulo": "Funciones del habla 17-2",
+    "categoria": "shadowing_srt",
+    "orden": 100,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S17-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S17-K2.srt"
+  },
+  {
+    "id": 101,
+    "titulo": "Funciones del habla 18-1",
+    "categoria": "shadowing_srt",
+    "orden": 101,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S18-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S18-K1.srt"
+  },
+  {
+    "id": 102,
+    "titulo": "Funciones del habla 18-2",
+    "categoria": "shadowing_srt",
+    "orden": 102,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S18-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S18-K2.srt"
+  },
+  {
+    "id": 103,
+    "titulo": "Funciones del habla 19-1",
+    "categoria": "shadowing_srt",
+    "orden": 103,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S19-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S19-K1.srt"
+  },
+  {
+    "id": 104,
+    "titulo": "Funciones del habla 19-2",
+    "categoria": "shadowing_srt",
+    "orden": 104,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S19-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S19-K2.srt"
+  },
+  {
+    "id": 105,
+    "titulo": "Funciones del habla 20-1",
+    "categoria": "shadowing_srt",
+    "orden": 105,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S20-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S20-K1.srt"
+  },
+  {
+    "id": 106,
+    "titulo": "Funciones del habla 20-2",
+    "categoria": "shadowing_srt",
+    "orden": 106,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S20-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S20-K2.srt"
+  },
+  {
+    "id": 107,
+    "titulo": "Funciones del habla 21-1",
+    "categoria": "shadowing_srt",
+    "orden": 107,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S21-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S21-K1.srt"
+  },
+  {
+    "id": 108,
+    "titulo": "Funciones del habla 21-2",
+    "categoria": "shadowing_srt",
+    "orden": 108,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S21-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S21-K2.srt"
+  },
+  {
+    "id": 109,
+    "titulo": "Funciones del habla 22-1",
+    "categoria": "shadowing_srt",
+    "orden": 109,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S22-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S22-K1.srt"
+  },
+  {
+    "id": 110,
+    "titulo": "Funciones del habla 22-2",
+    "categoria": "shadowing_srt",
+    "orden": 110,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S22-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S22-K2.srt"
+  },
+  {
+    "id": 111,
+    "titulo": "Funciones del habla 23-1",
+    "categoria": "shadowing_srt",
+    "orden": 111,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S23-K1.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S23-K1.srt"
+  },
+  {
+    "id": 112,
+    "titulo": "Funciones del habla 23-2",
+    "categoria": "shadowing_srt",
+    "orden": 112,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S23-K2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S23-K2.srt"
   }
 ]
