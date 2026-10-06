@@ -8755,5 +8755,23 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/NMK-S23-K2.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/NMK-S23-K2.srt"
+  },
+    {
+    "id": 113,
+    "titulo": "Una nueva experiencia",
+    "categoria": "shadowing_srt",
+    "orden": 113,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/ONDE2.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/ONDE2.srt"
+  },
+    {
+    "id": 114,
+    "titulo": "Capitán Tsubasa",
+    "categoria": "shadowing_srt",
+    "orden": 114,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/ONDE3.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/ONDE3.srt"
   }
 ]
