@@ -8765,7 +8765,7 @@
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/ONDE2.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/ONDE2.srt"
   },
-    {
+  {
     "id": 114,
     "titulo": "Capitán Tsubasa",
     "categoria": "shadowing_srt",
@@ -8773,5 +8773,14 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/ONDE3.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/ONDE3.srt"
+  },
+  {
+    "id": 115,
+    "titulo": "Extranjero pregunta sobre japonés",
+    "categoria": "shadowing_srt",
+    "orden": 115,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_4.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_4.srt"
   }
 ]
