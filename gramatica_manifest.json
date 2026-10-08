@@ -1,0 +1,1020 @@
+{
+  "esquema": "percha-gramatica",
+  "version": 1,
+  "generado": "2026-10-08T01:05:02.890Z",
+  "patrones": [
+    {
+      "idExterno": "gram_0001",
+      "ficha": {
+        "tituloJP": "V（る／た）か V ないかのうちに",
+        "variantes": [
+          "かのうちに"
+        ],
+        "glosaES": "apenas… cuando ya…",
+        "definicionES": "El segundo hecho ocurre casi en el mismo instante en que el primero apenas empieza o termina.",
+        "notaUso": "Repite el mismo verbo (Vるか Vないか). Lo que sigue es un hecho real, no una orden ni una intención.",
+        "nivel": "N2",
+        "lecciones": [
+          "N2-1"
+        ],
+        "grupo": "temporal_abrupto"
+      },
+      "ejemplos": [
+        {
+          "id": "e1",
+          "ja": "授業が終わるか終わらないかのうちに、学生たちは教室を飛び出した。",
+          "lectura": "じゅぎょうがおわるかおわらないかのうちに、がくせいたちはきょうしつをとびだした。",
+          "es": "Apenas terminaba la clase, los alumnos ya salían corriendo del salón.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        },
+        {
+          "id": "e2",
+          "ja": "電話を切るか切らないかのうちに、また着信音が鳴った。",
+          "lectura": "でんわをきるかきらないかのうちに、またちゃくしんおんがなった。",
+          "es": "Apenas colgué el teléfono, volvió a sonar.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        }
+      ],
+      "ejercicios": [
+        {
+          "id": "h1",
+          "tipo": "hueco",
+          "antes": "授業が終わるか終わらない",
+          "respuesta": "かのうちに",
+          "despues": "、学生たちは教室を飛び出した。",
+          "lecturaAntes": "じゅぎょうがおわるかおわらない",
+          "lecturaDespues": "、がくせいたちはきょうしつをとびだした。",
+          "distractores": [
+            {
+              "forma": "たとたんに",
+              "tipo": "forma",
+              "porQueNo": "Pide Vた; aquí el verbo está en forma ない.",
+              "patronId": "seed-198"
+            },
+            {
+              "forma": "次第",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます de un verbo; aquí va Vない.",
+              "patronId": "seed-195"
+            },
+            {
+              "forma": "てはじめて",
+              "tipo": "forma",
+              "porQueNo": "Pide Vて; aquí va Vない.",
+              "patronId": "gram_0004"
+            }
+          ],
+          "es": "Apenas terminaba la clase, los alumnos ya salían corriendo del salón.",
+          "pista": "La estructura repetida Vるか Vない pide かのうちに."
+        },
+        {
+          "id": "h2",
+          "tipo": "hueco",
+          "antes": "電話を切るか切らない",
+          "respuesta": "かのうちに",
+          "despues": "、また着信音が鳴った。",
+          "lecturaAntes": "でんわをきるかきらない",
+          "lecturaDespues": "、またちゃくしんおんがなった。",
+          "distractores": [
+            {
+              "forma": "上で",
+              "tipo": "forma",
+              "porQueNo": "Pide Vた o un sustantivo con の; aquí va Vない.",
+              "patronId": "seed-187"
+            },
+            {
+              "forma": "たとたんに",
+              "tipo": "forma",
+              "porQueNo": "Pide Vた; aquí el verbo está en forma ない.",
+              "patronId": "seed-198"
+            },
+            {
+              "forma": "次第",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます de un verbo; aquí va Vない.",
+              "patronId": "seed-195"
+            }
+          ],
+          "es": "Apenas colgué el teléfono, volvió a sonar.",
+          "pista": "Vるか Vない + かのうちに."
+        },
+        {
+          "id": "o1",
+          "tipo": "orden_estrella",
+          "prefijo": "ドアが",
+          "fragmentos": [
+            "開くか",
+            "開かない",
+            "かのうちに、",
+            "子どもたちが"
+          ],
+          "sufijo": "部屋に飛び込んできた。",
+          "posicionEstrella": 3,
+          "oracion": "ドアが開くか開かないかのうちに、子どもたちが部屋に飛び込んできた。",
+          "lecturaOracion": "どあがひらくかひらかないかのうちに、こどもたちがへやにとびこんできた。",
+          "es": "Apenas se abrió la puerta, los niños entraron corriendo a la habitación.",
+          "explicacion": "El bloque temporal es Vるか + Vない + かのうちに. Después va el sujeto de la oración principal (子どもたちが) y al final el resto del predicado."
+        }
+      ],
+      "confusables": [
+        {
+          "con": "seed-198",
+          "tipo": "sentido",
+          "porQueNo": "たとたん narra algo súbito después de Vた; かのうちに exige la estructura Vるか Vない y marca un traslape casi total."
+        },
+        {
+          "con": "seed-197",
+          "tipo": "sentido",
+          "porQueNo": "かと思うと marca el contraste entre dos estados; かのうちに solo marca inmediatez."
+        },
+        {
+          "con": "seed-190",
+          "tipo": "forma",
+          "porQueNo": "うちに anticipa un cambio de estado; かのうちに no depende de que algo cambie."
+        },
+        {
+          "con": "seed-195",
+          "tipo": "forma",
+          "porQueNo": "Pide la raíz ます de un verbo; aquí va Vない.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "forma",
+          "porQueNo": "Pide Vて; aquí va Vない.",
+          "origen": "distractor"
+        },
+        {
+          "con": "seed-187",
+          "tipo": "forma",
+          "porQueNo": "Pide Vた o un sustantivo con の; aquí va Vない.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0003",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0005",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ],
+      "rev": 4
+    },
+    {
+      "idExterno": "gram_0002",
+      "ficha": {
+        "tituloJP": "V ている／N の最中だ（に）",
+        "variantes": [
+          "最中だ",
+          "最中に"
+        ],
+        "glosaES": "en plena…",
+        "definicionES": "Algo está en pleno desarrollo y justo entonces ocurre otra cosa, casi siempre inesperada y molesta.",
+        "notaUso": "Va tras Vている o Nの. Lo que interrumpe se marca con に y suele ir en pasado.",
+        "nivel": "N2",
+        "lecciones": [
+          "N2-2"
+        ],
+        "grupo": "simultaneidad"
+      },
+      "ejemplos": [
+        {
+          "id": "e1",
+          "ja": "会議の最中に、部長の携帯電話が鳴った。",
+          "lectura": "かいぎのさいちゅうに、ぶちょうのけいたいでんわがなった。",
+          "es": "En plena reunión sonó el celular del jefe.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        },
+        {
+          "id": "e2",
+          "ja": "食事をしている最中に、地震が起きた。",
+          "lectura": "しょくじをしているさいちゅうに、じしんがおきた。",
+          "es": "En plena comida hubo un temblor.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        }
+      ],
+      "ejercicios": [
+        {
+          "id": "h1",
+          "tipo": "hueco",
+          "antes": "会議の",
+          "respuesta": "最中に",
+          "despues": "、部長の携帯電話が鳴った。",
+          "lecturaAntes": "かいぎの",
+          "lecturaDespues": "、ぶちょうのけいたいでんわがなった。",
+          "distractores": [
+            {
+              "forma": "たとたんに",
+              "tipo": "forma",
+              "porQueNo": "Pide Vた; aquí va el sustantivo 会議の.",
+              "patronId": "seed-198"
+            },
+            {
+              "forma": "次第",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます de un verbo, no un sustantivo con の.",
+              "patronId": "seed-195"
+            },
+            {
+              "forma": "てはじめて",
+              "tipo": "forma",
+              "porQueNo": "Pide Vて; aquí va 会議の.",
+              "patronId": "gram_0004"
+            }
+          ],
+          "es": "En plena reunión sonó el celular del jefe.",
+          "pista": "Nの + 最中に: algo interrumpe la reunión."
+        },
+        {
+          "id": "h2",
+          "tipo": "hueco",
+          "antes": "試験を受けている",
+          "respuesta": "最中に",
+          "despues": "、急に雨が降り出した。",
+          "lecturaAntes": "しけんをうけている",
+          "lecturaDespues": "、きゅうにあめがふりだした。",
+          "distractores": [
+            {
+              "forma": "かのうちに",
+              "tipo": "forma",
+              "porQueNo": "Pide la estructura Vるか Vない; aquí va Vている.",
+              "patronId": "gram_0001"
+            },
+            {
+              "forma": "ばかりに",
+              "tipo": "sentido",
+              "porQueNo": "ばかりに dice que algo malo pasa solo por A; la prueba no causa la lluvia.",
+              "patronId": "seed-49"
+            },
+            {
+              "forma": "てはじめて",
+              "tipo": "forma",
+              "porQueNo": "Pide Vて; aquí va Vている.",
+              "patronId": "gram_0004"
+            }
+          ],
+          "es": "En plena prueba empezó a llover de repente.",
+          "pista": "Vている + 最中に."
+        },
+        {
+          "id": "o1",
+          "tipo": "orden_estrella",
+          "prefijo": "先生が黒板に",
+          "fragmentos": [
+            "字を",
+            "書いている",
+            "最中に",
+            "チョークが"
+          ],
+          "sufijo": "折れた。",
+          "posicionEstrella": 3,
+          "oracion": "先生が黒板に字を書いている最中にチョークが折れた。",
+          "lecturaOracion": "せんせいがこくばんにじをかいているさいちゅうにちょーくがおれた。",
+          "es": "Mientras el profesor escribía en el pizarrón, se le rompió la tiza.",
+          "explicacion": "La acción en curso (字を + 書いている) lleva 最中に justo después; luego entra lo que la interrumpe (チョークが + 折れた)."
+        }
+      ],
+      "confusables": [
+        {
+          "con": "seed-190",
+          "tipo": "sentido",
+          "porQueNo": "うちに habla de un estado que dura antes de cambiar; 最中 marca el momento de plena actividad y trae una interrupción."
+        },
+        {
+          "con": "seed-192",
+          "tipo": "sentido",
+          "porQueNo": "間に solo delimita el periodo; 最中に subraya la plena actividad interrumpida."
+        },
+        {
+          "con": "seed-33",
+          "tipo": "forma",
+          "porQueNo": "つつある describe un cambio gradual en estilo escrito; 最中 una acción en pleno desarrollo."
+        },
+        {
+          "con": "seed-198",
+          "tipo": "forma",
+          "porQueNo": "Pide Vた; aquí va el sustantivo 会議の.",
+          "origen": "distractor"
+        },
+        {
+          "con": "seed-195",
+          "tipo": "forma",
+          "porQueNo": "Pide la raíz ます de un verbo, no un sustantivo con の.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "forma",
+          "porQueNo": "Pide Vて; aquí va 会議の.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "porQueNo": "Pide la estructura Vるか Vない; aquí va Vている.",
+          "origen": "distractor"
+        },
+        {
+          "con": "seed-49",
+          "tipo": "sentido",
+          "porQueNo": "ばかりに dice que algo malo pasa solo por A; la prueba no causa la lluvia.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0003",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0005",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ],
+      "rev": 3
+    },
+    {
+      "idExterno": "gram_0003",
+      "ficha": {
+        "tituloJP": "V（よ）うとしている",
+        "variantes": [
+          "ようとしている"
+        ],
+        "glosaES": "a punto de…",
+        "definicionES": "Algo está a punto de ocurrir o de cambiar; con sujetos que actúan, también \"está intentando\".",
+        "notaUso": "Va tras la forma volitiva (Vよう). Con verbos de cambio natural (咲く, 終わる) significa \"a punto de\".",
+        "nivel": "N2",
+        "lecciones": [
+          "N2-2"
+        ],
+        "grupo": "aspecto_verbal"
+      },
+      "ejemplos": [
+        {
+          "id": "e1",
+          "ja": "桜の花が咲こうとしている。",
+          "lectura": "さくらのはながさこうとしている。",
+          "es": "Los cerezos están a punto de florecer.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        },
+        {
+          "id": "e2",
+          "ja": "日が沈もうとしている空を、みんなで眺めた。",
+          "lectura": "ひがしずもうとしているそらを、みんなでながめた。",
+          "es": "Todos miramos el cielo con el sol a punto de ponerse.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        }
+      ],
+      "ejercicios": [
+        {
+          "id": "h1",
+          "tipo": "hueco",
+          "antes": "長かった夏休みが終わろう",
+          "respuesta": "としている",
+          "despues": "。",
+          "lecturaAntes": "ながかったなつやすみがおわろう",
+          "lecturaDespues": "。",
+          "distractores": [
+            {
+              "forma": "つつある",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます; aquí va la forma volitiva.",
+              "patronId": "seed-33"
+            },
+            {
+              "forma": "ばかりだ",
+              "tipo": "forma",
+              "porQueNo": "Pide Vる; aquí va la forma volitiva.",
+              "patronId": "seed-122"
+            },
+            {
+              "forma": "最中だ",
+              "tipo": "forma",
+              "porQueNo": "Pide Vている o Nの; aquí va la forma volitiva.",
+              "patronId": "gram_0002"
+            }
+          ],
+          "es": "Las largas vacaciones de verano están por terminar.",
+          "pista": "Forma volitiva + としている."
+        },
+        {
+          "id": "h2",
+          "tipo": "hueco",
+          "antes": "雨が降り出そう",
+          "respuesta": "としている",
+          "despues": "ので、洗濯物を取り込んだ。",
+          "lecturaAntes": "あめがふりだそう",
+          "lecturaDespues": "ので、せんたくぶつをとりこんだ。",
+          "distractores": [
+            {
+              "forma": "かのうちに",
+              "tipo": "forma",
+              "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma volitiva.",
+              "patronId": "gram_0001"
+            },
+            {
+              "forma": "つつある",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます; aquí va la forma volitiva.",
+              "patronId": "seed-33"
+            },
+            {
+              "forma": "てはじめて",
+              "tipo": "forma",
+              "porQueNo": "Pide Vて; aquí va la forma volitiva.",
+              "patronId": "gram_0004"
+            }
+          ],
+          "es": "Como estaba a punto de ponerse a llover, recogí la ropa.",
+          "pista": "Forma volitiva + としている."
+        },
+        {
+          "id": "o1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼女は今、",
+          "fragmentos": [
+            "新しい",
+            "会社を",
+            "作ろう",
+            "としている"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 3,
+          "oracion": "彼女は今、新しい会社を作ろうとしている。",
+          "lecturaOracion": "かのじょはいま、あたらしいかいしゃをつくろうとしている。",
+          "es": "Ahora ella está intentando crear una empresa nueva.",
+          "explicacion": "新しい modifica a 会社を; el verbo en forma volitiva (作ろう) va justo antes de としている."
+        }
+      ],
+      "confusables": [
+        {
+          "con": "seed-33",
+          "tipo": "sentido",
+          "porQueNo": "つつある: cambio ya en proceso, en estilo escrito; ようとしている: a punto de que ocurra."
+        },
+        {
+          "con": "seed-122",
+          "tipo": "sentido",
+          "porQueNo": "ばかりだ: la situación solo empeora; ようとしている: algo está por ocurrir."
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "porQueNo": "Pide Vている o Nの; aquí va la forma volitiva.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma volitiva.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "forma",
+          "porQueNo": "Pide Vて; aquí va la forma volitiva.",
+          "origen": "distractor"
+        }
+      ],
+      "rev": 1
+    },
+    {
+      "idExterno": "gram_0004",
+      "ficha": {
+        "tituloJP": "V てはじめて",
+        "variantes": [
+          "てはじめて"
+        ],
+        "glosaES": "solo después de… (recién entonces)",
+        "definicionES": "Solo después de hacer o vivir A se descubre o se logra B.",
+        "notaUso": "Lo que sigue suele ser un descubrimiento, una realización o un cambio; no admite petición ni orden.",
+        "nivel": "N2",
+        "lecciones": [
+          "N2-3"
+        ],
+        "grupo": "secuencia_prerequisito"
+      },
+      "ejemplos": [
+        {
+          "id": "e1",
+          "ja": "病気になってはじめて、健康のありがたさがわかった。",
+          "lectura": "びょうきになってはじめて、けんこうのありがたさがわかった。",
+          "es": "Solo al enfermarme comprendí lo valiosa que es la salud.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        },
+        {
+          "id": "e2",
+          "ja": "親になってはじめて、親の苦労がわかった。",
+          "lectura": "おやになってはじめて、おやのくろうがわかった。",
+          "es": "Solo al ser padre entendí el esfuerzo de mis padres.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        }
+      ],
+      "ejercicios": [
+        {
+          "id": "h1",
+          "tipo": "hueco",
+          "antes": "病気になっ",
+          "respuesta": "てはじめて",
+          "despues": "、健康のありがたさがわかった。",
+          "lecturaAntes": "びょうきになっ",
+          "lecturaDespues": "、けんこうのありがたさがわかった。",
+          "distractores": [
+            {
+              "forma": "てからでないと",
+              "tipo": "forma",
+              "porQueNo": "Pide un final negativo o de imposibilidad; aquí la oración termina en pasado afirmativo.",
+              "patronId": "seed-188"
+            },
+            {
+              "forma": "上で",
+              "tipo": "forma",
+              "porQueNo": "Pide Vた o Nの; aquí va la forma て.",
+              "patronId": "seed-187"
+            },
+            {
+              "forma": "次第",
+              "tipo": "forma",
+              "porQueNo": "Pide la raíz ます; aquí va la forma て.",
+              "patronId": "seed-195"
+            }
+          ],
+          "es": "Solo al enfermarme comprendí lo valiosa que es la salud.",
+          "pista": "Un descubrimiento que solo llega tras vivir A."
+        },
+        {
+          "id": "h2",
+          "tipo": "hueco",
+          "antes": "親になっ",
+          "respuesta": "てはじめて",
+          "despues": "、親の苦労が身にしみた。",
+          "lecturaAntes": "おやになっ",
+          "lecturaDespues": "、おやのくろうがみにしみた。",
+          "distractores": [
+            {
+              "forma": "最中に",
+              "tipo": "forma",
+              "porQueNo": "Pide Vている o Nの; aquí va la forma て.",
+              "patronId": "gram_0002"
+            },
+            {
+              "forma": "かのうちに",
+              "tipo": "forma",
+              "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma て.",
+              "patronId": "gram_0001"
+            },
+            {
+              "forma": "てからでないと",
+              "tipo": "forma",
+              "porQueNo": "Pide un final negativo o de imposibilidad; aquí la oración termina en pasado afirmativo.",
+              "patronId": "seed-188"
+            }
+          ],
+          "es": "Solo al ser padre sentí en carne propia el esfuerzo de mis padres.",
+          "pista": "Descubrimiento tras vivir A."
+        },
+        {
+          "id": "o1",
+          "tipo": "orden_estrella",
+          "prefijo": "自分が",
+          "fragmentos": [
+            "子どもを",
+            "持ってはじめて、",
+            "親の",
+            "苦労が分かった"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "自分が子どもを持ってはじめて、親の苦労が分かった。",
+          "lecturaOracion": "じぶんがこどもをもってはじめて、おやのくろうがわかった。",
+          "es": "Solo al tener hijos entendí el esfuerzo de mis padres.",
+          "explicacion": "La acción previa (子どもを + 持って) va con はじめて; después llega el descubrimiento: 親の modifica a 苦労 y 分かった cierra la oración."
+        }
+      ],
+      "confusables": [
+        {
+          "con": "seed-195",
+          "tipo": "sentido",
+          "porQueNo": "次第 anuncia una acción futura que harás en cuanto ocurra A; てはじめて expresa un descubrimiento ya ocurrido."
+        },
+        {
+          "con": "seed-187",
+          "tipo": "sentido",
+          "porQueNo": "上で: haz primero A con cuidado y luego B (paso deliberado, admite petición); てはじめて no admite petición."
+        },
+        {
+          "con": "seed-188",
+          "tipo": "forma",
+          "porQueNo": "てからでないと impone un requisito y cierra en negativo; てはじめて cierra con un descubrimiento afirmativo."
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "porQueNo": "Pide Vている o Nの; aquí va la forma て.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma て.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0003",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0005",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ],
+      "rev": 3
+    },
+    {
+      "idExterno": "gram_0005",
+      "ficha": {
+        "tituloJP": "V てこのかた／N このかた",
+        "variantes": [
+          "てこのかた",
+          "このかた"
+        ],
+        "glosaES": "desde que… (hace mucho)",
+        "definicionES": "Desde A hasta hoy, durante un periodo largo, sin cambio; tono literario.",
+        "notaUso": "Suele ir con 生まれて, un verbo en て o un sustantivo de tiempo largo. Lo que sigue es un estado que continúa o algo que nunca ocurrió.",
+        "nivel": "N2",
+        "lecciones": [
+          "N2-3"
+        ],
+        "grupo": "simultaneidad"
+      },
+      "ejemplos": [
+        {
+          "id": "e1",
+          "ja": "生まれてこのかた、一度も病気をしたことがない。",
+          "lectura": "うまれてこのかた、いちどもびょうきをしたことがない。",
+          "es": "Desde que nací nunca he estado enfermo.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        },
+        {
+          "id": "e2",
+          "ja": "この町に引っ越してこのかた、一度も雪を見ていない。",
+          "lectura": "このまちにひっこしてこのかた、いちどもゆきをみていない。",
+          "es": "Desde que me mudé a este pueblo no he visto nieve ni una vez.",
+          "fuente": {
+            "tipo": "propio"
+          },
+          "usoProduccion": true
+        }
+      ],
+      "ejercicios": [
+        {
+          "id": "h1",
+          "tipo": "hueco",
+          "antes": "生まれ",
+          "respuesta": "てこのかた",
+          "despues": "、一度も外国へ行ったことがない。",
+          "lecturaAntes": "うまれ",
+          "lecturaDespues": "、いちどもがいこくへいったことがない。",
+          "equivalentes": [
+            "て以来"
+          ],
+          "distractores": [
+            {
+              "forma": "てはじめて",
+              "tipo": "sentido",
+              "porQueNo": "てはじめて marca un descubrimiento, y 一度も…ない contradice esa idea.",
+              "patronId": "gram_0004"
+            },
+            {
+              "forma": "たとたんに",
+              "tipo": "sentido",
+              "porQueNo": "たとたん habla de algo súbito inmediato, no de un periodo largo.",
+              "patronId": "seed-198"
+            },
+            {
+              "forma": "次第",
+              "tipo": "sentido",
+              "porQueNo": "次第 anuncia una acción futura en cuanto ocurra A, no un periodo hasta hoy.",
+              "patronId": "seed-195"
+            }
+          ],
+          "es": "Desde que nací nunca he salido al extranjero.",
+          "pista": "Un periodo largo hasta hoy; el final es negativo."
+        },
+        {
+          "id": "h2",
+          "tipo": "hueco",
+          "antes": "この町に引っ越し",
+          "respuesta": "てこのかた",
+          "despues": "、一度も雪を見ていない。",
+          "lecturaAntes": "このまちにひっこし",
+          "lecturaDespues": "、いちどもゆきをみていない。",
+          "equivalentes": [
+            "て以来"
+          ],
+          "distractores": [
+            {
+              "forma": "てはじめて",
+              "tipo": "sentido",
+              "porQueNo": "てはじめて marca un descubrimiento, y 一度も…ない contradice esa idea.",
+              "patronId": "gram_0004"
+            },
+            {
+              "forma": "最中に",
+              "tipo": "forma",
+              "porQueNo": "Pide Vている o Nの; aquí va la forma て.",
+              "patronId": "gram_0002"
+            },
+            {
+              "forma": "かのうちに",
+              "tipo": "forma",
+              "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma て.",
+              "patronId": "gram_0001"
+            }
+          ],
+          "es": "Desde que me mudé a este pueblo no he visto nieve ni una vez.",
+          "pista": "Un periodo largo hasta hoy."
+        },
+        {
+          "id": "o1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼は",
+          "fragmentos": [
+            "生まれて",
+            "このかた、",
+            "病気",
+            "一つしたことがない"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "彼は生まれてこのかた、病気一つしたことがない。",
+          "lecturaOracion": "かれはうまれてこのかた、びょうきひとつしたことがない。",
+          "es": "Desde que nació, él no ha tenido ni una sola enfermedad.",
+          "explicacion": "生まれて + このかた forman el periodo; 病気 + 一つしたことがない cierra la oración (\"ni una enfermedad\")."
+        }
+      ],
+      "confusables": [
+        {
+          "con": "seed-191",
+          "tipo": "registro",
+          "porQueNo": "以来 es neutral y sirve para cualquier periodo; てこのかた es literario y se siente más largo."
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "sentido",
+          "porQueNo": "てはじめて marca un descubrimiento, y 一度も…ない contradice esa idea.",
+          "origen": "distractor"
+        },
+        {
+          "con": "seed-198",
+          "tipo": "sentido",
+          "porQueNo": "たとたん habla de algo súbito inmediato, no de un periodo largo.",
+          "origen": "distractor"
+        },
+        {
+          "con": "seed-195",
+          "tipo": "sentido",
+          "porQueNo": "次第 anuncia una acción futura en cuanto ocurra A, no un periodo hasta hoy.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "porQueNo": "Pide Vている o Nの; aquí va la forma て.",
+          "origen": "distractor"
+        },
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "porQueNo": "Pide la estructura Vるか Vない; aquí va la forma て.",
+          "origen": "distractor"
+        }
+      ],
+      "rev": 1
+    },
+    {
+      "idExterno": "seed-33",
+      "rev": 3,
+      "confusables": [
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0003",
+          "tipo": "sentido",
+          "porQueNo": "ようとしている marca el umbral de un cambio que aún no ocurre; つつある, un cambio que ya avanza.",
+          "origen": "inverso"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-49",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0002",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-122",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0003",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-187",
+      "rev": 3,
+      "confusables": [
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-188",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0004",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-190",
+      "rev": 3,
+      "confusables": [
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "sentido",
+          "porQueNo": "最中に subraya que algo interrumpe una acción en pleno desarrollo; うちに solo dice que ocurre mientras el estado dura.",
+          "origen": "inverso"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-191",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0005",
+          "tipo": "registro",
+          "porQueNo": "てこのかた es la versión literaria y de largo plazo de 以来.",
+          "origen": "inverso"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-192",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0002",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-195",
+      "rev": 5,
+      "confusables": [
+        {
+          "con": "gram_0001",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0004",
+          "tipo": "sentido",
+          "porQueNo": "てはじめて presenta algo ya descubierto tras vivir A; 次第 promete una acción futura.",
+          "origen": "inverso"
+        },
+        {
+          "con": "gram_0005",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-197",
+      "rev": 2,
+      "confusables": [
+        {
+          "con": "gram_0001",
+          "tipo": "sentido",
+          "porQueNo": "かのうちに no implica contraste, solo que el segundo hecho llega casi a la vez.",
+          "origen": "inverso"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-198",
+      "rev": 4,
+      "confusables": [
+        {
+          "con": "gram_0001",
+          "tipo": "sentido",
+          "porQueNo": "かのうちに repite el verbo (Vるか Vない) y presenta los dos hechos casi a la vez.",
+          "origen": "inverso"
+        },
+        {
+          "con": "gram_0002",
+          "tipo": "forma",
+          "origen": "inverso",
+          "pendiente": true
+        },
+        {
+          "con": "gram_0005",
+          "tipo": "sentido",
+          "origen": "inverso",
+          "pendiente": true
+        }
+      ]
+    }
+  ]
+}
