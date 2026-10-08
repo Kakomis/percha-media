@@ -6,7 +6,7 @@
   "patrones": [
     {
       "idExterno": "seed-1",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -107,11 +107,32 @@
           ],
           "es": "Investigué a fondo los problemas medioambientales."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ について／についての",
+        "antecede": "Sustantivo que representa el tema sobre el que se habla, piensa o escribe.",
+        "sigue": "Oración que desarrolla ese tema. についての precede a un sustantivo directamente. Cualquier registro.",
+        "oracion": {
+          "ja": "環境問題について調べた。",
+          "es": "Investigué sobre los problemas medioambientales.",
+          "parte": "について"
+        },
+        "intencion": "El hablante señala de qué trata la comunicación sin juzgar su importancia. Neutro y versátil; solo focaliza el tema, sin connotar controversia ni exigir un registro específico.",
+        "parecidos": [
+          "seed-4",
+          "seed-13"
+        ],
+        "contraste": {
+          "titulo": "について vs に関して",
+          "con": "seed-4",
+          "texto": "について es neutro y funciona en cualquier registro, del coloquial al formal. に関して es más formal; se usa con asuntos serios o institucionales, como informes o discursos.",
+          "prueba": "¿Tema casual o cotidiano? → について. ¿Documento formal o asunto institucional? → に関して. ¿Precede directamente a un sustantivo? → についての / に関する."
+        }
+      }
     },
     {
       "idExterno": "seed-2",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -229,11 +250,32 @@
           "explicacion": "を通して sigue al nombre del medio (ボランティア活動); に貢献できた lleva la partícula に unida al fragmento 3, impidiendo reordenar.",
           "lecturaOracion": "かのじょはぼらんてぃあかつどうをとおしてちいきのひとびとにこうけんできた。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ を通じて／を通して",
+        "antecede": "Sustantivo que designa un medio, canal o periodo de tiempo completo.",
+        "sigue": "Acción o resultado logrado por ese canal, o que ocurre durante todo ese periodo sin interrupción.",
+        "oracion": {
+          "ja": "一年を通じて温暖な気候だ。",
+          "es": "Tiene un clima templado durante todo el año.",
+          "parte": "を通じて"
+        },
+        "intencion": "Pone el énfasis en el canal que hace posible algo, o en la continuidad temporal sin excepciones. Para tiempo, indica que no hay interrupciones en todo el periodo; para medio, señala la vía de acceso o comunicación.",
+        "parecidos": [
+          "seed-12",
+          "seed-1"
+        ],
+        "contraste": {
+          "titulo": "を通じて vs にわたって",
+          "con": "seed-12",
+          "texto": "を通じて resalta la continuidad sin excepciones de un periodo completo, o el canal que hace posible algo. にわたって pone el foco en la amplitud del rango cuantificado (tres años, todo el país).",
+          "prueba": "¿Periodo sin interrupciones o canal que posibilita algo? → を通じて. ¿Se quiere destacar la envergadura de un rango cuantificado? → にわたって. ¿N es un número o extensión medible? → にわたって."
+        }
+      }
     },
     {
       "idExterno": "seed-3",
-      "rev": 1,
+      "rev": 3,
       "ejercicios": [
         {
           "id": "bh1",
@@ -332,11 +374,32 @@
           ],
           "es": "Según lo que cuenta mi amigo, parece que esa tienda cerró el mes pasado."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ によると／によれば",
+        "antecede": "Sustantivo que designa una fuente de información: pronóstico, informe, rumor, noticia o persona.",
+        "sigue": "Información reportada; casi siempre cerrada con そうだ, らしい o ということだ. No se usa para citas directas.",
+        "oracion": {
+          "ja": "天気予報によると雪らしい。",
+          "es": "Según el pronóstico, parece que nevará.",
+          "parte": "によると"
+        },
+        "intencion": "El hablante deja claro que la información no es propia sino de una fuente externa. Toma distancia epistémica: la responsabilidad de la exactitud queda en quien la dijo, no en quien la reporta.",
+        "parecidos": [
+          "seed-1",
+          "seed-4"
+        ],
+        "contraste": {
+          "titulo": "によると vs について",
+          "con": "seed-1",
+          "texto": "によると introduce una fuente externa y suele cerrar con そうだ, らしい o ということだ para marcar la información como reportada. について solo indica el tema de la comunicación y no connota fuente.",
+          "prueba": "¿Se menciona quién o qué dice la información? → によると. ¿Solo se señala de qué trata algo? → について. ¿Hay un verbo de reporte como そうだ/らしい? → によると."
+        }
+      }
     },
     {
       "idExterno": "seed-4",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -452,11 +515,32 @@
           "explicacion": "に関する es atributivo y debe preceder al sustantivo que modifica (研究); 新薬+に関する+研究が forman una cadena inseparable.",
           "lecturaOracion": "しんやくにかんするけんきゅうがはっぴょうされた。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ に関して／に関しては／に関する",
+        "antecede": "Sustantivo que nombra un asunto formal, técnico o institucional. に関する modifica un sustantivo.",
+        "sigue": "Comentario, análisis o información en registro formal o escrito. Admite は para énfasis o contraste.",
+        "oracion": {
+          "ja": "その事件に関して詳しく知りたい。",
+          "es": "Quiero saber más detalles con respecto a ese incidente.",
+          "parte": "に関して"
+        },
+        "intencion": "Enmarca el tema con distancia y seriedad institucional. El hablante indica que su comentario es deliberado y de cierta relevancia, no casual, diferenciándose claramente de について.",
+        "parecidos": [
+          "seed-1",
+          "seed-13"
+        ],
+        "contraste": {
+          "titulo": "に関して vs について",
+          "con": "seed-1",
+          "texto": "に関して es más formal y se usa con asuntos serios o escritos; suena extraño en conversaciones cotidianas menores. について es versátil y funciona en cualquier registro.",
+          "prueba": "¿Contexto escrito, profesional o institucional? → に関して. ¿Conversación cotidiana o registro libre? → について. ¿Precede directamente a un sustantivo? → に関する / についての."
+        }
+      }
     },
     {
       "idExterno": "seed-5",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -551,11 +635,32 @@
           ],
           "es": "La población de esta región está en aumento."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ において／における",
+        "antecede": "Sustantivo que designa un lugar, ámbito, época o contexto abstracto. Registro escrito o formal.",
+        "sigue": "Enunciado que describe lo que ocurre en ese marco. における modifica un sustantivo que sigue. Registro escrito.",
+        "oracion": {
+          "ja": "現代社会において情報は重要だ。",
+          "es": "En la sociedad moderna, la información es importante.",
+          "parte": "において"
+        },
+        "intencion": "Ubica el enunciado dentro de un ámbito específico con solemnidad académica o institucional. No es solo un locativo: delimita explícitamente el marco de validez del enunciado.",
+        "parecidos": [
+          "seed-4",
+          "seed-1"
+        ],
+        "contraste": {
+          "titulo": "において vs に関して",
+          "con": "seed-4",
+          "texto": "において establece el escenario o ámbito donde algo ocurre ('en el contexto de'). に関して introduce el tema sobre el que se habla ('con respecto a'). Ambos son formales pero responden preguntas distintas.",
+          "prueba": "¿Quieres decir 'en el lugar o ámbito donde ocurre algo'? → において. ¿Quieres decir 'acerca del asunto X'? → に関して. ¿Precede directamente a un sustantivo? → における / に関する."
+        }
+      }
     },
     {
       "idExterno": "seed-6",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -654,11 +759,32 @@
           ],
           "es": "Abren tiendas nuevas una tras otra, concentradas alrededor de la estación."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ を中心に（して）／を中心として",
+        "antecede": "Sustantivo que designa el núcleo, eje o figura principal de una actividad, área o situación.",
+        "sigue": "Descripción de cómo los elementos restantes giran o se organizan alrededor de ese núcleo.",
+        "oracion": {
+          "ja": "東京を中心に活動している。",
+          "es": "Trabaja principalmente con base en Tokio.",
+          "parte": "を中心に"
+        },
+        "intencion": "Destaca que N es el pivote estructurador de todo lo demás, no solo un participante. Señala jerarquía: N está en el centro y los demás elementos dependen de él o se organizan a su alrededor.",
+        "parecidos": [
+          "seed-2",
+          "seed-12"
+        ],
+        "contraste": {
+          "titulo": "を中心に vs を通じて",
+          "con": "seed-2",
+          "texto": "を中心に establece un eje organizador alrededor del cual todo lo demás gira. を通じて señala el canal o medio por el que algo ocurre, o la continuidad de un periodo completo. El primero es estructural; el segundo, procesual.",
+          "prueba": "¿Hay un núcleo que organiza a los demás elementos? → を中心に. ¿Hay un canal que hace posible la acción? → を通じて. ¿N es un periodo de tiempo sin interrupciones? → を通じて."
+        }
+      }
     },
     {
       "idExterno": "seed-7",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -774,11 +900,32 @@
           "explicacion": "を問わず sigue al sustantivo categoría ignorada (学歴); やる気のある modifica 人 dentro del fragmento 4 y no puede preceder a 学歴.",
           "lecturaOracion": "へいしゃではがくれきをとわずやるきのあるひとをさいようする。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ を問わず／は問わず",
+        "antecede": "Sustantivo de categoría binaria o variable social (edad, sexo, nivel, experiencia). No eventos únicos.",
+        "sigue": "Declaración de alcance universal: la afirmación aplica sin excepción dentro de esa categoría.",
+        "oracion": {
+          "ja": "年齢を問わず誰でも参加できる。",
+          "es": "Cualquiera puede participar, sin importar la edad.",
+          "parte": "を問わず"
+        },
+        "intencion": "El hablante barre con las distinciones dentro de la categoría señalada: 'da igual si eres joven o mayor, hombre o mujer; aplica a todos sin excepción'. Pone el acento en la universalidad del alcance.",
+        "parecidos": [
+          "seed-12",
+          "seed-1"
+        ],
+        "contraste": {
+          "titulo": "を問わず vs にわたって",
+          "con": "seed-12",
+          "texto": "を問わず señala que se ignoran las diferencias dentro de una categoría (edad, sexo, etc.); el alcance es universal. にわたって indica que algo se extiende a lo largo de un rango cuantificado de tiempo o espacio.",
+          "prueba": "¿Hay una categoría cuyos miembros quedan igualados? → を問わず. ¿Hay un rango de años, kilómetros o regiones que se recorre? → にわたって. ¿Se quiere decir 'sin importar si A o B'? → を問わず."
+        }
+      }
     },
     {
       "idExterno": "seed-8",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -882,11 +1029,32 @@
           ],
           "es": "Le pedimos disculpas por las molestias ocasionadas."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ につきまして／につきましては",
+        "antecede": "Sustantivo que designa el asunto tratado. Exclusivo de contextos formales: reuniones, documentos, keigo.",
+        "sigue": "Comentario formal, disculpa, información o explicación. につきましては añade énfasis o contraste temático.",
+        "oracion": {
+          "ja": "その件につきまして説明いたします。",
+          "es": "Le explicaré lo concerniente a ese asunto.",
+          "parte": "につきまして"
+        },
+        "intencion": "Es la variante keigo (ultraformal) de について. El hablante eleva el registro para mostrar deferencia al interlocutor o la situación. Usarlo en contextos cotidianos sonaría afectado.",
+        "parecidos": [
+          "seed-1",
+          "seed-4"
+        ],
+        "contraste": {
+          "titulo": "につきまして vs について",
+          "con": "seed-1",
+          "texto": "につきまして es la forma honorífica de について, restringida a keigo en negocios, actos formales o documentos. について puede usarse en cualquier registro.",
+          "prueba": "¿Contexto de negocios, comunicado formal o discurso de cortesía? → につきまして. ¿Registro neutro o cotidiano? → について. ¿Introduce una causa en un letrero? → no es につきまして, sino につき."
+        }
+      }
     },
     {
       "idExterno": "seed-9",
-      "rev": 1,
+      "rev": 3,
       "ejercicios": [
         {
           "id": "bh1",
@@ -996,11 +1164,32 @@
           "explicacion": "につき se une al nombre de causa (接近); el prefijo 台風の forma compuesto con 接近 y no puede separarse del patrón.",
           "lecturaOracion": "たいふうのせっきんにつきほんじつのじゅぎょうはきゅうこうとなります。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ につき",
+        "antecede": "Sustantivo que expresa una causa oficial (工事中) o una unidad de medida (一人, 一日). Registro escrito formal.",
+        "sigue": "Consecuencia de la causa, o cantidad proporcional a esa unidad. Estilo impersonal y conciso.",
+        "oracion": {
+          "ja": "工事中につきご迷惑をおかけします。",
+          "es": "Disculpe las molestias, debido a obras en curso.",
+          "parte": "につき"
+        },
+        "intencion": "Tiene dos usos: causal (工事中につき…, 'debido a N') y distributivo (一人につき一枚, 'N por persona/día'). En ambos casos el registro es escrito y formal, con tono impersonal y burocrático.",
+        "parecidos": [
+          "seed-8",
+          "seed-1"
+        ],
+        "contraste": {
+          "titulo": "につき vs につきまして",
+          "con": "seed-8",
+          "texto": "につき introduce una causa en avisos escritos breves y es impersonal; no introduce el tema de una conversación. につきまして es la forma honorífica de について y se usa en contexto oral formal para introducir un asunto.",
+          "prueba": "¿Es un letrero, cartel o comunicado impersonal? → につき. ¿Es un discurso o conversación formal con interlocutor presente? → につきまして. ¿Introduce la causa de algo? → につき."
+        }
+      }
     },
     {
       "idExterno": "seed-10",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -1095,11 +1284,32 @@
           ],
           "es": "Desde ayer hasta esta mañana sopló un viento fuerte."
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N1 から N2 ＋ にかけて",
+        "antecede": "Dos sustantivos que marcan los extremos aproximados de un rango de tiempo o espacio.",
+        "sigue": "Descripción de algo que ocurre o se extiende a lo largo de ese rango. Los límites son difusos.",
+        "oracion": {
+          "ja": "春から夏にかけて花が咲く。",
+          "es": "Desde la primavera hasta el verano, florecen las flores.",
+          "parte": "にかけて"
+        },
+        "intencion": "El hablante presenta un rango con bordes difusos, no precisos. A diferencia de まで (límite exacto), にかけて indica que el fenómeno va cubriendo ese espacio o periodo de manera gradual.",
+        "parecidos": [
+          "seed-12",
+          "seed-11"
+        ],
+        "contraste": {
+          "titulo": "にかけて vs にわたって",
+          "con": "seed-12",
+          "texto": "にかけて (con から...にかけて) marca un rango entre dos puntos aproximados; el límite final es difuso. にわたって indica que algo abarca toda una extensión cuantificada, sin que el punto de partida sea obligatorio.",
+          "prueba": "¿Hay un punto de inicio y uno de llegada aproximados? → から...にかけて. ¿Se quiere señalar la amplitud de un rango cuantificado? → にわたって. ¿El límite es exacto? → まで; ¿difuso? → にかけて."
+        }
+      }
     },
     {
       "idExterno": "seed-11",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -1217,11 +1427,32 @@
           "explicacion": "にかけては sigue al dominio (スポーツ); 山田くんに y かなう者 forman el núcleo idiomático かなう+者 indisociable.",
           "lecturaOracion": "すぽーつにかけてはやまだくんにかなうものはいない。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ にかけては／にかけても",
+        "antecede": "Sustantivo que designa un campo de habilidad, competencia o logro en el que alguien o algo destaca.",
+        "sigue": "Declaración de excelencia o supremacía en ese campo. にかけても añade fuerza enfática.",
+        "oracion": {
+          "ja": "料理にかけては彼が一番だ。",
+          "es": "Cuando se trata de cocinar, él es el mejor.",
+          "parte": "にかけては"
+        },
+        "intencion": "Acota la comparación a un campo específico y afirma supremacía dentro de él. La restricción es clave: no se dice que alguien sea el mejor en todo, sino 'en ese ámbito concreto, nadie le gana'.",
+        "parecidos": [
+          "seed-10",
+          "seed-4"
+        ],
+        "contraste": {
+          "titulo": "にかけては vs にかけて",
+          "con": "seed-10",
+          "texto": "にかけては (con は) delimita un campo de habilidad para evaluar la excelencia de alguien. にかけて (con から...にかけて) define un rango espacial o temporal aproximado. Son formas homófonas con usos completamente distintos.",
+          "prueba": "¿Se habla de la habilidad de alguien en un campo? → にかけては. ¿Se indica un rango entre dos puntos geográficos o temporales? → から...にかけて. ¿Va precedido de から? → rango, no habilidad."
+        }
+      }
     },
     {
       "idExterno": "seed-12",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -1338,11 +1569,32 @@
           "explicacion": "にわたる forma un modificador atributivo con 二十年間; debe preceder a 地道な研究が y no puede separarse del bloque nominal.",
           "lecturaOracion": "このにじゅうねんかんにわたるじみちなけんきゅうがようやくみをむすんだ。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ にわたって／にわたり／にわたる",
+        "antecede": "Sustantivo que indica una extensión cuantificada de tiempo, espacio o número de veces (3年間, 全国, 数回).",
+        "sigue": "Descripción del fenómeno que abarca esa extensión. Generalmente con periodos o áreas mensurables.",
+        "oracion": {
+          "ja": "3年間にわたって調査を行った。",
+          "es": "Se realizó la investigación a lo largo de 3 años.",
+          "parte": "にわたって"
+        },
+        "intencion": "Subraya la amplitud o envergadura de lo mencionado. La escala importa: cuanto mayor el rango, más pertinente este patrón. Connota esfuerzo sostenido o alcance que merece ser destacado.",
+        "parecidos": [
+          "seed-2",
+          "seed-10"
+        ],
+        "contraste": {
+          "titulo": "にわたって vs を通じて",
+          "con": "seed-2",
+          "texto": "にわたって pone el foco en la amplitud del rango cuantificado; suele ir con números o áreas (3年間, 全国). を通じて resalta la continuidad sin interrupciones de todo un periodo, o el canal que hace posible algo.",
+          "prueba": "¿Hay un número o extensión que quieres destacar? → にわたって. ¿Quieres decir 'durante todo ese periodo, sin excepción'? → を通じて. ¿N es el medio por el que algo ocurre? → を通じて."
+        }
+      }
     },
     {
       "idExterno": "seed-13",
-      "rev": 1,
+      "rev": 2,
       "ejercicios": [
         {
           "id": "bh1",
@@ -1458,7 +1710,227 @@
           "explicacion": "をめぐる es atributivo y debe preceder al nombre del conflicto (争い); la cadena 遺産+をめぐる+争いが es inseparable.",
           "lecturaOracion": "かぞくのまでいさんをめぐるあらそいがおきた。"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "N ＋ をめぐって／をめぐり／をめぐる",
+        "antecede": "Sustantivo que designa un asunto polémico, disputado o en negociación (herencia, política, territorio).",
+        "sigue": "Oración que describe una disputa, debate, tensión o situación de conflicto en torno a ese asunto.",
+        "oracion": {
+          "ja": "遺産をめぐって兄弟が争った。",
+          "es": "Los hermanos se pelearon en torno a la herencia.",
+          "parte": "をめぐって"
+        },
+        "intencion": "Enmarca el asunto como epicentro de conflicto o tensión. No es solo 'hablar sobre N': hay algo en juego alrededor de N que enfrenta a las partes. La carga conflictiva es el rasgo distintivo.",
+        "parecidos": [
+          "seed-4",
+          "seed-1"
+        ],
+        "contraste": {
+          "titulo": "をめぐって vs に関して",
+          "con": "seed-4",
+          "texto": "をめぐって implica que el asunto genera tensión o disputa entre partes. に関して es neutro: solo introduce el tema de lo que se habla o escribe, sin connotar conflicto ni controversia.",
+          "prueba": "¿Hay partes que disputan o están en tensión por el asunto? → をめぐって. ¿Solo se comenta o escribe sobre un tema sin tensión? → に関して. ¿Verbo de disputa o debate? → をめぐって."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-46",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N ＋ からして",
+        "antecede": "Sustantivo que representa el ejemplo más obvio o elemental desde el que el hablante infiere el todo.",
+        "sigue": "Conclusión o juicio que se desprende de ese solo indicio; connota que si esto es así, lo demás también.",
+        "oracion": {
+          "ja": "名前からして外国の映画だ。",
+          "es": "Ya solo por el nombre se nota que es una película extranjera.",
+          "parte": "からして"
+        },
+        "intencion": "El hablante cita el caso más básico o evidente para que el oyente infiera el conjunto. La fuerza del ejemplo de arranque refuerza la conclusión sin necesidad de más pruebas.",
+        "parecidos": [
+          "seed-149",
+          "seed-2"
+        ],
+        "contraste": {
+          "titulo": "からして vs をはじめ",
+          "con": "seed-149",
+          "texto": "からして parte de un solo ejemplo para inferir el todo; connota 'ya de por sí, eso basta'. をはじめ encabeza una lista nombrando al miembro más representativo, pero no hace inferencia.",
+          "prueba": "¿Se usa un solo detalle para llegar a una conclusión general? → からして. ¿Se nombra el primero de varios ejemplos de un grupo? → をはじめ. ¿Hay una lista implícita o explícita? → をはじめ."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-80",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N／Vの ＋ もかまわず",
+        "antecede": "Sustantivo o cláusula nominalizada que expresa algo que normalmente causaría preocupación o inhibición.",
+        "sigue": "Acción que el sujeto lleva a cabo de todas formas, ignorando esa preocupación. Sin negación explícita.",
+        "oracion": {
+          "ja": "雨に濡れるのもかまわず走った。",
+          "es": "Siguió corriendo sin importarle mojarse con la lluvia.",
+          "parte": "もかまわず"
+        },
+        "intencion": "Subraya que el sujeto actúa conscientemente pasando por alto algo incómodo o vergonzoso. No es indiferencia neutral: hay algo que ignorar activamente, y eso hace la acción llamativa.",
+        "parecidos": [
+          "seed-7"
+        ],
+        "contraste": {
+          "titulo": "もかまわず vs を問わず",
+          "con": "seed-7",
+          "texto": "もかまわず indica que alguien ignora activamente algo incómodo o vergonzoso para actuar de todas formas. を問わず declara de forma neutral que algo aplica sin distinción de categoría (edad, sexo, etc.).",
+          "prueba": "¿Hay un inconveniente social o físico que se ignora al actuar? → もかまわず. ¿Hay una categoría que se declara irrelevante en una regla? → を問わず. ¿La oración tiene tono de anuncio? → を問わず."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-98",
+      "rev": 1,
+      "teoria": {
+        "estructura": "…んだ ＋ もの／もん",
+        "antecede": "Forma んだ o のだ (explicativa) al final de la cláusula de razón. Registro coloquial o infantil.",
+        "sigue": "Cierra la oración dando la razón o excusa; no hay proposición adicional. もん es la forma más informal.",
+        "oracion": {
+          "ja": "だって、疲れているんだもん。",
+          "es": "Es que estoy cansado.",
+          "parte": "もん"
+        },
+        "intencion": "El hablante justifica su postura o negativa con tono de queja o defensa personal. Más que explicar, busca que el interlocutor lo comprenda o lo deje en paz; el tono es casi infantil.",
+        "parecidos": [
+          "seed-9",
+          "seed-125"
+        ],
+        "contraste": {
+          "titulo": "もの／もん vs につき",
+          "con": "seed-9",
+          "texto": "もの／もん da una razón personal y coloquial con tono de queja o excusa, en conversación cotidiana. につき introduce la causa de manera impersonal y formal en avisos o comunicados escritos.",
+          "prueba": "¿Habla una persona para justificarse con tono de queja? → もの/もん. ¿Es un letrero o comunicado con causa oficial? → につき. ¿Registro coloquial o infantil? → もの/もん."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-115",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N ＋ に応えて／に応え",
+        "antecede": "Sustantivo que designa una expectativa, petición, apoyo o llamado de terceros hacia el sujeto.",
+        "sigue": "Acción que el sujeto realiza para corresponder a esa expectativa o petición. Connota esfuerzo voluntario.",
+        "oracion": {
+          "ja": "応援に応えて優勝を果たした。",
+          "es": "Logró el campeonato en respuesta al apoyo recibido.",
+          "parte": "に応えて"
+        },
+        "intencion": "El hablante señala que la acción no surge espontáneamente sino como correspondencia a algo que otros esperaban o pidieron. Connota gratitud implícita y esfuerzo deliberado por cumplir.",
+        "parecidos": [
+          "seed-4",
+          "seed-13"
+        ],
+        "contraste": {
+          "titulo": "に応えて vs に関して",
+          "con": "seed-4",
+          "texto": "に応えて indica que la acción se realiza como respuesta a una expectativa o petición ajena; implica reciprocidad y esfuerzo. に関して solo introduce el tema sobre el que se habla, sin connotar respuesta ni esfuerzo.",
+          "prueba": "¿Hay alguien cuyas expectativas o petición se atienden con la acción? → に応えて. ¿Solo se introduce el tema de lo que se habla? → に関して. ¿Hay un verbo de acción motivado por terceros? → に応えて."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-125",
+      "rev": 2,
+      "teoria": {
+        "estructura": "Nの／Vた ＋ あまり",
+        "antecede": "Sustantivo de sentimiento precedido de の (心配の, 驚きの), o verbo en forma た (心配したあまり). Ambas formas son frecuentes.",
+        "sigue": "Resultado inesperado o extremo provocado por ese exceso; a menudo negativo o llamativo.",
+        "oracion": {
+          "ja": "心配のあまり眠れなかった。",
+          "es": "De tanto preocuparme, no pude dormir.",
+          "parte": "あまり"
+        },
+        "intencion": "El hablante explica que la intensidad de un sentimiento llegó a tal grado que produjo un resultado fuera de lo normal. El acento no está en el resultado, sino en lo extremo de la emoción que lo desencadenó.",
+        "parecidos": [
+          "seed-98",
+          "seed-9"
+        ],
+        "contraste": {
+          "titulo": "あまり vs もの／もん",
+          "con": "seed-98",
+          "texto": "あまり expresa que el resultado ocurrió porque un sentimiento se desbordó; se enfoca en el exceso emocional. もの／もん justifica una negativa o postura con tono de queja personal; no requiere emoción extrema.",
+          "prueba": "¿El resultado fue provocado por exceso de un sentimiento intenso? → あまり. ¿Se justifica una conducta con tono de excusa o queja? → もの/もん. ¿La causa es una emoción que se desbordó? → あまり."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-149",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N ＋ をはじめ／をはじめとして／をはじめとする",
+        "antecede": "Sustantivo que nombra al miembro más representativo o destacado de un grupo más amplio.",
+        "sigue": "Oración que indica que ese grupo incluye a muchos otros elementos además del ejemplo mencionado.",
+        "oracion": {
+          "ja": "社長をはじめ全員が参加した。",
+          "es": "Encabezados por el presidente, participaron todos.",
+          "parte": "をはじめ"
+        },
+        "intencion": "El hablante nombra el caso más representativo para evocar el conjunto. Implica que si ese miembro participó o figura, el resto también; el énfasis está en la amplitud del grupo, no solo en el ejemplo citado.",
+        "parecidos": [
+          "seed-46",
+          "seed-12"
+        ],
+        "contraste": {
+          "titulo": "をはじめ vs からして",
+          "con": "seed-46",
+          "texto": "をはじめ nombra al integrante más representativo para implicar que el grupo completo participa; no hay inferencia. からして toma un solo ejemplo como indicio para llegar a una conclusión sobre el todo; connota 'ya eso basta'.",
+          "prueba": "¿Se nombra al más destacado para evocar que el grupo completo participa? → をはじめ. ¿Se usa un detalle como evidencia para inferir algo del conjunto? → からして. ¿La oración concluye algo? → からして."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-171",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N ＋ にとって",
+        "antecede": "Sustantivo que designa a la persona, grupo o entidad desde cuyo punto de vista se evalúa algo.",
+        "sigue": "Juicio de valor personal (difícil, importante, bueno, etc.). El juicio es válido para N, no universalmente.",
+        "oracion": {
+          "ja": "私にとって家族が一番大切だ。",
+          "es": "Para mí, la familia es lo más importante.",
+          "parte": "にとって"
+        },
+        "intencion": "El hablante ubica el juicio desde la perspectiva de N, dejando claro que no es una afirmación objetiva o universal, sino válida para ese punto de vista particular.",
+        "parecidos": [
+          "seed-186",
+          "seed-4"
+        ],
+        "contraste": {
+          "titulo": "にとって vs として",
+          "con": "seed-186",
+          "texto": "にとって establece la perspectiva de N para emitir un juicio de valor ('para N, es difícil'). として indica el rol o categoría bajo la que alguien actúa ('como intérprete, hace X'). Pueden confundirse cuando N es una persona.",
+          "prueba": "¿Se hace un juicio de valor válido desde la perspectiva de N? → にとって. ¿Se indica la calidad o rol en que alguien actúa? → として. ¿Puede sustituirse por 'en calidad de'? → として."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-186",
+      "rev": 1,
+      "teoria": {
+        "estructura": "N ＋ として",
+        "antecede": "Sustantivo que designa un rol, cargo, categoría o función bajo la que alguien o algo actúa o es reconocido.",
+        "sigue": "Oración que describe lo que se hace, se espera o se evalúa en esa calidad. El rol puede ser temporal.",
+        "oracion": {
+          "ja": "彼女は通訳として働いている。",
+          "es": "Ella trabaja como intérprete.",
+          "parte": "として"
+        },
+        "intencion": "El hablante define el marco de calidad o función bajo el cual se entiende la acción. No es solo 'ser' N; es actuar, ser evaluado o reconocido en esa categoría concreta.",
+        "parecidos": [
+          "seed-171",
+          "seed-5"
+        ],
+        "contraste": {
+          "titulo": "として vs にとって",
+          "con": "seed-171",
+          "texto": "として indica el rol o calidad en que alguien actúa o es reconocido ('como intérprete, como adulto'). にとって establece la perspectiva de alguien para emitir un juicio de valor ('para mí, para los niños').",
+          "prueba": "¿Se define la función o calidad con que alguien actúa? → として. ¿Se establece la perspectiva desde la que se evalúa algo? → にとって. ¿Puede sustituirse por 'en calidad de'? → として."
+        }
+      }
     }
   ]
 }
