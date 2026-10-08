@@ -1,0 +1,1464 @@
+{
+  "esquema": "percha-gramatica",
+  "version": 1,
+  "fuente": "banco",
+  "generado": "2026-10-07T19:51:18.039749",
+  "patrones": [
+    {
+      "idExterno": "seed-1",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "試験",
+          "respuesta": "についての",
+          "despues": "注意事項を確認した。",
+          "lecturaAntes": "しけん",
+          "lecturaDespues": "ちゅういじこうをかくにんした。",
+          "equivalentes": [
+            "に関する"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 注意事項を確認した es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたる",
+              "tipo": "forma",
+              "porQueNo": "にわたる requiere extension cuantificada de tiempo o espacio (ej. 三日間にわたる); 試験 es un evento unico, no un rango. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 試験 no es una categoria de contraste como 年齢 o 経験. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Comprobé las instrucciones sobre el examen."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "その問題",
+          "respuesta": "について",
+          "despues": "、先生に質問した。",
+          "lecturaAntes": "そのもんだい",
+          "lecturaDespues": "、せんせいにしつもんした。",
+          "equivalentes": [
+            "に関して"
+          ],
+          "distractores": [
+            {
+              "forma": "をめぐって",
+              "tipo": "sentido",
+              "porQueNo": "Implica controversia o disputa alrededor del tema; aquí solo se formula una pregunta simple al profesor.",
+              "patronId": "seed-13"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Indica la fuente de información y exige cerrar la oración con そうだ／らしい; aquí la oración es afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica el canal o medio a través del cual algo ocurre; no introduce el tema de una pregunta.",
+              "patronId": "seed-2"
+            }
+          ],
+          "es": "Le pregunté al profesor sobre ese problema."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "環境問題",
+          "respuesta": "について",
+          "despues": "、詳しく調べた。",
+          "lecturaAntes": "かんきょうもんだい",
+          "lecturaDespues": "、くわしくしらべた。",
+          "equivalentes": [
+            "に関して"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 詳しく調べた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; 環境問題 es un tema abstracto, no un rango. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 環境問題 no es una categoria de contraste como 年齢 o 経験. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Investigué a fondo los problemas medioambientales."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-2",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼は友人の紹介",
+          "respuesta": "を通じて",
+          "despues": "仕事を見つけた。",
+          "lecturaAntes": "かれはゆうじんのしょうかい",
+          "lecturaDespues": "しごとをみつけた。",
+          "equivalentes": [
+            "を通して"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 仕事を見つけた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica excelencia personal en un dominio; 友人の紹介 no es un area de habilidad ni 仕事を見つけた un predicado de excelencia. Absurdo.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificable de tiempo o espacio; 友人の紹介 es un acto puntual, no un rango. Agramatical.",
+              "patronId": "seed-12"
+            }
+          ],
+          "es": "Encontró trabajo gracias a la recomendación de un amigo."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "彼らは手紙",
+          "respuesta": "を通して",
+          "despues": "お互いの気持ちを伝えた。",
+          "lecturaAntes": "かれらはてがみ",
+          "lecturaDespues": "おたがいのきもちをつたえた。",
+          "equivalentes": [
+            "を通じて"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "について convierte 手紙 en el tema de la oracion (hablar sobre la carta); pero 気持ちを伝える requiere un canal, no un tema. El sentido resulta absurdo.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 気持ちを伝えた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 手紙 no es una categoria de contraste como 年齢 o 経験. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Se transmitieron mutuamente sus sentimientos a través de cartas."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "一年",
+          "respuesta": "を通じて",
+          "despues": "、温暖な気候だ。",
+          "lecturaAntes": "いちねん",
+          "lecturaDespues": "、おんだんなきこうだ。",
+          "equivalentes": [
+            "を通して"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce un tema ('sobre un año'); no expresa que el clima se mantiene durante todo ese periodo.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "Destaca un área de especialidad ('cuando se trata de'); aquí se habla de duración, no de destreza.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N' y pide una categoría de contraste; 一年 no es una categoría de ese tipo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Tiene un clima templado durante todo el año."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼女は",
+          "fragmentos": [
+            "ボランティア活動",
+            "を通して",
+            "地域の人々",
+            "に貢献できた"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "彼女はボランティア活動を通して地域の人々に貢献できた。",
+          "es": "A través del voluntariado, ella pudo contribuir a la comunidad local.",
+          "explicacion": "を通して sigue al nombre del medio (ボランティア活動); に貢献できた lleva la partícula に unida al fragmento 3, impidiendo reordenar.",
+          "lecturaOracion": "かのじょはぼらんてぃあかつどうをとおしてちいきのひとびとにこうけんできた。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-3",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "天気予報",
+          "respuesta": "によると",
+          "despues": "、明日は雪が降るそうだ。",
+          "lecturaAntes": "てんきよほう",
+          "lecturaDespues": "、あしたはゆきがふるそうだ。",
+          "equivalentes": [
+            "によれば"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Presenta el tema del que se habla, no la fuente de la información.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N' y pide una categoría; aquí no la hay.",
+              "patronId": "seed-7"
+            },
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el centro o eje de algo; no señala de dónde viene la noticia.",
+              "patronId": "seed-6"
+            }
+          ],
+          "es": "Según el pronóstico del tiempo, mañana nevará."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "新聞",
+          "respuesta": "によれば",
+          "despues": "、事故の原因はまだ分かっていないという。",
+          "lecturaAntes": "しんぶん",
+          "lecturaDespues": "、じこのげんいんはまだわかっていないという。",
+          "equivalentes": [
+            "によると"
+          ],
+          "distractores": [
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido. Aquí no hay causa que anunciar.",
+              "patronId": "seed-9"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N'; no sirve para citar una fuente.",
+              "patronId": "seed-7"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Según el periódico, todavía no se conoce la causa del accidente."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "友達の話",
+          "respuesta": "によると",
+          "despues": "、あの店は先月閉店したらしい。",
+          "lecturaAntes": "ともだちのはなし",
+          "lecturaDespues": "、あのみせはせんげつへいてんしたらしい。",
+          "equivalentes": [
+            "によれば"
+          ],
+          "distractores": [
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N'; no indica quién te dio la información.",
+              "patronId": "seed-7"
+            },
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el centro o eje de algo; no señala la fuente de lo que se cuenta.",
+              "patronId": "seed-6"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Según lo que cuenta mi amigo, parece que esa tienda cerró el mes pasado."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-4",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "健康保険",
+          "respuesta": "に関して",
+          "despues": "、詳しい説明を受けた。",
+          "lecturaAntes": "けんこうほけん",
+          "lecturaDespues": "、くわしいせつめいをうけた。",
+          "equivalentes": [
+            "について"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 詳しい説明を受けた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; 健康保険 es un tema administrativo, no un rango. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 健康保険 no es categoria de contraste como 年齢 o 経験の有無. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Recibí una explicación detallada sobre el seguro médico."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "確定申告",
+          "respuesta": "に関する",
+          "despues": "書類を揃えた。",
+          "lecturaAntes": "かくていしんこく",
+          "lecturaDespues": "しょるいをそろえた。",
+          "equivalentes": [
+            "についての"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 書類を揃えた es afirmacion directa de accion. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたる",
+              "tipo": "forma",
+              "porQueNo": "にわたる requiere extension cuantificada (ej. 二年間にわたる); 確定申告 es un procedimiento unico, no un rango temporal. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 確定申告 no es categoria de contraste como 経験の有無 o 年齢. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Reuní los documentos relacionados con la declaración de la renta."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "お支払い方法",
+          "respuesta": "に関しては",
+          "despues": "ご確認ください。",
+          "lecturaAntes": "おしはらいほうほう",
+          "lecturaDespues": "ごかくにんください。",
+          "equivalentes": [
+            "については"
+          ],
+          "distractores": [
+            {
+              "forma": "をめぐっては",
+              "tipo": "sentido",
+              "porQueNo": "Implica conflicto sobre el método de pago; に関しては introduce el tema de forma neutra y formal."
+            },
+            {
+              "forma": "においては",
+              "tipo": "sentido",
+              "porQueNo": "Indica ámbito o lugar formal ('en'); no introduce el tema de una instrucción de confirmación."
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "Destaca especialidad o superioridad en un área; aquí se da una instrucción, no se enfatiza destreza.",
+              "patronId": "seed-11"
+            }
+          ],
+          "es": "En cuanto al método de pago, por favor confírmelo."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "",
+          "fragmentos": [
+            "新薬",
+            "に関する",
+            "研究が",
+            "発表された"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "新薬に関する研究が発表された。",
+          "es": "Se publicó una investigación sobre un nuevo medicamento.",
+          "explicacion": "に関する es atributivo y debe preceder al sustantivo que modifica (研究); 新薬+に関する+研究が forman una cadena inseparable.",
+          "lecturaOracion": "しんやくにかんするけんきゅうがはっぴょうされた。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-5",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "現代社会",
+          "respuesta": "において",
+          "despues": "、情報が重要だ。",
+          "lecturaAntes": "げんだいしゃかい",
+          "lecturaDespues": "、じょうほうがじゅうようだ。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 重要だ es predicado directo. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica que alguien sobresale en un area; 現代社会 es un dominio contextual, no habilidad personal, y 重要だ no es predicado de excelencia.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria como 性別 o 年齢); 現代社会 no es categoria de contraste. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "En la sociedad moderna, la información es importante."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "この会議",
+          "respuesta": "において",
+          "despues": "、意見を述べた。",
+          "lecturaAntes": "このかいぎ",
+          "lecturaDespues": "、いけんをのべた。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 意見を述べた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica excelencia personal en un area; この会議 es el lugar donde ocurrio la accion, no dominio de habilidad, ni 意見を述べた un predicado de excelencia.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); この会議 es una reunion especifica, no categoria de contraste. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Expuse mi opinión en la reunión."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "この地域",
+          "respuesta": "における",
+          "despues": "人口が増えている。",
+          "lecturaAntes": "このちいき",
+          "lecturaDespues": "じんこうがふえている。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "についての",
+              "tipo": "sentido",
+              "porQueNo": "Crea 'la población SOBRE esta región', lo que no tiene sentido; における indica el lugar de la población.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "をめぐる",
+              "tipo": "sentido",
+              "porQueNo": "Implica polémica o controversia; aquí se describe un cambio demográfico sin conflicto.",
+              "patronId": "seed-13"
+            },
+            {
+              "forma": "による",
+              "tipo": "sentido",
+              "porQueNo": "Indica causa ('causada por esta región'); la población no es un efecto causado por la región.",
+              "patronId": "seed-36"
+            }
+          ],
+          "es": "La población de esta región está en aumento."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-6",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "東京",
+          "respuesta": "を中心に",
+          "despues": "活動している。",
+          "lecturaAntes": "とうきょう",
+          "lecturaDespues": "かつどうしている。",
+          "equivalentes": [
+            "を中心として",
+            "を中心にして"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce un tema del que se habla o escribe; 'actividad sobre Tokio' no tiene sentido.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Trabaja principalmente en Tokio y alrededores."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "若者",
+          "respuesta": "を中心に",
+          "despues": "、このゲームの人気が広がった。",
+          "lecturaAntes": "わかもの",
+          "lecturaDespues": "、このゲームのにんきがひろがった。",
+          "equivalentes": [
+            "を中心として"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido. No señala el grupo central.",
+              "patronId": "seed-9"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "La popularidad de este juego se extendió, sobre todo entre los jóvenes."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "駅",
+          "respuesta": "を中心に",
+          "despues": "、新しい店が次々とオープンしている。",
+          "lecturaAntes": "えき",
+          "lecturaDespues": "、あたらしいみせがつぎつぎとオープンしている。",
+          "equivalentes": [
+            "を中心として"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica medio o periodo ('a través de', 'a lo largo de'); no un centro geográfico.",
+              "patronId": "seed-2"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Abren tiendas nuevas una tras otra, concentradas alrededor de la estación."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-7",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "年齢",
+          "respuesta": "を問わず",
+          "despues": "、誰でも参加できる。",
+          "lecturaAntes": "ねんれい",
+          "lecturaDespues": "、だれでもさんかできる。",
+          "equivalentes": [
+            "は問わず"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el centro o eje de algo; no expresa 'sin importar'.",
+              "patronId": "seed-6"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Cualquiera puede participar, sin importar la edad."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "経験の有無",
+          "respuesta": "は問わず",
+          "despues": "、やる気のある人を募集しています。",
+          "lecturaAntes": "けいけんのうむ",
+          "lecturaDespues": "、やるきのあるひとをぼしゅうしています。",
+          "equivalentes": [
+            "を問わず"
+          ],
+          "distractores": [
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido. Aquí no hay causa.",
+              "patronId": "seed-9"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Buscamos personas con ganas, tengan o no experiencia."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "国籍",
+          "respuesta": "を問わず",
+          "despues": "、優秀な人材を採用する。",
+          "lecturaAntes": "こくせき",
+          "lecturaDespues": "、ゆうしゅうなじんざいをさいようする。",
+          "equivalentes": [
+            "は問わず"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica medio o periodo ('a través de'); no significa 'sin importar'.",
+              "patronId": "seed-2"
+            },
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido.",
+              "patronId": "seed-9"
+            }
+          ],
+          "es": "Contratamos a personas talentosas sin importar su nacionalidad."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "弊社では",
+          "fragmentos": [
+            "学歴",
+            "を問わず",
+            "やる気のある",
+            "人を採用する"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "弊社では学歴を問わずやる気のある人を採用する。",
+          "es": "En nuestra empresa contratamos a personas motivadas sin importar el nivel de estudios.",
+          "explicacion": "を問わず sigue al sustantivo categoría ignorada (学歴); やる気のある modifica 人 dentro del fragmento 4 y no puede preceder a 学歴.",
+          "lecturaOracion": "へいしゃではがくれきをとわずやるきのあるひとをさいようする。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-8",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "ご注文の件",
+          "respuesta": "につきまして",
+          "despues": "、確認いたします。",
+          "lecturaAntes": "ごちゅうもんのけん",
+          "lecturaDespues": "、かくにんいたします。",
+          "equivalentes": [
+            "について",
+            "に関して"
+          ],
+          "distractores": [
+            {
+              "forma": "をめぐって",
+              "tipo": "sentido",
+              "porQueNo": "Implica conflicto o disputa; aquí se trata de confirmar un pedido de forma cortés.",
+              "patronId": "seed-13"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Indica la fuente de información y exige cerrar con そうだ／らしい; aquí la oración es afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "Destaca un área de especialidad; aquí se introduce el tema de una confirmación de servicio.",
+              "patronId": "seed-11"
+            }
+          ],
+          "es": "Le confirmaré en cuanto a su pedido."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "この件",
+          "respuesta": "につきましては",
+          "despues": "、後ほどご連絡します。",
+          "lecturaAntes": "このけん",
+          "lecturaDespues": "、のちほどごれんらくします。",
+          "equivalentes": [
+            "については",
+            "に関しては"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; ご連絡します es declaracion directa de accion. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica excelencia en un area; この件 es el tema de un seguimiento, no dominio de habilidad. Absurdo en comunicacion de negocios.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; この件 es un asunto abstracto, no un rango temporal. Agramatical.",
+              "patronId": "seed-12"
+            }
+          ],
+          "es": "Me pondré en contacto con usted más tarde sobre este asunto."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "ご不便",
+          "respuesta": "につきましては",
+          "despues": "、申し訳ございません。",
+          "lecturaAntes": "ごふべん",
+          "lecturaDespues": "、もうしわけございません。",
+          "equivalentes": [
+            "については",
+            "に関しては"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 申し訳ございません es disculpa directa, no informe indirecto. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica excelencia en un area; aplicado a ご不便 implicaria que uno sobresale causando molestias. Absurdo en una disculpa formal.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; ご不便 es sustantivo abstracto, no un rango. Agramatical.",
+              "patronId": "seed-12"
+            }
+          ],
+          "es": "Le pedimos disculpas por las molestias ocasionadas."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-9",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "定休日",
+          "respuesta": "につき",
+          "despues": "、休業いたします。",
+          "lecturaAntes": "ていきゅうび",
+          "lecturaDespues": "、きゅうぎょういたします。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica medio o periodo ('a través de'); no expresa la razón del cierre.",
+              "patronId": "seed-2"
+            }
+          ],
+          "es": "Cerrado por ser día de descanso habitual."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "工事中",
+          "respuesta": "につき",
+          "despues": "、ご迷惑をおかけします。",
+          "lecturaAntes": "こうじちゅう",
+          "lecturaDespues": "、ごめいわくをおかけします。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el centro o eje de algo; no expresa la razón de la molestia.",
+              "patronId": "seed-6"
+            },
+            {
+              "forma": "にかけて",
+              "tipo": "forma",
+              "porQueNo": "Se usa en el esquema N1からN2にかけて (rango aproximado de tiempo o espacio); aquí no hay dos puntos."
+            }
+          ],
+          "es": "Disculpe las molestias: estamos en obras."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "本日は満席",
+          "respuesta": "につき",
+          "despues": "、お断りさせていただきます。",
+          "lecturaAntes": "ほんじつはまんせき",
+          "lecturaDespues": "、おことわりさせていただきます。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N'; no expresa la razón.",
+              "patronId": "seed-7"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica medio o periodo ('a través de'); no expresa la razón.",
+              "patronId": "seed-2"
+            }
+          ],
+          "es": "Hoy no hay lugares, por lo que debemos declinar."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "台風の",
+          "fragmentos": [
+            "接近",
+            "につき",
+            "本日の授業は",
+            "休講となります"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "台風の接近につき本日の授業は休講となります。",
+          "es": "Debido a la aproximación del tifón, las clases de hoy quedan suspendidas.",
+          "explicacion": "につき se une al nombre de causa (接近); el prefijo 台風の forma compuesto con 接近 y no puede separarse del patrón.",
+          "lecturaOracion": "たいふうのせっきんにつきほんじつのじゅぎょうはきゅうこうとなります。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-10",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "春から夏",
+          "respuesta": "にかけて",
+          "despues": "、花が咲く。",
+          "lecturaAntes": "はるからなつ",
+          "lecturaDespues": "、はながさく。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido.",
+              "patronId": "seed-9"
+            },
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce un tema; no marca un rango aproximado entre dos puntos.",
+              "patronId": "seed-1"
+            }
+          ],
+          "es": "Desde la primavera hasta el verano florecen las flores."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "九州から関東",
+          "respuesta": "にかけて",
+          "despues": "、大雨になるでしょう。",
+          "lecturaAntes": "きゅうしゅうからかんとう",
+          "lecturaDespues": "、おおあめになるでしょう。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "につき",
+              "tipo": "sentido",
+              "porQueNo": "Expresa causa en avisos formales ('debido a N'); no encaja con este sentido.",
+              "patronId": "seed-9"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica medio o periodo ('a través de'); no un rango geográfico aproximado.",
+              "patronId": "seed-2"
+            }
+          ],
+          "es": "Habrá lluvias fuertes desde Kyushu hasta Kanto."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "昨日から今朝",
+          "respuesta": "にかけて",
+          "despues": "、強い風が吹いた。",
+          "lecturaAntes": "きのうからけさ",
+          "lecturaDespues": "、つよいかぜがふいた。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce un tema; no marca un rango aproximado de tiempo.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Pide cerrar la oración con そうだ／らしい／という (información de oídas); aquí la oración es una afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "Significa 'sin importar N'; no expresa un periodo entre dos puntos.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Desde ayer hasta esta mañana sopló un viento fuerte."
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-11",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "料理",
+          "respuesta": "にかけては",
+          "despues": "、彼女の右に出る人はいない。",
+          "lecturaAntes": "りょうり",
+          "lecturaDespues": "、かのじょのみぎにでるひとはいない。",
+          "equivalentes": [
+            "にかけても"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce el tema del que se habla; no destaca que la cocina sea el área de excelencia de ella.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Indica la fuente de información y exige cerrar con そうだ／らしい; aquí la oración es afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "sentido",
+              "porQueNo": "Indica extensión temporal o espacial amplia; no señala un campo en el que alguien destaca.",
+              "patronId": "seed-12"
+            }
+          ],
+          "es": "Cuando se trata de cocinar, no hay quien la supere."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "記憶力",
+          "respuesta": "にかけては",
+          "despues": "、クラスで彼が一番だ。",
+          "lecturaAntes": "きおくりょく",
+          "lecturaDespues": "、クラスでかれがいちばんだ。",
+          "equivalentes": [
+            "にかけても"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Indica la fuente de información y exige cerrar con そうだ／らしい; aquí la oración es afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "sentido",
+              "porQueNo": "Indica extensión amplia de tiempo o espacio; no señala un campo de excelencia.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el eje o núcleo de algo; no expresa que la memoria sea el punto fuerte de alguien.",
+              "patronId": "seed-6"
+            }
+          ],
+          "es": "En cuanto a la memoria, él es el mejor de la clase."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "速さ",
+          "respuesta": "にかけては",
+          "despues": "、世界一のランナーだ。",
+          "lecturaAntes": "はやさ",
+          "lecturaDespues": "、せかいいちのランナーだ。",
+          "equivalentes": [
+            "にかけても"
+          ],
+          "distractores": [
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce el tema del que se habla; no destaca la velocidad como campo de excelencia del corredor.",
+              "patronId": "seed-1"
+            },
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "Indica la fuente de información y exige cerrar con そうだ／らしい; aquí la oración es afirmación directa.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "Indica canal o medio; no expresa que la velocidad sea el área de excelencia del atleta.",
+              "patronId": "seed-2"
+            }
+          ],
+          "es": "En cuanto a velocidad, es el mejor corredor del mundo."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "スポーツ",
+          "fragmentos": [
+            "にかけては",
+            "山田くんに",
+            "かなう者",
+            "はいない"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 1,
+          "oracion": "スポーツにかけては山田くんにかなう者はいない。",
+          "es": "Cuando se trata de deportes, nadie puede con Yamada.",
+          "explicacion": "にかけては sigue al dominio (スポーツ); 山田くんに y かなう者 forman el núcleo idiomático かなう+者 indisociable.",
+          "lecturaOracion": "すぽーつにかけてはやまだくんにかなうものはいない。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-12",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "三日間",
+          "respuesta": "にわたって",
+          "despues": "、会議が続いた。",
+          "lecturaAntes": "みっかかん",
+          "lecturaDespues": "、かいぎがつづいた。",
+          "equivalentes": [
+            "にわたり"
+          ],
+          "distractores": [
+            {
+              "forma": "にかけて",
+              "tipo": "sentido",
+              "porQueNo": "N1からN2にかけて indica un rango aproximado entre dos extremos; にわたって destaca que algo se extiende durante toda la duración."
+            },
+            {
+              "forma": "を通じて",
+              "tipo": "sentido",
+              "porQueNo": "を通じて indica el canal o medio (y también 'durante todo', pero con énfasis en continuidad sin excepción); にわたって enfatiza la extensión total.",
+              "patronId": "seed-2"
+            },
+            {
+              "forma": "について",
+              "tipo": "sentido",
+              "porQueNo": "Introduce el tema del que se habla; no expresa la duración de un evento.",
+              "patronId": "seed-1"
+            }
+          ],
+          "es": "La reunión se prolongó durante tres días."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "広い範囲",
+          "respuesta": "にわたって",
+          "despues": "、被害が出た。",
+          "lecturaAntes": "ひろいはんい",
+          "lecturaDespues": "、ひがいがでた。",
+          "equivalentes": [
+            "にわたり"
+          ],
+          "distractores": [
+            {
+              "forma": "を中心に",
+              "tipo": "sentido",
+              "porQueNo": "Indica el eje o núcleo desde el que algo irradia; にわたって indica que el daño se extendió por toda la zona.",
+              "patronId": "seed-6"
+            },
+            {
+              "forma": "において",
+              "tipo": "sentido",
+              "porQueNo": "Indica el lugar o ámbito puntual en que algo ocurre; にわたって subraya la extensión a lo largo de un área amplia.",
+              "patronId": "seed-5"
+            },
+            {
+              "forma": "によって",
+              "tipo": "sentido",
+              "porQueNo": "Indica causa o agente; el daño no fue causado por la zona, sino que se extendió por ella.",
+              "patronId": "seed-36"
+            }
+          ],
+          "es": "Los daños se produjeron en una zona muy amplia."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "数年間",
+          "respuesta": "にわたって",
+          "despues": "、研究を続けた。",
+          "lecturaAntes": "すうねんかん",
+          "lecturaDespues": "、けんきゅうをつづけた。",
+          "equivalentes": [
+            "にわたり"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 研究を続けた es afirmacion directa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にかけては",
+              "tipo": "sentido",
+              "porQueNo": "にかけては indica excelencia personal en un area; 数年間 es una duracion, no dominio de habilidad, ni 研究を続けた es predicado de excelencia personal.",
+              "patronId": "seed-11"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 数年間 es un periodo concreto, no categoria de contraste como 年齢 o 経験. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Continuó sus investigaciones durante varios años."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "この",
+          "fragmentos": [
+            "二十年間",
+            "にわたる",
+            "地道な研究が",
+            "ようやく実を結んだ"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "この二十年間にわたる地道な研究がようやく実を結んだ。",
+          "es": "Esta investigación sostenida a lo largo de veinte años ha dado fruto al fin.",
+          "explicacion": "にわたる forma un modificador atributivo con 二十年間; debe preceder a 地道な研究が y no puede separarse del bloque nominal.",
+          "lecturaOracion": "このにじゅうねんかんにわたるじみちなけんきゅうがようやくみをむすんだ。"
+        }
+      ]
+    },
+    {
+      "idExterno": "seed-13",
+      "rev": 1,
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "その計画",
+          "respuesta": "をめぐって",
+          "despues": "、賛否が分かれた。",
+          "lecturaAntes": "そのけいかく",
+          "lecturaDespues": "、さんぴがわかれた。",
+          "equivalentes": [
+            "をめぐり"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 賛否が分かれた es afirmacion directa. その計画 no es fuente informativa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; その計画 es un proyecto concreto, no un rango temporal o espacial. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); その計画 es un plan especifico, no categoria de contraste como 性別 o 年齢. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Las opiniones se dividieron en torno a ese plan."
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "土地の所有権",
+          "respuesta": "をめぐって",
+          "despues": "、長い裁判が続いた。",
+          "lecturaAntes": "とちのしょゆうけん",
+          "lecturaDespues": "、ながいさいばんがつづいた。",
+          "equivalentes": [
+            "をめぐり"
+          ],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 長い裁判が続いた es afirmacion directa. 土地の所有権 no es fuente informativa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたって",
+              "tipo": "forma",
+              "porQueNo": "にわたって requiere extension cuantificada de tiempo o espacio; 土地の所有権 es concepto juridico abstracto, no un rango temporal. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria); 土地の所有権 es el tema del litigio, no categoria de contraste binario. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Se prolongó un largo juicio en torno a los derechos de propiedad del terreno."
+        },
+        {
+          "id": "bh3",
+          "tipo": "hueco",
+          "antes": "遺産相続",
+          "respuesta": "をめぐる",
+          "despues": "争いが起きた。",
+          "lecturaAntes": "いさんそうぞく",
+          "lecturaDespues": "あらそいがおきた。",
+          "equivalentes": [],
+          "distractores": [
+            {
+              "forma": "によると",
+              "tipo": "forma",
+              "porQueNo": "によると requiere fuente de informacion y cierre con そうだ/らしい; 争いが起きた es afirmacion directa. 遺産相続 no es fuente informativa. Agramatical.",
+              "patronId": "seed-3"
+            },
+            {
+              "forma": "にわたる",
+              "tipo": "forma",
+              "porQueNo": "にわたる requiere extension cuantificada de tiempo o espacio (ej. 数年間にわたる); 遺産相続 es proceso juridico, no un rango temporal o espacial. Agramatical.",
+              "patronId": "seed-12"
+            },
+            {
+              "forma": "を問わず",
+              "tipo": "sentido",
+              "porQueNo": "を問わず = sin importar N (categoria binaria como 性別 o 国籍); 遺産相続 es el tema de la disputa, no categoria de contraste. Absurdo.",
+              "patronId": "seed-7"
+            }
+          ],
+          "es": "Se produjo una disputa en torno a la herencia."
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "家族の間で",
+          "fragmentos": [
+            "遺産",
+            "をめぐる",
+            "争いが",
+            "起きた"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "家族の間で遺産をめぐる争いが起きた。",
+          "es": "Surgió una disputa por la herencia entre los familiares.",
+          "explicacion": "をめぐる es atributivo y debe preceder al nombre del conflicto (争い); la cadena 遺産+をめぐる+争いが es inseparable.",
+          "lecturaOracion": "かぞくのまでいさんをめぐるあらそいがおきた。"
+        }
+      ]
+    }
+  ]
+}
