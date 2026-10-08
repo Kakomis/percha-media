@@ -175,7 +175,28 @@
           "pendiente": true
         }
       ],
-      "rev": 4
+      "rev": 5,
+      "teoria": {
+        "estructura": "V（る／た）＋ か ＋ Vない ＋ かのうちに",
+        "antecede": "El MISMO verbo repetido: Vるか Vない (o Vたか Vない).",
+        "sigue": "Un segundo hecho que llega casi a la vez que el primero apenas empieza o termina.",
+        "oracion": {
+          "ja": "授業が終わるか終わらないかのうちに、学生たちは教室を飛び出した。",
+          "es": "Apenas terminaba la clase, los alumnos ya salían corriendo del salón.",
+          "parte": "かのうちに"
+        },
+        "intencion": "Quieres transmitir que casi no hubo tiempo entre una cosa y otra. El énfasis está en la inmediatez: el primer hecho apenas se estaba cumpliendo.",
+        "parecidos": [
+          "seed-198",
+          "seed-197"
+        ],
+        "contraste": {
+          "titulo": "かのうちに vs たとたん",
+          "con": "seed-198",
+          "texto": "Los dos son «enseguida». かのうちに presenta los dos hechos casi a la vez: el primero apenas empieza o termina. たとたん pone el segundo DESPUÉS de que el primero ya ocurrió, y lo marca como inesperado.",
+          "prueba": "¿Puedes repetir el verbo (終わるか終わらないか)? → かのうちに. ¿El primer verbo ya está completo en pasado (帰った)? → たとたん."
+        }
+      }
     },
     {
       "idExterno": "gram_0002",
@@ -879,6 +900,54 @@
       ]
     },
     {
+      "idExterno": "seed-139",
+      "rev": 1,
+      "teoria": {
+        "estructura": "Vる／Vた／Nの ＋ 際（に）",
+        "antecede": "Verbo en forma diccionario o pasado, o un sustantivo con の.",
+        "sigue": "Una acción puntual o una indicación; tono formal (avisos, trámites).",
+        "oracion": {
+          "ja": "空港に着いた際に、ご連絡ください。",
+          "es": "Cuando llegue al aeropuerto, comuníquese con nosotros.",
+          "parte": "際に"
+        },
+        "intencion": "Señalas la ocasión concreta en la que debe ocurrir algo. No hay sorpresa ni inmediatez: es un aviso o una instrucción formal.",
+        "parecidos": [
+          "seed-140"
+        ],
+        "contraste": {
+          "titulo": "際に vs に際して",
+          "con": "seed-140",
+          "texto": "Los dos son formales. 際に señala una ocasión concreta y admite Vた y Nの. に際して señala el comienzo de algo importante y solo admite Vる o un sustantivo de acción.",
+          "prueba": "¿El verbo está en pasado (着いた)? → 際に. ¿Es el inicio de un trámite o evento (入学, 開会)? → に際して."
+        }
+      }
+    },
+    {
+      "idExterno": "seed-140",
+      "rev": 1,
+      "teoria": {
+        "estructura": "Vる／N ＋ に際して",
+        "antecede": "Vる o un sustantivo de acción (入学, 開会). Nunca Vた.",
+        "sigue": "Lo que se prepara o se debe cuidar al emprender algo importante.",
+        "oracion": {
+          "ja": "入学に際して、保証人が必要です。",
+          "es": "Para ingresar se necesita un garante.",
+          "parte": "に際して"
+        },
+        "intencion": "Marcas el comienzo de algo importante y avisas de lo que hace falta al emprenderlo. Tono muy formal.",
+        "parecidos": [
+          "seed-139"
+        ],
+        "contraste": {
+          "titulo": "に際して vs 際に",
+          "con": "seed-139",
+          "texto": "Los dos son formales. に際して marca el comienzo de algo importante y no admite Vた. 際に señala una ocasión concreta cualquiera y sí admite Vた y Nの.",
+          "prueba": "¿Hay un verbo en pasado (着いた)? → 際に. ¿Es el inicio de un trámite o evento (入学, 開会)? → に際して."
+        }
+      }
+    },
+    {
       "idExterno": "seed-187",
       "rev": 3,
       "confusables": [
@@ -982,7 +1051,7 @@
     },
     {
       "idExterno": "seed-197",
-      "rev": 2,
+      "rev": 3,
       "confusables": [
         {
           "con": "gram_0001",
@@ -990,11 +1059,32 @@
           "porQueNo": "かのうちに no implica contraste, solo que el segundo hecho llega casi a la vez.",
           "origen": "inverso"
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "Vた ＋ かと思うと／かと思ったら",
+        "antecede": "Vた. Suele describir a otra persona o cosa que observas.",
+        "sigue": "El cambio o contraste rápido: el estado nuevo suele ser lo opuesto del anterior.",
+        "oracion": {
+          "ja": "泣いたかと思うと、もう笑っている。",
+          "es": "Hace un momento lloraba y ya está riendo.",
+          "parte": "かと思うと"
+        },
+        "intencion": "Expresas asombro por un cambio rápido entre dos estados opuestos. El énfasis está en el contraste, no en lo repentino.",
+        "parecidos": [
+          "seed-198",
+          "gram_0001"
+        ],
+        "contraste": {
+          "titulo": "かと思うと vs たとたん",
+          "con": "seed-198",
+          "texto": "Los dos cuentan algo que pasa enseguida. かと思うと resalta el CONTRASTE entre dos estados; たとたん resalta lo REPENTINO e inesperado de lo que ocurre justo después de una acción.",
+          "prueba": "¿Hay dos estados opuestos (llorar → reír)? → かと思うと. ¿Es un hecho inesperado tras una acción (llegar → llover)? → たとたん."
+        }
+      }
     },
     {
       "idExterno": "seed-198",
-      "rev": 4,
+      "rev": 5,
       "confusables": [
         {
           "con": "gram_0001",
@@ -1014,7 +1104,29 @@
           "origen": "inverso",
           "pendiente": true
         }
-      ]
+      ],
+      "teoria": {
+        "estructura": "Vた ＋ とたん（に）",
+        "antecede": "Vた (pasado). Los dos hechos pueden tener el mismo sujeto o distinto.",
+        "sigue": "Un hecho súbito e inesperado, casi siempre en pasado. No admite orden, petición ni intención.",
+        "oracion": {
+          "ja": "家に帰ったとたん、雨が降り出した。",
+          "es": "En cuanto llegué a casa, empezó a llover.",
+          "parte": "たとたん"
+        },
+        "intencion": "Cuentas con sorpresa algo que pasó justo después de otra cosa, sin que lo esperaras. El énfasis está en lo repentino de la segunda cosa.",
+        "parecidos": [
+          "seed-197",
+          "gram_0001",
+          "seed-139"
+        ],
+        "contraste": {
+          "titulo": "たとたん vs かと思うと",
+          "con": "seed-197",
+          "texto": "Los dos cuentan algo que pasa enseguida. Si lo que importa es que la segunda cosa es REPENTINA e inesperada tras una acción (llegar → llover), usa たとたん. Si lo que importa es el CONTRASTE entre dos estados (llorar → reír), usa かと思うと.",
+          "prueba": "¿El segundo estado es lo opuesto del primero? → かと思うと. ¿Hablas de algo que te pasó a ti? → たとたん (かと思うと suele observar a otros)."
+        }
+      }
     }
   ]
 }
