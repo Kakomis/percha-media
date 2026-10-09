@@ -377,7 +377,28 @@
           "pendiente": true
         }
       ],
-      "rev": 3
+      "rev": 4,
+      "teoria": {
+        "estructura": "Vている／Nの ＋ 最中だ（に）",
+        "antecede": "Vている (acción en curso) o un sustantivo con の (会議の, 試験の).",
+        "sigue": "Lo que interrumpe: un hecho puntual, casi siempre inesperado y molesto, marcado con に y en pasado.",
+        "oracion": {
+          "ja": "会議の最中に、部長の携帯電話が鳴った。",
+          "es": "En plena reunión sonó el celular del jefe.",
+          "parte": "最中に"
+        },
+        "intencion": "Señalas que algo irrumpió justo cuando la acción estaba en su punto álgido. El énfasis está en la interrupción, casi siempre molesta.",
+        "parecidos": [
+          "seed-190",
+          "seed-192"
+        ],
+        "contraste": {
+          "titulo": "最中に vs うちに",
+          "con": "seed-190",
+          "texto": "Los dos sitúan algo «mientras» ocurre otra cosa. 最中に destaca que la acción está en pleno desarrollo y que lo que ocurre la interrumpe; うちに habla de un estado que todavía dura y anticipa que pronto cambiará.",
+          "prueba": "¿Algo interrumpe una acción en pleno desarrollo (reunión → suena el celular)? → 最中に. ¿Aprovechas o notas un cambio mientras el estado aún dura (若いうちに)? → うちに."
+        }
+      }
     },
     {
       "idExterno": "gram_0003",
@@ -528,7 +549,28 @@
           "origen": "distractor"
         }
       ],
-      "rev": 1
+      "rev": 2,
+      "teoria": {
+        "estructura": "V（よ）う ＋ としている",
+        "antecede": "La forma volitiva del verbo (咲こう, 終わろう, 沈もう).",
+        "sigue": "Normalmente cierra la oración. Con verbos de cambio natural significa «a punto de»; con acciones de una persona, «está intentando».",
+        "oracion": {
+          "ja": "桜の花が咲こうとしている。",
+          "es": "Los cerezos están a punto de florecer.",
+          "parte": "うとしている"
+        },
+        "intencion": "Describes un cambio que está en su umbral: todavía no ocurre, pero ya empezó a producirse. El énfasis está en lo inminente.",
+        "parecidos": [
+          "seed-33",
+          "seed-122"
+        ],
+        "contraste": {
+          "titulo": "ようとしている vs つつある",
+          "con": "seed-33",
+          "texto": "Los dos hablan de un cambio en marcha. ようとしている marca el umbral: el cambio está a punto de ocurrir. つつある describe un cambio que ya avanza poco a poco, en estilo escrito.",
+          "prueba": "¿El cambio aún no ocurrió pero es inminente (桜が咲こうとしている)? → ようとしている. ¿Ya viene avanzando de forma gradual (増えつつある)? → つつある."
+        }
+      }
     },
     {
       "idExterno": "gram_0004",
@@ -690,7 +732,29 @@
           "pendiente": true
         }
       ],
-      "rev": 3
+      "rev": 4,
+      "teoria": {
+        "estructura": "Vて ＋ はじめて",
+        "antecede": "Vて. La acción previa es la experiencia que hace posible lo que sigue.",
+        "sigue": "Un descubrimiento, una comprensión o un cambio. No admite petición ni orden.",
+        "oracion": {
+          "ja": "病気になってはじめて、健康のありがたさがわかった。",
+          "es": "Solo al enfermarme comprendí lo valiosa que es la salud.",
+          "parte": "てはじめて"
+        },
+        "intencion": "Destacas que sin haber vivido A no habrías llegado a B. El énfasis está en la experiencia previa como condición del descubrimiento.",
+        "parecidos": [
+          "seed-188",
+          "seed-187",
+          "seed-195"
+        ],
+        "contraste": {
+          "titulo": "てはじめて vs てからでないと",
+          "con": "seed-188",
+          "texto": "Los dos ponen A antes de B. てはじめて cuenta un descubrimiento o logro que llegó solo después de A. てからでないと impone A como requisito y cierra con algo negativo o imposible.",
+          "prueba": "¿Cuentas lo que descubriste o lograste tras vivir A? → てはじめて. ¿Dices que sin A no se puede B? → てからでないと."
+        }
+      }
     },
     {
       "idExterno": "gram_0005",
@@ -855,7 +919,27 @@
           "origen": "distractor"
         }
       ],
-      "rev": 1
+      "rev": 2,
+      "teoria": {
+        "estructura": "Vて／N ＋ このかた",
+        "antecede": "Vて, o un sustantivo de tiempo (生まれて, 十年). Se usa para periodos largos.",
+        "sigue": "Un estado que continúa hasta hoy, o algo que nunca ha ocurrido en todo ese tiempo.",
+        "oracion": {
+          "ja": "生まれてこのかた、病気一つしたことがない。",
+          "es": "Desde que nací no he tenido ni una enfermedad.",
+          "parte": "てこのかた"
+        },
+        "intencion": "Subrayas que algo se mantiene sin excepción desde un punto lejano del pasado. El énfasis está en la larga duración, con tono literario.",
+        "parecidos": [
+          "seed-191"
+        ],
+        "contraste": {
+          "titulo": "てこのかた vs 以来",
+          "con": "seed-191",
+          "texto": "Los dos significan «desde que». 以来 es neutral y sirve para cualquier periodo; てこのかた suena más literario y sugiere un periodo largo, como toda la vida.",
+          "prueba": "¿Quieres un tono neutro para cualquier periodo (入社して以来)? → 以来. ¿Quieres enfatizar un periodo larguísimo, casi toda la vida (生まれてこのかた)? → てこのかた."
+        }
+      }
     },
     {
       "idExterno": "seed-33",
