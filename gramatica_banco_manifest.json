@@ -2384,7 +2384,7 @@
     },
     {
       "idExterno": "seed-171",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "N ＋ にとって",
         "antecede": "Sustantivo que designa a la persona, grupo o entidad desde cuyo punto de vista se evalúa algo.",
@@ -2405,11 +2405,47 @@
           "texto": "にとって establece la perspectiva de N para emitir un juicio de valor ('para N, es difícil'). として indica el rol o categoría bajo la que alguien actúa ('como intérprete, hace X'). Pueden confundirse cuando N es una persona.",
           "prueba": "¿Se hace un juicio de valor válido desde la perspectiva de N? → にとって. ¿Se indica la calidad o rol en que alguien actúa? → として. ¿Puede sustituirse por 'en calidad de'? → として."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "子ども",
+          "respuesta": "にとって",
+          "despues": "、遊びは大切な学びの時間だ。",
+          "equivalentes": [
+            "にとっては",
+            "にとっても"
+          ],
+          "es": "Para los ninos, el juego es un tiempo importante de aprendizaje.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "こども",
+          "lecturaDespues": "、あそびはたいせつなまなびのじかんだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-186",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "N ＋ として",
         "antecede": "Sustantivo que designa un rol, cargo, categoría o función bajo la que alguien o algo actúa o es reconocido.",
@@ -2430,7 +2466,40 @@
           "texto": "として indica el rol o calidad en que alguien actúa o es reconocido ('como intérprete, como adulto'). にとって establece la perspectiva de alguien para emitir un juicio de valor ('para mí, para los niños').",
           "prueba": "¿Se define la función o calidad con que alguien actúa? → として. ¿Se establece la perspectiva desde la que se evalúa algo? → にとって. ¿Puede sustituirse por 'en calidad de'? → として."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼はチームのリーダー",
+          "respuesta": "として",
+          "despues": "、全員をまとめた。",
+          "equivalentes": [],
+          "es": "Como líder del equipo, los unificó a todos.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「リーダー」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「リーダー」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「リーダー」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "かれはちーむのりーだー",
+          "lecturaDespues": "、ぜんいんをまとめた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-14",
@@ -6181,7 +6250,7 @@
     },
     {
       "idExterno": "seed-174",
-      "rev": 4,
+      "rev": 5,
       "teoria": {
         "estructura": "N ＋ のことだから",
         "antecede": "Sustantivo que designa a una persona cuyo carácter o comportamiento habitual es bien conocido por el hablante.",
@@ -6202,7 +6271,88 @@
           "texto": "のことだから basa la deducción en el conocimiento personal del carácter o comportamiento habitual de N; solo se usa con personas cuya manera de ser es conocida. はずだ basa la deducción en datos objetivos, reglas o promesas; no requiere conocimiento personal de nadie.",
           "prueba": "¿La deducción se basa en conocer bien a N? → のことだから. ¿La deducción se basa en datos objetivos o reglas? → はずだ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "田中さん",
+          "respuesta": "のことだから",
+          "despues": "、きっと時間通りに来るはずだ。",
+          "equivalentes": [],
+          "es": "Conociendolo bien, Tanaka-san seguramente llegara a tiempo.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「田中さん」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「田中さん」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「田中さん」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "たなかさん",
+          "lecturaDespues": "、きっとじかんどおりにくるはずだ。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "彼女",
+          "respuesta": "のことだから",
+          "despues": "、絶対に最後まであきらめないだろう。",
+          "equivalentes": [],
+          "es": "Conociendola bien, seguro que no se rinde hasta el final.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "かのじょ",
+          "lecturaDespues": "、ぜったいにさいごまであきらめないだろう。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼の",
+          "fragmentos": [
+            "ことだから",
+            "約束の時間に",
+            "遅れる",
+            "はずがない"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 1,
+          "oracion": "彼のことだから約束の時間に遅れるはずがない。",
+          "es": "Conociendolo, no hay manera de que llegue tarde a la cita.",
+          "explicacion": "N + のことだから: conocer su caracter hace previsible que no llegue tarde.",
+          "lecturaOracion": "かれのことだからやくそくのじかんにおくれるはずがない。"
+        }
+      ]
     },
     {
       "idExterno": "seed-54",
@@ -8224,7 +8374,7 @@
     },
     {
       "idExterno": "seed-173",
-      "rev": 1,
+      "rev": 3,
       "teoria": {
         "estructura": "N ＋ にしたら／にすれば；N ＋ にしても",
         "antecede": "Sustantivo que designa a la persona o entidad desde cuya perspectiva o posición subjetiva se evalúa la situación.",
@@ -8245,11 +8395,98 @@
           "texto": "にしたら captura cómo siente o experimenta subjetivamente la situación desde la perspectiva de N; connota empatía con los sentimientos de N. にとって emite un juicio de valor o importancia desde la perspectiva de N; evalúa en términos de importancia, dificultad o beneficio.",
           "prueba": "¿Se captura cómo siente N la situación? → にしたら. ¿Se emite un juicio de valor desde la perspectiva de N? → にとって. ¿El hablante imagina los sentimientos o reacción de N? → にしたら."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "親",
+          "respuesta": "にしたら",
+          "despues": "、子どもの将来が心配なのは当然だ。",
+          "equivalentes": [
+            "にすれば",
+            "にしても"
+          ],
+          "es": "Es natural que, desde el punto de vista de los padres, les preocupe el futuro de sus hijos.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「親」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「親」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「親」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "おや",
+          "lecturaDespues": "、こどものしょうらいがしんぱいなのはとうぜんだ。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "彼女",
+          "respuesta": "にしたら",
+          "despues": "、突然のことで驚いたに違いない。",
+          "equivalentes": [
+            "にすれば",
+            "にしても"
+          ],
+          "es": "Desde su perspectiva, sin duda se sorprendio por lo repentino del asunto.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「彼女」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "かのじょ",
+          "lecturaDespues": "、とつぜんのことでおどろいたにちがいない。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "部下",
+          "fragmentos": [
+            "にしたら",
+            "上司からの",
+            "指示は",
+            "絶対だ"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 1,
+          "oracion": "部下にしたら上司からの指示は絶対だ。",
+          "es": "Para un subordinado, las instrucciones del jefe son absolutas.",
+          "explicacion": "N + にしたら: evalua desde la perspectiva del subordinado (N) la naturaleza de las órdenes del jefe.",
+          "lecturaOracion": "ぶかにしたらじょうしからのしじはぜったいだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-177",
-      "rev": 7,
+      "rev": 8,
       "teoria": {
         "estructura": "V辞書形 ＋ しかない",
         "antecede": "Verbo en forma 辞書形.",
@@ -8270,11 +8507,92 @@
           "texto": "Los dos dicen «no queda otra opción». しかない es más cotidiano; ほかない／よりほかない es algo más escrito y formal.",
           "prueba": "¿Lo dices en tono cotidiano (待つしかない)? → しかない. ¿Lo dices en tono más escrito o formal (待つほかない)? → ほかない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "状況が状況なので、諦める",
+          "respuesta": "しかない",
+          "despues": "。",
+          "equivalentes": [],
+          "es": "Dada la situacion, no queda mas que rendirse.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「諦める」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「諦める」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「諦める」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "じょうきょうがじょうきょうなので、あきらめる",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "今となっては信じる",
+          "respuesta": "しかない",
+          "despues": "。",
+          "equivalentes": [],
+          "es": "A estas alturas, no queda mas que creerlo.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「信じる」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「信じる」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「信じる」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "いまとなってはしんじる",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "こんな",
+          "fragmentos": [
+            "状況になったら",
+            "逃げる",
+            "しかない",
+            "と思った"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 3,
+          "oracion": "こんな状況になったら逃げるしかないと思った。",
+          "es": "Al verse en esa situacion, penso que no quedaba mas que huir.",
+          "explicacion": "V-る + しかない: la unica opcion logica dadas las circunstancias es huir.",
+          "lecturaOracion": "こんなじょうきょうになったらにげるしかないとおもった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-181",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V辞書形／N ＋ に限る（夏はビールに限る）",
         "antecede": "Verbo en forma 辞書形 o sustantivo que designa la opción o actividad que el hablante recomienda como insuperable.",
@@ -8295,11 +8613,46 @@
           "texto": "に限る en sentido de recomendación afirma que X es la mejor opción posible; el tono es positivo y entusiasta. しかない señala que X es la única opción disponible; el tono es de resignación o restricción, no de entusiasmo.",
           "prueba": "¿Se afirma que X es la mejor opción de todas con entusiasmo? → に限る. ¿Se indica que X es la única opción que queda? → しかない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "疲れた時は休む",
+          "respuesta": "に限る",
+          "despues": "。",
+          "equivalentes": [
+            "にかぎる"
+          ],
+          "es": "Cuando estás cansado, nada mejor que descansar.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「休む」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「休む」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「休む」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "つかれたときはやすむ",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-184",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "V辞書形／N ＋ に過ぎない",
         "antecede": "Verbo en forma plana o sustantivo que designa algo que el hablante evalúa como insuficiente, trivial o de alcance limitado.",
@@ -8320,11 +8673,97 @@
           "texto": "に過ぎない minimiza o descarta la importancia de algo: 'no es más que X'. しかない señala que solo existe esa cantidad u opción con valor restrictivo; no implica que X sea trivial o insignificante.",
           "prueba": "¿Se rebaja la importancia de algo como 'meramente' o 'nada más que'? → に過ぎない. ¿Se indica que solo existe esa cantidad u opción? → しかない. ¿El hablante quiere minimizar o desestimar X? → に過ぎない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "これは私の個人的な意見",
+          "respuesta": "に過ぎない",
+          "despues": "。",
+          "equivalentes": [
+            "にすぎない",
+            "にすぎません"
+          ],
+          "es": "Esto no es más que mi opinión personal.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「意見」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「意見」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「意見」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "これはわたしのこじんてきないけん",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "彼の発言はただの冗談",
+          "respuesta": "に過ぎない",
+          "despues": "のに、彼女は本気で怒ってしまった。",
+          "equivalentes": [
+            "にすぎない"
+          ],
+          "es": "Sus palabras no eran más que una broma, pero ella se enfadó de verdad.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。名詞「冗談」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「冗談」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「冗談」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "かれのはつげんはただのじょうだん",
+          "lecturaDespues": "のに、かのじょはほんきでおこってしまった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼は",
+          "fragmentos": [
+            "ただの",
+            "一社員",
+            "に過ぎない",
+            "のだ"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 3,
+          "oracion": "彼はただの一社員に過ぎないのだ。",
+          "es": "Él no es más que un simple empleado.",
+          "explicacion": "ただの + N + に過ぎない: resalta que él es exactamente eso y nada más, un simple empleado.",
+          "lecturaOracion": "かれはただのいちしゃいんにすぎないのだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-185",
-      "rev": 4,
+      "rev": 5,
       "teoria": {
         "estructura": "V辞書形／Nの ＋ 恐れがある",
         "antecede": "V辞書形 o un sustantivo con の (洪水の恐れ) que designa un resultado negativo que podría ocurrir. Registro formal.",
@@ -8345,7 +8784,92 @@
           "texto": "恐れがある advierte de que existe una posibilidad real de un resultado negativo; no afirma que ocurrirá. はずだ formula una expectativa lógica sobre algo que el hablante cree que debe ser o suceder; puede ser positivo o negativo.",
           "prueba": "¿Se advierte de un riesgo potencial negativo sin afirmar que ocurrirá? → 恐れがある. ¿Se formula una expectativa lógica de que algo debe ser cierto? → はずだ. ¿Registro de advertencia formal (anuncio, noticia)? → 恐れがある."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "このまま放置すると病気が悪化する",
+          "respuesta": "恐れがある",
+          "despues": "。",
+          "equivalentes": [
+            "おそれがある"
+          ],
+          "es": "Si se deja así, existe el riesgo de que la enfermedad empeore.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-る形「悪化する」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「悪化する」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「悪化する」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "このままほうちするとびょうきがあっかする",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "大雨で川が氾濫する",
+          "respuesta": "恐れがある",
+          "despues": "ため、すぐに避難してください。",
+          "equivalentes": [
+            "おそれがある"
+          ],
+          "es": "Dado el riesgo de que el río se desborde por las lluvias torrenciales, por favor evacúen de inmediato.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「氾濫する」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「氾濫する」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「氾濫する」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "おおあめでかわがはんらんする",
+          "lecturaDespues": "ため、すぐにひなんしてください。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "このまま",
+          "fragmentos": [
+            "続けると",
+            "健康を",
+            "損なう",
+            "恐れがある"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 4,
+          "oracion": "このまま続けると健康を損なう恐れがある。",
+          "es": "Si se continúa así, existe el riesgo de dañar la salud.",
+          "explicacion": "V-る + 恐れがある: la posibilidad negativa (dañar la salud) como consecuencia de continuar así.",
+          "lecturaOracion": "このままつづけるとけんこうをそこなうおそれがある。"
+        }
+      ]
     },
     {
       "idExterno": "seed-70",
@@ -12500,7 +13024,7 @@
     },
     {
       "idExterno": "seed-169",
-      "rev": 2,
+      "rev": 4,
       "teoria": {
         "estructura": "V[ます形語幹] ＋ 得る（うる・える）；V[ます形語幹] ＋ 得ない（えない）",
         "antecede": "Verbo en forma ます-stem que designa un evento o acción. 得る afirma que es lógicamente posible que V ocurra; 得ない niega esa posibilidad.",
@@ -12521,11 +13045,97 @@
           "texto": "得ない niega que V sea posible en un sentido lógico o factual; es una afirmación sobre la naturaleza del evento, en registro formal. ようがない declara que no existe ningún método o medio para realizar V voluntariamente; el foco es práctico.",
           "prueba": "¿Se niega que V sea factible o lógicamente posible? → 得ない. ¿No existe ningún método para hacer V? → ようがない. ¿Registro formal o escrito sobre posibilidad de eventos? → 得ない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "この年齢でそんなことを覚え",
+          "respuesta": "得ない",
+          "despues": "。",
+          "equivalentes": [
+            "えない",
+            "うる"
+          ],
+          "es": "No es posible memorizar algo asi a esta edad.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-ます形語幹「覚え」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ます形語幹「覚え」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「覚え」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "このねんれいでそんなことをおぼえ",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "そんな奇跡が起こり",
+          "respuesta": "得る",
+          "despues": "とは信じられなかった。",
+          "equivalentes": [
+            "うる"
+          ],
+          "es": "Era imposible creer que pudiera ocurrir un milagro semejante.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-ます形語幹「起こり」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ます形語幹「起こり」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「起こり」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "そんなきせきがおこり",
+          "lecturaDespues": "とはしんじられなかった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "そんな奇跡が",
+          "fragmentos": [
+            "起こり",
+            "得る",
+            "とは",
+            "思えなかった"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "そんな奇跡が起こり得るとは思えなかった。",
+          "es": "Era inconcebible que pudiera ocurrir un milagro semejante.",
+          "explicacion": "V-ます形 + 得る: expresa que algo es posible; とは marca contraste con la expectativa del hablante.",
+          "lecturaOracion": "そんなきせきがおこりえるとはおもえなかった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-176",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N／V[て形]／V辞書形 ＋ ばかり；V[た形] ＋ ばかり（'acabar de'）",
         "antecede": "Sustantivo, verbo en te-form o 辞書形 para exclusividad/exceso; verbo en た形 para 'recién acabar de'.",
@@ -12546,11 +13156,46 @@
           "texto": "ばかり expresa exclusividad (solo X) o reiteración (siempre X), o indica que la acción acaba de completarse (V[た]ばかり). V辞書形ばかりだ indica que una tendencia avanza de forma continua e irreversible.",
           "prueba": "¿Solo existe N o solo ocurre V con exceso, o la acción acaba de ocurrir? → ばかり. ¿La situación avanza de forma continua en una sola dirección? → V辞書形ばかりだ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼女は文句を言って",
+          "respuesta": "ばかりいる",
+          "despues": "。",
+          "equivalentes": [
+            "ばかり"
+          ],
+          "es": "No hace nada mas que quejarse.",
+          "distractores": [
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-て形「言って」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-て形「言って」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-て形「言って」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "かのじょはもんくをいって",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-178",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N ／V[た形] ＋ きり（で）；V[た形] ＋ きり ＋ V[ない]",
         "antecede": "Sustantivo o verbo en forma ta. Dos usos: (1) solo N y nada más (cantidad única); (2) desde que ocurrió V, no ha habido cambio.",
@@ -12571,11 +13216,98 @@
           "texto": "Vたきり expresa que desde que ocurrió V, el estado no ha cambiado (quedó así desde entonces). V[た]ところ describe el punto justo después de completar V; no implica permanencia sino inmediatez temporal.",
           "prueba": "¿El estado no ha cambiado desde que ocurrió V? → きり. ¿Se describe el instante justo después de completar V? → V[た]ところ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼は5年前に海外へ行った",
+          "respuesta": "きり",
+          "despues": "、連絡がない。",
+          "equivalentes": [
+            "きりで",
+            "きりだ"
+          ],
+          "es": "Desde que se fue al extranjero hace 5 anos, no hay noticias suyas.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「行った」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「行った」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「行った」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "かれは5ねんまえにかいがいへいった",
+          "lecturaDespues": "、れんらくがない。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "二人",
+          "respuesta": "きり",
+          "despues": "で話し合いたかった。",
+          "equivalentes": [
+            "きりで",
+            "きりだ"
+          ],
+          "es": "Queria hablar solos entre los dos.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。名詞「二人」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「二人」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「二人」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "ににん",
+          "lecturaDespues": "ではなしあいたかった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "あの件は",
+          "fragmentos": [
+            "一度聞いた",
+            "きり",
+            "話題に",
+            "なっていない"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "あの件は一度聞いたきり話題になっていない。",
+          "es": "Ese asunto lo escuche una sola vez y desde entonces no ha vuelto a salir.",
+          "explicacion": "V-た + きり: desde que se escucho una vez (V-た), no ha habido ningun cambio.",
+          "lecturaOracion": "あのけんはいちどきいたきりわだいになっていない。"
+        }
+      ]
     },
     {
       "idExterno": "seed-183",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "V／Adj／N ＋ とは限らない",
         "antecede": "Predicado en forma plana que expresa una regla, creencia o conclusión que el hablante niega como universalmente válida.",
@@ -12596,11 +13328,47 @@
           "texto": "とは限らない niega que la proposición sea universalmente cierta ('no siempre es así'); la negación es sobre la generalidad. わけではない niega la conclusión que el interlocutor podría extraer del contexto ('no quiere decir que'); la negación es sobre la inferencia.",
           "prueba": "¿Se niega que algo valga siempre o en todos los casos? → とは限らない. ¿Se niega una conclusión que el interlocutor podría sacar del contexto? → わけではない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "値段が高ければ品質がいい",
+          "respuesta": "とは限らない",
+          "despues": "。",
+          "equivalentes": [
+            "とはかぎらない",
+            "とは限りません"
+          ],
+          "es": "El hecho de que sea caro no significa necesariamente que sea de buena calidad.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。「いい」という形容詞の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。「いい」という形容詞の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。「いい」という形容詞の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "ねだんがたかければひんしつがいい",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-199",
-      "rev": 4,
+      "rev": 5,
       "teoria": {
         "estructura": "Vた ＋ ところ、…（結果・発見）",
         "antecede": "Vた: la acción que haces para probar o gestionar algo (聞いた, 調べた, 電話した, 開けた).",
@@ -12621,11 +13389,95 @@
           "texto": "Los dos narran algo que pasa después de una acción. たところ presenta lo que descubres o resulta tras hacer algo a propósito (llamar, preguntar, abrir). たとたん narra algo súbito e inesperado que ocurre justo al terminar la acción, sin que lo hayas buscado.",
           "prueba": "¿Hiciste algo para comprobarlo y cuentas el resultado (llamé → estaba agotado)? → たところ. ¿Pasó algo inesperado justo al terminar la acción (llegué → empezó a llover)? → たとたん."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "窓を開けた",
+          "respuesta": "ところ",
+          "despues": "、外から涼しい風が入ってきた。",
+          "equivalentes": [
+            "ところが",
+            "ところで"
+          ],
+          "es": "Cuando abrí la ventana, entró una brisa fresca del exterior.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「開けた」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「開けた」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「開けた」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "まどをあけた",
+          "lecturaDespues": "、そとからすずしいかぜがはいってきた。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "先生に相談した",
+          "respuesta": "ところ",
+          "despues": "、とても役に立つアドバイスをもらった。",
+          "equivalentes": [],
+          "es": "Cuando me consulté con el profesor, me dio un consejo muy útil.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「相談した」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「相談した」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「相談した」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "せんせいにそうだんした",
+          "lecturaDespues": "、とてもやくにたつあどばいすをもらった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "薬を",
+          "fragmentos": [
+            "飲んだ",
+            "ところ",
+            "体調が",
+            "よくなった"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "薬を飲んだところ体調がよくなった。",
+          "es": "Al tomar la medicina, me encontré mejor.",
+          "explicacion": "V-た + ところ: al tomar la medicina (V-た), se descubrió el resultado concreto: mejoría.",
+          "lecturaOracion": "くすりをのんだところたいちょうがよくなった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-202",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "V辞書形 ＋ ところだった；危うく ＋ V辞書形 ＋ ところだった",
         "antecede": "Verbo en forma plana que designa el evento que estuvo a punto de ocurrir pero no llegó a completarse. A menudo va precedido de 危うく o もう少しで.",
@@ -12646,7 +13498,88 @@
           "texto": "V辞書形ところだった indica que V casi ocurrió pero no llegó a completarse; hay un sentido de alivio o susto. V[た]ところ indica el momento justo después de haber completado V; V sí llegó a ocurrir.",
           "prueba": "¿V casi ocurrió pero no llegó a completarse? → V辞書形ところだった. ¿V se completó y algo ocurrió justo después? → V[た]ところ. ¿Hay alivio o susto ante algo que casi pasó? → ところだった."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "あと少しで試験に落ちる",
+          "respuesta": "ところだった",
+          "despues": "。",
+          "equivalentes": [],
+          "es": "Por poco suspendo el examen.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-る形「落ちる」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「落ちる」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「落ちる」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "あとすこしでしけんにおちる",
+          "lecturaDespues": "。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "財布を忘れる",
+          "respuesta": "ところだった",
+          "despues": "が、間一髪で気づいた。",
+          "equivalentes": [],
+          "es": "Casi me olvido la cartera, pero lo noté por los pelos.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「忘れる」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「忘れる」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「忘れる」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "さいふをわすれる",
+          "lecturaDespues": "が、かんいっぱつできづいた。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "もう少しで",
+          "fragmentos": [
+            "車に",
+            "ひかれる",
+            "ところだった",
+            "と気づいた"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 3,
+          "oracion": "もう少しで車にひかれるところだったと気づいた。",
+          "es": "Me di cuenta de que por poco me atropellaba un coche.",
+          "explicacion": "V-る + ところだった: la situación casi ocurrió (ser atropellado) pero no llegó a suceder.",
+          "lecturaOracion": "もうすこしでくるまにひかれるところだったときづいた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-129",
@@ -14093,7 +15026,7 @@
     },
     {
       "idExterno": "seed-166",
-      "rev": 6,
+      "rev": 7,
       "teoria": {
         "estructura": "V[て形]＋いただけるとありがたいんですが",
         "antecede": "Verbo en forma て que describe la acción del interlocutor que el hablante desea sin querer imponer.",
@@ -14114,11 +15047,46 @@
           "texto": "いただけるとありがたい es la forma más indirecta: el hablante no pide, solo declara que sería beneficioso. てもらってもいいですか es más directo; pregunta abiertamente por el permiso.",
           "prueba": "¿Quieres la máxima indirección, expresando un deseo (ご確認いただけるとありがたいんですが)? → いただけるとありがたい. ¿Haces una pregunta directa de permiso (確認してもらってもいいですか)? → てもらってもいいですか."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "書類に記入し",
+          "respuesta": "てもらえるとありがたいんですが",
+          "despues": "。",
+          "equivalentes": [
+            "ていただけるとありがたいんですが"
+          ],
+          "es": "Me resultaria de gran ayuda si pudiera rellenar el documento.",
+          "distractores": [
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-連用形「し」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-連用形「し」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-連用形「し」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "しょるいにきにゅうし",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-182",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "N ＋ に限らず",
         "antecede": "Sustantivo que nombra un caso o grupo que podría tomarse como el único relevante, pero que el hablante amplía.",
@@ -14139,11 +15107,96 @@
           "texto": "に限らず niega una restricción implícita y amplía el alcance (no solo X, también Y y Z). のみならず es un conector aditivo formal que añade un segundo elemento en registro académico o periodístico.",
           "prueba": "¿Amplías el alcance más allá de un caso concreto, sin tono especial (日本に限らず)? → に限らず. ¿Lo haces en tono formal o escrito (日本のみならず)? → のみならず."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "外国人",
+          "respuesta": "に限らず",
+          "despues": "、日本人もこの問題を知らない人が多い。",
+          "equivalentes": [
+            "にかぎらず"
+          ],
+          "es": "No solo los extranjeros, también hay muchos japoneses que no conocen este problema.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「外国人」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「外国人」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「外国人」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "がいこくじん",
+          "lecturaDespues": "、にっぽんじんもこのもんだいをしらないひとがおおい。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "今日",
+          "respuesta": "に限らず",
+          "despues": "、毎日体を動かす習慣をつけたい。",
+          "equivalentes": [
+            "にかぎらず"
+          ],
+          "es": "No solo hoy, sino que quiero acostumbrarme a mover el cuerpo todos los días.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「今日」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「今日」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「今日」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "きょう",
+          "lecturaDespues": "、まいにちたいをうごかすしゅうかんをつけたい。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "子ども",
+          "fragmentos": [
+            "に限らず",
+            "大人も",
+            "楽しめる",
+            "映画だ"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 1,
+          "oracion": "子どもに限らず大人も楽しめる映画だ。",
+          "es": "Es una película que pueden disfrutar tanto niños como adultos.",
+          "explicacion": "N + に限らず: no solo los niños (N), sino también los adultos pueden disfrutar la película.",
+          "lecturaOracion": "こどもにかぎらずおとなもたのしめるえいがだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-197",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "V[た形]＋かと思うと／かと思ったら",
         "antecede": "Cláusula en forma た que describe el primer evento, apenas completado y ya seguido del segundo.",
@@ -14164,11 +15217,96 @@
           "texto": "かと思うと evoca la mente del observador que capta el cambio súbito; el segundo evento es inesperado o sorpresivo. とたん marca el instante exacto de la transición con énfasis en la inmediatez temporal.",
           "prueba": "¿El hablante expresa sorpresa ante el cambio rápido? → かと思うと. ¿El foco está en la inmediatez temporal del segundo evento? → とたん."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "雨が降った",
+          "respuesta": "かと思うと",
+          "despues": "、すぐに晴れた。",
+          "equivalentes": [
+            "かと思ったら"
+          ],
+          "es": "Justo cuando pensaba que empezaba a llover, paró enseguida.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「降った」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「降った」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「降った」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "あめがふった",
+          "lecturaDespues": "、すぐにはれた。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "子どもが泣いた",
+          "respuesta": "かと思ったら",
+          "despues": "、急に笑い出した。",
+          "equivalentes": [
+            "かと思うと"
+          ],
+          "es": "Justo cuando el niño lloraba, de repente se puso a reír.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「泣いた」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「泣いた」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「泣いた」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "こどもがないた",
+          "lecturaDespues": "、きゅうにわらいだした。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "電話が",
+          "fragmentos": [
+            "鳴ったかと",
+            "思ったら",
+            "すぐに",
+            "止まった"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "電話が鳴ったかと思ったらすぐに止まった。",
+          "es": "Justo cuando pensé que el teléfono sonaba, paró de repente.",
+          "explicacion": "V-た + かと思ったら: la acción (sonar) ocurre y casi al instante se da el resultado inesperado (parar).",
+          "lecturaOracion": "でんわがなったかとおもったらすぐにとまった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-198",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "V[た形]＋とたん（に）",
         "antecede": "Verbo en forma た que describe el primer evento justo completado; la forma た implica que quedó concluido.",
@@ -14189,11 +15327,98 @@
           "texto": "とたん marca que el segundo evento ocurrió en el momento exacto de la transición; el foco es la inmediatez. かと思うと añade la perspectiva sorprendida del observador que apenas registra el primero cuando llega el segundo.",
           "prueba": "¿El foco está en la inmediatez temporal del segundo evento? → とたん. ¿Se expresa sorpresa o contrariedad del observador? → かと思うと."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "外に出た",
+          "respuesta": "とたん",
+          "despues": "に、雨が降り出した。",
+          "equivalentes": [
+            "とたんに",
+            "途端"
+          ],
+          "es": "Justo en el momento en que salí afuera, empezó a llover.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「出た」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「出た」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「出た」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "そとにでた",
+          "lecturaDespues": "に、あめがふりだした。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "横になった",
+          "respuesta": "とたん",
+          "despues": "に、そのまま眠ってしまった。",
+          "equivalentes": [
+            "とたんに",
+            "途端"
+          ],
+          "es": "En el momento en que me eché, me quedé dormido.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「横になった」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「横になった」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「横になった」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "よこになった",
+          "lecturaDespues": "に、そのままねむってしまった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "彼女の顔を",
+          "fragmentos": [
+            "見た",
+            "とたんに",
+            "言葉が",
+            "出なくなった"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "彼女の顔を見たとたんに言葉が出なくなった。",
+          "es": "En el instante en que vi su cara, me quedé sin palabras.",
+          "explicacion": "V-た + とたんに: al verla (V-た), de forma inmediata e involuntaria, las palabras dejaron de salir.",
+          "lecturaOracion": "かのじょのかおをみたとたんにことばがでなくなった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-201",
-      "rev": 6,
+      "rev": 7,
       "teoria": {
         "estructura": "V[た形] ＋ かと思えば",
         "antecede": "Verbo en forma た que describe el primer estado o evento observado.",
@@ -14214,11 +15439,98 @@
           "texto": "かと思えば destaca el contraste entre dos estados opuestos y suele implicar ironía o incredulidad. かと思うと enfatiza la rapidez del cambio y la sorpresa del observador, sin necesidad de contradicción entre los dos eventos.",
           "prueba": "¿Los dos eventos se contradicen o son opuestos? → かと思えば. ¿El énfasis está en la rapidez del cambio? → かと思うと."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "やっと子どもが寝た",
+          "respuesta": "かと思えば",
+          "despues": "、また泣き出した。",
+          "equivalentes": [
+            "かと思うと",
+            "かと思ったら"
+          ],
+          "es": "Justo cuando pensaba que el niño por fin se había dormido, volvió a llorar.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-た形「寝た」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「寝た」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「寝た」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "やっとこどもがねた",
+          "lecturaDespues": "、またなきだした。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "天気がよくなった",
+          "respuesta": "かと思えば",
+          "despues": "、また曇ってきた。",
+          "equivalentes": [
+            "かと思うと",
+            "かと思ったら"
+          ],
+          "es": "Justo cuando parecía que el tiempo mejoraba, volvió a nublarse.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「よくなった」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「よくなった」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「よくなった」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "てんきがよくなった",
+          "lecturaDespues": "、またくもってきた。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "弟は",
+          "fragmentos": [
+            "泣いたかと",
+            "思えば",
+            "今度は",
+            "笑い出した"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "弟は泣いたかと思えば今度は笑い出した。",
+          "es": "Justo cuando parecía que mi hermano lloraba, esta vez se puso a reír.",
+          "explicacion": "V-た + かと思えば: la acción (llorar) apenas se percibe cuando ya ocurre su contrario (reír).",
+          "lecturaOracion": "おとうとはないたかとおもえばこんどはわらいだした。"
+        }
+      ]
     },
     {
       "idExterno": "seed-161",
-      "rev": 7,
+      "rev": 8,
       "teoria": {
         "estructura": "お＋V[ます形語幹]＋いただく／くださる；ご＋N（漢語）＋いただく／くださる",
         "antecede": "Normalmente el interlocutor como tema o un sujeto omitido (お客様は, 先生は).",
@@ -14239,11 +15551,47 @@
           "texto": "お/ご…いただく describe la recepción de la acción o la solicita de forma directa. お/ご…いただけませんか la solicita de forma más indirecta e interrogativa, dando mayor margen de negativa.",
           "prueba": "¿Se solicita directamente o se agradece la recepción de la acción? → いただく. ¿Se hace una petición indirecta dejando margen de negativa? → いただけませんか."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "荷物をお持ち",
+          "respuesta": "いただけますか",
+          "despues": "。",
+          "equivalentes": [
+            "くださいますか",
+            "いただけますでしょうか"
+          ],
+          "es": "¿Podria llevar el equipaje?",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の文末表現。V-ます形語幹「お持ち」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-ます形語幹「お持ち」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「お持ち」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "にもつをおもち",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-162",
-      "rev": 9,
+      "rev": 10,
       "teoria": {
         "estructura": "お＋V[ます形語幹]＋です；ご＋N（漢語）＋です",
         "antecede": "Normalmente un tema o sujeto referido al interlocutor (今日は, 先生は).",
@@ -14264,11 +15612,47 @@
           "texto": "お/ご…です describe respetuosamente la acción o estado de otra persona, sin implicar beneficio para el hablante. お/ご…いただく・くださる describe la recepción de esa acción como un beneficio para el hablante.",
           "prueba": "¿Solo se describe la situación del interlocutor con respeto? → お/ご…です. ¿El hablante recibe o agradece la acción? → いただく・くださる."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "もうお帰り",
+          "respuesta": "ですか",
+          "despues": "。",
+          "equivalentes": [
+            "です",
+            "でしょうか"
+          ],
+          "es": "¿Se va a casa ya?",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の文末表現。V-ます形語幹「お帰り」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-ます形語幹「お帰り」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-ます形語幹「お帰り」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "もうおかえり",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-163",
-      "rev": 8,
+      "rev": 9,
       "teoria": {
         "estructura": "お＋V[ます形語幹]＋いただけませんか；ご＋N（漢語）＋いただけませんか",
         "antecede": "Raíz verbal 和語 (→ お+raíz) o sustantivo verbal 漢語 (→ ご+N). Nota: ご確認 (no お確認), ご連絡 (no お連絡 en formal).",
@@ -14289,11 +15673,47 @@
           "texto": "いただけませんか usa la forma humilde いただく; el hablante se posiciona como receptor de un favor. 願えませんか usa 願う (desear/pedir); el énfasis está en el deseo del hablante de que ocurra la acción.",
           "prueba": "¿El hablante se posiciona como receptor de la acción? → いただけませんか. ¿El hablante expresa su deseo de que ocurra la acción? → 願えませんか."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "こちらの資料をご覧",
+          "respuesta": "いただけませんか",
+          "despues": "。",
+          "equivalentes": [
+            "いただけますでしょうか",
+            "くださいませんか"
+          ],
+          "es": "¿Podria echar un vistazo a este material?",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の文末表現。「ご覧」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。「ご覧」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。「ご覧」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "こちらのしりょうをごらん",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-164",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "お＋V[ます形語幹]＋願えませんか；ご＋N（漢語）＋願えませんか",
         "antecede": "Verbo o sustantivo que expresa la acción deseada; お precede verbos 和語, ご precede sustantivos 漢語.",
@@ -14314,11 +15734,47 @@
           "texto": "願えませんか usa 願う para expresar el deseo del hablante de que ocurra la acción; el foco está en su petición. いただけませんか usa いただく, posicionando al hablante como receptor que pide un favor.",
           "prueba": "¿El foco está en el deseo del hablante de que algo ocurra? → 願えませんか. ¿El hablante se posiciona como receptor de un favor? → いただけませんか. ¿Puede sustituirse por 'me gustaría pedirle que'? → 願えませんか."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "ご協力",
+          "respuesta": "願えませんか",
+          "despues": "。",
+          "equivalentes": [
+            "お願いできませんか",
+            "願えますか"
+          ],
+          "es": "¿Le importaria cooperar?",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「ご協力」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「ご協力」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「ご協力」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "ごきょうりょく",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-165",
-      "rev": 8,
+      "rev": 9,
       "teoria": {
         "estructura": "お＋V[ます形語幹]＋申し上げる；ご＋N（漢語）＋申し上げる",
         "antecede": "Raíz verbal 和語 (→ お+raíz) o sustantivo verbal 漢語 (→ ご+N). Excepciones convencionales: お礼, お電話 (漢語 con お por fijación léxica).",
@@ -14339,11 +15795,46 @@
           "texto": "お/ご…申し上げる es la forma humilde del hablante que describe su propia acción hacia arriba. お/ご…いただく・くださる describe la recepción de la acción de otra persona; el beneficio va hacia el hablante.",
           "prueba": "¿El hablante describe su propia acción de forma humilde? → 申し上げる. ¿El hablante recibe o agradece la acción de otro? → いただく・くださる."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "皆様にご報告",
+          "respuesta": "申し上げます",
+          "despues": "。",
+          "equivalentes": [
+            "申し上げる"
+          ],
+          "es": "Tengo el honor de comunicarles a todos.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。「ご報告」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。「ご報告」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。「ご報告」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "みなさまにごほうこく",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-167",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "V[て形]＋済む；N＋で済む",
         "antecede": "Verbo en forma て-form (て) o sustantivo verbal + で.",
@@ -14364,11 +15855,47 @@
           "texto": "て済む indica que con X es suficiente para resolver la situación. ずにすむ indica que se logra evitar una acción que podría haberse requerido; el énfasis está en el alivio de no tener que hacerla.",
           "prueba": "¿Se afirma que X basta o no basta para resolver algo? → て済む. ¿El hablante evita una acción y siente alivio? → ずにすむ. ¿Hay alivio por haber evitado algo? → ずにすむ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "この程度の汚れなら水で洗って",
+          "respuesta": "済む",
+          "despues": "。",
+          "equivalentes": [
+            "すむ",
+            "済んだ"
+          ],
+          "es": "Con una suciedad de ese nivel, basta con lavarlo con agua.",
+          "distractores": [
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-て形「洗って」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-て形「洗って」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-て形「洗って」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "このていどのよごれならみずであらって",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-168",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V[ない形語幹]＋ずにすむ（する→せずにすむ）；V[ない形]＋ですむ（行かないですむ）；V[なく]＋てすむ（行かなくてすむ）",
         "antecede": "Verbo que describe la acción negativa que el hablante logra evitar; connota que esa acción habría sido necesaria o problemática.",
@@ -14389,11 +15916,47 @@
           "texto": "ずにすむ indica que se evita una acción que podría haberse requerido; hay alivio por no tener que hacerla. て済む indica que con X es suficiente para resolver algo; puede ser positivo ('basta con') o negativo ('no basta con').",
           "prueba": "¿El hablante evita una acción y siente alivio? → ずにすむ. ¿Se afirma que algo basta o no basta para resolver una situación? → て済む."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "友人のおかげで、自分では調べ",
+          "respuesta": "ずにすんだ",
+          "despues": "。",
+          "equivalentes": [
+            "ないですむ",
+            "なくてすむ"
+          ],
+          "es": "Gracias a mi amigo, me ahorre el trabajo de investigarlo yo mismo.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-ない語幹「調べ」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ない語幹「調べ」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ない語幹「調べ」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "ゆうじんのおかげで、じぶんではしらべ",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-170",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "N（目的）＋をかねて",
         "antecede": "Sustantivo que nombra un propósito secundario o adicional que se cumple junto con el principal en la misma acción.",
@@ -14413,11 +15976,46 @@
           "texto": "Los dos describen una acción que sirve para algo más. をかねて dice que la acción se hace con un doble propósito desde el principio (散歩をかねて買い物に行った). ついでに dice que aprovechas una acción para hacer otra cosa de paso, sin que fuera el propósito principal.",
           "prueba": "¿Buscas dos propósitos desde el inicio (散歩をかねて)? → をかねて. ¿Aprovechas la ocasión para hacer algo más de paso (買い物に行くついでに)? → ついでに."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "散歩",
+          "respuesta": "をかねて",
+          "despues": "、買い物に出かけた。",
+          "equivalentes": [
+            "を兼ねて"
+          ],
+          "es": "Salimos de compras aprovechando el paseo.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「散歩」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「散歩」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「散歩」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "さんぽ",
+          "lecturaDespues": "、かいものにでかけた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-172",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N ＋ から言うと／から言えば／から言って",
         "antecede": "Sustantivo que nombra el criterio, perspectiva o dominio desde el que el hablante emite su juicio.",
@@ -14438,11 +16036,47 @@
           "texto": "から言うと enuncia el criterio o perspectiva desde la que el hablante emite un juicio; aclara el ángulo de evaluación. からして usa un ejemplo mínimo como evidencia para inferir el conjunto.",
           "prueba": "¿Se aclara la perspectiva o criterio desde el que se evalúa? → から言うと. ¿Se usa un detalle como indicio para concluir algo sobre el todo? → からして."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "長年の経験",
+          "respuesta": "から言えば",
+          "despues": "、このやり方は間違っている。",
+          "equivalentes": [
+            "から言うと",
+            "から言って"
+          ],
+          "es": "Desde el punto de vista de mis anos de experiencia, este metodo es incorrecto.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「経験」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「経験」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「経験」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "ながねんのけいけん",
+          "lecturaDespues": "、このやりかたはまちがっている。"
+        }
+      ]
     },
     {
       "idExterno": "seed-175",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V（plain）／Adj／N ＋ っけ；だっけ",
         "antecede": "Oración o proposición cuyo contenido el hablante intenta recordar o cuya exactitud quiere confirmar.",
@@ -14462,11 +16096,47 @@
           "texto": "Los dos son finales coloquiales que suavizan lo que dices. っけ busca confirmar algo que casi recuerdas (彼の名前、なんだっけ); んじゃない（か） propone una conjetura u opinión sobre algo presente (疲れてるんじゃない?).",
           "prueba": "¿Intentas recordar o confirmar un dato que ya conocías? → っけ. ¿Propones una conjetura sobre algo que ocurre ahora? → んじゃない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "明日の会議は何時から",
+          "respuesta": "だっけ",
+          "despues": "？",
+          "equivalentes": [
+            "っけ",
+            "でしたっけ"
+          ],
+          "es": "¿A que hora era la reunion de manana?",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。「何時から」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。「何時から」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。「何時から」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "あしたのかいぎはなんじから",
+          "lecturaDespues": "？"
+        }
+      ]
     },
     {
       "idExterno": "seed-179",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V辞書形／Vた／Vている ＋ 限り（では）；Nの ＋ 限りでは（私の知る限り, 見た限りでは）",
         "antecede": "Verbo o frase que describe el ámbito de conocimiento del hablante.",
@@ -14487,11 +16157,98 @@
           "texto": "限り delimita el alcance dentro del cual algo es válido; es una restricción del punto de vista del hablante. に限って destaca que algo ocurre precisamente en el caso de N, a menudo con tono irónico o de contrariedad.",
           "prueba": "¿Se restringe la validez de la afirmación a un ámbito conocido? → 限り. ¿Se señala que algo ocurre especial e irónicamente en el caso de N? → に限って. ¿Hay tono irónico? → に限って."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "私の知る",
+          "respuesta": "限り",
+          "despues": "、彼は正直な人だ。",
+          "equivalentes": [
+            "限りでは",
+            "限りにおいて"
+          ],
+          "es": "Hasta donde yo se, el es una persona honesta.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-る形「知る」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-る形「知る」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-る形「知る」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "わたしのしる",
+          "lecturaDespues": "、かれはしょうじきなひとだ。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "頑張ら",
+          "respuesta": "ない限り",
+          "despues": "、成功はできない。",
+          "equivalentes": [
+            "ない限りは",
+            "なければ"
+          ],
+          "es": "Si no te esfuerzas, no podras tener exito.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-ない語幹「頑張ら」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ない語幹「頑張ら」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ない語幹「頑張ら」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "がんばら",
+          "lecturaDespues": "、せいこうはできない。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "体力が",
+          "fragmentos": [
+            "続く",
+            "限り",
+            "山を",
+            "登り続ける"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "体力が続く限り山を登り続ける。",
+          "es": "Seguire escalando mientras me duren las fuerzas.",
+          "explicacion": "V-る + 限り: establece la condicion (seguir teniendo fuerzas) como limite dentro del cual se escala.",
+          "lecturaOracion": "たいりょくがつづくかぎりやまをのぼりつづける。"
+        }
+      ]
     },
     {
       "idExterno": "seed-180",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N ＋ に限って／に限り",
         "antecede": "Sustantivo que designa persona, grupo o situación donde algo inesperado ocurre (に限って) o que delimita el alcance de una regla (に限り).",
@@ -14512,11 +16269,96 @@
           "texto": "に限って destaca que algo ocurre de forma irónica o inconveniente justo en el caso de N; hay carga afectiva. 限り restringe la validez de la afirmación al ámbito de lo que el hablante conoce; es neutral y epistémico.",
           "prueba": "¿Algo ocurre de forma irónica o inconveniente en el caso de N? → に限って. ¿Se limita la validez de una afirmación al propio conocimiento? → 限り. ¿Hay tono de contrariedad? → に限って."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "大事な試合",
+          "respuesta": "に限って",
+          "despues": "、雨が降る。",
+          "equivalentes": [
+            "に限り"
+          ],
+          "es": "Justamente cuando hay un partido importante, llueve.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「大事な試合」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「大事な試合」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「大事な試合」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "だいじなしあい",
+          "lecturaDespues": "、あめがふる。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "会員",
+          "respuesta": "に限り",
+          "despues": "、割引が適用されます。",
+          "equivalentes": [
+            "に限って"
+          ],
+          "es": "El descuento es aplicable solo a los socios.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「会員」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「会員」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「会員」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "かいいん",
+          "lecturaDespues": "、わりびきがてきようされます。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "うちの子",
+          "fragmentos": [
+            "に限って",
+            "そんな",
+            "問題を",
+            "起こすはずがない"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 1,
+          "oracion": "うちの子に限ってそんな問題を起こすはずがない。",
+          "es": "Mi hijo es precisamente el ultimo que causaria un problema semejante.",
+          "explicacion": "N + に限って: el hablante resalta con frustracion que justo su hijo (N) seria incapaz de eso.",
+          "lecturaOracion": "うちのこにかぎってそんなもんだいをおこすはずがない。"
+        }
+      ]
     },
     {
       "idExterno": "seed-187",
-      "rev": 7,
+      "rev": 8,
       "teoria": {
         "estructura": "V[た形]／Nの ＋ 上で（secuencia）；V辞書形 ＋ 上で（contexto）",
         "antecede": "Verbo o sustantivo. Uso 1 (V[た]): acción previa completada. Uso 2 (V辞書形): acción o situación como marco en el que algo es relevante.",
@@ -14537,11 +16379,97 @@
           "texto": "上で indica que algo se hace después de X como paso previo necesario, sin enfatizar la imposibilidad de omitirlo. てからでないと declara explícitamente que Y no puede ocurrir a menos que X se complete primero.",
           "prueba": "¿Se indica que Y se hace tras completar X como paso previo? → 上で. ¿Se declara que Y es imposible si no se hace X primero? → てからでないと."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "書類をよく確認した",
+          "respuesta": "上で",
+          "despues": "、サインしてください。",
+          "equivalentes": [
+            "うえで",
+            "上でから"
+          ],
+          "es": "Después de revisar bien los documentos, firme por favor.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-た形「確認した」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「確認した」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「確認した」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "しょるいをよくかくにんした",
+          "lecturaDespues": "、さいんしてください。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "健康管理の",
+          "respuesta": "上で",
+          "despues": "、定期的な運動はとても重要だ。",
+          "equivalentes": [
+            "うえで"
+          ],
+          "es": "En el ámbito de la gestión de la salud, el ejercicio regular es muy importante.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「管理」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「管理」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「管理」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "けんこうかんりの",
+          "lecturaDespues": "、ていきてきなうんどうはとてもじゅうようだ。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "計画を",
+          "fragmentos": [
+            "立てた",
+            "上で",
+            "実行する",
+            "ことが大切だ"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "計画を立てた上で実行することが大切だ。",
+          "es": "Es importante actuar después de haber elaborado un plan.",
+          "explicacion": "V-た + 上で: primero se elabora el plan (V-た), y solo entonces se pasa a ejecutar.",
+          "lecturaOracion": "けいかくをたてたうえでじっこうすることがたいせつだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-188",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "V[て形]＋からでないと／からでなければ",
         "antecede": "Verbo en forma て que describe la acción que debe completarse obligatoriamente antes de que pueda ocurrir lo siguiente.",
@@ -14562,11 +16490,47 @@
           "texto": "てからでないと enfatiza que la segunda acción es imposible o inadecuada sin completar la primera; la negación es explícita. 上で indica simplemente que algo se hace tras completar un paso previo, sin énfasis en la imposibilidad.",
           "prueba": "¿La segunda acción es imposible sin completar la primera? → てからでないと. ¿La primera es solo un paso previo conveniente? → 上で. ¿Hay negación en la consecuencia? → てからでないと."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "薬は食事をとって",
+          "respuesta": "からでないと",
+          "despues": "、飲んではいけない。",
+          "equivalentes": [
+            "てからでなければ",
+            "からじゃないと"
+          ],
+          "es": "No debes tomar el medicamento si no comes primero.",
+          "distractores": [
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-て形「とって」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-て形「とって」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-て形「とって」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "くすりはしょくじをとって",
+          "lecturaDespues": "、のんではいけない。"
+        }
+      ]
     },
     {
       "idExterno": "seed-189",
-      "rev": 1,
+      "rev": 2,
       "teoria": {
         "estructura": "N ＋ を込めて／を込めた",
         "antecede": "Sustantivo abstracto (感謝、愛情、祈り…) que nombra la emoción o intención que el sujeto pone conscientemente en la acción.",
@@ -14587,11 +16551,46 @@
           "texto": "を込めて indica que la acción lleva una emoción o intención puesta por el propio sujeto; la iniciativa es interna. に応えて indica que la acción es una respuesta a una expectativa o petición ajena; la iniciativa viene de fuera.",
           "prueba": "¿El sujeto pone algo de sí mismo en el gesto de forma activa? → を込めて. ¿El sujeto responde a las expectativas o apoyo de terceros? → に応えて. ¿Hay alguien a quien se corresponde? → に応えて."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "感謝の気持ち",
+          "respuesta": "を込めて",
+          "despues": "、手紙を書いた。",
+          "equivalentes": [
+            "をこめて"
+          ],
+          "es": "Escribí una carta con toda mi gratitud.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「気持ち」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「気持ち」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「気持ち」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "かんしゃのきもち",
+          "lecturaDespues": "、てがみをかいた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-190",
-      "rev": 8,
+      "rev": 9,
       "teoria": {
         "estructura": "N＋の／Adj-い／V（plain）＋ うちに；V[ない形]＋ ないうちに",
         "antecede": "Sustantivo, adjetivo o verbo que describe el estado o periodo que el hablante aprovecha antes de que cambie.",
@@ -14612,11 +16611,46 @@
           "texto": "うちに connota urgencia; la acción debe ocurrir antes de que el estado cambie. 間に simplemente indica que la acción ocurre dentro de un periodo de tiempo, sin implicar urgencia ni cambio de estado inminente.",
           "prueba": "¿Se urge a actuar antes de que el estado cambie? → うちに. ¿Se indica el intervalo dentro del que ocurre algo, de forma neutral? → 間に."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "若い",
+          "respuesta": "うちに",
+          "despues": "、いろいろな経験をしておこう。",
+          "equivalentes": [
+            "うち"
+          ],
+          "es": "Mientras eres joven, acumula todo tipo de experiencias.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。形容詞「若い」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。形容詞「若い」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。形容詞「若い」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "わかい",
+          "lecturaDespues": "、いろいろなけいけんをしておこう。"
+        }
+      ]
     },
     {
       "idExterno": "seed-191",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "N（時間） ＋ 以来；V[て形]＋以来",
         "antecede": "Sustantivo temporal o verbo en forma て que marca el evento desde el cual se inicia y mantiene un nuevo estado.",
@@ -14637,11 +16671,96 @@
           "texto": "以来 marca el inicio de un estado continuo que llega hasta el presente; el evento pasado es el punto de partida. 間 delimita la duración de algo dentro de un periodo; no implica continuidad hasta el presente.",
           "prueba": "¿Se marca el comienzo de un estado que continúa hasta ahora? → 以来. ¿Se delimita la duración de algo dentro de un periodo? → 間. ¿Hay continuidad desde el pasado hasta el presente? → 以来."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "大学を卒業して",
+          "respuesta": "以来",
+          "despues": "、ずっと連絡が取れていない。",
+          "equivalentes": [
+            "いらい"
+          ],
+          "es": "Desde que me gradué de la universidad, no hemos podido contactarnos.",
+          "distractores": [
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-て形「卒業して」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-て形「卒業して」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものなら",
+              "tipo": "forma",
+              "porQueNo": "ものならはV-可能形接続。V-て形「卒業して」の直後には接続できない。",
+              "patronId": "seed-87"
+            }
+          ],
+          "lecturaAntes": "だいがくをそつぎょうして",
+          "lecturaDespues": "、ずっとれんらくがとれていない。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "あの事故",
+          "respuesta": "以来",
+          "despues": "、車に乗るのが怖くなった。",
+          "equivalentes": [
+            "いらい"
+          ],
+          "es": "Desde aquel accidente, me da miedo subirme a un coche.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「事故」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「事故」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「事故」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "あのじこ",
+          "lecturaDespues": "、くるまにのるのがこわくなった。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "日本に",
+          "fragmentos": [
+            "来て",
+            "以来",
+            "日本語の",
+            "勉強を続けている"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "日本に来て以来日本語の勉強を続けている。",
+          "es": "Desde que llegué a Japón, he seguido estudiando japonés sin parar.",
+          "explicacion": "V-て + 以来: marca el punto de partida (llegar a Japón) desde el cual la situación continúa sin cambios.",
+          "lecturaOracion": "にっぽんにきていらいにほんごのべんきょうをつづけている。"
+        }
+      ]
     },
     {
       "idExterno": "seed-192",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N（の）／V[辞書形／ている形] ＋ 間（あいだ）（に）",
         "antecede": "Sustantivo o verbo que delimita el periodo durante el que ocurre o debe ocurrir la acción de la cláusula principal.",
@@ -14662,11 +16781,47 @@
           "texto": "間に delimita de forma neutral el periodo dentro del que algo ocurre. うちに implica que hay un estado favorable que puede cambiar; la acción debe hacerse antes de que ese estado se acabe.",
           "prueba": "¿Se delimita el marco temporal de forma neutral? → 間に. ¿Se implica urgencia por un estado que puede cambiar? → うちに."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "夏休みの",
+          "respuesta": "間に",
+          "despues": "、日本語を集中的に勉強した。",
+          "equivalentes": [
+            "あいだに",
+            "間"
+          ],
+          "es": "Durante las vacaciones de verano, estudié japonés intensivamente.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「夏休み」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「夏休み」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「夏休み」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "なつやすみの",
+          "lecturaDespues": "、にほんごをしゅうちゅうてきにべんきょうした。"
+        }
+      ]
     },
     {
       "idExterno": "seed-193",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V[ない形語幹]＋ずに；する→せずに",
         "antecede": "Verbo en la base ない que describe la acción que el sujeto omite o no realiza al ejecutar la acción principal.",
@@ -14687,11 +16842,47 @@
           "texto": "Los dos dicen «sin». ずに va con un verbo (傘を持たずに出かけた); N抜きで va con un sustantivo (朝食抜きで出かけた).",
           "prueba": "¿Lo que omites es una acción (verbo)? → ずに. ¿Lo que omites es un sustantivo (朝食抜きで)? → 抜きで."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "財布を持た",
+          "respuesta": "ずに",
+          "despues": "、家を出てしまった。",
+          "equivalentes": [
+            "ずして",
+            "ないで"
+          ],
+          "es": "Salí de casa sin llevar la cartera.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-ない語幹「持た」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ない語幹「持た」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ない語幹「持た」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "さいふをもた",
+          "lecturaDespues": "、いえをでてしまった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-194",
-      "rev": 4,
+      "rev": 5,
       "teoria": {
         "estructura": "V（plain）／Adj-い（plain）／Adj-な（＋な）＋ ことに（は）",
         "antecede": "La emoción o el juicio del hablante, como adjetivo o verbo: 残念な, 驚いた, 嬉しい, 不思議な. Va antes del hecho.",
@@ -14712,11 +16903,46 @@
           "texto": "ことに antepone la evaluación emocional del hablante al hecho; la emoción es la perspectiva desde la que se presenta. あまり explica que el resultado ocurrió porque una emoción se desbordó; la emoción es la causa.",
           "prueba": "¿Se antepone la valoración emocional del hablante al hecho? → ことに. ¿El resultado ocurrió porque una emoción fue excesiva? → あまり. ¿La emoción es causa o contexto del hecho? → causa=あまり, contexto=ことに."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "驚いた",
+          "respuesta": "ことに",
+          "despues": "、彼がそこにいた。",
+          "equivalentes": [
+            "ことには"
+          ],
+          "es": "Para sorpresa mía, él estaba allí.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「驚いた」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「驚いた」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「驚いた」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "おどろいた",
+          "lecturaDespues": "、かれがそこにいた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-195",
-      "rev": 6,
+      "rev": 7,
       "teoria": {
         "estructura": "V[ます形語幹]＋次第；N＋次第だ；N＋次第では",
         "antecede": "Raíz ます de un verbo (次第 = «en cuanto»), o un sustantivo (N次第だ／N次第では = «depende de N»).",
@@ -14737,11 +16963,96 @@
           "texto": "V＋次第 es prospectivo: anuncia que la acción principal ocurrirá tan pronto como X esté hecho. とたん es retrospectivo: describe que algo ocurrió de inmediato justo cuando X concluyó.",
           "prueba": "¿Se anuncia lo que ocurrirá tan pronto como algo se complete? → 次第. ¿Se describe lo que ocurrió de inmediato al concluirse algo? → とたん."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "詳細が分かり",
+          "respuesta": "次第",
+          "despues": "、ご連絡いたします。",
+          "equivalentes": [
+            "しだい"
+          ],
+          "es": "Tan pronto como sepamos los detalles, nos pondremos en contacto.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-ます形語幹「分かり」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ます形語幹「分かり」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「分かり」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "しょうさいがわかり",
+          "lecturaDespues": "、ごれんらくいたします。"
+        },
+        {
+          "id": "bh2",
+          "tipo": "hueco",
+          "antes": "準備でき",
+          "respuesta": "次第",
+          "despues": "、出発しましょう。",
+          "equivalentes": [
+            "しだい"
+          ],
+          "es": "En cuanto estemos listos, partamos.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-ます形語幹「でき」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ます形語幹「でき」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「でき」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "じゅんびでき",
+          "lecturaDespues": "、しゅっぱつしましょう。"
+        },
+        {
+          "id": "bo1",
+          "tipo": "orden_estrella",
+          "prefijo": "連絡が",
+          "fragmentos": [
+            "取れ",
+            "次第",
+            "報告を",
+            "提出します"
+          ],
+          "sufijo": "。",
+          "posicionEstrella": 2,
+          "oracion": "連絡が取れ次第報告を提出します。",
+          "es": "Tan pronto como logre comunicarme, presentaré el informe.",
+          "explicacion": "V-ます形 + 次第: en cuanto se establezca el contacto (V-ます), se presentará el informe de inmediato.",
+          "lecturaOracion": "れんらくがとれしだいほうこくをていしゅつします。"
+        }
+      ]
     },
     {
       "idExterno": "seed-196",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "V（plain）／N ＋ かと思った",
         "antecede": "Una cláusula en forma plana o un sustantivo: lo que creíste o sospechaste (終わったか, 誰か, 地震か).",
@@ -14761,11 +17072,44 @@
           "texto": "Los dos usan «pensar», pero hacen cosas distintas. かと思った cuenta lo que tú creíste o sospechaste. かと思うと／かと思ったら cuentan un cambio rápido entre dos estados que observas, casi siempre en otra persona.",
           "prueba": "¿Cuentas lo que creíste en ese momento (地震かと思った)? → かと思った. ¿Describes un cambio rápido entre dos estados (泣いたかと思うと笑った)? → かと思うと／かと思ったら."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "もう間に合わない",
+          "respuesta": "かと思った",
+          "despues": "が、なんとか間に合った。",
+          "equivalentes": [],
+          "es": "Pensé que ya no llegaría a tiempo, pero de algún modo lo conseguí.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。「間に合わない」という否定形の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。「間に合わない」という否定形の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続の衝動表現。「間に合わない」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "もうまにあわない",
+          "lecturaDespues": "が、なんとかまにあった。"
+        }
+      ]
     },
     {
       "idExterno": "seed-200",
-      "rev": 7,
+      "rev": 8,
       "teoria": {
         "estructura": "V[た形] ＋ ところが（resultado inesperado）",
         "antecede": "Verbo en forma た que describe la situación o acción de la que se esperaba un resultado congruente.",
@@ -14786,11 +17130,44 @@
           "texto": "V[た]ところが describe el resultado inesperado descubierto al realizar V, contrario a lo esperado. かと思った expresa la creencia o expectativa que el hablante tenía antes de descubrir el resultado real.",
           "prueba": "¿Se describe el resultado inesperado descubierto al hacer V? → V[た]ところが. ¿Se expresa la expectativa previa que resultó incorrecta? → かと思った."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "急いで駅に向かった",
+          "respuesta": "ところが",
+          "despues": "、電車はすでに出てしまっていた。",
+          "equivalentes": [],
+          "es": "Me apresuré a la estación, pero el tren ya había salido.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。V-た形「向かった」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「向かった」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「向かった」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "いそいでえきにむかった",
+          "lecturaDespues": "、でんしゃはすでにでてしまっていた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-203",
-      "rev": 5,
+      "rev": 6,
       "teoria": {
         "estructura": "V[ます形語幹]／N ＋ 気味（ぎみ）",
         "antecede": "Raíz ます形 (連用形) del verbo o sustantivo.",
@@ -14811,11 +17188,47 @@
           "texto": "気味 señala una tendencia ligera o incipiente que el hablante percibe; puede ser temporal. がちだ indica una propensión habitual y repetida; connota que el sujeto suele caer en esa conducta con frecuencia.",
           "prueba": "¿Es una tendencia leve o incipiente, posiblemente temporal? → 気味. ¿Es una propensión habitual y repetida? → がちだ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "最近少し風邪",
+          "respuesta": "気味だ",
+          "despues": "。",
+          "equivalentes": [
+            "ぎみだ",
+            "気味"
+          ],
+          "es": "Últimamente parece que me estoy resfriando un poco.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「風邪」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。名詞「風邪」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「風邪」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "さいきんすこしかぜ",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-204",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "V[ます形語幹]／N ＋ がちだ／がちな／がちに",
         "antecede": "Verbo en forma 連用形 (ます語幹) o sustantivo que describe la conducta hacia la que el sujeto tiende de forma habitual.",
@@ -14836,11 +17249,46 @@
           "texto": "がちだ indica una propensión habitual y repetida, a menudo negativa; el sujeto suele caer en esa conducta. 気味 señala una tendencia leve o incipiente que el hablante percibe; puede ser temporal y no implica habitualidad.",
           "prueba": "¿La conducta se repite de forma sistemática y habitual? → がちだ. ¿Es una tendencia leve o reciente que el hablante nota? → 気味. ¿Hay sensación de que se debería corregir el hábito? → がちだ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼は体が弱く、病気になり",
+          "respuesta": "がちだ",
+          "despues": "。",
+          "equivalentes": [
+            "がちな"
+          ],
+          "es": "Él tiene poca salud y tiende a ponerse enfermo.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-ます形語幹「なり」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-ます形語幹「なり」の直後には接続できない。",
+              "patronId": "seed-80"
+            },
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続。V-ます形語幹「なり」の直後には接続できない。",
+              "patronId": "seed-77"
+            }
+          ],
+          "lecturaAntes": "かれはからだがよわく、びょうきになり",
+          "lecturaDespues": "。"
+        }
+      ]
     },
     {
       "idExterno": "seed-205",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "V（plain）＋甲斐（かい）がある／ない；N（の）＋甲斐がある／ない",
         "antecede": "Verbo o sustantivo que describe la acción o esfuerzo del que se evalúa si produjo un resultado satisfactorio.",
@@ -14861,11 +17309,47 @@
           "texto": "甲斐がある evalúa retrospectivamente si el esfuerzo produjo un resultado que lo justificara. に応えて describe una acción realizada como respuesta activa a las expectativas o peticiones de otro.",
           "prueba": "¿Se evalúa si el esfuerzo valió la pena por el resultado obtenido? → 甲斐がある. ¿Se actúa en respuesta a las expectativas o peticiones de otros? → に応えて."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "毎日練習した",
+          "respuesta": "甲斐があって",
+          "despues": "、大会で優勝できた。",
+          "equivalentes": [
+            "かいがあって",
+            "甲斐があり"
+          ],
+          "es": "Todo el esfuerzo de practicar a diario tuvo su recompensa: ganamos el campeonato.",
+          "distractores": [
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。V-た形「練習した」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。V-た形「練習した」の直後には接続できない。",
+              "patronId": "seed-72"
+            },
+            {
+              "forma": "もかまわず",
+              "tipo": "forma",
+              "porQueNo": "もかまわずは名詞接続の表現。V-た形「練習した」の直後には接続できない。",
+              "patronId": "seed-80"
+            }
+          ],
+          "lecturaAntes": "まいにちれんしゅうした",
+          "lecturaDespues": "、たいかいでゆうしょうできた。"
+        }
+      ]
     },
     {
       "idExterno": "seed-206",
-      "rev": 3,
+      "rev": 4,
       "teoria": {
         "estructura": "N ＋ こそ；V[て形]＋こそ（condición enfática）；N＋からこそ（causa enfática）",
         "antecede": "Sustantivo, predicado o elemento que el hablante identifica como el factor clave, correcto o definitivo de la oración.",
@@ -14886,11 +17370,44 @@
           "texto": "こそ identifica el elemento marcado como el factor decisivo o el caso paradigmático; el énfasis es afirmativo y definitorio. さえ extiende el enunciado al caso extremo o inesperado; connota 'incluso X' o 'basta con X'.",
           "prueba": "¿Se identifica el elemento como el factor clave o decisivo? → こそ. ¿Se extiende a un caso extremo o inesperado? → さえ. ¿El énfasis es 'precisamente este'? → こそ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "今",
+          "respuesta": "こそ",
+          "despues": "、頑張らなければならない。",
+          "equivalentes": [],
+          "es": "Es precisamente ahora cuando hay que esforzarse.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「今」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。名詞「今」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「今」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "いま",
+          "lecturaDespues": "、がんばらなければならない。"
+        }
+      ]
     },
     {
       "idExterno": "seed-207",
-      "rev": 7,
+      "rev": 8,
       "teoria": {
         "estructura": "N ＋ さえ（でさえ／にさえ：caso extremo, «incluso»）",
         "antecede": "Sustantivo (con partículas como でさえ, にさえ) que nombra el caso extremo o inesperado.",
@@ -14911,11 +17428,46 @@
           "texto": "さえ extiende la afirmación al caso extremo o inesperado ('incluso X'); implica que si X se cumple, todo lo demás también. こそ identifica el elemento como el decisivo o paradigmático sin extenderse a extremos.",
           "prueba": "¿Extiendes la afirmación al caso más extremo o inesperado? → さえ. ¿Marcas el elemento como el factor clave o decisivo? → こそ."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "子ども",
+          "respuesta": "さえ",
+          "despues": "知っていることだ。",
+          "equivalentes": [
+            "でさえ"
+          ],
+          "es": "Es algo que incluso los niños saben.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続の感情表現。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "かねない",
+              "tipo": "forma",
+              "porQueNo": "かねないはV-ます形語幹接続。名詞「子ども」の直後には接続できない。",
+              "patronId": "seed-109"
+            }
+          ],
+          "lecturaAntes": "こども",
+          "lecturaDespues": "しっていることだ。"
+        }
+      ]
     },
     {
       "idExterno": "seed-208",
-      "rev": 2,
+      "rev": 3,
       "teoria": {
         "estructura": "N／V（plain） ＋ といっても過言（かごん）ではない",
         "antecede": "Evaluación o calificación que el hablante presenta como atrevida o potencialmente hiperbólica, pero que defiende como exacta.",
@@ -14936,7 +17488,43 @@
           "texto": "といっても過言ではない defiende que la afirmación no es hiperbólica; el hablante anticipa la objeción de exageración. としか言いようがない afirma que esa es la única descripción posible; no hay defensa, hay certeza.",
           "prueba": "¿El hablante defiende que su afirmación no es exagerada? → といっても過言ではない. ¿El hablante afirma que no hay otra descripción válida? → としか言いようがない. ¿Hay anticipación de una posible objeción? → といっても過言ではない."
         }
-      }
+      },
+      "ejercicios": [
+        {
+          "id": "bh1",
+          "tipo": "hueco",
+          "antes": "彼は日本語の天才",
+          "respuesta": "といっても過言ではない",
+          "despues": "。",
+          "equivalentes": [
+            "といっても過言でない",
+            "といっても言い過ぎではない"
+          ],
+          "es": "No es ninguna exageración decir que él es un genio del japonés.",
+          "distractores": [
+            {
+              "forma": "ものの",
+              "tipo": "forma",
+              "porQueNo": "ものの はV-た形またはV-る形接続の逆接。名詞「天才」の直後には接続できない。",
+              "patronId": "seed-77"
+            },
+            {
+              "forma": "てたまらない",
+              "tipo": "forma",
+              "porQueNo": "てたまらないはV-て形接続。名詞「天才」の直後には接続できない。",
+              "patronId": "seed-68"
+            },
+            {
+              "forma": "ずにはいられない",
+              "tipo": "forma",
+              "porQueNo": "ずにはいられないはV-ない形接続。名詞「天才」の直後には接続できない。",
+              "patronId": "seed-72"
+            }
+          ],
+          "lecturaAntes": "かれはにほんごのてんさい",
+          "lecturaDespues": "。"
+        }
+      ]
     }
   ]
 }
