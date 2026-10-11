@@ -1,0 +1,3768 @@
+{
+ "esquema": "percha-gramatica-catalogo",
+ "version": 1,
+ "nota": "Índice ligero de los 208 patrones del seed (id = seed-<ordenIntroduccion>), lecciones de SKM y grupos. Lo carga captura_gramatica.html para elegir confusables y patrones a enriquecer. Regenerar si cambia el seed.",
+ "patrones": [
+  {
+   "id": "seed-1",
+   "orden": 1,
+   "tituloJP": "Nについて／についての",
+   "glosaES": "acerca de/sobre N",
+   "variantes": [
+    "について",
+    "についての"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-B"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-2",
+   "orden": 2,
+   "tituloJP": "Nを通じて／を通して",
+   "glosaES": "a través de/por medio de",
+   "variantes": [
+    "を通じて",
+    "を通して"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-4"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-3",
+   "orden": 3,
+   "tituloJP": "…によると／よれば",
+   "glosaES": "según...",
+   "variantes": [
+    "によると",
+    "よれば"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-4",
+   "orden": 4,
+   "tituloJP": "Nに関して(は)／に関する",
+   "glosaES": "en relación a/con respecto a",
+   "variantes": [
+    "に関して",
+    "に関しては",
+    "に関する"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-7"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-5",
+   "orden": 5,
+   "tituloJP": "Nにおいて／における",
+   "glosaES": "en (el contexto de)",
+   "variantes": [
+    "において",
+    "における"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-6",
+   "orden": 6,
+   "tituloJP": "Nを中心に（して）／を中心として",
+   "glosaES": "centrado en...",
+   "variantes": [
+    "を中心に",
+    "を中心にして",
+    "を中心として"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-7",
+   "orden": 7,
+   "tituloJP": "Nを問わず／は問わず",
+   "glosaES": "sin importar/independientemente de",
+   "variantes": [
+    "を問わず",
+    "は問わず"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-11"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-8",
+   "orden": 8,
+   "tituloJP": "Nにつきまして",
+   "glosaES": "en cuanto a... (muy formal)",
+   "variantes": [
+    "につきまして"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-9",
+   "orden": 9,
+   "tituloJP": "Nにつき",
+   "glosaES": "por/debido a... (formal, avisos)",
+   "variantes": [
+    "につき"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-16"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-10",
+   "orden": 10,
+   "tituloJP": "N1からN2にかけて",
+   "glosaES": "desde N1 hasta N2 (aprox)",
+   "variantes": [
+    "からN2にかけて"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-11",
+   "orden": 11,
+   "tituloJP": "Nにかけては／にかけても",
+   "glosaES": "en cuanto a (área de especialidad)",
+   "variantes": [
+    "にかけては",
+    "にかけても"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-7"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-12",
+   "orden": 12,
+   "tituloJP": "Nにわたって／にわたり",
+   "glosaES": "a lo largo de/durante",
+   "variantes": [
+    "にわたって",
+    "にわたり"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-4"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-13",
+   "orden": 13,
+   "tituloJP": "Nをめぐって／をめぐり／をめぐる",
+   "glosaES": "en torno a/sobre",
+   "variantes": [
+    "をめぐって",
+    "をめぐり",
+    "をめぐる"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-7"
+   ],
+   "grupo": "alcance_ambito"
+  },
+  {
+   "id": "seed-14",
+   "orden": 14,
+   "tituloJP": "みたい",
+   "glosaES": "parece que.../como.../tipo...",
+   "variantes": [
+    "みたい"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-15",
+   "orden": 15,
+   "tituloJP": "ようだ／ような／ように",
+   "glosaES": "parece que.../como si.../de manera que...",
+   "variantes": [
+    "ようだ",
+    "ような",
+    "ように"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-D"
+   ],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-16",
+   "orden": 16,
+   "tituloJP": "V[ます形]そうもない／そうにない",
+   "glosaES": "no parece que vaya a...",
+   "variantes": [
+    "そうもない",
+    "そうにない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-17",
+   "orden": 17,
+   "tituloJP": "…なさそうだ",
+   "glosaES": "parece que no...",
+   "variantes": [
+    "なさそうだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-18",
+   "orden": 18,
+   "tituloJP": "…ように見える",
+   "glosaES": "parece que... (visualmente)",
+   "variantes": [
+    "ように見える"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-19",
+   "orden": 19,
+   "tituloJP": "…がる",
+   "glosaES": "mostrar señales de querer/sentir",
+   "variantes": [
+    "がる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-20",
+   "orden": 20,
+   "tituloJP": "…っぽい",
+   "glosaES": "como/con tendencia a...",
+   "variantes": [
+    "っぽい"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-21",
+   "orden": 21,
+   "tituloJP": "…げ",
+   "glosaES": "con aire de/dando la impresión de",
+   "variantes": [
+    "げ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "apariencia"
+  },
+  {
+   "id": "seed-22",
+   "orden": 22,
+   "tituloJP": "ついでに",
+   "glosaES": "aprovechando/de paso",
+   "variantes": [
+    "ついでに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-2"
+   ],
+   "grupo": "aprovechando"
+  },
+  {
+   "id": "seed-23",
+   "orden": 23,
+   "tituloJP": "V条件形＋よかった／V[ない形]なければよかった",
+   "glosaES": "debí haber.../ojalá hubiera...",
+   "variantes": [
+    "条件形＋よかった",
+    "なければよかった"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "regret"
+  },
+  {
+   "id": "seed-24",
+   "orden": 24,
+   "tituloJP": "V[て-form]いく",
+   "glosaES": "ir haciendo/continuar",
+   "variantes": [
+    "いく"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-T4"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-25",
+   "orden": 25,
+   "tituloJP": "V[ます形]始める",
+   "glosaES": "empezar a...",
+   "variantes": [
+    "始める"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-26",
+   "orden": 26,
+   "tituloJP": "V[ます形]終わる",
+   "glosaES": "terminar de...",
+   "variantes": [
+    "終わる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-27",
+   "orden": 27,
+   "tituloJP": "V[ます形]続ける",
+   "glosaES": "seguir haciendo...",
+   "variantes": [
+    "続ける"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-28",
+   "orden": 28,
+   "tituloJP": "V[ます形]だす",
+   "glosaES": "de repente empezar a...",
+   "variantes": [
+    "だす"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-29",
+   "orden": 29,
+   "tituloJP": "V[ます形]かけだ／かける／かけの",
+   "glosaES": "a medio hacer/empezar a...",
+   "variantes": [
+    "かけだ",
+    "かける",
+    "かけの"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-30",
+   "orden": 30,
+   "tituloJP": "V[ます形]あう",
+   "glosaES": "hacer algo mutuamente/entre varios",
+   "variantes": [
+    "あう"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-31",
+   "orden": 31,
+   "tituloJP": "V[ます形]きる",
+   "glosaES": "terminar por completo/hacer del todo",
+   "variantes": [
+    "きる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-32",
+   "orden": 32,
+   "tituloJP": "V[ます形]っぱなし",
+   "glosaES": "dejar algo hecho/sin atender",
+   "variantes": [
+    "っぱなし"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-33",
+   "orden": 33,
+   "tituloJP": "V[ます形]つつある",
+   "glosaES": "está en proceso de...",
+   "variantes": [
+    "つつある"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-2"
+   ],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-34",
+   "orden": 34,
+   "tituloJP": "V[ます形]抜（ぬ）く",
+   "glosaES": "hacer hasta el final/completamente",
+   "variantes": [
+    "抜く",
+    "抜ぬく"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "aspecto_verbal"
+  },
+  {
+   "id": "seed-35",
+   "orden": 35,
+   "tituloJP": "Nのもとで／のもとに／の名のもとに",
+   "glosaES": "bajo la guía de.../en nombre de...",
+   "variantes": [
+    "のもとで",
+    "のもとに",
+    "の名のもとに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-8"
+   ],
+   "grupo": "bajo_guia_de"
+  },
+  {
+   "id": "seed-36",
+   "orden": 36,
+   "tituloJP": "Nによる／によって／により",
+   "glosaES": "debido a/por medio de/según",
+   "variantes": [
+    "による",
+    "によって",
+    "により"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-2"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-37",
+   "orden": 37,
+   "tituloJP": "…に従って／に従い",
+   "glosaES": "conforme a/a medida que...",
+   "variantes": [
+    "に従って",
+    "に従い"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-9"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-38",
+   "orden": 38,
+   "tituloJP": "Nをもとに（して）",
+   "glosaES": "basado en...",
+   "variantes": [
+    "をもとに",
+    "をもとにして"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-8"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-39",
+   "orden": 39,
+   "tituloJP": "Nに応じて（は）／に応じ",
+   "glosaES": "según/dependiendo de",
+   "variantes": [
+    "に応じて",
+    "に応じては",
+    "に応じ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-9"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-40",
+   "orden": 40,
+   "tituloJP": "Nにそって／に沿って",
+   "glosaES": "siguiendo/en línea con",
+   "variantes": [
+    "にそって",
+    "に沿って"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-8"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-41",
+   "orden": 41,
+   "tituloJP": "Nに基（もと）づいて／に基づき／に基づく",
+   "glosaES": "basado en",
+   "variantes": [
+    "に基づいて",
+    "に基もとづいて",
+    "に基づき",
+    "に基づく"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-8"
+   ],
+   "grupo": "basado_en"
+  },
+  {
+   "id": "seed-42",
+   "orden": 42,
+   "tituloJP": "…たび（に）",
+   "glosaES": "cada vez que...",
+   "variantes": [
+    "たび",
+    "たびに"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-2"
+   ],
+   "grupo": "cada_vez_que"
+  },
+  {
+   "id": "seed-43",
+   "orden": 43,
+   "tituloJP": "…ごとに",
+   "glosaES": "cada...",
+   "variantes": [
+    "ごとに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "cada_vez_que"
+  },
+  {
+   "id": "seed-44",
+   "orden": 44,
+   "tituloJP": "…結果、…",
+   "glosaES": "como resultado de...",
+   "variantes": [
+    "結果"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "causa_origen"
+  },
+  {
+   "id": "seed-45",
+   "orden": 45,
+   "tituloJP": "…ことから",
+   "glosaES": "a raíz de/dado que...",
+   "variantes": [
+    "ことから"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-5"
+   ],
+   "grupo": "causa_origen"
+  },
+  {
+   "id": "seed-46",
+   "orden": 46,
+   "tituloJP": "Nからして",
+   "glosaES": "a juzgar por/empezando por",
+   "variantes": [
+    "からして"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-4"
+   ],
+   "grupo": "causa_origen"
+  },
+  {
+   "id": "seed-47",
+   "orden": 47,
+   "tituloJP": "おかげで／おかげだ",
+   "glosaES": "gracias a.../debido a... (resultado positivo)",
+   "variantes": [
+    "おかげで",
+    "おかげだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-5"
+   ],
+   "grupo": "causa_positiva_negativa"
+  },
+  {
+   "id": "seed-48",
+   "orden": 48,
+   "tituloJP": "せいで／せいだ／せいか",
+   "glosaES": "por culpa de.../debido a... (resultado negativo)",
+   "variantes": [
+    "せいで",
+    "せいだ",
+    "せいか"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-5"
+   ],
+   "grupo": "causa_positiva_negativa"
+  },
+  {
+   "id": "seed-49",
+   "orden": 49,
+   "tituloJP": "…ばかりに",
+   "glosaES": "solo porque.../por culpa de...",
+   "variantes": [
+    "ばかりに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-17"
+   ],
+   "grupo": "causa_positiva_negativa"
+  },
+  {
+   "id": "seed-50",
+   "orden": 50,
+   "tituloJP": "…させられる（使役受身）",
+   "glosaES": "forma causativa-pasiva",
+   "variantes": [
+    "させられる",
+    "させられる使役受身"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-T5"
+   ],
+   "grupo": "causativa_pasiva"
+  },
+  {
+   "id": "seed-51",
+   "orden": 51,
+   "tituloJP": "んじゃない",
+   "glosaES": "¿no es...? / me parece que...",
+   "variantes": [
+    "んじゃない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-52",
+   "orden": 52,
+   "tituloJP": "はずだ",
+   "glosaES": "debería ser.../se supone que...",
+   "variantes": [
+    "はずだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-E"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-53",
+   "orden": 53,
+   "tituloJP": "だろうと思う",
+   "glosaES": "creo que probablemente...",
+   "variantes": [
+    "だろうと思う"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-54",
+   "orden": 54,
+   "tituloJP": "に違いない",
+   "glosaES": "no hay duda de que.../seguramente...",
+   "variantes": [
+    "に違いない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-22"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-55",
+   "orden": 55,
+   "tituloJP": "…わけだ",
+   "glosaES": "es natural que.../por eso es que...",
+   "variantes": [
+    "わけだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-E"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-56",
+   "orden": 56,
+   "tituloJP": "…も当然（とうぜん）だ",
+   "glosaES": "es natural que.../no es de extrañar que",
+   "variantes": [
+    "も当然だ",
+    "も当然とうぜんだ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-57",
+   "orden": 57,
+   "tituloJP": "…にほかならない／…からにほかならない",
+   "glosaES": "no es sino.../precisamente porque...",
+   "variantes": [
+    "にほかならない",
+    "からにほかならない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-58",
+   "orden": 58,
+   "tituloJP": "…に決まっている",
+   "glosaES": "sin duda es.../seguro que...",
+   "variantes": [
+    "に決まっている"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-22"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-59",
+   "orden": 59,
+   "tituloJP": "…に相違（そうい）ない",
+   "glosaES": "no hay duda de que... (muy formal)",
+   "variantes": [
+    "に相違ない",
+    "に相違そういない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-22"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-60",
+   "orden": 60,
+   "tituloJP": "だけあって／だけに／だけのことはある",
+   "glosaES": "como era de esperar (dado que...)",
+   "variantes": [
+    "だけあって",
+    "だけに",
+    "だけのことはある"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-17",
+    "N2-19"
+   ],
+   "grupo": "certeza"
+  },
+  {
+   "id": "seed-61",
+   "orden": 61,
+   "tituloJP": "…に比べ(て)／と比べ(て)",
+   "glosaES": "comparado con...",
+   "variantes": [
+    "に比べ",
+    "に比べて",
+    "と比べ",
+    "と比べて"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-3"
+   ],
+   "grupo": "comparacion"
+  },
+  {
+   "id": "seed-62",
+   "orden": 62,
+   "tituloJP": "…くらい／ぐらい",
+   "glosaES": "aproximadamente/tanto que...",
+   "variantes": [
+    "くらい",
+    "ぐらい"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-3"
+   ],
+   "grupo": "comparacion"
+  },
+  {
+   "id": "seed-63",
+   "orden": 63,
+   "tituloJP": "…というより",
+   "glosaES": "más bien que.../en vez de decir...",
+   "variantes": [
+    "というより"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-4"
+   ],
+   "grupo": "comparacion"
+  },
+  {
+   "id": "seed-64",
+   "orden": 64,
+   "tituloJP": "にしては",
+   "glosaES": "considerando que... (contrario a lo esperado)",
+   "variantes": [
+    "にしては"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-19"
+   ],
+   "grupo": "comparacion"
+  },
+  {
+   "id": "seed-65",
+   "orden": 65,
+   "tituloJP": "わりに（は）",
+   "glosaES": "considerando.../a pesar de...",
+   "variantes": [
+    "わりに",
+    "わりには"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-19"
+   ],
+   "grupo": "comparacion"
+  },
+  {
+   "id": "seed-66",
+   "orden": 66,
+   "tituloJP": "くらいなら",
+   "glosaES": "antes que.../preferiría...",
+   "variantes": [
+    "くらいなら"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-3"
+   ],
+   "grupo": "comparacion_preferencia"
+  },
+  {
+   "id": "seed-67",
+   "orden": 67,
+   "tituloJP": "…てしかた(が)ない／てしょうがない",
+   "glosaES": "...insoportablemente/no puedo evitar...",
+   "variantes": [
+    "てしかたない",
+    "てしかたがない",
+    "てしょうがない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-25"
+   ],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-68",
+   "orden": 68,
+   "tituloJP": "…てたまらない",
+   "glosaES": "...insoportablemente/no puedo aguantar...",
+   "variantes": [
+    "てたまらない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-25"
+   ],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-69",
+   "orden": 69,
+   "tituloJP": "…てならない",
+   "glosaES": "no puedo evitar sentir... (literario)",
+   "variantes": [
+    "てならない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-25"
+   ],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-70",
+   "orden": 70,
+   "tituloJP": "V[て形]はいられない",
+   "glosaES": "no puedo seguir haciendo (sin actuar)",
+   "variantes": [
+    "はいられない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-71",
+   "orden": 71,
+   "tituloJP": "V[て形]ばかりはいられない",
+   "glosaES": "no puedo seguir solo haciendo X",
+   "variantes": [
+    "ばかりはいられない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-72",
+   "orden": 72,
+   "tituloJP": "…ずにはいられない／ないではいられない",
+   "glosaES": "no puedo evitar hacer...",
+   "variantes": [
+    "ずにはいられない",
+    "ないではいられない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-25"
+   ],
+   "grupo": "compulsion_emocional"
+  },
+  {
+   "id": "seed-73",
+   "orden": 73,
+   "tituloJP": "…としても",
+   "glosaES": "incluso si (suponiendo que)...",
+   "variantes": [
+    "としても"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-15"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-74",
+   "orden": 74,
+   "tituloJP": "…たって／だって",
+   "glosaES": "aunque... (coloquial de ても/でも)",
+   "variantes": [
+    "たって",
+    "だって"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-75",
+   "orden": 75,
+   "tituloJP": "…にしろ…にしろ／にせよ…にせよ／にしても…にしても",
+   "glosaES": "ya sea... o...",
+   "variantes": [
+    "にしろ…にしろ",
+    "にせよ…にせよ",
+    "にしても…にしても"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-10"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-76",
+   "orden": 76,
+   "tituloJP": "…くせに",
+   "glosaES": "a pesar de que... (reproche)",
+   "variantes": [
+    "くせに"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-77",
+   "orden": 77,
+   "tituloJP": "…ものの",
+   "glosaES": "a pesar de que... (concesivo formal)",
+   "variantes": [
+    "ものの"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-14"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-78",
+   "orden": 78,
+   "tituloJP": "V[た形]ところで",
+   "glosaES": "aunque hiciera X, no cambiaría nada",
+   "variantes": [
+    "ところで"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-79",
+   "orden": 79,
+   "tituloJP": "V[ます形]つつ（も）",
+   "glosaES": "mientras.../a pesar de...",
+   "variantes": [
+    "つつ",
+    "つつも"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-14",
+    "N2-2"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-80",
+   "orden": 80,
+   "tituloJP": "…もかまわず",
+   "glosaES": "sin importarle/sin preocuparse por",
+   "variantes": [
+    "もかまわず"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-11"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-81",
+   "orden": 81,
+   "tituloJP": "…どころか",
+   "glosaES": "lejos de.../al contrario...",
+   "variantes": [
+    "どころか"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-12"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-82",
+   "orden": 82,
+   "tituloJP": "からといって",
+   "glosaES": "aunque se diga que.../solo porque...",
+   "variantes": [
+    "からといって"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-14"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-83",
+   "orden": 83,
+   "tituloJP": "にもかかわらず",
+   "glosaES": "a pesar de",
+   "variantes": [
+    "にもかかわらず"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-14"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-84",
+   "orden": 84,
+   "tituloJP": "…ながら（も）",
+   "glosaES": "aunque/a pesar de",
+   "variantes": [
+    "ながら",
+    "ながらも"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-14"
+   ],
+   "grupo": "concesion"
+  },
+  {
+   "id": "seed-85",
+   "orden": 85,
+   "tituloJP": "…たら（どう）",
+   "glosaES": "¿por qué no...? (sugerencia)",
+   "variantes": [
+    "たら",
+    "たらどう"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-10"
+   ],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-86",
+   "orden": 86,
+   "tituloJP": "…さえ…ば",
+   "glosaES": "con tal de que.../basta con...",
+   "variantes": [
+    "さえ…ば"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-6"
+   ],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-87",
+   "orden": 87,
+   "tituloJP": "…ものなら",
+   "glosaES": "si tan solo pudiera... (poco probable)",
+   "variantes": [
+    "ものなら"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-15"
+   ],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-88",
+   "orden": 88,
+   "tituloJP": "としたら／とすれば／とすると",
+   "glosaES": "si fuera el caso que...",
+   "variantes": [
+    "としたら",
+    "とすれば",
+    "とすると"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-15"
+   ],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-89",
+   "orden": 89,
+   "tituloJP": "ようでは",
+   "glosaES": "si sigue así... (condición negativa)",
+   "variantes": [
+    "ようでは"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-90",
+   "orden": 90,
+   "tituloJP": "ようなら（ば）／ようだったら／ようであれば",
+   "glosaES": "si parece que...",
+   "variantes": [
+    "ようなら",
+    "ようならば",
+    "ようだったら",
+    "ようであれば"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "condicional_hipotetico"
+  },
+  {
+   "id": "seed-91",
+   "orden": 91,
+   "tituloJP": "…につれて",
+   "glosaES": "a medida que...",
+   "variantes": [
+    "につれて"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-9"
+   ],
+   "grupo": "conforme_a"
+  },
+  {
+   "id": "seed-92",
+   "orden": 92,
+   "tituloJP": "…に伴（ともな）って／に伴い",
+   "glosaES": "conforme a/junto con",
+   "variantes": [
+    "に伴って",
+    "に伴ともなって",
+    "に伴い"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-9"
+   ],
+   "grupo": "conforme_a"
+  },
+  {
+   "id": "seed-93",
+   "orden": 93,
+   "tituloJP": "…とともに",
+   "glosaES": "junto con/al mismo tiempo que",
+   "variantes": [
+    "とともに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-9"
+   ],
+   "grupo": "conforme_a"
+  },
+  {
+   "id": "seed-94",
+   "orden": 94,
+   "tituloJP": "…一方(で)",
+   "glosaES": "por un lado.../mientras que...",
+   "variantes": [
+    "一方",
+    "一方で"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-4"
+   ],
+   "grupo": "contraste"
+  },
+  {
+   "id": "seed-95",
+   "orden": 95,
+   "tituloJP": "…に対して／に対する",
+   "glosaES": "hacia/con respecto a (contraste)",
+   "variantes": [
+    "に対して",
+    "に対する"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-4"
+   ],
+   "grupo": "contraste"
+  },
+  {
+   "id": "seed-96",
+   "orden": 96,
+   "tituloJP": "Nに反（はん）して／に反し",
+   "glosaES": "contrario a",
+   "variantes": [
+    "に反して",
+    "に反はんして",
+    "に反し"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "contraste"
+  },
+  {
+   "id": "seed-97",
+   "orden": 97,
+   "tituloJP": "反面（はんめん）",
+   "glosaES": "por otro lado",
+   "variantes": [
+    "反面",
+    "反面はんめん"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-4"
+   ],
+   "grupo": "contraste"
+  },
+  {
+   "id": "seed-98",
+   "orden": 98,
+   "tituloJP": "もの／もん",
+   "glosaES": "es que... (dar una razón/excusa)",
+   "variantes": [
+    "もの",
+    "もん"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-16"
+   ],
+   "grupo": "dar_razon_excusa"
+  },
+  {
+   "id": "seed-99",
+   "orden": 99,
+   "tituloJP": "というと／といえば／といったら",
+   "glosaES": "hablando de.../si mencionamos...",
+   "variantes": [
+    "というと",
+    "といえば",
+    "といったら"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-13"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-100",
+   "orden": 100,
+   "tituloJP": "って",
+   "glosaES": "partícula casual (= は／と言うのは／と)",
+   "variantes": [
+    "って"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-7"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-101",
+   "orden": 101,
+   "tituloJP": "Nというのは／とは",
+   "glosaES": "eso de N.../lo que se entiende por N es...",
+   "variantes": [
+    "というのは",
+    "とは"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-13"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-102",
+   "orden": 102,
+   "tituloJP": "…というN",
+   "glosaES": "el N llamado.../un N que es...",
+   "variantes": [
+    "というN"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-7"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-103",
+   "orden": 103,
+   "tituloJP": "…ということだ",
+   "glosaES": "dicen que.../es decir que...",
+   "variantes": [
+    "ということだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-7"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-104",
+   "orden": 104,
+   "tituloJP": "ものだ",
+   "glosaES": "así son las cosas/se supone que...",
+   "variantes": [
+    "ものだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-105",
+   "orden": 105,
+   "tituloJP": "というものだ",
+   "glosaES": "eso es lo que se llama.../así son las cosas",
+   "variantes": [
+    "というものだ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-106",
+   "orden": 106,
+   "tituloJP": "というものではない／というものでもない",
+   "glosaES": "no es necesariamente el caso que...",
+   "variantes": [
+    "というものではない",
+    "というものでもない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-12"
+   ],
+   "grupo": "definicion_tema"
+  },
+  {
+   "id": "seed-107",
+   "orden": 107,
+   "tituloJP": "…ばと思う",
+   "glosaES": "pensaba que sería bueno si...",
+   "variantes": [
+    "ばと思う"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "deseo_suave"
+  },
+  {
+   "id": "seed-108",
+   "orden": 108,
+   "tituloJP": "V[て-form]みせる",
+   "glosaES": "estoy decidido a demostrar que...",
+   "variantes": [
+    "みせる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "determinacion"
+  },
+  {
+   "id": "seed-109",
+   "orden": 109,
+   "tituloJP": "V[ます形]かねる／かねない",
+   "glosaES": "es difícil hacer.../podría llegar a hacer",
+   "variantes": [
+    "かねる",
+    "かねない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-18",
+    "N2-22"
+   ],
+   "grupo": "dificultad_posibilidad"
+  },
+  {
+   "id": "seed-110",
+   "orden": 110,
+   "tituloJP": "…なくはない／なくもない",
+   "glosaES": "no es que no... (doble negación suave)",
+   "variantes": [
+    "なくはない",
+    "なくもない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-8"
+   ],
+   "grupo": "doble_negacion_suave"
+  },
+  {
+   "id": "seed-111",
+   "orden": 111,
+   "tituloJP": "Nなんか",
+   "glosaES": "cosas como N (modestia/desprecio leve)",
+   "variantes": [
+    "なんか"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "vago_ejemplos"
+  },
+  {
+   "id": "seed-112",
+   "orden": 112,
+   "tituloJP": "Nなんて",
+   "glosaES": "cosas como N (sorpresa/desprecio)",
+   "variantes": [
+    "なんて"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "vago_ejemplos"
+  },
+  {
+   "id": "seed-113",
+   "orden": 113,
+   "tituloJP": "…やら…やら",
+   "glosaES": "cosas como... y...",
+   "variantes": [
+    "やら…やら"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-10"
+   ],
+   "grupo": "vago_ejemplos"
+  },
+  {
+   "id": "seed-114",
+   "orden": 114,
+   "tituloJP": "Nにかわって／にかわり",
+   "glosaES": "en lugar de/en representación de",
+   "variantes": [
+    "にかわって",
+    "にかわり"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-4"
+   ],
+   "grupo": "en_lugar_de"
+  },
+  {
+   "id": "seed-115",
+   "orden": 115,
+   "tituloJP": "Nに応え（て）",
+   "glosaES": "en respuesta a",
+   "variantes": [
+    "に応え",
+    "に応えて"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-7"
+   ],
+   "grupo": "en_respuesta_a"
+  },
+  {
+   "id": "seed-116",
+   "orden": 116,
+   "tituloJP": "N抜（ぬ）きで／抜きに／を抜きにして",
+   "glosaES": "sin/dejando fuera",
+   "variantes": [
+    "抜きで",
+    "抜ぬきで",
+    "抜きに",
+    "を抜きにして"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-15"
+   ],
+   "grupo": "exclusion"
+  },
+  {
+   "id": "seed-117",
+   "orden": 117,
+   "tituloJP": "N抜（ぬ）きでは／抜きには／を抜きにしては",
+   "glosaES": "sin..., no se puede...",
+   "variantes": [
+    "抜きでは",
+    "抜ぬきでは",
+    "抜きには",
+    "を抜きにしては"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-15"
+   ],
+   "grupo": "exclusion"
+  },
+  {
+   "id": "seed-118",
+   "orden": 118,
+   "tituloJP": "Nを除（のぞ）いて／を除き",
+   "glosaES": "excepto/aparte de",
+   "variantes": [
+    "を除いて",
+    "を除のぞいて",
+    "を除き"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "exclusion"
+  },
+  {
+   "id": "seed-119",
+   "orden": 119,
+   "tituloJP": "…ば…ほど",
+   "glosaES": "cuanto más... más...",
+   "variantes": [
+    "ば…ほど"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-2"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-120",
+   "orden": 120,
+   "tituloJP": "V辞書形＋一方だ",
+   "glosaES": "no hace más que ir cada vez más...",
+   "variantes": [
+    "一方だ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-2"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-121",
+   "orden": 121,
+   "tituloJP": "Nだらけ",
+   "glosaES": "lleno de/cubierto de",
+   "variantes": [
+    "だらけ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-J"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-122",
+   "orden": 122,
+   "tituloJP": "V辞書形＋ばかりだ",
+   "glosaES": "no hace más que ir.../ya solo queda...",
+   "variantes": [
+    "ばかりだ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-F"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-123",
+   "orden": 123,
+   "tituloJP": "V[て形]まで",
+   "glosaES": "hasta el punto de/incluso llegando a...",
+   "variantes": [
+    "まで"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-124",
+   "orden": 124,
+   "tituloJP": "…あげく（に）",
+   "glosaES": "después de (mucho), al final...",
+   "variantes": [
+    "あげく",
+    "あげくに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-20"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-125",
+   "orden": 125,
+   "tituloJP": "…あまり",
+   "glosaES": "de tanto.../debido al exceso de...",
+   "variantes": [
+    "あまり"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-16"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-126",
+   "orden": 126,
+   "tituloJP": "…末（すえ）（に）",
+   "glosaES": "después de (mucho), al final",
+   "variantes": [
+    "末",
+    "末すえに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-20"
+   ],
+   "grupo": "grado_extremo"
+  },
+  {
+   "id": "seed-127",
+   "orden": 127,
+   "tituloJP": "はずがない／はずはない",
+   "glosaES": "es imposible que.../no puede ser que...",
+   "variantes": [
+    "はずがない",
+    "はずはない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-8"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-128",
+   "orden": 128,
+   "tituloJP": "…わけがない／わけはない",
+   "glosaES": "no hay manera de que.../es imposible que...",
+   "variantes": [
+    "わけがない",
+    "わけはない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-8"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-129",
+   "orden": 129,
+   "tituloJP": "…なんかない",
+   "glosaES": "no... en absoluto",
+   "variantes": [
+    "なんかない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-130",
+   "orden": 130,
+   "tituloJP": "…わけではない",
+   "glosaES": "no es que.../no necesariamente...",
+   "variantes": [
+    "わけではない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-8"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-131",
+   "orden": 131,
+   "tituloJP": "…ようがない",
+   "glosaES": "no hay manera de...",
+   "variantes": [
+    "ようがない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-18"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-132",
+   "orden": 132,
+   "tituloJP": "…ものか",
+   "glosaES": "¡de ninguna manera!/jamás",
+   "variantes": [
+    "ものか"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-12",
+    "N2-24"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-133",
+   "orden": 133,
+   "tituloJP": "としか言いようがない",
+   "glosaES": "no se puede decir otra cosa más que...",
+   "variantes": [
+    "としか言いようがない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-134",
+   "orden": 134,
+   "tituloJP": "…どころではない",
+   "glosaES": "no es momento para/no hay ni para...",
+   "variantes": [
+    "どころではない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-12",
+    "N2-18"
+   ],
+   "grupo": "imposibilidad"
+  },
+  {
+   "id": "seed-135",
+   "orden": 135,
+   "tituloJP": "…つもりで",
+   "glosaES": "con la intención de.../como si...",
+   "variantes": [
+    "つもりで"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-11"
+   ],
+   "grupo": "intencion"
+  },
+  {
+   "id": "seed-136",
+   "orden": 136,
+   "tituloJP": "…つもり",
+   "glosaES": "tenía la intención de...",
+   "variantes": [
+    "つもり"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-11"
+   ],
+   "grupo": "intencion"
+  },
+  {
+   "id": "seed-137",
+   "orden": 137,
+   "tituloJP": "…ぶり",
+   "glosaES": "después de (tanto tiempo)/manera de hacer",
+   "variantes": [
+    "ぶり"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "standalone_manera"
+  },
+  {
+   "id": "seed-138",
+   "orden": 138,
+   "tituloJP": "…にあたって／にあたり",
+   "glosaES": "al momento de/con motivo de",
+   "variantes": [
+    "にあたって",
+    "にあたり"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "momento_formal"
+  },
+  {
+   "id": "seed-139",
+   "orden": 139,
+   "tituloJP": "…際（さい）（に）",
+   "glosaES": "en el momento de/cuando",
+   "variantes": [
+    "際",
+    "際さいに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "momento_formal"
+  },
+  {
+   "id": "seed-140",
+   "orden": 140,
+   "tituloJP": "…に際して／に際し",
+   "glosaES": "con motivo de/al momento de (formal)",
+   "variantes": [
+    "に際して",
+    "に際し"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "momento_formal"
+  },
+  {
+   "id": "seed-141",
+   "orden": 141,
+   "tituloJP": "Nに先立って／に先立ち",
+   "glosaES": "antes de/previo a",
+   "variantes": [
+    "に先立って",
+    "に先立ち"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "momento_formal"
+  },
+  {
+   "id": "seed-142",
+   "orden": 142,
+   "tituloJP": "…が契機で／を契機に（して）／を契機として",
+   "glosaES": "como resultado de/con motivo de",
+   "variantes": [
+    "が契機で",
+    "を契機に",
+    "を契機にして",
+    "を契機として"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "motivo_detonante"
+  },
+  {
+   "id": "seed-143",
+   "orden": 143,
+   "tituloJP": "…がきっかけで／をきっかけに（して）",
+   "glosaES": "como resultado de/con motivo de (casual)",
+   "variantes": [
+    "がきっかけで",
+    "をきっかけに",
+    "をきっかけにして"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "motivo_detonante"
+  },
+  {
+   "id": "seed-144",
+   "orden": 144,
+   "tituloJP": "…てもしかた(が)ない／てもしょうがない",
+   "glosaES": "no sirve de nada.../es inútil...",
+   "variantes": [
+    "てもしかたない",
+    "てもしかたがない",
+    "てもしょうがない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "inutil"
+  },
+  {
+   "id": "seed-145",
+   "orden": 145,
+   "tituloJP": "…だけでなく",
+   "glosaES": "no solo... sino también...",
+   "variantes": [
+    "だけでなく"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-6"
+   ],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-146",
+   "orden": 146,
+   "tituloJP": "Nに加えて",
+   "glosaES": "además de",
+   "variantes": [
+    "に加えて"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-147",
+   "orden": 147,
+   "tituloJP": "…ばかりか",
+   "glosaES": "no solo... sino que además",
+   "variantes": [
+    "ばかりか"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-F",
+    "N2-6"
+   ],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-148",
+   "orden": 148,
+   "tituloJP": "Nはもちろん／はもとより",
+   "glosaES": "no solo... por supuesto...",
+   "variantes": [
+    "はもちろん",
+    "はもとより"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-6"
+   ],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-149",
+   "orden": 149,
+   "tituloJP": "Nをはじめ／をはじめとして／をはじめとする",
+   "glosaES": "empezando por/entre otros",
+   "variantes": [
+    "をはじめ",
+    "をはじめとして",
+    "をはじめとする"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-4"
+   ],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-150",
+   "orden": 150,
+   "tituloJP": "のみならず",
+   "glosaES": "no solo... sino también... (formal)",
+   "variantes": [
+    "のみならず"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-6"
+   ],
+   "grupo": "inclusion_no_solo"
+  },
+  {
+   "id": "seed-151",
+   "orden": 151,
+   "tituloJP": "V辞書形＋べき",
+   "glosaES": "se debe/debería...",
+   "variantes": [
+    "べき"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-10"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-152",
+   "orden": 152,
+   "tituloJP": "V[て-form]はならない",
+   "glosaES": "no se debe...",
+   "variantes": [
+    "はならない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-10"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-153",
+   "orden": 153,
+   "tituloJP": "V辞書形＋わけにはいかない",
+   "glosaES": "no puedo... (por razones sociales/morales)",
+   "variantes": [
+    "わけにはいかない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-E"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-154",
+   "orden": 154,
+   "tituloJP": "…ざるを得ない",
+   "glosaES": "no tener más remedio que...",
+   "variantes": [
+    "ざるを得ない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-25"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-155",
+   "orden": 155,
+   "tituloJP": "V辞書形＋ほか（は）ない／よりほか（は）ない",
+   "glosaES": "no queda otra opción más que...",
+   "variantes": [
+    "ほかない",
+    "ほかはない",
+    "よりほかない",
+    "よりほかはない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-156",
+   "orden": 156,
+   "tituloJP": "からには",
+   "glosaES": "ya que.../dado que... (con determinación)",
+   "variantes": [
+    "からには"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-17"
+   ],
+   "grupo": "obligacion"
+  },
+  {
+   "id": "seed-157",
+   "orden": 157,
+   "tituloJP": "N向きだ／向きに／向きの",
+   "glosaES": "apto para/orientado hacia",
+   "variantes": [
+    "向きだ",
+    "向きに",
+    "向きの"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "orientacion"
+  },
+  {
+   "id": "seed-158",
+   "orden": 158,
+   "tituloJP": "N向けだ／向けに／向けの",
+   "glosaES": "dirigido a/diseñado para",
+   "variantes": [
+    "向けだ",
+    "向けに",
+    "向けの"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-8"
+   ],
+   "grupo": "orientacion"
+  },
+  {
+   "id": "seed-159",
+   "orden": 159,
+   "tituloJP": "（さ）せてもらう／くれる／いただく／くださる",
+   "glosaES": "permiso + agradecimiento (causativa)",
+   "variantes": [
+    "せてもらう",
+    "させてもらう",
+    "くれる",
+    "いただく",
+    "くださる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-9"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-160",
+   "orden": 160,
+   "tituloJP": "〜てもらってもいいですか／〜ていただきたいんですが",
+   "glosaES": "petición cortés",
+   "variantes": [
+    "てもらってもいいですか",
+    "ていただきたいんですが"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-9"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-161",
+   "orden": 161,
+   "tituloJP": "お/ご…いただく・くださる",
+   "glosaES": "keigo humilde/honorífico",
+   "variantes": [
+    "お",
+    "ご…いただく・くださる"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-12"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-162",
+   "orden": 162,
+   "tituloJP": "お/ご…です",
+   "glosaES": "forma respetuosa de una acción",
+   "variantes": [
+    "お",
+    "ご…です"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-12"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-163",
+   "orden": 163,
+   "tituloJP": "お/ご…いただけませんか",
+   "glosaES": "¿podría por favor...?",
+   "variantes": [
+    "お",
+    "ご…いただけませんか"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-12"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-164",
+   "orden": 164,
+   "tituloJP": "お/ご…願（ねが）えませんか",
+   "glosaES": "¿podría por favor...?",
+   "variantes": [
+    "お",
+    "ご…願えませんか",
+    "ご…願ねがえませんか"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-12"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-165",
+   "orden": 165,
+   "tituloJP": "お/ご…申し上げる",
+   "glosaES": "hacer... (humilde)",
+   "variantes": [
+    "お",
+    "ご…申し上げる"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-12"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-166",
+   "orden": 166,
+   "tituloJP": "V[て形]いただけるとありがたいんですが",
+   "glosaES": "agradecería si pudiera...",
+   "variantes": [
+    "いただけるとありがたいんですが"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-9"
+   ],
+   "grupo": "peticion_cortes"
+  },
+  {
+   "id": "seed-167",
+   "orden": 167,
+   "tituloJP": "…て済む／で済む",
+   "glosaES": "se resuelve con (solo)...",
+   "variantes": [
+    "て済む",
+    "で済む"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "evitar_innecesario"
+  },
+  {
+   "id": "seed-168",
+   "orden": 168,
+   "tituloJP": "…ずにすむ／ないですむ／なくてすむ",
+   "glosaES": "poder evitar/no ser necesario hacer",
+   "variantes": [
+    "ずにすむ",
+    "ないですむ",
+    "なくてすむ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "evitar_innecesario"
+  },
+  {
+   "id": "seed-169",
+   "orden": 169,
+   "tituloJP": "V[ます形]得る／得ない",
+   "glosaES": "poder/no poder hacer (formal)",
+   "variantes": [
+    "得る",
+    "得ない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-18"
+   ],
+   "grupo": "posibilidad_formal"
+  },
+  {
+   "id": "seed-170",
+   "orden": 170,
+   "tituloJP": "Nをかねて",
+   "glosaES": "también con el propósito de...",
+   "variantes": [
+    "をかねて"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "proposito_adicional"
+  },
+  {
+   "id": "seed-171",
+   "orden": 171,
+   "tituloJP": "Nにとって",
+   "glosaES": "para (alguien)/desde el punto de vista de",
+   "variantes": [
+    "にとって"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-B"
+   ],
+   "grupo": "punto_de_vista"
+  },
+  {
+   "id": "seed-172",
+   "orden": 172,
+   "tituloJP": "N から言うと／から言えば／から言って",
+   "glosaES": "hablando desde el punto de vista de...",
+   "variantes": [
+    "から言うと",
+    "から言えば",
+    "から言って"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "punto_de_vista"
+  },
+  {
+   "id": "seed-173",
+   "orden": 173,
+   "tituloJP": "Nにしたら／にすれば／にしても",
+   "glosaES": "desde el punto de vista de...",
+   "variantes": [
+    "にしたら",
+    "にすれば",
+    "にしても"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-19"
+   ],
+   "grupo": "punto_de_vista"
+  },
+  {
+   "id": "seed-174",
+   "orden": 174,
+   "tituloJP": "Nのことだから",
+   "glosaES": "siendo típico de N...",
+   "variantes": [
+    "のことだから"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-17"
+   ],
+   "grupo": "punto_de_vista"
+  },
+  {
+   "id": "seed-175",
+   "orden": 175,
+   "tituloJP": "…っけ",
+   "glosaES": "¿era...? (recordar algo incierto)",
+   "variantes": [
+    "っけ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "recordar_incierto"
+  },
+  {
+   "id": "seed-176",
+   "orden": 176,
+   "tituloJP": "ばかり",
+   "glosaES": "solo/nada más que.../acabar de",
+   "variantes": [
+    "ばかり"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-F"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-177",
+   "orden": 177,
+   "tituloJP": "…しかない",
+   "glosaES": "no queda otra opción más que...",
+   "variantes": [
+    "しかない"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-178",
+   "orden": 178,
+   "tituloJP": "…きり",
+   "glosaES": "solo/nada más que.../desde que...(sin cambios)",
+   "variantes": [
+    "きり"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-20"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-179",
+   "orden": 179,
+   "tituloJP": "…限り／限りでは",
+   "glosaES": "en la medida en que.../por lo que...",
+   "variantes": [
+    "限り",
+    "限りでは"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-5"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-180",
+   "orden": 180,
+   "tituloJP": "…に限って／に限り",
+   "glosaES": "justamente cuando.../solo en el caso de",
+   "variantes": [
+    "に限って",
+    "に限り"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-5"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-181",
+   "orden": 181,
+   "tituloJP": "…に限る",
+   "glosaES": "lo mejor es...",
+   "variantes": [
+    "に限る"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-3"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-182",
+   "orden": 182,
+   "tituloJP": "…に限らず",
+   "glosaES": "no solo...",
+   "variantes": [
+    "に限らず"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-6"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-183",
+   "orden": 183,
+   "tituloJP": "…とは限らない",
+   "glosaES": "no siempre es el caso/no necesariamente",
+   "variantes": [
+    "とは限らない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-8"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-184",
+   "orden": 184,
+   "tituloJP": "に過（す）ぎない",
+   "glosaES": "no es más que...",
+   "variantes": [
+    "に過ぎない",
+    "に過すぎない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-23"
+   ],
+   "grupo": "restrictivo"
+  },
+  {
+   "id": "seed-185",
+   "orden": 185,
+   "tituloJP": "…恐れがある",
+   "glosaES": "existe el riesgo/temor de que...",
+   "variantes": [
+    "恐れがある"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-22"
+   ],
+   "grupo": "riesgo_temor"
+  },
+  {
+   "id": "seed-186",
+   "orden": 186,
+   "tituloJP": "Nとして",
+   "glosaES": "como (en calidad de)...",
+   "variantes": [
+    "として"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-B"
+   ],
+   "grupo": "rol_calidad"
+  },
+  {
+   "id": "seed-187",
+   "orden": 187,
+   "tituloJP": "…上で（の）",
+   "glosaES": "después de.../en el proceso de...",
+   "variantes": [
+    "上で",
+    "上での"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-3"
+   ],
+   "grupo": "secuencia_prerequisito"
+  },
+  {
+   "id": "seed-188",
+   "orden": 188,
+   "tituloJP": "V[て形]からでないと／てからでなければ",
+   "glosaES": "si no se hace X primero, no...",
+   "variantes": [
+    "からでないと",
+    "てからでなければ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-1",
+    "N2-3"
+   ],
+   "grupo": "secuencia_prerequisito"
+  },
+  {
+   "id": "seed-189",
+   "orden": 189,
+   "tituloJP": "Nを込めて",
+   "glosaES": "poniendo (sentimiento) en...",
+   "variantes": [
+    "を込めて"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "sentimiento_puesto"
+  },
+  {
+   "id": "seed-190",
+   "orden": 190,
+   "tituloJP": "うちに",
+   "glosaES": "mientras / antes de que",
+   "variantes": [
+    "うちに"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-1"
+   ],
+   "grupo": "simultaneidad"
+  },
+  {
+   "id": "seed-191",
+   "orden": 191,
+   "tituloJP": "V[て-form]以来、…",
+   "glosaES": "desde que...",
+   "variantes": [
+    "以来"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-3"
+   ],
+   "grupo": "simultaneidad"
+  },
+  {
+   "id": "seed-192",
+   "orden": 192,
+   "tituloJP": "…間／…間に",
+   "glosaES": "durante/mientras",
+   "variantes": [
+    "間",
+    "間に"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "N3",
+   "lecciones": [
+    "N3-1"
+   ],
+   "grupo": "simultaneidad"
+  },
+  {
+   "id": "seed-193",
+   "orden": 193,
+   "tituloJP": "V[ない形]ずに",
+   "glosaES": "sin hacer... (= ないで)",
+   "variantes": [
+    "ずに"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "sin_hacer"
+  },
+  {
+   "id": "seed-194",
+   "orden": 194,
+   "tituloJP": "…ことに（は）",
+   "glosaES": "para (sorpresa/pesar) de...",
+   "variantes": [
+    "ことに",
+    "ことには"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "sorpresa_pesar"
+  },
+  {
+   "id": "seed-195",
+   "orden": 195,
+   "tituloJP": "…次第（しだい）／次第だ／次第では",
+   "glosaES": "tan pronto como.../depende de...",
+   "variantes": [
+    "次第",
+    "次第しだい",
+    "次第だ",
+    "次第では"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-3",
+    "N2-9"
+   ],
+   "grupo": "tan_pronto_depende"
+  },
+  {
+   "id": "seed-196",
+   "orden": 196,
+   "tituloJP": "かと思った",
+   "glosaES": "pensé que tal vez.../creí que...",
+   "variantes": [
+    "かと思った"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-197",
+   "orden": 197,
+   "tituloJP": "V[た形]かと思うと／かと思ったら",
+   "glosaES": "justo cuando pensé que.../tan pronto como...",
+   "variantes": [
+    "かと思うと",
+    "かと思ったら"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-198",
+   "orden": 198,
+   "tituloJP": "V[た形]とたん（に）",
+   "glosaES": "justo en el momento en que...",
+   "variantes": [
+    "とたん",
+    "とたんに"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-199",
+   "orden": 199,
+   "tituloJP": "V[た形]ところ",
+   "glosaES": "hice X y (resultó que)...",
+   "variantes": [
+    "ところ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-20"
+   ],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-200",
+   "orden": 200,
+   "tituloJP": "V[た形]ところが",
+   "glosaES": "sin embargo/pero (resultado inesperado)",
+   "variantes": [
+    "ところが"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-201",
+   "orden": 201,
+   "tituloJP": "V[た形]かと思えば",
+   "glosaES": "justo cuando pensé que...",
+   "variantes": [
+    "かと思えば"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-1"
+   ],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-202",
+   "orden": 202,
+   "tituloJP": "V辞書形＋ところだった",
+   "glosaES": "casi.../por poco...",
+   "variantes": [
+    "ところだった"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "N2",
+   "lecciones": [
+    "N2-20"
+   ],
+   "grupo": "temporal_abrupto"
+  },
+  {
+   "id": "seed-203",
+   "orden": 203,
+   "tituloJP": "…気味（ぎみ）",
+   "glosaES": "un poco/con tendencia a (ligero síntoma)",
+   "variantes": [
+    "気味",
+    "気味ぎみ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "tendencia_ligera"
+  },
+  {
+   "id": "seed-204",
+   "orden": 204,
+   "tituloJP": "…がちだ",
+   "glosaES": "tiende a/suele...",
+   "variantes": [
+    "がちだ"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "tendencia_ligera"
+  },
+  {
+   "id": "seed-205",
+   "orden": 205,
+   "tituloJP": "…甲斐（かい）がある／甲斐がない",
+   "glosaES": "vale la pena/no vale la pena",
+   "variantes": [
+    "甲斐がある",
+    "甲斐かいがある",
+    "甲斐がない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "vale_la_pena"
+  },
+  {
+   "id": "seed-206",
+   "orden": 206,
+   "tituloJP": "…こそ",
+   "glosaES": "precisamente/justo (énfasis)",
+   "variantes": [
+    "こそ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "enfasis"
+  },
+  {
+   "id": "seed-207",
+   "orden": 207,
+   "tituloJP": "…さえ",
+   "glosaES": "incluso...",
+   "variantes": [
+    "さえ"
+   ],
+   "nivel_seed": "N3",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "enfasis"
+  },
+  {
+   "id": "seed-208",
+   "orden": 208,
+   "tituloJP": "といっても過言（かごん）ではない",
+   "glosaES": "no es exagerado decir que...",
+   "variantes": [
+    "といっても過言ではない",
+    "といっても過言かごんではない"
+   ],
+   "nivel_seed": "N2",
+   "nivel_skm": "sin_ubicar",
+   "lecciones": [],
+   "grupo": "enfasis"
+  }
+ ],
+ "lecciones": [
+  {
+   "id": "N3-1",
+   "nivel": "N3",
+   "titulo_jp": "～とき",
+   "funcion_es": "Cuando / mientras"
+  },
+  {
+   "id": "N3-2",
+   "nivel": "N3",
+   "titulo_jp": "～と関係して",
+   "funcion_es": "Según / conforme a / cada vez que"
+  },
+  {
+   "id": "N3-3",
+   "nivel": "N3",
+   "titulo_jp": "比べれば・いちばん",
+   "funcion_es": "Comparación y grado"
+  },
+  {
+   "id": "N3-4",
+   "nivel": "N3",
+   "titulo_jp": "～とは違って",
+   "funcion_es": "Contraste"
+  },
+  {
+   "id": "N3-5",
+   "nivel": "N3",
+   "titulo_jp": "～だから",
+   "funcion_es": "Causa"
+  },
+  {
+   "id": "N3-6",
+   "nivel": "N3",
+   "titulo_jp": "もし、…",
+   "funcion_es": "Condición e hipótesis"
+  },
+  {
+   "id": "N3-7",
+   "nivel": "N3",
+   "titulo_jp": "～だそうだ",
+   "funcion_es": "Información de oídas"
+  },
+  {
+   "id": "N3-8",
+   "nivel": "N3",
+   "titulo_jp": "絶対～ない・必ず～とは言えない",
+   "funcion_es": "Negación enfática y 'no siempre'"
+  },
+  {
+   "id": "N3-9",
+   "nivel": "N3",
+   "titulo_jp": "～と望む",
+   "funcion_es": "Deseo y petición"
+  },
+  {
+   "id": "N3-10",
+   "nivel": "N3",
+   "titulo_jp": "～したほうがいい・～なさい",
+   "funcion_es": "Consejo, orden y obligación"
+  },
+  {
+   "id": "N3-11",
+   "nivel": "N3",
+   "titulo_jp": "～（よ）うと思う",
+   "funcion_es": "Intención y decisión"
+  },
+  {
+   "id": "N3-12",
+   "nivel": "N3",
+   "titulo_jp": "敬語",
+   "funcion_es": "Keigo"
+  },
+  {
+   "id": "N3-A",
+   "nivel": "N3",
+   "titulo_jp": "いろいろな働きをする助詞",
+   "funcion_es": "Partículas con varias funciones"
+  },
+  {
+   "id": "N3-B",
+   "nivel": "N3",
+   "titulo_jp": "助詞のような働きをする言葉",
+   "funcion_es": "Expresiones que funcionan como partículas"
+  },
+  {
+   "id": "N3-C",
+   "nivel": "N3",
+   "titulo_jp": "「こと・の」の使い方",
+   "funcion_es": "Usos de こと y の"
+  },
+  {
+   "id": "N3-D",
+   "nivel": "N3",
+   "titulo_jp": "「よう」のいろいろな使い方",
+   "funcion_es": "Usos de よう"
+  },
+  {
+   "id": "N3-E",
+   "nivel": "N3",
+   "titulo_jp": "「わけ」のいろいろな使い方",
+   "funcion_es": "Usos de わけ"
+  },
+  {
+   "id": "N3-F",
+   "nivel": "N3",
+   "titulo_jp": "「ばかり」のいろいろな使い方",
+   "funcion_es": "Usos de ばかり"
+  },
+  {
+   "id": "N3-G",
+   "nivel": "N3",
+   "titulo_jp": "「する・なる」の整理",
+   "funcion_es": "する y なる"
+  },
+  {
+   "id": "N3-H",
+   "nivel": "N3",
+   "titulo_jp": "「たら・ば・と・なら」の特別な使い方",
+   "funcion_es": "Usos especiales de たら／ば／と／なら"
+  },
+  {
+   "id": "N3-I",
+   "nivel": "N3",
+   "titulo_jp": "後に決まった表現が来る副詞",
+   "funcion_es": "Adverbios con terminación fija"
+  },
+  {
+   "id": "N3-J",
+   "nivel": "N3",
+   "titulo_jp": "動詞や名詞の意味を広げる文法形式",
+   "funcion_es": "Formas que amplían verbos y sustantivos"
+  },
+  {
+   "id": "N3-S1",
+   "nivel": "N3",
+   "titulo_jp": "文の組み立て―１",
+   "funcion_es": "Citas"
+  },
+  {
+   "id": "N3-S2",
+   "nivel": "N3",
+   "titulo_jp": "文の組み立て―２",
+   "funcion_es": "Explicar un sustantivo"
+  },
+  {
+   "id": "N3-S3",
+   "nivel": "N3",
+   "titulo_jp": "文の組み立て―３",
+   "funcion_es": "という／といった"
+  },
+  {
+   "id": "N3-S4",
+   "nivel": "N3",
+   "titulo_jp": "文の組み立て―４",
+   "funcion_es": "Formas fijas"
+  },
+  {
+   "id": "N3-T1",
+   "nivel": "N3",
+   "titulo_jp": "文の始めと終わりの対応",
+   "funcion_es": "Correspondencia inicio-fin"
+  },
+  {
+   "id": "N3-T2",
+   "nivel": "N3",
+   "titulo_jp": "時制・～ている",
+   "funcion_es": "Tiempos y ～ている"
+  },
+  {
+   "id": "N3-T3",
+   "nivel": "N3",
+   "titulo_jp": "他動詞・自動詞",
+   "funcion_es": "Transitivos e intransitivos"
+  },
+  {
+   "id": "N3-T4",
+   "nivel": "N3",
+   "titulo_jp": "～てくる・～ていく",
+   "funcion_es": "てくる／ていく"
+  },
+  {
+   "id": "N3-T5",
+   "nivel": "N3",
+   "titulo_jp": "受身・使役・使役受身",
+   "funcion_es": "Pasiva, causativa, causativa-pasiva"
+  },
+  {
+   "id": "N3-T6",
+   "nivel": "N3",
+   "titulo_jp": "～てあげる・～てもらう・～てくれる",
+   "funcion_es": "Dar y recibir"
+  },
+  {
+   "id": "N3-T7",
+   "nivel": "N3",
+   "titulo_jp": "こ・そ・あ",
+   "funcion_es": "Demostrativos"
+  },
+  {
+   "id": "N3-T8",
+   "nivel": "N3",
+   "titulo_jp": "は・が",
+   "funcion_es": "は vs が"
+  },
+  {
+   "id": "N3-T9",
+   "nivel": "N3",
+   "titulo_jp": "接続表現",
+   "funcion_es": "Conectores"
+  },
+  {
+   "id": "N3-T10",
+   "nivel": "N3",
+   "titulo_jp": "文章の雰囲気の統一",
+   "funcion_es": "Coherencia de estilo"
+  },
+  {
+   "id": "N2-1",
+   "nivel": "N2",
+   "titulo_jp": "～とき・～直後に",
+   "funcion_es": "Cuando / justo después"
+  },
+  {
+   "id": "N2-2",
+   "nivel": "N2",
+   "titulo_jp": "～している（進行中）",
+   "funcion_es": "Mientras / en curso"
+  },
+  {
+   "id": "N2-3",
+   "nivel": "N2",
+   "titulo_jp": "～後で",
+   "funcion_es": "Después de"
+  },
+  {
+   "id": "N2-4",
+   "nivel": "N2",
+   "titulo_jp": "範囲の始まりと終わり・その間",
+   "funcion_es": "Alcance y recorrido"
+  },
+  {
+   "id": "N2-5",
+   "nivel": "N2",
+   "titulo_jp": "～だけ",
+   "funcion_es": "Solo / limitado a"
+  },
+  {
+   "id": "N2-6",
+   "nivel": "N2",
+   "titulo_jp": "～だけでなく・それに加えて",
+   "funcion_es": "No solo… además"
+  },
+  {
+   "id": "N2-7",
+   "nivel": "N2",
+   "titulo_jp": "～について・～を相手にして",
+   "funcion_es": "Acerca de / hacia"
+  },
+  {
+   "id": "N2-8",
+   "nivel": "N2",
+   "titulo_jp": "～を基準にして",
+   "funcion_es": "Con base en"
+  },
+  {
+   "id": "N2-9",
+   "nivel": "N2",
+   "titulo_jp": "～に関連して・～に対応して",
+   "funcion_es": "Cambio y correspondencia"
+  },
+  {
+   "id": "N2-10",
+   "nivel": "N2",
+   "titulo_jp": "～や～など",
+   "funcion_es": "Enumerar ejemplos"
+  },
+  {
+   "id": "N2-11",
+   "nivel": "N2",
+   "titulo_jp": "～に関係なく・無視して",
+   "funcion_es": "Sin importar"
+  },
+  {
+   "id": "N2-12",
+   "nivel": "N2",
+   "titulo_jp": "強く否定する・強く否定しない",
+   "funcion_es": "Negación enfática"
+  },
+  {
+   "id": "N2-13",
+   "nivel": "N2",
+   "titulo_jp": "～（話題）は",
+   "funcion_es": "Hablando de…"
+  },
+  {
+   "id": "N2-14",
+   "nivel": "N2",
+   "titulo_jp": "～けれど",
+   "funcion_es": "Aunque / contraste"
+  },
+  {
+   "id": "N2-15",
+   "nivel": "N2",
+   "titulo_jp": "もしそうなら・たとえそうでも",
+   "funcion_es": "Si fuera así / aun si"
+  },
+  {
+   "id": "N2-16",
+   "nivel": "N2",
+   "titulo_jp": "～だから（理由）―１",
+   "funcion_es": "Causa 1"
+  },
+  {
+   "id": "N2-17",
+   "nivel": "N2",
+   "titulo_jp": "～だから（理由）―２",
+   "funcion_es": "Causa 2"
+  },
+  {
+   "id": "N2-18",
+   "nivel": "N2",
+   "titulo_jp": "～できない・困難だ・～できる",
+   "funcion_es": "Poder / no poder"
+  },
+  {
+   "id": "N2-19",
+   "nivel": "N2",
+   "titulo_jp": "評価",
+   "funcion_es": "Evaluación"
+  },
+  {
+   "id": "N2-20",
+   "nivel": "N2",
+   "titulo_jp": "結果はどうなったか",
+   "funcion_es": "Resultado"
+  },
+  {
+   "id": "N2-22",
+   "nivel": "N2",
+   "titulo_jp": "～だろうと思う",
+   "funcion_es": "Conjetura"
+  },
+  {
+   "id": "N2-23",
+   "nivel": "N2",
+   "titulo_jp": "感想を言う・主張する",
+   "funcion_es": "Opinión y aseveración"
+  },
+  {
+   "id": "N2-24",
+   "nivel": "N2",
+   "titulo_jp": "提案する・意思を表す",
+   "funcion_es": "Propuesta e intención"
+  },
+  {
+   "id": "N2-25",
+   "nivel": "N2",
+   "titulo_jp": "強くそう感じる",
+   "funcion_es": "Sentimiento irresistible"
+  },
+  {
+   "id": "N2-26",
+   "nivel": "N2",
+   "titulo_jp": "願う・感動する",
+   "funcion_es": "Deseo y emoción"
+  }
+ ],
+ "grupos": [
+  {
+   "id": "restrictivo",
+   "etiqueta": "Restrictivo — solo / nada más que"
+  },
+  {
+   "id": "posibilidad_formal",
+   "etiqueta": "Posibilidad formal (poder / no poder en principio)"
+  },
+  {
+   "id": "obligacion",
+   "etiqueta": "Obligación — no queda otra opción"
+  },
+  {
+   "id": "intencion",
+   "etiqueta": "Intención"
+  },
+  {
+   "id": "compulsion_emocional",
+   "etiqueta": "Compulsión emocional — no poder evitar"
+  },
+  {
+   "id": "concesion",
+   "etiqueta": "Concesión — aunque / a pesar de"
+  },
+  {
+   "id": "imposibilidad",
+   "etiqueta": "Imposibilidad / negación fuerte"
+  },
+  {
+   "id": "condicional_hipotetico",
+   "etiqueta": "Condicional hipotético poco probable"
+  },
+  {
+   "id": "temporal_abrupto",
+   "etiqueta": "Temporal abrupto — justo cuando / tan pronto como"
+  },
+  {
+   "id": "secuencia_prerequisito",
+   "etiqueta": "Secuencia / prerrequisito"
+  },
+  {
+   "id": "grado_extremo",
+   "etiqueta": "Grado extremo / proceso prolongado"
+  },
+  {
+   "id": "aspecto_verbal",
+   "etiqueta": "Aspecto verbal (empezar, terminar, continuar...)"
+  },
+  {
+   "id": "doble_negacion_suave",
+   "etiqueta": "Doble negación suave"
+  },
+  {
+   "id": "comparacion_preferencia",
+   "etiqueta": "Comparación de preferencia"
+  },
+  {
+   "id": "aprovechando",
+   "etiqueta": "Aprovechando la ocasión"
+  },
+  {
+   "id": "inclusion_no_solo",
+   "etiqueta": "No solo X sino también Y"
+  },
+  {
+   "id": "en_respuesta_a",
+   "etiqueta": "En respuesta a"
+  },
+  {
+   "id": "momento_formal",
+   "etiqueta": "Momento formal — al momento de / con motivo de"
+  },
+  {
+   "id": "basado_en",
+   "etiqueta": "Basado en / conforme a"
+  },
+  {
+   "id": "causa_positiva_negativa",
+   "etiqueta": "Causa con matiz positivo/negativo (おかげで・せいで・ばかりに)"
+  },
+  {
+   "id": "dificultad_posibilidad",
+   "etiqueta": "Dificultad / posibilidad de hacer algo"
+  },
+  {
+   "id": "bajo_guia_de",
+   "etiqueta": "Bajo la guía / en nombre de"
+  },
+  {
+   "id": "alcance_ambito",
+   "etiqueta": "Alcance / ámbito de aplicación"
+  },
+  {
+   "id": "proposito_adicional",
+   "etiqueta": "Propósito adicional"
+  },
+  {
+   "id": "vale_la_pena",
+   "etiqueta": "Vale / no vale la pena"
+  },
+  {
+   "id": "motivo_detonante",
+   "etiqueta": "Motivo detonante (formal vs. casual)"
+  },
+  {
+   "id": "tan_pronto_depende",
+   "etiqueta": "Tan pronto como / depende de"
+  },
+  {
+   "id": "peticion_cortes",
+   "etiqueta": "Petición cortés / keigo gramatical"
+  },
+  {
+   "id": "deseo_suave",
+   "etiqueta": "Deseo suave"
+  },
+  {
+   "id": "apariencia",
+   "etiqueta": "Apariencia — parece que / como si"
+  },
+  {
+   "id": "sorpresa_pesar",
+   "etiqueta": "Sorpresa o pesar"
+  },
+  {
+   "id": "causa_origen",
+   "etiqueta": "Causa / origen de una situación"
+  },
+  {
+   "id": "tendencia_ligera",
+   "etiqueta": "Tendencia ligera / síntoma leve"
+  },
+  {
+   "id": "definicion_tema",
+   "etiqueta": "Definición / introducción de tema"
+  },
+  {
+   "id": "evitar_innecesario",
+   "etiqueta": "Poder evitar / no ser necesario"
+  },
+  {
+   "id": "comparacion",
+   "etiqueta": "Comparación"
+  },
+  {
+   "id": "enfasis",
+   "etiqueta": "Énfasis"
+  },
+  {
+   "id": "punto_de_vista",
+   "etiqueta": "Punto de vista de alguien"
+  },
+  {
+   "id": "certeza",
+   "etiqueta": "Certeza / convicción"
+  },
+  {
+   "id": "conforme_a",
+   "etiqueta": "Conforme a / junto con"
+  },
+  {
+   "id": "contraste",
+   "etiqueta": "Contraste / en cambio"
+  },
+  {
+   "id": "cada_vez_que",
+   "etiqueta": "Cada vez que"
+  },
+  {
+   "id": "exclusion",
+   "etiqueta": "Exclusión — sin / excepto"
+  },
+  {
+   "id": "simultaneidad",
+   "etiqueta": "Simultaneidad — mientras / durante"
+  },
+  {
+   "id": "vago_ejemplos",
+   "etiqueta": "Ejemplos vagos / desprecio leve"
+  },
+  {
+   "id": "orientacion",
+   "etiqueta": "Orientación / dirigido a"
+  },
+  {
+   "id": "regret",
+   "etiqueta": "Arrepentimiento — debí haber"
+  },
+  {
+   "id": "causativa_pasiva",
+   "etiqueta": "Causativa-pasiva"
+  },
+  {
+   "id": "sin_hacer",
+   "etiqueta": "Sin hacer algo"
+  },
+  {
+   "id": "rol_calidad",
+   "etiqueta": "Rol / calidad de"
+  },
+  {
+   "id": "riesgo_temor",
+   "etiqueta": "Riesgo / temor de que"
+  },
+  {
+   "id": "sentimiento_puesto",
+   "etiqueta": "Sentimiento puesto en algo"
+  },
+  {
+   "id": "determinacion",
+   "etiqueta": "Determinación / decisión firme"
+  },
+  {
+   "id": "recordar_incierto",
+   "etiqueta": "Recordar algo incierto"
+  },
+  {
+   "id": "dar_razon_excusa",
+   "etiqueta": "Dar razón o excusa"
+  },
+  {
+   "id": "inutil",
+   "etiqueta": "No sirve de nada / es inútil"
+  },
+  {
+   "id": "standalone_manera",
+   "etiqueta": "Manera de hacer / tras un tiempo"
+  },
+  {
+   "id": "en_lugar_de",
+   "etiqueta": "En lugar de / en representación de"
+  }
+ ]
+}
