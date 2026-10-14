@@ -3727,11 +3727,11 @@
     },
     {
       "idExterno": "seed-34",
-      "rev": 8,
+      "rev": 11,
       "teoria": {
         "estructura": "V[ます形] ＋ 抜（ぬ）く",
         "antecede": "Raíz ます de un verbo que implica esfuerzo, resistencia o superar obstáculos (走り抜く, やり抜く, 耐え抜く).",
-        "sigue": "Indica que la acción se completó a pesar de los obstáculos; connota mérito por haber resistido.",
+        "sigue": "Uso 1: la acción se completó pese a los obstáculos (走り抜く), con mérito. Uso 2: se hizo a fondo, sin dejar nada (考え抜く).",
         "oracion": {
           "ja": "最後まで走り抜くつもりだ。",
           "es": "Tengo intención de correr hasta el final, pase lo que pase.",
@@ -11245,17 +11245,17 @@
     },
     {
       "idExterno": "seed-134",
-      "rev": 4,
+      "rev": 7,
       "teoria": {
         "estructura": "V辞書形／N ＋ どころではない／どころじゃない",
         "antecede": "Verbo en forma plana o sustantivo que designa algo que las circunstancias actuales impiden al hablante hacer o considerar.",
-        "sigue": "Indica que la situación es tan apremiante que no hay lugar para V o N; connota urgencia o imposibilidad circunstancial.",
+        "sigue": "Uso 1: la urgencia no deja lugar a V o N. Uso 2: niega una idea para decir que es mucho más (上手どころではない).",
         "oracion": {
           "ja": "それどころではない。",
           "es": "No estamos para eso ahora mismo.",
           "parte": "どころではない"
         },
-        "intencion": "El hablante declara que las circunstancias presentes no dan margen para V. La imposibilidad no es lógica sino situacional: la urgencia del contexto excluye esa posibilidad.",
+        "intencion": "Uso 1: declaras que las circunstancias no dan margen para V; la urgencia lo excluye. Uso 2: rechazas una idea por quedarse corta: la realidad es mucho más que eso.",
         "parecidos": [
           "seed-81",
           "seed-132"
@@ -16136,17 +16136,17 @@
     },
     {
       "idExterno": "seed-179",
-      "rev": 6,
+      "rev": 9,
       "teoria": {
         "estructura": "V辞書形／Vた／Vている ＋ 限り（では）；Nの ＋ 限りでは（私の知る限り, 見た限りでは）",
-        "antecede": "Verbo o frase que describe el ámbito de conocimiento del hablante.",
-        "sigue": "Afirmación válida únicamente dentro de ese alcance; el hablante advierte implícitamente que fuera de ese marco puede diferir.",
+        "antecede": "Uso 1: V辞書形／Vている／Nの (condición que dura). Uso 2 (限りでは): verbo de información (見る, 聞く, 知る, 調べた).",
+        "sigue": "Uso 1: lo que sigue se mantiene mientras la condición dure. Uso 2: afirmación válida solo según esa información, sin generalizar.",
         "oracion": {
           "ja": "私の知る限り、問題はない。",
           "es": "Que yo sepa, no hay problema.",
           "parte": "限り"
         },
-        "intencion": "El hablante circunscribe la validez de su afirmación a un ámbito específico. No afirma universalmente; solo compromete lo que sabe o ve desde su posición.",
+        "intencion": "Uso 1 (限り): mientras dure la condición, algo se mantiene o no cambia. Uso 2 (限りでは): el hablante limita su afirmación a lo que sabe o ha visto, sin comprometerse más allá.",
         "parecidos": [
           "seed-180",
           "seed-181"
