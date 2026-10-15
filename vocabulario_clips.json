@@ -1,0 +1,5427 @@
+{
+  "esquema": "percha-vocab-clips",
+  "version": 1,
+  "generado": "2026-10-15T07:32:04.731Z",
+  "fuentes": [
+    {
+      "id": "episodio_3",
+      "trackId": 65,
+      "etiqueta": "Matt vs Japan",
+      "tipo": "podcast",
+      "revisada": true
+    },
+    {
+      "id": "episodio_2",
+      "trackId": 66,
+      "etiqueta": "ゆる言語学ラジオ",
+      "tipo": "podcast",
+      "revisada": false
+    },
+    {
+      "id": "episodio_1",
+      "trackId": 64,
+      "etiqueta": "ゆる言語学ラジオ",
+      "tipo": "podcast",
+      "revisada": false
+    },
+    {
+      "id": "NMK-S22-K1",
+      "trackId": 109,
+      "etiqueta": "Nameraka 22-1",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S15-K2",
+      "trackId": 96,
+      "etiqueta": "Nameraka 15-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S20-K2",
+      "trackId": 106,
+      "etiqueta": "Nameraka 20-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "episodio_4",
+      "trackId": 118,
+      "etiqueta": "episodio_4",
+      "tipo": "podcast",
+      "revisada": false
+    },
+    {
+      "id": "weirdos_52",
+      "trackId": 117,
+      "etiqueta": "weirdos_52",
+      "tipo": "podcast",
+      "revisada": false
+    },
+    {
+      "id": "weirdos_52a",
+      "trackId": 116,
+      "etiqueta": "weirdos_52a",
+      "tipo": "podcast",
+      "revisada": false
+    },
+    {
+      "id": "NMK-S10-K1",
+      "trackId": 85,
+      "etiqueta": "Nameraka 10-1",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S19-K1",
+      "trackId": 103,
+      "etiqueta": "Nameraka 19-1",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S13-K1",
+      "trackId": 91,
+      "etiqueta": "Nameraka 13-1",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S23-K2",
+      "trackId": 112,
+      "etiqueta": "Nameraka 23-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S14-K2",
+      "trackId": 94,
+      "etiqueta": "Nameraka 14-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S01-K1",
+      "trackId": 67,
+      "etiqueta": "Nameraka 01-1",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S16-K2",
+      "trackId": 98,
+      "etiqueta": "Nameraka 16-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S08-K2",
+      "trackId": 82,
+      "etiqueta": "Nameraka 08-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S18-K2",
+      "trackId": 102,
+      "etiqueta": "Nameraka 18-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S03-K2",
+      "trackId": 72,
+      "etiqueta": "Nameraka 03-2",
+      "tipo": "libro",
+      "revisada": true
+    },
+    {
+      "id": "NMK-S21-K2",
+      "trackId": 108,
+      "etiqueta": "Nameraka 21-2",
+      "tipo": "libro",
+      "revisada": true
+    }
+  ],
+  "palabras": [
+    {
+      "id": "vaud_0001",
+      "palabraJP": "人生",
+      "lectura": "じんせい",
+      "significado": "vida",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 555.64,
+          "fin": 562.12,
+          "jp": "まあ、いろいろ人生の色んな場面で、質と量のどっちのほうが大事なのかっていう議論、",
+          "parte": "人生",
+          "es": "Bueno, en distintas situaciones de la vida, el debate de cuál importa más, si la calidad o la cantidad...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 205.62,
+          "fin": 213.34,
+          "jp": "だから、もう自分の人生の半分ぐらいなんですけど、でも、頑張って日本語を勉強してたのは、５年ぐらいですかね。",
+          "parte": "人生",
+          "es": "O sea, ya es como la mitad de mi vida, pero los años que estudié japonés en serio fueron como cinco, ¿no?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 363.68,
+          "fin": 367.06,
+          "jp": "豊かな人生また明日とかまた見ようよ",
+          "parte": "人生",
+          "es": "Una vida plena... bueno, mañana o ya lo vemos de nuevo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0002",
+      "palabraJP": "人間",
+      "lectura": "にんげん",
+      "significado": "seres humanos, personalidad, hombre",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 975.1,
+          "fin": 978.3,
+          "jp": "普通の人間を自分の喋り方のベースにしたら、",
+          "parte": "人間",
+          "es": "Si tomara a una persona común como base para mi forma de hablar...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 402.58,
+          "fin": 405.62,
+          "jp": "人間は遥か未来のことなんて考えられないんですよ",
+          "parte": "人間",
+          "es": "Los seres humanos no pueden pensar en algo tan lejano en el futuro.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1468.22,
+          "fin": 1473.06,
+          "jp": "その中で人間用猫用どうやって区別してるのかが",
+          "parte": "人間",
+          "es": "Entre eso, cómo distinguen lo que es para humanos y lo que es para gatos...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0005",
+      "palabraJP": "親戚",
+      "lectura": "しんせき",
+      "significado": "parientes",
+      "clips": [
+        {
+          "fuente": "NMK-S22-K1",
+          "trackId": 109,
+          "inicio": 8.44,
+          "fin": 13.78,
+          "jp": "そうね。じゃ、これ届けてちょうだい。大阪の親戚の家まで。",
+          "parte": "親戚",
+          "es": "Ya veo. Entonces llévale esto, hasta la casa de mis parientes en Osaka.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0006",
+      "palabraJP": "夫婦",
+      "lectura": "ふうふ",
+      "significado": "marido y mujer / pareja casada",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 344.5,
+          "fin": 347.96,
+          "jp": "恒例の夫婦がいてもし私が認知症になったら",
+          "parte": "夫婦",
+          "es": "Hay una pareja que aparece regularmente, y si yo llegara a tener demencia...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 454.4,
+          "fin": 457.7,
+          "jp": "言い間違いを夫婦で貯めておりますありがとうございます",
+          "parte": "夫婦",
+          "es": "Llevamos un registro de los errores de habla como pareja. Gracias.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0008",
+      "palabraJP": "主人",
+      "lectura": "しゅじん",
+      "significado": "dueño",
+      "clips": [
+        {
+          "fuente": "NMK-S15-K2",
+          "trackId": 96,
+          "inicio": 17.66,
+          "fin": 21.04,
+          "jp": "3名です。主人とわたしと子供です。",
+          "parte": "主人",
+          "es": "Somos tres: mi esposo, yo y el niño.",
+          "ok": true
+        },
+        {
+          "fuente": "NMK-S20-K2",
+          "trackId": 106,
+          "inicio": 39.34,
+          "fin": 45.52,
+          "jp": "そうですか。ありがとうございます。主人が戻りましたら、そのように伝えておきます。",
+          "parte": "主人",
+          "es": "Entiendo. Muchas gracias. Cuando regrese mi esposo, le haré saber.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0016",
+      "palabraJP": "将来",
+      "lectura": "しょうらい",
+      "significado": "futuro",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1936.92,
+          "fin": 1940.94,
+          "jp": "実は近い将来食べるはちょっと生々しいので",
+          "parte": "将来",
+          "es": "En realidad, decir «comer» en un futuro cercano suena un poco crudo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 478.8,
+          "fin": 483.1,
+          "jp": "ゲゲゲのゲゲゲに将来的にはなる手前のね全部ゲになりそうですね",
+          "parte": "将来",
+          "es": "Antes de llegar a ser el GeGeGe de GeGeGe, parece que todo acabará siendo «Ge», ¿no?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2362.3,
+          "fin": 2366.56,
+          "jp": "将来恥かくんじゃないかとかは心配しなくてもいいですか心配?うーん大丈夫だと",
+          "parte": "将来",
+          "es": "¿No hay que preocuparse de pasar vergüenza en el futuro? ¿Preocupación? Mmm, creo que está bien.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0017",
+      "palabraJP": "才能",
+      "lectura": "さいのう",
+      "significado": "talento, aptitud natural",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2066.16,
+          "fin": 2072.1,
+          "jp": "僕のラッパーとしての才能を皆さん評価してください暇なったなっていう感じではあるね",
+          "parte": "才能",
+          "es": "Por favor evalúen mi talento como rapero... da la sensación de que me quedé sin nada que hacer.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0020",
+      "palabraJP": "個性",
+      "lectura": "こせい",
+      "significado": "personalidad, individualidad, características propias.",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2547.43,
+          "fin": 2550.71,
+          "jp": "この番組は一応個性みたいなの",
+          "parte": "個性",
+          "es": "Este programa tiene algo así como su propia personalidad, digamos.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2550.71,
+          "fin": 2554.17,
+          "jp": "個性とか自分らしさみたいなのをテーマにしてて",
+          "parte": "個性",
+          "es": "Con temas como la individualidad o ser uno mismo...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0022",
+      "palabraJP": "動作",
+      "lectura": "どうさ",
+      "significado": "movimientos",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 943.14,
+          "fin": 948.34,
+          "jp": "この動作この動作要するにふさぐっていう風に受け止めるっていうか",
+          "parte": "動作",
+          "es": "Este movimiento, este movimiento, en resumen se interpreta como «bloquear», digamos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0024",
+      "palabraJP": "睡眠",
+      "lectura": "すいみん",
+      "significado": "sueño, hora de dormir",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2093.86,
+          "fin": 2097.48,
+          "jp": "ちょっと堀本さんも睡眠不足が立たったような",
+          "parte": "睡眠",
+          "es": "Parece que Horimoto-san también resintió el efecto de no dormir bien.",
+          "ok": false,
+          "nota": "「立たった」parece error de transcripción automática por「たたった」(祟った, pasar factura)."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0034",
+      "palabraJP": "受験",
+      "lectura": "じゅけん",
+      "significado": "presentarse a un examen, especialmente de ingreso/admisión.",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 475.14,
+          "fin": 480.14,
+          "jp": "受験して入ってで最初は",
+          "parte": "受験",
+          "es": "Entré tras presentar el examen de admisión, y al principio...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 854.97,
+          "fin": 858.19,
+          "jp": "そこを目指して受験勉強とかしてましたね",
+          "parte": "受験",
+          "es": "Estudiaba para los exámenes de admisión apuntando a eso.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 999.6,
+          "fin": 1003.66,
+          "jp": "そこはすごい受験が遅くて",
+          "parte": "受験",
+          "es": "Ahí los exámenes de admisión son muy tardíos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0035",
+      "palabraJP": "専攻",
+      "lectura": "せんこう",
+      "significado": "especializarse en / estudiar como carrera o especialidad.",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 521.68,
+          "fin": 525.84,
+          "jp": "写真専攻かなっていう3つあって",
+          "parte": "専攻",
+          "es": "Había tres opciones, como fotografía, creo.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 529.24,
+          "fin": 534.84,
+          "jp": "謎にCG専攻行ったんですよね映画好きで入ったのに",
+          "parte": "専攻",
+          "es": "Por alguna razón me fui a la especialidad de CG, aunque entré porque me gustaba el cine.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 548.12,
+          "fin": 552.48,
+          "jp": "CG専攻だったんですよでそこでだからアニメ",
+          "parte": "専攻",
+          "es": "Era la especialidad de CG, y ahí, por eso, animación...",
+          "ok": false,
+          "nota": "Línea cortada que no termina ni se entiende sola."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0045",
+      "palabraJP": "尊敬",
+      "lectura": "そんけい",
+      "significado": "respeto",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1056.2,
+          "fin": 1061.42,
+          "jp": "尊敬にあふれすぎじゃないちょっとめっちゃなんかずっと本当はこうなりたい",
+          "parte": "尊敬",
+          "es": "¿No es demasiado respeto? Como que todo el tiempo en el fondo quiero ser así.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1527.18,
+          "fin": 1531.62,
+          "jp": "例えば食べるが尊敬語の場合は召し上がる",
+          "parte": "尊敬",
+          "es": "Por ejemplo, la forma de respeto de 'comer' es 'meshiagaru'.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 107.24,
+          "fin": 113.8,
+          "jp": "それを尊敬語にしないと失礼かなと思ったのでも怒らせてしまってをどうやって敬語にしたいかわかんなくて",
+          "parte": "尊敬",
+          "es": "Pensé que sería grosero no decirlo en forma de respeto, pero al haberlo hecho enojar, no sé cómo convertirlo en lenguaje formal.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0047",
+      "palabraJP": "期待",
+      "lectura": "きたい",
+      "significado": "decepcionante, que no cumple las expectativas.",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1735.16,
+          "fin": 1738.98,
+          "jp": "そういうのを期待せずに、少しでも理解しようっていう・・・",
+          "parte": "期待",
+          "es": "Sin esperar esas cosas, intentando entender aunque sea un poco...",
+          "ok": false,
+          "nota": "期待 aparece con el sentido de 'expectativa', no de 'decepcionante'."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0048",
+      "palabraJP": "苦労",
+      "lectura": "くろう",
+      "significado": "problemas, preocupaciones",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1725.8,
+          "fin": 1727.8,
+          "jp": "そうですよ。僕結構それで苦労したりしますね。",
+          "parte": "苦労",
+          "es": "Sí, la verdad yo también me las he visto difícil con eso.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0049",
+      "palabraJP": "意思",
+      "lectura": "いし",
+      "significado": "ser firme de voluntad, ser muy decidido.",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 758.29,
+          "fin": 763.47,
+          "jp": "別に自分で強い意思がとかいうわけではなくて",
+          "parte": "意思",
+          "es": "No es que tenga una voluntad especialmente fuerte por sí mismo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 706.42,
+          "fin": 709.72,
+          "jp": "あとは自分の意思で行動できるかどうか",
+          "parte": "意思",
+          "es": "Y además, si uno puede actuar por su propia voluntad.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 901,
+          "fin": 904.38,
+          "jp": "ただこの時この意思決定をした編集者の方々が",
+          "parte": "意思",
+          "es": "Solo que los editores que tomaron esta decisión en ese momento...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0051",
+      "palabraJP": "材料",
+      "lectura": "ざいりょう",
+      "significado": "ingredientes/materiales, según el contexto.",
+      "clips": [
+        {
+          "fuente": "NMK-S10-K1",
+          "trackId": 85,
+          "inicio": 0.9,
+          "fin": 4.28,
+          "jp": "材料が来た来た。さあ、お好み焼き、焼こうか。",
+          "parte": "材料",
+          "es": "¡Ya llegaron los ingredientes! Vamos, ¿le hacemos al okonomiyaki?",
+          "ok": true
+        },
+        {
+          "fuente": "NMK-S10-K1",
+          "trackId": 85,
+          "inicio": 12.08,
+          "fin": 17.12,
+          "jp": "ここでは自分で焼くんだよ。材料をぜんぶ混ぜて、鉄板の上にのせるだけだよ。",
+          "parte": "材料",
+          "es": "Aquí lo preparas tú mismo: mezclas todos los ingredientes y los pones sobre la plancha.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0063",
+      "palabraJP": "履歴",
+      "lectura": "りれき",
+      "significado": "currículum",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2118.71,
+          "fin": 2122.35,
+          "jp": "その履歴書だけ置いといてやるよ」みたいな",
+          "parte": "履歴",
+          "es": "Como diciendo 'Nomás te voy a dejar el currículum'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0069",
+      "palabraJP": "徒歩",
+      "lectura": "とほ",
+      "significado": "a pie",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2071.23,
+          "fin": 2077.31,
+          "jp": "もう家徒歩1分とかだったんで酒を毎日飲みながら相談したり一緒に餃子作ったり",
+          "parte": "徒歩",
+          "es": "Como que vivía a un minuto caminando de casa, entonces todos los días tomábamos mientras platicábamos o hacíamos gyōza juntos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0070",
+      "palabraJP": "駐車",
+      "lectura": "ちゅうしゃ",
+      "significado": "estacionamiento",
+      "clips": [
+        {
+          "fuente": "NMK-S19-K1",
+          "trackId": 103,
+          "inicio": 30.7,
+          "fin": 37.28,
+          "jp": "スーパーは10時開店ですよ。まだ30分以上ありますよ。有料駐車場なら、駅前にありますけど…",
+          "parte": "駐車",
+          "es": "El súper abre a las 10. Todavía faltan más de 30 minutos. De estacionamiento de pago, hay uno frente a la estación, pero...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0071",
+      "palabraJP": "違反",
+      "lectura": "いはん",
+      "significado": "infringir / incumplir / violar una regla o norma",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1136.46,
+          "fin": 1139.96,
+          "jp": "違反してるやつを発見してボットで警告させるっていうシステムまで組んだんで",
+          "parte": "違反",
+          "es": "Incluso armé un sistema para detectar a quien violara las reglas y mandarle una advertencia con un bot.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2181.04,
+          "fin": 2186.08,
+          "jp": "Googleドライブの使い方違反してる人を見つけたら怒りに行くっていうシステムにしました今回",
+          "parte": "違反",
+          "es": "Esta vez hice un sistema en el que, si encuentra a alguien usando mal Google Drive, va a reclamarle.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0074",
+      "palabraJP": "日中",
+      "lectura": "にっちゅう",
+      "significado": "durante el día.",
+      "clips": [
+        {
+          "fuente": "NMK-S13-K1",
+          "trackId": 91,
+          "inicio": 24.36,
+          "fin": 30.8,
+          "jp": "え？一日中？ううん。朝一番に車で飲み物を運んでくれるだけでいいんだけど。",
+          "parte": "日中",
+          "es": "¿Eh? ¿Todo el día? No. Solo necesito que me traigan bebidas en coche a primera hora de la mañana.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 481.88,
+          "fin": 488.22,
+          "jp": "本当に一日中、そのまま流しっぱなしにしても、充電なくならないで、",
+          "parte": "日中",
+          "es": "De verdad, aunque lo dejes reproduciendo todo el día, la batería no se agota.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1175.52,
+          "fin": 1180.2,
+          "jp": "で、本当に一日中、日本語を読んだり、聞いたりしてたんですけど、",
+          "parte": "日中",
+          "es": "Y de verdad estuve todo el día leyendo y escuchando japonés.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0078",
+      "palabraJP": "時期",
+      "lectura": "じき",
+      "significado": "época de mucho trabajo",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1304.02,
+          "fin": 1307.66,
+          "jp": "また一年間ぐらい、アウトプットを全然しない時期、もう一回入ったんですよ。",
+          "parte": "時期",
+          "es": "Volví a pasar como un año entero sin hacer nada de output.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 994.8,
+          "fin": 998.96,
+          "jp": "自分の日本語がちょっとだけアニメ寄りだった時期はあるんですけど、",
+          "parte": "時期",
+          "es": "Sí hubo una época en que mi japonés tenía un ligero tono de anime.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 403.57,
+          "fin": 407.49,
+          "jp": "日本が占領してた時期が",
+          "parte": "時期",
+          "es": "La época en que Japón ocupó...",
+          "ok": false,
+          "nota": "La línea está cortada y no se entiende sola."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0079",
+      "palabraJP": "現在",
+      "lectura": "げんざい",
+      "significado": "ahora, actualidad",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1024.92,
+          "fin": 1028.14,
+          "jp": "どんどん現在で使われてる意味で発展させちゃうようなことって結構あるから",
+          "parte": "現在",
+          "es": "Es bastante común que una palabra evolucione adoptando el significado con el que se usa hoy en día.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2819.68,
+          "fin": 2823.54,
+          "jp": "現在179ドルでちょっとお安く買えるようになっております日本円に直すと",
+          "parte": "現在",
+          "es": "Actualmente lo puedes comprar a 179 dólares, un poco más barato. En yenes japoneses eso equivale a...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2347.49,
+          "fin": 2353.77,
+          "jp": "みたいな現在のことを言ってるのにIfIwereabird,Iwouldflytoyouみたいに",
+          "parte": "現在",
+          "es": "Aunque están hablando del presente, lo expresan como «If I were a bird, I would fly to you».",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0081",
+      "palabraJP": "費用",
+      "lectura": "ひよう",
+      "significado": "gastos, costo.",
+      "clips": [
+        {
+          "fuente": "NMK-S23-K2",
+          "trackId": 112,
+          "inicio": 16.08,
+          "fin": 21.38,
+          "jp": "若いうちにいろんな経験をするのはいいことだけど、費用は自分で何とかしろよ。",
+          "parte": "費用",
+          "es": "Está bien tener muchas experiencias de joven, pero los gastos córrelos por tu cuenta.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0082",
+      "palabraJP": "定価",
+      "lectura": "ていか",
+      "significado": "precio establecido (oficial), precio de lista.",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2817.24,
+          "fin": 2822.62,
+          "jp": "こちらのデバイス定価199ドルのところ現在179ドルでちょっとお安く買えるようになっております",
+          "parte": "定価",
+          "es": "Este dispositivo, cuyo precio de lista es 199 dólares, ahora lo puedes adquirir a 179 dólares.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0084",
+      "palabraJP": "おまけ",
+      "lectura": "おまけ",
+      "significado": "conseguir que te hagan una rebaja / que te den algo extra.",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2343.15,
+          "fin": 2347.49,
+          "jp": "おまけにその今鳥だったらそちらに飛んでいくのに",
+          "parte": "おまけ",
+          "es": "Y además, si fuera un pájaro ahora mismo, volaría hacia allá.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0085",
+      "palabraJP": "無料",
+      "lectura": "むりょう",
+      "significado": "gratuito",
+      "clips": [
+        {
+          "fuente": "NMK-S14-K2",
+          "trackId": 94,
+          "inicio": 39.08,
+          "fin": 46.02,
+          "jp": "それから、入門者のための無料コースもございますよ。土曜日の午後1時から3時半までなんですけど…",
+          "parte": "無料",
+          "es": "Además, también tenemos un curso gratuito para principiantes, los sábados de 1 a 3:30 p.m.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2831.12,
+          "fin": 2835.04,
+          "jp": "無料で文字起こしができるっていうハードウェアにソフトウェアの機能もついてくる",
+          "parte": "無料",
+          "es": "También incluye una función de hardware y software que permite transcribir texto de forma gratuita.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0088",
+      "palabraJP": "収入",
+      "lectura": "しゅうにゅう",
+      "significado": "ingresos",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 250.69,
+          "fin": 256.82,
+          "jp": "単純に収入とかのことでバイトで生きている",
+          "parte": "収入",
+          "es": "Simplemente vivo del trabajo de medio tiempo por cuestiones de ingresos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0091",
+      "palabraJP": "利益",
+      "lectura": "りえき",
+      "significado": "ganancias, beneficios.",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2279.02,
+          "fin": 2283.42,
+          "jp": "今どんな利益があったのかわかんないですけどカジサックさんのコラボ商品を一個作れる可能性が出てきました",
+          "parte": "利益",
+          "es": "No sé bien qué beneficios trajo, pero surgió la posibilidad de crear un producto en colaboración con Kajisac.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0093",
+      "palabraJP": "経費",
+      "lectura": "けいひ",
+      "significado": "gastar/invertir dinero en algo",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 708.1,
+          "fin": 712.12,
+          "jp": "経費の領収書とかも会社の経費の領収書も全部一個の",
+          "parte": "経費",
+          "es": "Los recibos de gastos, también los recibos de gastos de la empresa, todos en uno solo...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0099",
+      "palabraJP": "募集",
+      "lectura": "ぼしゅう",
+      "significado": "buscar/reclutar personas.",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1191.85,
+          "fin": 1195.97,
+          "jp": "募集してますっていうのも",
+          "parte": "募集",
+          "es": "También anuncian que están buscando personas.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2773.94,
+          "fin": 2781.06,
+          "jp": "皆さんの身の回りのお子さんのミステイクも引き続き概要欄のフォームから募集しておりますのでぜひそちらにどしどしお寄せください",
+          "parte": "募集",
+          "es": "Seguimos recibiendo errores de los niños de su entorno mediante el formulario en la descripción, así que no duden en enviarnos todos los que quieran.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0100",
+      "palabraJP": "価値",
+      "lectura": "かち",
+      "significado": "tener un valor alto / ser más valioso.",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 418.42,
+          "fin": 423.44,
+          "jp": "だから人間から見て希少だったり価値があるって感じていると",
+          "parte": "価値",
+          "es": "Por eso, cuando los humanos perciben algo como escaso o valioso, suele pasar que...",
+          "ok": false,
+          "nota": "La línea está cortada y no concluye la idea."
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1327.32,
+          "fin": 1330.92,
+          "jp": "価値が高いからはい情報構造に失敗する組織って",
+          "parte": "価値",
+          "es": "Como tiene un valor alto, las organizaciones que fallan en la estructura de información...",
+          "ok": false,
+          "nota": "\"はい\" en medio parece artefacto de transcripción automática; la oración queda incompleta e incoherente."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0102",
+      "palabraJP": "嫌う",
+      "lectura": "きらう",
+      "significado": "odiar, detestar, no soportar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 84.95,
+          "fin": 91.27,
+          "jp": "あれはなんで日本語話者から嫌われているんだろうとかそういう身近なテーマとかを元に話している番組になります",
+          "parte": "嫌わ",
+          "es": "¿Por qué eso es tan odiado por los hablantes de japonés? Es un programa que trata temas cotidianos como ese.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0107",
+      "palabraJP": "疑う",
+      "lectura": "うたがう",
+      "significado": "sospechar, dudar",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 789.16,
+          "fin": 794,
+          "jp": "変に企画ってんだろ疑えよなんで疑わないんだよあれは番号を伝えればよかったのに",
+          "parte": "疑え",
+          "es": "Qué plan tan raro, ¿no? ¡Desconfía! ¿Por qué no dudas? Con haber dado el número habría bastado.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 832.16,
+          "fin": 836.44,
+          "jp": "お前疑ってくれよ頼むからなんで疑いなくやってたの",
+          "parte": "疑っ",
+          "es": "¡Por favor, sospecha de mí! ¿Cómo es que lo hacías sin dudar?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1217.56,
+          "fin": 1220.56,
+          "jp": "疑わなくて済む僕の会社のシステムとかでも",
+          "parte": "疑わ",
+          "es": "Con los sistemas de mi empresa y demás, donde ya no hace falta sospechar de nada...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0120",
+      "palabraJP": "かぶる",
+      "lectura": "かぶる",
+      "significado": "ponerse (algo en la cabeza), cubrirse",
+      "clips": [
+        {
+          "fuente": "NMK-S01-K1",
+          "trackId": 67,
+          "inicio": 14.42,
+          "fin": 19.26,
+          "jp": "まだわからない？ほら、一番きれいな人だよ、ぼうしかぶってる。",
+          "parte": "かぶっ",
+          "es": "¿Todavía no sabes quién es? Mira, es la persona más bonita, la que lleva sombrero puesto.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 158.2,
+          "fin": 161.56,
+          "jp": "それ言い出したら猫かぶるとかも言えなくなるから確かに漢訳全部ダメか",
+          "parte": "かぶる",
+          "es": "Si empezamos con eso, tampoco podríamos decir 猫かぶる, así que sí, todas las traducciones al chino quedarían descartadas.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0125",
+      "palabraJP": "敷く",
+      "lectura": "しく",
+      "significado": "extender, colocar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1869.34,
+          "fin": 1873.3,
+          "jp": "日本語だけが皆さんに理不尽を敷いてるわけではないっていうことは",
+          "parte": "敷い",
+          "es": "No es solo el japonés el que les impone lo absurdo a todos ustedes.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0129",
+      "palabraJP": "掘る",
+      "lectura": "ほる",
+      "significado": "cavar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 995.36,
+          "fin": 998.98,
+          "jp": "身を隠すための掘った場所を指していた",
+          "parte": "掘っ",
+          "es": "Se refería al lugar excavado para esconderse.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0138",
+      "palabraJP": "横切る",
+      "lectura": "よこぎる",
+      "significado": "cruzar, atravesar",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 907.86,
+          "fin": 911.74,
+          "jp": "言葉が通じない土地に行ってうさぎが横切ったときに",
+          "parte": "横切っ",
+          "es": "Cuando vas a una tierra donde no se habla tu idioma y un conejo cruza tu camino...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 921.18,
+          "fin": 924.36,
+          "jp": "飛び跳ねるって意味とか白いとか横切るとか走るって意味かもしれなくて",
+          "parte": "横切る",
+          "es": "Podría significar saltar, o blanco, o cruzar, o correr...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0143",
+      "palabraJP": "かかる",
+      "lectura": "かかる",
+      "significado": "contraer, enfermarse de",
+      "clips": [
+        {
+          "fuente": "NMK-S16-K2",
+          "trackId": 98,
+          "inicio": 9.52,
+          "fin": 14.82,
+          "jp": "じゃ、第7会議室を使ってください。その部屋にはかぎがかかっているんですか。",
+          "parte": "かかっ",
+          "es": "Entonces use la sala de reuniones 7. ¿Esa sala tiene cerrojo puesto?",
+          "ok": false,
+          "nota": "かかる aquí significa \"estar cerrado con llave\" (鍵がかかる), no \"contraer una enfermedad\"."
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 334.74,
+          "fin": 337.94,
+          "jp": "たぶん３年ぐらいかかったですかね。",
+          "parte": "かかっ",
+          "es": "Creo que me tomó unos tres años, más o menos.",
+          "ok": false,
+          "nota": "かかる aquí significa \"tomar tiempo\", no \"contraer una enfermedad\"."
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1090.66,
+          "fin": 1097.74,
+          "jp": "5年かかった」って言ってたじゃないですか。で、一番効果的だった方法を教えてもらえますか。",
+          "parte": "かかっ",
+          "es": "Dijo que le tomó cinco años. ¿Podría contarme cuál fue el método más efectivo?",
+          "ok": false,
+          "nota": "かかる aquí significa \"tomar tiempo\", no \"contraer una enfermedad\"."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0149",
+      "palabraJP": "稼ぐ",
+      "lectura": "かせぐ",
+      "significado": "ganar (dinero), ganarse",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1917.21,
+          "fin": 1921.11,
+          "jp": "俳優で売れたらお金をいっぱい稼いで",
+          "parte": "稼い",
+          "es": "Si triunfo como actor, ganaré muchísimo dinero...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 364.17,
+          "fin": 369.09,
+          "jp": "すごい稼がしてもらったんですねでお金貯めて",
+          "parte": "稼が",
+          "es": "Le hicieron ganar un montón, ¿verdad? Y con eso fue ahorrando dinero...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0151",
+      "palabraJP": "受け取る",
+      "lectura": "うけとる",
+      "significado": "recibir",
+      "clips": [
+        {
+          "fuente": "NMK-S08-K2",
+          "trackId": 82,
+          "inicio": 3.92,
+          "fin": 7.08,
+          "jp": "何だね。これ、受け取ってください。",
+          "parte": "受け取っ",
+          "es": "¿Qué es esto? Por favor, acéptalo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1943,
+          "fin": 1946.92,
+          "jp": "下品に受け取られますって言われる可能性がある食らうとか",
+          "parte": "受け取ら",
+          "es": "Existe la posibilidad de que te digan que puede recibirse como algo vulgar, como el caso de 食らう.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0152",
+      "palabraJP": "払い込む",
+      "lectura": "はらいこむ",
+      "significado": "ingresar, pagar mediante transferencia/depósito",
+      "clips": [
+        {
+          "fuente": "NMK-S18-K2",
+          "trackId": 102,
+          "inicio": 0,
+          "fin": 4.8,
+          "jp": "すみません。NHK料金を払い込みたいんですけど…",
+          "parte": "払い込み",
+          "es": "Disculpe, quisiera hacer el pago de la cuota de NHK...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0157",
+      "palabraJP": "落ち込む",
+      "lectura": "おちこむ",
+      "significado": "caer, deprimirse",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2374.04,
+          "fin": 2377.22,
+          "jp": "ちょっと落ち込んで",
+          "parte": "落ち込ん",
+          "es": "Me deprimí un poco...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1276.84,
+          "fin": 1280.22,
+          "jp": "落ち込みますからねそういうリスク無駄足っていうのを避けた結果",
+          "parte": "落ち込み",
+          "es": "Es que te deprimes, eso es el resultado de evitar ese tipo de riesgo de hacer viajes en vano.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0158",
+      "palabraJP": "売れる",
+      "lectura": "うれる",
+      "significado": "venderse, tener ventas",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1905.21,
+          "fin": 1910.41,
+          "jp": "俳優で売れたらいくらでも映画撮れんじゃねえかと思ったんですよ",
+          "parte": "売れ",
+          "es": "Pensé que si me hacía famoso como actor podría hacer todas las películas que quisiera.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1917.21,
+          "fin": 1921.11,
+          "jp": "俳優で売れたらお金をいっぱい稼いで",
+          "parte": "売れ",
+          "es": "Si triunfo como actor, voy a ganar mucho dinero...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2496.05,
+          "fin": 2499.71,
+          "jp": "ちなみに現時点でどのくらい売れてるかとか",
+          "parte": "売れ",
+          "es": "Por cierto, ¿cuánto se está vendiendo hasta ahora?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0162",
+      "palabraJP": "固まる",
+      "lectura": "かたまる",
+      "significado": "endurecerse, solidificarse",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2211.5,
+          "fin": 2214.72,
+          "jp": "そのかっちり固まっちゃってるから漢字側を寄せるって",
+          "parte": "固まっ",
+          "es": "Como ya está bien fijo, se acerca el lado del kanji.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0163",
+      "palabraJP": "固める",
+      "lectura": "かためる",
+      "significado": "solidificar, endurecer",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1717.26,
+          "fin": 1720.86,
+          "jp": "でギュッと固めて塩漬けにしたやつが売られてたら",
+          "parte": "固め",
+          "es": "Si estuvieran vendiendo algo bien apretado y conservado en sal...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0169",
+      "palabraJP": "下がる",
+      "lectura": "さがる",
+      "significado": "bajar, descender; colgar",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 785.2,
+          "fin": 788.76,
+          "jp": "あれのせいで世界の幸せ下がってんだよあそっか俺あれ疑ってなかったけど",
+          "parte": "下がっ",
+          "es": "Por culpa de eso está bajando la felicidad en el mundo. Ah, es cierto, yo no lo había cuestionado.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2267.68,
+          "fin": 2270.92,
+          "jp": "ちょっと容認度下がりますサクサクはより言いづらいそうですね",
+          "parte": "下がり",
+          "es": "La aceptabilidad baja un poco. Sakusaku es más difícil de decir. Sí, claro.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0171",
+      "palabraJP": "転がる",
+      "lectura": "ころがる",
+      "significado": "rodar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2647.21,
+          "fin": 2650.85,
+          "jp": "僕こう転がって転がって進んで進んで後退して",
+          "parte": "転がっ",
+          "es": "Yo así, rodando y rodando, avanzando y avanzando, y luego retrocediendo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0172",
+      "palabraJP": "転がす",
+      "lectura": "ころがす",
+      "significado": "hacer rodar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1463.28,
+          "fin": 1471.8,
+          "jp": "床にキャリーケースをガラガラそのまま転がしてくる人と転がしてこない人みたいな",
+          "parte": "転がし",
+          "es": "Como las personas que arrastran su maleta rodante haciendo ruido por el piso y las que no.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0177",
+      "palabraJP": "散らかす",
+      "lectura": "ちらかす",
+      "significado": "desordenar, dejar desordenado",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 107.4,
+          "fin": 111.9,
+          "jp": "人はGoogleドライブを散らかしてしまう定めなのだということが分かる",
+          "parte": "散らかし",
+          "es": "Se puede ver que las personas están destinadas a desordenar su Google Drive.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0178",
+      "palabraJP": "散らばる",
+      "lectura": "ちらばる",
+      "significado": "estar esparcido, estar disperso",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1195.52,
+          "fin": 1198.88,
+          "jp": "散らばってますもんね散らばっていて業務フローが変更になったのに",
+          "parte": "散らばっ",
+          "es": "Sí, están todos dispersos, y aunque el flujo de trabajo cambió...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0180",
+      "palabraJP": "挟まる",
+      "lectura": "はさまる",
+      "significado": "quedar atrapado/atascado entre",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1354.22,
+          "fin": 1358.32,
+          "jp": "一定間隔で広告が挟まると親は広告だと言いながらスキップするので",
+          "parte": "挟まる",
+          "es": "Cuando los anuncios se insertan a intervalos regulares, los padres los saltan diciendo que son anuncios.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0181",
+      "palabraJP": "挟む",
+      "lectura": "はさむ",
+      "significado": "atrapar entre, interponer",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2427.28,
+          "fin": 2431.62,
+          "jp": "別の宣伝挟まないと忙しい忙しいこれ今井先生の新刊なんですけど",
+          "parte": "挟ま",
+          "es": "Si no meto otro anuncio... estoy muy ocupado, ocupado... este es el nuevo libro del profesor Imai.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0192",
+      "palabraJP": "震える",
+      "lectura": "ふるえる",
+      "significado": "temblar",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1207.46,
+          "fin": 1212.66,
+          "jp": "そうですねはい震えますね喉から出ててで子音は単になんか口の空気の流れで出してる",
+          "parte": "震え",
+          "es": "Sí, vibra. Sale de la garganta, y las consonantes se producen simplemente con el flujo de aire en la boca.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0194",
+      "palabraJP": "あふれる",
+      "lectura": "あふれる",
+      "significado": "desbordarse",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1056.2,
+          "fin": 1061.42,
+          "jp": "尊敬にあふれすぎじゃないちょっとめっちゃなんかずっと本当はこうなりたい",
+          "parte": "あふれ",
+          "es": "¿No está desbordando demasiado respeto? Es que siempre he querido de verdad ser así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0195",
+      "palabraJP": "余る",
+      "lectura": "あまる",
+      "significado": "sobrar",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1439.62,
+          "fin": 1443.54,
+          "jp": "余った食べ物とかをあげても食べない食べないで余った食べ物どころか",
+          "parte": "余っ",
+          "es": "Aunque le des comida que sobró no se la come, y no solo la comida sobrante...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1441.74,
+          "fin": 1445.8,
+          "jp": "で余った食べ物どころか一般的には猫がすごい好きだったら",
+          "parte": "余っ",
+          "es": "Y no solo la comida sobrante; por lo general, si al gato le gusta mucho algo...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0198",
+      "palabraJP": "戦う",
+      "lectura": "たたかう",
+      "significado": "luchar, combatir",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1507.74,
+          "fin": 1510.96,
+          "jp": "戦ってきてますすべての連絡ツールを",
+          "parte": "戦っ",
+          "es": "He estado luchando contra todas las herramientas de comunicación.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2625.96,
+          "fin": 2630.66,
+          "jp": "パチンコとか競馬とかもいろいろ攻略を考えて戦っていけたーいけなかったで一騎一遊する",
+          "parte": "戦っ",
+          "es": "Con el pachinko y las carreras de caballos, ideando estrategias y luchando, si funciona o no, jugando de una en una.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 2599.4,
+          "fin": 2604.74,
+          "jp": "僕らyoutuberって完全にブラックボックスなyoutubeのアルゴリズムと戦ってるんですよ",
+          "parte": "戦っ",
+          "es": "Nosotros los youtubers estamos peleando contra el algoritmo de YouTube, que es completamente una caja negra.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0203",
+      "palabraJP": "戻る",
+      "lectura": "もどる",
+      "significado": "regresar, volver",
+      "clips": [
+        {
+          "fuente": "NMK-S20-K2",
+          "trackId": 106,
+          "inicio": 39.34,
+          "fin": 45.52,
+          "jp": "そうですか。ありがとうございます。主人が戻りましたら、そのように伝えておきます。",
+          "parte": "戻り",
+          "es": "Ya veo. Muchas gracias. Cuando regrese mi esposo, le transmitiré eso.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2784.3,
+          "fin": 2787.34,
+          "jp": "やっぱ部屋に戻ろうってことがあってもするだろうし",
+          "parte": "戻ろ",
+          "es": "También puede haber momentos en que de todas formas quieras volver al cuarto, y lo harías.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0204",
+      "palabraJP": "戻す",
+      "lectura": "もどす",
+      "significado": "devolver, regresar algo a su lugar",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 376.28,
+          "fin": 380.48,
+          "jp": "話戻しますとこれカスIT環境っていうね",
+          "parte": "戻し",
+          "es": "Volviendo al tema, esto es lo que llamamos un entorno de TI pésimo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2263.78,
+          "fin": 2267.8,
+          "jp": "これ動いてる危ないと思って戻したんだけどだから多分サポーターコミュニティで",
+          "parte": "戻し",
+          "es": "Pensé que era peligroso que esto estuviera en marcha así que lo regresé a su lugar, por eso probablemente en la comunidad de seguidores...",
+          "ok": false,
+          "nota": "Línea cortada, termina sin completar la idea."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0205",
+      "palabraJP": "はまる",
+      "lectura": "はまる",
+      "significado": "encajar, quedar ajustado",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2357.63,
+          "fin": 2361.85,
+          "jp": "それがすごい僕の英文法にはまるきっかけで",
+          "parte": "はまる",
+          "es": "Eso fue exactamente lo que me enganchó con la gramática inglesa.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0206",
+      "palabraJP": "はめる",
+      "lectura": "はめる",
+      "significado": "poner, encajar; abrochar",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1063.38,
+          "fin": 1066.98,
+          "jp": "割と正しくあれっていう枠にはめるようなことしてんのに",
+          "parte": "はめる",
+          "es": "A pesar de estar haciendo cosas que meten a la gente en el molde de 'sé correcto'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0207",
+      "palabraJP": "扱う",
+      "lectura": "あつかう",
+      "significado": "manejar, tratar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 56.45,
+          "fin": 60.11,
+          "jp": "ゆる言語学ラジオさんのどんなものを扱っているかとか聞いてもいいですか",
+          "parte": "扱っ",
+          "es": "¿Puedo preguntarle qué tipo de temas trata en Yuru Gengogaku Radio?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2335.16,
+          "fin": 2339.46,
+          "jp": "を扱いました理由は以下の2点でした1点目は未来を予想できずに",
+          "parte": "扱い",
+          "es": "Los motivos por los que cubrimos [eso] fueron los dos siguientes. El primero fue que no podíamos predecir el futuro y...",
+          "ok": false,
+          "nota": "Línea cortada: empieza con la partícula を, falta el sujeto y queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0208",
+      "palabraJP": "関わる",
+      "lectura": "かかわる",
+      "significado": "estar relacionado con, involucrarse en",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1182.36,
+          "fin": 1188.36,
+          "jp": "で、それで、その一年間のあとに、たまたま日本人と関わる機会があって、",
+          "parte": "関わる",
+          "es": "Y luego, después de ese año, surgió casualmente la oportunidad de relacionarme con japoneses.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 423.44,
+          "fin": 427.04,
+          "jp": "サイズに関わらず等が出てくるっていうのが",
+          "parte": "関わら",
+          "es": "...que aparece independientemente del tamaño...",
+          "ok": false,
+          "nota": "Línea cortada, termina con っていうのが sin completar la oración."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 306.26,
+          "fin": 314.38,
+          "jp": "それも役者やろうってなるときにちょっと関わってくるというか",
+          "parte": "関わっ",
+          "es": "Eso también se involucra un poco cuando uno decide ser actor, o algo así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0209",
+      "palabraJP": "目指す",
+      "lectura": "めざす",
+      "significado": "aspirar a, dirigirse hacia",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 854.97,
+          "fin": 858.19,
+          "jp": "そこを目指して受験勉強とかしてましたね",
+          "parte": "目指し",
+          "es": "Estudiaba para los exámenes de admisión apuntando hacia ese objetivo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0210",
+      "palabraJP": "立つ",
+      "lectura": "たつ",
+      "significado": "partir, irse",
+      "clips": [
+        {
+          "fuente": "NMK-S01-K1",
+          "trackId": 67,
+          "inicio": 3.26,
+          "fin": 6.86,
+          "jp": "後ろに立ってる人だよ。めがね、かけてる人？",
+          "parte": "立っ",
+          "es": "Es la persona que está parada atrás. ¿La que usa lentes?",
+          "ok": false,
+          "nota": "立つ aparece con el sentido de 'estar de pie', no de 'partir'."
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 37.04,
+          "fin": 43.14,
+          "jp": "皆さんの役にも、絶対立つと思います。はい、とういうことで、皆さんに楽しんでもらえたら嬉しいです。",
+          "parte": "立つ",
+          "es": "Estoy seguro de que también les será de mucha utilidad a ustedes. Bueno, con eso dicho, espero que lo disfruten.",
+          "ok": false,
+          "nota": "立つ aparece en 役に立つ (ser útil), no con el sentido de 'partir'; además 'とういうことで' parece error de transcripción."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2021.31,
+          "fin": 2026.07,
+          "jp": "で演劇の友達とかはいやもう劇団立ち上げるとか",
+          "parte": "立ち",
+          "es": "Los amigos del teatro decían que ya iban a fundar una compañía teatral o algo así.",
+          "ok": false,
+          "nota": "立つ aparece dentro de 立ち上げる (fundar/lanzar), no con el sentido independiente de 'partir'."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0211",
+      "palabraJP": "迎える",
+      "lectura": "むかえる",
+      "significado": "recibir, dar la bienvenida",
+      "clips": [
+        {
+          "fuente": "NMK-S03-K2",
+          "trackId": 72,
+          "inicio": 31.42,
+          "fin": 35.94,
+          "jp": "かまわないわ。いくら遅くなったってわたしは迎えに行くから。",
+          "parte": "迎え",
+          "es": "No me importa. No importa qué tan tarde se haga, iré a recogerte.",
+          "ok": true
+        },
+        {
+          "fuente": "NMK-S13-K1",
+          "trackId": 91,
+          "inicio": 33.32,
+          "fin": 37.32,
+          "jp": "じゃ、朝8時半に迎えに行くわ。よし。わかったよ。",
+          "parte": "迎え",
+          "es": "Entonces iré a recogerte a las 8:30 de la mañana. Bien. De acuerdo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0212",
+      "palabraJP": "持てる",
+      "lectura": "もてる",
+      "significado": "poder sostener; tener (una capacidad)",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1250.2,
+          "fin": 1254.22,
+          "jp": "興味が持てなくてカメラとか分かんないな",
+          "parte": "持て",
+          "es": "No puedo sentir interés; las cámaras y esas cosas no las entiendo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0222",
+      "palabraJP": "申し訳ない",
+      "lectura": "もうしわけない",
+      "significado": "sentirse apenado, lamentar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 55.05,
+          "fin": 60.11,
+          "jp": "申し訳ないんですけどもゆる言語学ラジオさんのどんなものを扱っているかとか聞いてもいいですか",
+          "parte": "申し訳ない",
+          "es": "Disculpe la molestia, pero ¿puedo preguntarle qué tipo de temas trata en Yuru Gengogaku Radio?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1437.24,
+          "fin": 1440.74,
+          "jp": "申し訳ないですけどだからこのゆる言語学ラジオカレンダーって",
+          "parte": "申し訳ない",
+          "es": "Lo siento, pero por eso este calendario de Yuru Gengo Gaku Radio…",
+          "ok": false,
+          "nota": "La línea está cortada, no tiene oración completa ni conclusión."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0224",
+      "palabraJP": "幸い",
+      "lectura": "さいわい",
+      "significado": "afortunado, por suerte",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1411.8,
+          "fin": 1414.8,
+          "jp": "まあ、していただけたら幸いですとか。",
+          "parte": "幸い",
+          "es": "Bueno, estaríamos muy agradecidos si pudieran hacerlo, o algo así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0225",
+      "palabraJP": "恋しい",
+      "lectura": "こいしい",
+      "significado": "extrañar, añorar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1173.63,
+          "fin": 1179.05,
+          "jp": "日本語が恋しくなって普通に生の日本語じゃないですか",
+          "parte": "恋しく",
+          "es": "Extraño el japonés y quiero escuchar japonés real, ¿no?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0226",
+      "palabraJP": "懐かしい",
+      "lectura": "なつかしい",
+      "significado": "nostálgico, que trae recuerdos",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 632.6,
+          "fin": 637.8,
+          "jp": "懐かしい自分の作った粘土とかパペット",
+          "parte": "懐かしい",
+          "es": "Qué nostalgia, la plastilina y los títeres que hice.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1231.43,
+          "fin": 1235.09,
+          "jp": "懐かしいなんか俺結構好きで",
+          "parte": "懐かしい",
+          "es": "Qué nostalgia, la verdad me gustaba bastante.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 322.1,
+          "fin": 325.18,
+          "jp": "同僚の先生が子育て時代を懐かしそうに振り返って教えてくれました",
+          "parte": "懐かし",
+          "es": "Una colega me habló con nostalgia de la época en que crió a sus hijos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0232",
+      "palabraJP": "惜しい",
+      "lectura": "おしい",
+      "significado": "qué lástima; estar cerca de lograr algo",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1590.02,
+          "fin": 1593.22,
+          "jp": "惜しいですマイドライブないで二箇所に作っちゃってたあーそうなんだ",
+          "parte": "惜しい",
+          "es": "Qué lástima, lo creaste en dos carpetas porque no tenías Mi unidad. —Ah, ¿en serio?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 467,
+          "fin": 471.2,
+          "jp": "惜しいなあと1本でしたけどね",
+          "parte": "惜しい",
+          "es": "Qué lástima, te faltó solo uno.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1213.34,
+          "fin": 1219.5,
+          "jp": "あーそうですね惜しいねずっと惜しいななんか子音は空気を出す時に妨げをどっかで作ってる",
+          "parte": "惜しい",
+          "es": "Qué lástima, ¿verdad? Siempre tan cerca… Las consonantes crean una obstrucción en algún punto al expulsar el aire.",
+          "ok": false,
+          "nota": "Son dos fragmentos de conversaciones distintas pegados sin coherencia entre sí."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0240",
+      "palabraJP": "うるさい",
+      "lectura": "うるさい",
+      "significado": "ruidoso, molesto",
+      "clips": [
+        {
+          "fuente": "NMK-S21-K2",
+          "trackId": 108,
+          "inicio": 23,
+          "fin": 30.66,
+          "jp": "うちのテレビ、うるさいですか。ええ、ちょっと…。それに、野球を応援なさる声がちょっと…",
+          "parte": "うるさい",
+          "es": "¿Mi televisor hace mucho ruido? Sí, un poco… Y la voz animando el béisbol también es algo…",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0252",
+      "palabraJP": "ずるい",
+      "lectura": "ずるい",
+      "significado": "tramposo, deshonesto, injusto",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1253.76,
+          "fin": 1257.08,
+          "jp": "それはずるいよ口のことばっか考えてたじゃん俺",
+          "parte": "ずるい",
+          "es": "Eso es trampa, ¡yo solo estuve pensando en la boca!",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 1262.88,
+          "fin": 1267.68,
+          "jp": "引っ掛け問題かよずるいよでもとにかくだからんってのは子音なんですね",
+          "parte": "ずるい",
+          "es": "¿Qué clase de pregunta trampa es esa? ¡Qué injusto! Pero en fin, la ん es una consonante.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0257",
+      "palabraJP": "きつい",
+      "lectura": "きつい",
+      "significado": "apretado, ajustado; duro",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 407.4,
+          "fin": 411.2,
+          "jp": "きついな話聞きづらくてきついな話聞きづらくてきついな",
+          "parte": "きつい",
+          "es": "Esto está muy pesado, me cuesta mucho escuchar. Muy pesado, me cuesta mucho escuchar. Muy pesado.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 409.9,
+          "fin": 413.1,
+          "jp": "話聞きづらくてきついなすいません",
+          "parte": "きつい",
+          "es": "Me cuesta escuchar esto, es muy pesado. Lo siento.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 642.28,
+          "fin": 647.54,
+          "jp": "確かにきついわずっと横でアンパンマンって言っててアンパンマンアンパンマンって言われたら頭おかしくなりそう",
+          "parte": "きつい",
+          "es": "La verdad sí es duro. Estás escuchando 'Anpanman' todo el tiempo a tu lado, eso te volvería loco.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0263",
+      "palabraJP": "勝手な",
+      "lectura": "かってな",
+      "significado": "egoísta, arbitrario",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2013.48,
+          "fin": 2017.6,
+          "jp": "いやいやみんな勝手なことやんねん一回やめてっていう全体として共有ドライブ移行しようぜ",
+          "parte": "勝手な",
+          "es": "No, no, todos hacen lo que les da la gana. Díganles que paren y migremos todos juntos al drive compartido.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0273",
+      "palabraJP": "感覚",
+      "lectura": "かんかく",
+      "significado": "sensación, sentido, percepción",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 526.14,
+          "fin": 529.72,
+          "jp": "もう、楽しっていう感覚が生まれるんで、僕は、けっこうそれ・・・",
+          "parte": "感覚",
+          "es": "Y entonces nace esa sensación de diversión, así que yo bastante…",
+          "ok": false,
+          "nota": "La oración queda cortada sin terminar la idea."
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 532.36,
+          "fin": 535.8,
+          "jp": "すごい人生が全部ゲーム感覚になって、すごい楽しかったんですけど、",
+          "parte": "感覚",
+          "es": "Toda mi vida se volvió como un videojuego y fue muy divertido.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1287.7,
+          "fin": 1291.9,
+          "jp": "なるほど。だからその感覚が、すごい自分でも、なんかびっくりするぐらい・・・",
+          "parte": "感覚",
+          "es": "Ya veo. Así que esa sensación a mí mismo me sorprende mucho…",
+          "ok": false,
+          "nota": "La oración queda incompleta, sin conclusión."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0275",
+      "palabraJP": "記憶",
+      "lectura": "きおく",
+      "significado": "memoria, recuerdo",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2531.18,
+          "fin": 2534.96,
+          "jp": "こうやって記憶を整理しようっていうでもそれ多分みんなやってる暇ないし",
+          "parte": "記憶",
+          "es": "Así, intentar organizar los recuerdos… pero probablemente nadie tiene tiempo para eso.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2627.6,
+          "fin": 2630.86,
+          "jp": "全然何も記憶管理させられてないでしょ今それはそうだな",
+          "parte": "記憶",
+          "es": "No estás gestionando nada de memoria ahora mismo, ¿verdad? —Sí, tienes razón.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2633.78,
+          "fin": 2637.88,
+          "jp": "好きにやることだからこの記憶管理って俺はみんなみたいにチャットGPGじゃなくて",
+          "parte": "記憶",
+          "es": "Como es algo que hago a mi gusto, en cuanto a gestión de memoria, yo no uso ChatGPT como todos.",
+          "ok": false,
+          "nota": "'チャットGPG' parece error de transcripción por 'ChatGPT'"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0276",
+      "palabraJP": "様子",
+      "lectura": "ようす",
+      "significado": "estado, situación, aspecto",
+      "clips": [
+        {
+          "fuente": "episodio_1",
+          "trackId": 64,
+          "inicio": 981.74,
+          "fin": 985.78,
+          "jp": "でそれなんかキティちゃんは全然かわいそうな様子ではなく",
+          "parte": "様子",
+          "es": "Hello Kitty no mostraba ningún aspecto de tristeza.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0277",
+      "palabraJP": "雰囲気",
+      "lectura": "ふんいき",
+      "significado": "ambiente, atmósfera",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 734.24,
+          "fin": 737.88,
+          "jp": "学校の雰囲気もそうだったし",
+          "parte": "雰囲気",
+          "es": "El ambiente de la escuela también era así.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 710.14,
+          "fin": 715.74,
+          "jp": "日本とちょっと違う雰囲気で面白いなって思うんですけど",
+          "parte": "雰囲気",
+          "es": "Tiene un ambiente un poco distinto al de Japón y me parece interesante.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1974.54,
+          "fin": 1978.88,
+          "jp": "例えばちょっと雰囲気的にちょっと汚い雰囲気で言いたい時とは",
+          "parte": "雰囲気",
+          "es": "Por ejemplo, cuando quiero expresarlo con un ambiente algo más tosco.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0283",
+      "palabraJP": "本気",
+      "lectura": "ほんき",
+      "significado": "seriedad, intención seria",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1379.38,
+          "fin": 1382.86,
+          "jp": "本気でやってたら言われてなかったと思う",
+          "parte": "本気",
+          "es": "Si lo hubiera hecho en serio, creo que nadie me lo habría dicho.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0284",
+      "palabraJP": "意識",
+      "lectura": "いしき",
+      "significado": "conciencia",
+      "clips": [
+        {
+          "fuente": "episodio_3",
+          "trackId": 65,
+          "inicio": 1042.18,
+          "fin": 1048.64,
+          "jp": "って、普通の喋り方しようって、今意識してるんですけど、でも、そういうのって、いくらでもあとから修正できるんで、",
+          "parte": "意識",
+          "es": "Estoy consciente de hablar de forma normal ahora, pero ese tipo de cosas se pueden corregir después sin problema.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 1020.38,
+          "fin": 1023.38,
+          "jp": "語源意識がないから本来こういう意味だったはずなのに",
+          "parte": "意識",
+          "es": "Como no hay conciencia del origen etimológico, el significado original que debería tener se ha perdido.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 2431.7,
+          "fin": 2436.98,
+          "jp": "だいぶ前から大きな問題意識としてAIって記憶を綺麗に整理して保存しないと",
+          "parte": "意識",
+          "es": "Desde hace tiempo tengo una gran preocupación: si la IA no organiza y guarda la memoria de forma limpia…",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0294",
+      "palabraJP": "勝負",
+      "lectura": "しょうぶ",
+      "significado": "competencia, enfrentamiento, desafío",
+      "clips": [
+        {
+          "fuente": "episodio_2",
+          "trackId": 66,
+          "inicio": 779.98,
+          "fin": 785.2,
+          "jp": "どこかだよブルシット勝負この上ないんだよあれ地球から取り除いた方がいい時間なんだよあれ",
+          "parte": "勝負",
+          "es": "Eso es lo más inútil que existe, habría que eliminarlo de la faz de la tierra, es tiempo perdido.",
+          "ok": false,
+          "nota": "'ブルシット勝負' mezcla inglés y japonés de forma incoherente; la línea parece cortada o mal transcrita"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0313",
+      "palabraJP": "区別",
+      "lectura": "くべつ",
+      "significado": "distinción, diferenciación",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 479.78,
+          "fin": 482.86,
+          "jp": "これらの3つ全てこの区別をしないとか",
+          "parte": "区別",
+          "es": "No hacer ninguna distinción entre estos tres elementos.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 517.94,
+          "fin": 522.06,
+          "jp": "別の区別の仕方で名詞をカテゴリーに分けたいと",
+          "parte": "区別",
+          "es": "Quiero clasificar los sustantivos en categorías usando una forma diferente de distinción.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1107.56,
+          "fin": 1111.42,
+          "jp": "漢字では区別してるしおそらくだから中国語とか",
+          "parte": "区別",
+          "es": "En los kanji sí se distingue, y probablemente por eso en chino también.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0323",
+      "palabraJP": "一般",
+      "lectura": "いっぱん",
+      "significado": "general, común",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 737.88,
+          "fin": 744.78,
+          "jp": "今更一般の大学行ける感じもしないしっていうのもあるんですけど",
+          "parte": "一般",
+          "es": "Tampoco siento que pueda entrar a una universidad normal a estas alturas, eso también influye.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0328",
+      "palabraJP": "きっかけ",
+      "lectura": "きっかけ",
+      "significado": "motivo, ocasión, desencadenante",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1850.61,
+          "fin": 1855.91,
+          "jp": "考えるきっかけにもしなったらいい方向に進むこともあるのかな",
+          "parte": "きっかけ",
+          "es": "Si esto llegara a ser un motivo para reflexionar, quizás las cosas avancen en buena dirección.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2475.72,
+          "fin": 2479.44,
+          "jp": "そのひょんなきっかけから",
+          "parte": "きっかけ",
+          "es": "A partir de ese casual motivo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2357.63,
+          "fin": 2361.85,
+          "jp": "それがすごい僕の英文法にはまるきっかけで",
+          "parte": "きっかけ",
+          "es": "Eso fue lo que me llevó a enamorarme de la gramática inglesa.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0329",
+      "palabraJP": "行動",
+      "lectura": "こうどう",
+      "significado": "acción, comportamiento",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 706.42,
+          "fin": 709.72,
+          "jp": "あとは自分の意思で行動できるかどうか",
+          "parte": "行動",
+          "es": "Y también si puedo actuar por mi propia voluntad.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0334",
+      "palabraJP": "延長",
+      "lectura": "えんちょう",
+      "significado": "extensión, prolongación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 847.73,
+          "fin": 854.97,
+          "jp": "俺が今やってることの延長にあるかもみたいな感じの",
+          "parte": "延長",
+          "es": "Siento que quizás esté en la continuación de lo que estoy haciendo ahora.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0336",
+      "palabraJP": "映像",
+      "lectura": "えいぞう",
+      "significado": "imagen, vídeo",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 491.5,
+          "fin": 495.08,
+          "jp": "別に映像の全般的に何か携わる",
+          "parte": "映像",
+          "es": "En general, involucrarme en el mundo del video de alguna forma",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 500.66,
+          "fin": 505.7,
+          "jp": "とりあえずこう映像の授業がある楽しそうみたいな感じで入って",
+          "parte": "映像",
+          "es": "Entré con la idea de que había clases de video y parecían divertidas",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 901.22,
+          "fin": 905.64,
+          "jp": "なんとなく映像みたいな感じだったんで",
+          "parte": "映像",
+          "es": "Era como que algo relacionado con el video, más o menos",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0337",
+      "palabraJP": "撮影",
+      "lectura": "さつえい",
+      "significado": "fotografía, filmación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1495.81,
+          "fin": 1500.75,
+          "jp": "撮影現場に手伝いにずっと行ってました",
+          "parte": "撮影",
+          "es": "Estuve yendo todo el tiempo a ayudar en los rodajes",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0339",
+      "palabraJP": "独立",
+      "lectura": "どくりつ",
+      "significado": "independencia",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 502.19,
+          "fin": 507.61,
+          "jp": "なんかそういうタイミングで独立されてマイターン・エンターテイメント",
+          "parte": "独立",
+          "es": "Fue más o menos en ese momento cuando se independizó y fundó My Turn Entertainment",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0351",
+      "palabraJP": "体験",
+      "lectura": "たいけん",
+      "significado": "experiencia, vivencia",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1607.72,
+          "fin": 1613.54,
+          "jp": "新体験みたいな結構そこから",
+          "parte": "体験",
+          "es": "Fue como una experiencia nueva, y a partir de ahí bastante...",
+          "ok": false,
+          "nota": "La oración está cortada y no se entiende sola sin contexto previo."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0354",
+      "palabraJP": "実現",
+      "lectura": "じつげん",
+      "significado": "realización, hacer realidad",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2528.81,
+          "fin": 2534.11,
+          "jp": "もし本当に実現したらぜひ実現して",
+          "parte": "実現",
+          "es": "Si de verdad se llega a concretar, por favor que se concrete",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0356",
+      "palabraJP": "許可",
+      "lectura": "きょか",
+      "significado": "permiso, autorización",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1288.92,
+          "fin": 1292.2,
+          "jp": "やっぱ許可するっていう意味と強制させるっていう意味",
+          "parte": "許可",
+          "es": "Al fin y al cabo está el sentido de permitir y el sentido de obligar",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1263.56,
+          "fin": 1269,
+          "jp": "Allowは許可をするというか何かをしたいとか言ってる人にさせてあげることですけど",
+          "parte": "許可",
+          "es": "\"Allow\" es como dar permiso, es decir, dejar hacer algo a alguien que lo quiere hacer",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0358",
+      "palabraJP": "部分",
+      "lectura": "ぶぶん",
+      "significado": "parte, sección",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 335.42,
+          "fin": 339.26,
+          "jp": "こういうものとかは確かに部分的に不規則なものもありますけど",
+          "parte": "部分",
+          "es": "Este tipo de cosas sí tienen partes irregulares, es cierto",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1593.4,
+          "fin": 1597.2,
+          "jp": "その部分を借りてきたわけですしちょっとさっき言ってましたけど",
+          "parte": "部分",
+          "es": "Tomaron prestada esa parte, y como mencioné hace un momento...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1781.82,
+          "fin": 1786.12,
+          "jp": "このうの部分を実は発音してなくて英語で直すんだったらSだけ言ってるんですよ",
+          "parte": "部分",
+          "es": "En realidad la parte de esa 'u' no se pronuncia, y si lo corriges al inglés, solo dices la 's'",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0363",
+      "palabraJP": "方向",
+      "lectura": "ほうこう",
+      "significado": "dirección, rumbo",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 604.94,
+          "fin": 608.12,
+          "jp": "一人でコマ撮りを撮る方向に",
+          "parte": "方向",
+          "es": "Decidí tomar stop-motion yo solo",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1852.75,
+          "fin": 1855.91,
+          "jp": "いい方向に進むこともあるのかな",
+          "parte": "方向",
+          "es": "A veces las cosas avanzan en buena dirección",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2644.15,
+          "fin": 2647.21,
+          "jp": "こういろんな方向に",
+          "parte": "方向",
+          "es": "En varias direcciones distintas",
+          "ok": false,
+          "nota": "La oración está cortada y no se sostiene sola sin contexto."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0367",
+      "palabraJP": "移動",
+      "lectura": "いどう",
+      "significado": "movimiento, traslado",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1516.51,
+          "fin": 1521.87,
+          "jp": "移動してるみたいな感じでしたそうなの確かに",
+          "parte": "移動",
+          "es": "Era como si estuviera moviéndose. —Ah, ¿sí? Es verdad",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0371",
+      "palabraJP": "立ち上がる",
+      "lectura": "たちあがる",
+      "significado": "levantarse, ponerse de pie",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 274.02,
+          "fin": 277.9,
+          "jp": "あとは立ち上がった時に人間の上背より低いぐらいのサイズだったら引きで",
+          "parte": "立ち上がっ",
+          "es": "Además, si cuando se levanta el tamaño está por debajo de la altura de una persona, entonces con un plano abierto",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0376",
+      "palabraJP": "盛り上がる",
+      "lectura": "もりあがる",
+      "significado": "sobresalir, animarse, abultarse",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1005.36,
+          "fin": 1008.52,
+          "jp": "一緒に盛り上がってる感じも",
+          "parte": "盛り上がっ",
+          "es": "También se siente como que todos se animan juntos",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0387",
+      "palabraJP": "立ち上げる",
+      "lectura": "たちあげる",
+      "significado": "iniciar, arrancar, lanzar un proyecto",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2021.31,
+          "fin": 2026.07,
+          "jp": "で演劇の友達とかはいやもう劇団立ち上げるとか",
+          "parte": "立ち上げる",
+          "es": "Y los amigos del teatro decían que no, que iban a fundar una compañía de teatro",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0392",
+      "palabraJP": "書き上げる",
+      "lectura": "かきあげる",
+      "significado": "terminar de escribir",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2448.96,
+          "fin": 2452.68,
+          "jp": "どうにか書き上げないとなっていうことで",
+          "parte": "書き上げ",
+          "es": "Pensé que de alguna manera tenía que terminar de escribirlo",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0464",
+      "palabraJP": "コード",
+      "lectura": "こーど",
+      "significado": "cable, cordón eléctrico",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2234.96,
+          "fin": 2239.12,
+          "jp": "音が変化していって和コードになっただけだと思うので",
+          "parte": "コード",
+          "es": "Creo que el sonido simplemente fue cambiando poco a poco hasta convertirse en un acorde japonés.",
+          "ok": false,
+          "nota": "コード aparece con el sentido de 'acorde' musical (和コード), no de cable o cordón eléctrico."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0476",
+      "palabraJP": "スター",
+      "lectura": "すたー",
+      "significado": "estrella, celebridad",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2322.36,
+          "fin": 2325.98,
+          "jp": "もちろんそのハリウッドスターとか歩いてたらわーってこう",
+          "parte": "スター",
+          "es": "Claro, si una estrella de Hollywood estuviera caminando por ahí, la gente haría '¡wah!' así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0478",
+      "palabraJP": "モデル",
+      "lectura": "もでる",
+      "significado": "modelo",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 482.26,
+          "fin": 485.5,
+          "jp": "モデルで呼んでもらったり",
+          "parte": "モデル",
+          "es": "...que me llamaran como modelo...",
+          "ok": false,
+          "nota": "Oración cortada; la forma たり queda sin par y no se entiende sola."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0484",
+      "palabraJP": "コントロール",
+      "lectura": "こんとろーる",
+      "significado": "control, manejo",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1544.92,
+          "fin": 1548.54,
+          "jp": "それをコントロールする仕事でもあると思うので",
+          "parte": "コントロール",
+          "es": "Porque creo que también es un trabajo de controlar eso.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2695.17,
+          "fin": 2700.71,
+          "jp": "自分の部屋は自分でコントロールできるけれど",
+          "parte": "コントロール",
+          "es": "Tu propio cuarto lo puedes controlar tú mismo, pero...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2700.71,
+          "fin": 2705.77,
+          "jp": "外っていうのはコントロールできないじゃないですか予想外なことがいっぱい起きるし",
+          "parte": "コントロール",
+          "es": "El exterior es algo que no puedes controlar, ¿verdad? Pasan montones de cosas inesperadas.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0486",
+      "palabraJP": "コース",
+      "lectura": "こーす",
+      "significado": "curso, ruta, carril, menú degustación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1235.66,
+          "fin": 1239.68,
+          "jp": "映画コースが結構カメラの使い方とか",
+          "parte": "コース",
+          "es": "El curso de cine abarca bastante sobre cómo usar la cámara y...",
+          "ok": false,
+          "nota": "Oración cortada; termina con とか y queda incompleta."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1270.7,
+          "fin": 1274.02,
+          "jp": "演劇コース行ったんですよねなるほどね",
+          "parte": "コース",
+          "es": "Entonces fuiste al curso de teatro, ¿verdad? Ah, ya veo.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1281.68,
+          "fin": 1286.5,
+          "jp": "自分が取ったコースとは関係なく何でも作品を作って",
+          "parte": "コース",
+          "es": "Creando obras de todo tipo sin importar el curso que tomaron...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0492",
+      "palabraJP": "ベスト",
+      "lectura": "べすと",
+      "significado": "lo mejor, mejor marca",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1585.5,
+          "fin": 1590.1,
+          "jp": "ちなみにベターとベストっていうのはラテン語由来の我々が使うのが",
+          "parte": "ベスト",
+          "es": "Por cierto, 'better' y 'best' son de origen latino, y el que nosotros usamos...",
+          "ok": false,
+          "nota": "Oración cortada; la idea queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0499",
+      "palabraJP": "カリキュラム",
+      "lectura": "かりきゅらむ",
+      "significado": "plan de estudios, currículo",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1234.22,
+          "fin": 1239.68,
+          "jp": "カリキュラムとか見たら映画コースが結構カメラの使い方とか",
+          "parte": "カリキュラム",
+          "es": "Si ves el plan de estudios, el curso de cine abarca bastante sobre cómo usar la cámara y...",
+          "ok": false,
+          "nota": "Oración cortada; termina con とか y queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0505",
+      "palabraJP": "シーズン",
+      "lectura": "しーずん",
+      "significado": "temporada, época",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 629.03,
+          "fin": 633.27,
+          "jp": "シーズンでちゃんとAW/SSとかでやってるブランドを",
+          "parte": "シーズン",
+          "es": "Marcas que trabajan correctamente por temporada, con AW/SS y cosas así...",
+          "ok": false,
+          "nota": "Oración cortada; termina en を sin predicado."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0511",
+      "palabraJP": "最も",
+      "lectura": "もっとも",
+      "significado": "el más, lo más",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1012.72,
+          "fin": 1017.18,
+          "jp": "例えばトレンチコートの最もトラディショナルなものってポケットが貫通するんですよね",
+          "parte": "最も",
+          "es": "Por ejemplo, en los trench coats más tradicionales los bolsillos son pasantes, ¿verdad?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0515",
+      "palabraJP": "多少",
+      "lectura": "たしょう",
+      "significado": "un poco, algo",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1756.36,
+          "fin": 1762.28,
+          "jp": "もう多少ないとなっていうのはすごい思うところというか",
+          "parte": "多少",
+          "es": "En serio siento que al menos necesitas un poco, o algo así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0522",
+      "palabraJP": "徐々に",
+      "lectura": "じょじょに",
+      "significado": "poco a poco, progresivamente",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 925.22,
+          "fin": 928.36,
+          "jp": "徐々に変わっていくっていうパターンを",
+          "parte": "徐々に",
+          "es": "...el patrón de ir cambiando poco a poco...",
+          "ok": false,
+          "nota": "Oración cortada; termina en を sin predicado."
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2232.72,
+          "fin": 2239.12,
+          "jp": "若人なのかが徐々に音が変化していって和コードになっただけだと思うので",
+          "parte": "徐々に",
+          "es": "...el sonido fue cambiando progresivamente hasta convertirse en un acorde japonés.",
+          "ok": false,
+          "nota": "El inicio '若人なのかが' parece transcripción automática errónea; la sintaxis no es coherente."
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2369.09,
+          "fin": 2374.89,
+          "jp": "それが現代で徐々に直接法の過去の形式と合流していったんだけど",
+          "parte": "徐々に",
+          "es": "Eso fue fusionándose gradualmente con la forma de pasado del indicativo en la era moderna, pero...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0523",
+      "palabraJP": "さらに",
+      "lectura": "さらに",
+      "significado": "aún más, todavía más",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1055.77,
+          "fin": 1062.57,
+          "jp": "さらに社会人入試もできるみたいなまあまあ夜からだから社会人の人も入りやすい",
+          "parte": "さらに",
+          "es": "Además, al parecer también hay examen de admisión para trabajadores; como es de noche, es más fácil entrar para ellos.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2088.69,
+          "fin": 2094.49,
+          "jp": "でそこに豪一さんのさらに先輩の森岡龍さんっていう",
+          "parte": "さらに",
+          "es": "Y está una persona llamada Morioka Ryu, que es todavía más senior que Goichi-san...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1327.6,
+          "fin": 1332.22,
+          "jp": "さらにこれらが言い換えができますみたいな感じでゲットとかフォースとか",
+          "parte": "さらに",
+          "es": "Además, algo así como que todas estas formas se pueden parafrasear con palabras como 'get' o 'force'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0527",
+      "palabraJP": "結局",
+      "lectura": "けっきょく",
+      "significado": "al final, a fin de cuentas",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1730.57,
+          "fin": 1734.79,
+          "jp": "結局めちゃくちゃ大変なんだろうな",
+          "parte": "結局",
+          "es": "Al final debe ser una barbaridad de difícil",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2641.55,
+          "fin": 2647.21,
+          "jp": "その結局こういろんな方向に",
+          "parte": "結局",
+          "es": "Y al final, pues, en distintas direcciones así",
+          "ok": false,
+          "nota": "Transcripción incompleta; 'その結局こう' no forma una oración coherente"
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 153.12,
+          "fin": 157.04,
+          "jp": "生き物って結局何でもピキって言っちゃうそういう癖がついちゃったりとか",
+          "parte": "結局",
+          "es": "Los seres vivos al final acaban soltando un 'piki' para todo, uno se queda con ese tic",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0531",
+      "palabraJP": "今度",
+      "lectura": "こんど",
+      "significado": "esta vez, la próxima vez",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2534.11,
+          "fin": 2539.17,
+          "jp": "今度はまたレッドカーペットを",
+          "parte": "今度",
+          "es": "Esta vez de nuevo la alfombra roja…",
+          "ok": false,
+          "nota": "Línea cortada, no tiene verbo ni conclusión"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0532",
+      "palabraJP": "今後",
+      "lectura": "こんご",
+      "significado": "en adelante, de ahora en adelante",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1267.78,
+          "fin": 1272.82,
+          "jp": "今後もし演出するならと思って演劇コース行ったんですよね",
+          "parte": "今後",
+          "es": "Pensé que si en el futuro iba a dirigir, mejor entrar al curso de teatro",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1498.32,
+          "fin": 1502.02,
+          "jp": "今後もないかもみたいなことを思ったんですよね",
+          "parte": "今後",
+          "es": "Llegué a pensar algo como que quizás ya no habría más oportunidades en el futuro",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1560.16,
+          "fin": 1564.84,
+          "jp": "今後ないかもだから面白いなという感じになってましたね",
+          "parte": "今後",
+          "es": "Me pareció interesante precisamente porque quizás no volvería a pasar",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0538",
+      "palabraJP": "先ほど",
+      "lectura": "さきほど",
+      "significado": "hace un momento, hace poco",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2485.15,
+          "fin": 2488.75,
+          "jp": "概要欄に先ほどね紹介された2冊の本と",
+          "parte": "先ほど",
+          "es": "En la descripción están los dos libros que se mencionaron hace un momento",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0543",
+      "palabraJP": "当時",
+      "lectura": "とうじ",
+      "significado": "en aquel entonces, por aquel tiempo",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 931.38,
+          "fin": 936.36,
+          "jp": "当時の担任の黒沢先生っていうすごいお世話になった恩師がいるんですけど",
+          "parte": "当時",
+          "es": "En aquel entonces tenía de titular a Kurosawa-sensei, un mentor al que le debo muchísimo",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 685.01,
+          "fin": 689.29,
+          "jp": "当時はジェリーも普通に会社員してたし",
+          "parte": "当時",
+          "es": "En aquel entonces Jerry también trabajaba de empleado normal",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1932.87,
+          "fin": 1937.79,
+          "jp": "当時思ってたことを反対のことを思ったりするんですよ",
+          "parte": "当時",
+          "es": "A veces pienso justo lo contrario de lo que pensaba en aquel entonces",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0548",
+      "palabraJP": "いきなり",
+      "lectura": "いきなり",
+      "significado": "de repente, sin avisar",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1931.61,
+          "fin": 1935.07,
+          "jp": "いきなり監督になるのも",
+          "parte": "いきなり",
+          "es": "Convertirse en director de repente también…",
+          "ok": false,
+          "nota": "Línea cortada, no tiene predicado completo"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0549",
+      "palabraJP": "常に",
+      "lectura": "つねに",
+      "significado": "siempre, constantemente",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1736.91,
+          "fin": 1741.21,
+          "jp": "常にお腹減ってましたね飯とかも出なかったりするんで",
+          "parte": "常に",
+          "es": "Siempre tenía hambre, porque a veces ni la comida te daban",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1842.99,
+          "fin": 1846.89,
+          "jp": "その常にざわざわざわざわギリギリの",
+          "parte": "常に",
+          "es": "Ese estado siempre al límite, con esa inquietud constante…",
+          "ok": false,
+          "nota": "Línea cortada, no cierra la oración"
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 2044.87,
+          "fin": 2049.95,
+          "jp": "常に持ってはいたんですよどこに出そうって考えながら",
+          "parte": "常に",
+          "es": "Siempre lo tenía en mente, pensando en dónde publicarlo",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0554",
+      "palabraJP": "たまに",
+      "lectura": "たまに",
+      "significado": "de vez en cuando, ocasionalmente",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 557.13,
+          "fin": 562.75,
+          "jp": "たまにその仕事が決まって日本に帰ってくるみたいなことはありました",
+          "parte": "たまに",
+          "es": "De vez en cuando pasaba que conseguía trabajo y volvía a Japón",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2208.84,
+          "fin": 2212.78,
+          "jp": "たまにたまにというかこの前一回だけですけど",
+          "parte": "たまに",
+          "es": "De vez en cuando, bueno más que eso, la vez pasada fue la única vez",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1896.2,
+          "fin": 1900.46,
+          "jp": "今でもたまにねこうジャンキーな飯を食うとかっていう風に",
+          "parte": "たまに",
+          "es": "Hasta hoy de vez en cuando como algo así, comida chatarra y esas cosas",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0572",
+      "palabraJP": "だって",
+      "lectura": "だって",
+      "significado": "es que, pero",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1565.36,
+          "fin": 1570.4,
+          "jp": "もちろんだっていいことも言ってもらったりもするんですよ",
+          "parte": "だって",
+          "es": "Claro, es que también me dicen cosas buenas",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 844.9,
+          "fin": 847.94,
+          "jp": "だってヤバいって時点で普通じゃなくないみたいな",
+          "parte": "だって",
+          "es": "Es que en el momento en que dices 'está muy intenso', ya no es normal, ¿o sí?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1703.8,
+          "fin": 1708.8,
+          "jp": "そうです。だって例えば、今日は東京に行ったのは、はって書いてあるのに、はって読むじゃないですか。",
+          "parte": "だって",
+          "es": "Exacto. Es que, por ejemplo, en 'hoy fui a Tokio' está escrito は pero se pronuncia wa, ¿verdad?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0575",
+      "palabraJP": "あるいは",
+      "lectura": "あるいは",
+      "significado": "o bien, tal vez",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 498.68,
+          "fin": 503.06,
+          "jp": "そのときにその座とかあるいはあみたいな不定関詞定関詞とかがあれば",
+          "parte": "あるいは",
+          "es": "Si en ese momento hubiera algo como 'za' o 'a', es decir, artículos indefinidos y definidos...",
+          "ok": false,
+          "nota": "Error de transcripción automática: 関詞 en lugar de 冠詞; oración incompleta."
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 932.16,
+          "fin": 937.48,
+          "jp": "変に咎めることとかあるいはこれは使わない方がいいっていうようなことではないと僕は思いますね",
+          "parte": "あるいは",
+          "es": "Creo que no se trata de reprocharlo de forma extraña ni de decir que mejor no se use.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2051.48,
+          "fin": 2055.66,
+          "jp": "僕もそれで特に北海道とかあるいは沖縄って",
+          "parte": "あるいは",
+          "es": "Yo también, especialmente Hokkaido o bien Okinawa...",
+          "ok": false,
+          "nota": "Oración incompleta, la idea no concluye."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0578",
+      "palabraJP": "ところで",
+      "lectura": "ところで",
+      "significado": "por cierto, cambiando de tema",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 82.55,
+          "fin": 86.73,
+          "jp": "鶴ヶ島市ってところであの",
+          "parte": "ところで",
+          "es": "En el lugar llamado ciudad de Tsurugashima, este...",
+          "ok": false,
+          "nota": "ところ se usa como sustantivo ('lugar'), no como conector ところで; además la oración está incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0587",
+      "palabraJP": "土地",
+      "lectura": "とち",
+      "significado": "terreno, tierra",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2154.3,
+          "fin": 2162.12,
+          "jp": "地名は大体は土地の特徴とか歴史を反映してることが多いので",
+          "parte": "土地",
+          "es": "Los topónimos suelen reflejar las características del terreno o la historia del lugar.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0603",
+      "palabraJP": "立場",
+      "lectura": "たちば",
+      "significado": "postura, punto de vista",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2310.97,
+          "fin": 2316.05,
+          "jp": "勉強する立場からするとそれ知っておくと挫折しなくても済みそうっていうか",
+          "parte": "立場",
+          "es": "Desde la perspectiva de quien estudia, saber eso parece que evita que uno se rinda, o algo así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0606",
+      "palabraJP": "担当",
+      "lectura": "たんとう",
+      "significado": "estar a cargo, responsabilizarse",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 9.84,
+          "fin": 14.2,
+          "jp": "今回の進行は日鮮が担当しますそしてゲストはこの方",
+          "parte": "担当",
+          "es": "La conducción de hoy estará a cargo de Nissen, y el invitado es esta persona.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0610",
+      "palabraJP": "監督",
+      "lectura": "かんとく",
+      "significado": "director, entrenador, supervisación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1255.62,
+          "fin": 1259.38,
+          "jp": "映画監督になるならもしかしたら",
+          "parte": "監督",
+          "es": "Si vas a convertirte en director de cine, quizás...",
+          "ok": false,
+          "nota": "Oración incompleta, la idea no concluye."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1579.12,
+          "fin": 1583.72,
+          "jp": "どんどん監督じゃないところにつかなきゃいけなくなったりするんですね",
+          "parte": "監督",
+          "es": "Terminas teniendo que ocupar cada vez más puestos que no son de director.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1931.61,
+          "fin": 1935.07,
+          "jp": "いきなり監督になるのも",
+          "parte": "監督",
+          "es": "Convertirse de golpe en director también...",
+          "ok": false,
+          "nota": "Oración incompleta, falta el predicado."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0619",
+      "palabraJP": "納得",
+      "lectura": "なっとく",
+      "significado": "convencimiento, comprensión",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2309.49,
+          "fin": 2312.81,
+          "jp": "納得できちゃったりするんで勉強する立場からすると",
+          "parte": "納得",
+          "es": "Porque uno acaba convenciéndose, desde la perspectiva de quien estudia.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2316.05,
+          "fin": 2319.37,
+          "jp": "納得するのはやっぱり気持ちいいですよね",
+          "parte": "納得",
+          "es": "Llegar a entender algo de verdad se siente muy bien, ¿no?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0624",
+      "palabraJP": "程度",
+      "lectura": "ていど",
+      "significado": "nivel, grado, medida",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 229.56,
+          "fin": 234.34,
+          "jp": "人間が抱きかかえられる程度の大きさの小型中型犬はヒキと数え",
+          "parte": "程度",
+          "es": "Los perros pequeños y medianos de tamaño suficiente para ser cargados en brazos se cuentan con 'hiki'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0626",
+      "palabraJP": "批評",
+      "lectura": "ひひょう",
+      "significado": "crítica, reseña",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1040.64,
+          "fin": 1044.92,
+          "jp": "批評したりとかそういう感じがあるんで",
+          "parte": "批評",
+          "es": "Hay ese ambiente de criticar y ese tipo de cosas.",
+          "ok": false,
+          "nota": "Fragmento sin contexto suficiente para entenderse solo."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0640",
+      "palabraJP": "総合",
+      "lectura": "そうごう",
+      "significado": "síntesis, integración general",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 570.1,
+          "fin": 573.68,
+          "jp": "その芸術総合高校って高校は",
+          "parte": "総合",
+          "es": "Esa escuela llamada preparatoria de artes integradas...",
+          "ok": false,
+          "nota": "Oración incompleta, falta el predicado."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0641",
+      "palabraJP": "連続",
+      "lectura": "れんぞく",
+      "significado": "continuidad, sucesión consecutiva",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1531.77,
+          "fin": 1537.53,
+          "jp": "2年生3年生僕どっちもやっぱりタマフィルムっていうのを撮ったんです2年連続で",
+          "parte": "連続",
+          "es": "En segundo y tercer año filmé lo que llamamos Tama Film en ambos, dos años consecutivos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0652",
+      "palabraJP": "社会",
+      "lectura": "しゃかい",
+      "significado": "sociedad, comunidad",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1055.77,
+          "fin": 1062.57,
+          "jp": "さらに社会人入試もできるみたいなまあまあ夜からだから社会人の人も入りやすい",
+          "parte": "社会",
+          "es": "Además parece que hay examen de admisión para trabajadores; como es de noche, es fácil que entren.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 100.27,
+          "fin": 105.31,
+          "jp": "社会人になるからも勉強し続けて面白い話を皆さんに届くように喋っているという",
+          "parte": "社会",
+          "es": "Seguir estudiando incluso al incorporarse a la vida laboral y hablar para que lleguen historias interesantes a todos.",
+          "ok": false,
+          "nota": "Posible error de transcripción: 'なるからも' probablemente por 'なってからも'."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0655",
+      "palabraJP": "民族",
+      "lectura": "みんぞく",
+      "significado": "etnia, grupo étnico",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 420.33,
+          "fin": 428.31,
+          "jp": "すごいいろんな文化とか民族とかが混ざり合っている国でもあるので",
+          "parte": "民族",
+          "es": "También es un país donde se mezclan muchas culturas y grupos étnicos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0677",
+      "palabraJP": "一方",
+      "lectura": "いっぽう",
+      "significado": "un lado, una de las partes",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1939.07,
+          "fin": 1943.77,
+          "jp": "ただ一方で僕はそもそも別に",
+          "parte": "一方",
+          "es": "Pero, por otro lado, yo en realidad de entrada...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1097.8,
+          "fin": 1101.84,
+          "jp": "一方で漢字にするときに簡単な方の足っていうのはfoot",
+          "parte": "一方",
+          "es": "Por otro lado, cuando se escribe con kanji, el 足 más simple equivale a 'foot' (pie en inglés).",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0681",
+      "palabraJP": "映る",
+      "lectura": "うつる",
+      "significado": "reflejarse, proyectarse",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 559.22,
+          "fin": 564.4,
+          "jp": "その分け方ってだからジルバル語の和写じゃない我々からするとすごい奇妙に映るんですけど",
+          "parte": "映る",
+          "es": "Esa clasificación, desde nuestra perspectiva como no hablantes del dyirbal, resulta muy extraña.",
+          "ok": false,
+          "nota": "和写 parece error de transcripción automática de 話者 (hablante)"
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1819.98,
+          "fin": 1823.58,
+          "jp": "むしろ行ってきますのスとかが不思議に映ると思うんですね",
+          "parte": "映る",
+          "es": "Más bien, creo que cosas como la 's' final de 'ittekimasu' les parecerían extrañas.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0684",
+      "palabraJP": "つける",
+      "lectura": "つける",
+      "significado": "remojar, poner en remojo",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1157.3,
+          "fin": 1161.72,
+          "jp": "漢字勉強して初めてそういう区別をつけるようになるってことですか",
+          "parte": "つける",
+          "es": "¿O sea que solo después de estudiar kanji empiezas a hacer ese tipo de distinción?",
+          "ok": false,
+          "nota": "つける aparece como 区別をつける (hacer una distinción), no con el sentido 'remojar'"
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2114.12,
+          "fin": 2119.66,
+          "jp": "そこで地名もつけていたんですけど明治の頃に日本がそのまま言うたら北海道を取り込んで",
+          "parte": "つけ",
+          "es": "Allí también ponían nombres a los lugares, pero hacia la era Meiji, Japón se apoderó de Hokkaido.",
+          "ok": false,
+          "nota": "つける aparece como 地名をつける (poner un nombre), no con el sentido 'remojar'"
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2322.83,
+          "fin": 2327.41,
+          "jp": "ちょっとかっこつけすぎてるなそんぐらい勘弁してよ",
+          "parte": "つけ",
+          "es": "Estás siendo un poco demasiado pretencioso; no te pases.",
+          "ok": false,
+          "nota": "つける aparece en かっこつける (dárselas de cool), no con el sentido 'remojar'"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0685",
+      "palabraJP": "浮かぶ",
+      "lectura": "うかぶ",
+      "significado": "flotar, venir a la mente",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2725.38,
+          "fin": 2731.1,
+          "jp": "新しいっていうか何か浮かんだことがあるかって言われたらあんまないんですよね",
+          "parte": "浮かん",
+          "es": "Si me preguntan si se me ocurrió algo nuevo, la verdad es que no mucho.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0701",
+      "palabraJP": "絞る/搾る",
+      "lectura": "しぼる",
+      "significado": "exprimir, estrujar, bajar el volumen",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 779.99,
+          "fin": 783.45,
+          "jp": "その最初は芸大に絞ってましたね",
+          "parte": "絞っ",
+          "es": "Al principio me limité únicamente a la universidad de artes.",
+          "ok": false,
+          "nota": "絞る aparece con el sentido 'limitarse a / concentrarse en', no 'exprimir/estrujar'"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0702",
+      "palabraJP": "回る",
+      "lectura": "まわる",
+      "significado": "girar, dar la vuelta, pasar por",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1404.15,
+          "fin": 1407.29,
+          "jp": "お話の展開によってぐるぐる回ったりするんですよ",
+          "parte": "回っ",
+          "es": "Según cómo se desarrolla la conversación, puede dar muchas vueltas.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1846.89,
+          "fin": 1850.41,
+          "jp": "ギリギリで回ってる現場しかなかったんですけど",
+          "parte": "回っ",
+          "es": "Solo había sets de filmación que operaban justo al límite.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0705",
+      "palabraJP": "組む",
+      "lectura": "くむ",
+      "significado": "cruzar, formar equipo, elaborar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 891.4,
+          "fin": 894.98,
+          "jp": "肩組んでいたりとか面白いな",
+          "parte": "組ん",
+          "es": "Andar con el brazo sobre el hombro del otro y esas cosas, qué curioso.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0716",
+      "palabraJP": "救う",
+      "lectura": "すくう",
+      "significado": "salvar, rescatar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2470.32,
+          "fin": 2475.04,
+          "jp": "救われてるところもありますねいいっすね",
+          "parte": "救わ",
+          "es": "También hay aspectos en los que me siento rescatado; qué bien.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0741",
+      "palabraJP": "認める",
+      "lectura": "みとめる",
+      "significado": "admitir, reconocer, aprobar",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 4,
+          "fin": 9.84,
+          "jp": "インタビューを通してそれぞれの違いを認め自分自身の個性を見つめるカルチャー音声メディアです",
+          "parte": "認め",
+          "es": "Es un medio de audio cultural que, a través de entrevistas, reconoce las diferencias y reflexiona sobre la identidad propia.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0744",
+      "palabraJP": "求める",
+      "lectura": "もとめる",
+      "significado": "buscar, pedir, adquirir",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 29.37,
+          "fin": 32.65,
+          "jp": "こちらぜひお求めくださいまた宣伝してくれてる",
+          "parte": "求め",
+          "es": "Por favor, adquiéranlo. Está haciendo publicidad de nuevo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 919.66,
+          "fin": 923.1,
+          "jp": "新しさを求めて違う語を使うんだけど",
+          "parte": "求め",
+          "es": "Busca la novedad y por eso usa una palabra diferente.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 998.98,
+          "fin": 1002.68,
+          "jp": "そこで機能性を求めた服として出てきたのがトレンチコート",
+          "parte": "求め",
+          "es": "Fue entonces cuando surgió la trinchera como prenda que priorizaba la funcionalidad.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0757",
+      "palabraJP": "従う",
+      "lectura": "したがう",
+      "significado": "seguir, obedecer, acatar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1309.5,
+          "fin": 1313.72,
+          "jp": "本人が従ってるのかどっちですか日本人の中だとそもそもそういう",
+          "parte": "従っ",
+          "es": "¿Es la propia persona quien lo acata, o cuál de las dos? Entre los japoneses, en principio ese tipo de...",
+          "ok": false,
+          "nota": "la línea está cortada, queda incompleta al final"
+        }
+      ]
+    },
+    {
+      "id": "vaud_0769",
+      "palabraJP": "優れる",
+      "lectura": "すぐれる",
+      "significado": "sobresalir, ser excelente",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1008.78,
+          "fin": 1012.72,
+          "jp": "でも機能的にはあれすごくいろいろ優れていて",
+          "parte": "優れ",
+          "es": "Pero funcionalmente, eso sobresale en muchos aspectos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0770",
+      "palabraJP": "落ち着く",
+      "lectura": "おちつく",
+      "significado": "calmarse, estabilizarse, asentarse",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2358.92,
+          "fin": 2362.26,
+          "jp": "ふって落ち着いた時に",
+          "parte": "落ち着い",
+          "es": "Cuando de repente se asienta.",
+          "ok": false,
+          "nota": "es solo una cláusula temporal sin oración principal"
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1199.84,
+          "fin": 1203.98,
+          "jp": "落ち着いたら分かる落ち着いたら分かるけどパパパって打った時に",
+          "parte": "落ち着い",
+          "es": "Cuando te calmes lo entiendes, cuando te calmes lo entiendes, pero al escribir rápido pa-pa-pa...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0797",
+      "palabraJP": "カルチャー",
+      "lectura": "カルチャー",
+      "significado": "cultura",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 727.72,
+          "fin": 730.9,
+          "jp": "なんかどういうユースカルチャーというか",
+          "parte": "カルチャー",
+          "es": "Como qué tipo de cultura juvenil hay, o sea...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 805.72,
+          "fin": 811.88,
+          "jp": "カルチャーでっていうのがあんまりなくて大体みんな遊ぶ場所一緒だったりするん",
+          "parte": "カルチャー",
+          "es": "No había mucho en cuanto a culturas distintas; casi todos iban a los mismos lugares a divertirse.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 838,
+          "fin": 843.46,
+          "jp": "みんなのいろんなカルチャーこういう音楽好き",
+          "parte": "カルチャー",
+          "es": "La cultura variada de todos, como qué música les gusta...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0801",
+      "palabraJP": "メディア",
+      "lectura": "メディア",
+      "significado": "medios de comunicación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 4,
+          "fin": 9.84,
+          "jp": "インタビューを通してそれぞれの違いを認め自分自身の個性を見つめるカルチャー音声メディアです",
+          "parte": "メディア",
+          "es": "Es un medio de audio que, a través de entrevistas, reconoce las diferencias de cada quien y explora la identidad propia.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0802",
+      "palabraJP": "コメント",
+      "lectura": "コメント",
+      "significado": "comentario, opinión",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2514.83,
+          "fin": 2519.15,
+          "jp": "感想をコメント欄に書いていただければと思います",
+          "parte": "コメント",
+          "es": "Les agradecería que escribieran sus impresiones en la sección de comentarios.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2520.93,
+          "fin": 2525.33,
+          "jp": "コメント欄までよろしくお願いしますメンバーシップもよろしくねそれでは次の動画でまたお会いしましょう",
+          "parte": "コメント",
+          "es": "No olviden pasar por la sección de comentarios. También bienvenida la membresía. ¡Hasta el próximo video!",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0804",
+      "palabraJP": "エピソード",
+      "lectura": "エピソード",
+      "significado": "anécdota, episodio",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 654.96,
+          "fin": 658.6,
+          "jp": "印象的なエピソードとかあります?",
+          "parte": "エピソード",
+          "es": "¿Tienen alguna anécdota que les haya dejado huella?",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 616.04,
+          "fin": 620.72,
+          "jp": "いいエピソードな気がする確かそんな感じだった気がしますね",
+          "parte": "エピソード",
+          "es": "Me parece un buen episodio. Creo que sí fue algo así.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0811",
+      "palabraJP": "キャリア",
+      "lectura": "キャリア",
+      "significado": "experiencia laboral, trayectoria, portador",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1.36,
+          "fin": 5.02,
+          "jp": "どんな感じでキャリアはスタートしていくんですか仕事は",
+          "parte": "キャリア",
+          "es": "¿Cómo fue arrancando tu trayectoria laboral?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0813",
+      "palabraJP": "フリー",
+      "lectura": "フリー",
+      "significado": "independiente, libre, gratuito",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 123.37,
+          "fin": 127.73,
+          "jp": "フリーになったんですよそれがもう",
+          "parte": "フリー",
+          "es": "Me volví independiente, eso fue ya...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 133.41,
+          "fin": 138.17,
+          "jp": "フリーになって当時所属していた",
+          "parte": "フリー",
+          "es": "Cuando me volví independiente, la agencia a la que pertenecía en ese entonces...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 218.17,
+          "fin": 221.85,
+          "jp": "フリーになった時にもう俺スケジュール",
+          "parte": "フリー",
+          "es": "Cuando me volví independiente, pensé: ya mi agenda...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0820",
+      "palabraJP": "ケース",
+      "lectura": "ケース",
+      "significado": "estuche, caja, caso",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1463.28,
+          "fin": 1471.8,
+          "jp": "床にキャリーケースをガラガラそのまま転がしてくる人と転がしてこない人みたいな",
+          "parte": "ケース",
+          "es": "Hay gente que arrastra la maleta con rueditas directo por el piso y gente que no.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0821",
+      "palabraJP": "パターン",
+      "lectura": "パターン",
+      "significado": "patrón, tipo, modelo",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 925.22,
+          "fin": 928.36,
+          "jp": "徐々に変わっていくっていうパターンを",
+          "parte": "パターン",
+          "es": "El patrón de ir cambiando poco a poco.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1524.72,
+          "fin": 1531.62,
+          "jp": "同じ意味の単語が何パターンもある例えば食べるが尊敬語の場合は召し上がる",
+          "parte": "パターン",
+          "es": "Hay palabras con el mismo significado que tienen varios patrones; por ejemplo, 'comer' en forma honorífica es 召し上がる.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0832",
+      "palabraJP": "カウンセリング",
+      "lectura": "カウンセリング",
+      "significado": "asesoría psicológica, terapia",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2011.38,
+          "fin": 2017.34,
+          "jp": "カウンセリングみたいな具体的にこれで全く読めなくて困ったみたいなことありました?",
+          "parte": "カウンセリング",
+          "es": "Como una especie de asesoría: ¿hubo algo concreto donde no pudiste leer nada y te causó problemas?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0848",
+      "palabraJP": "謙虚な",
+      "lectura": "けんきょな",
+      "significado": "humilde",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1653.42,
+          "fin": 1658.04,
+          "jp": "謙虚なねじゃあ結構もう楽しんで",
+          "parte": "謙虚な",
+          "es": "¡Qué humilde! Entonces ya lo disfrutas bastante...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0906",
+      "palabraJP": "皮肉",
+      "lectura": "ひにく",
+      "significado": "ironía, sarcasmo",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1509.96,
+          "fin": 1514.94,
+          "jp": "今皮肉だろ今のめっちゃ思ってるてんてんてんってなった時",
+          "parte": "皮肉",
+          "es": "Eso fue sarcasmo ahorita, ¿verdad? Me quedé así con puntos suspensivos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0908",
+      "palabraJP": "主義",
+      "lectura": "しゅぎ",
+      "significado": "principio, ideología",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1496.48,
+          "fin": 1499.48,
+          "jp": "個人主義でも日本はどっちかっていうと",
+          "parte": "主義",
+          "es": "Individualismo... aunque Japón se inclina más hacia...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0910",
+      "palabraJP": "年代",
+      "lectura": "ねんだい",
+      "significado": "década, época",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 206.33,
+          "fin": 210.17,
+          "jp": "90年代生まれが遊戯王ドハマリ世代ですよね",
+          "parte": "年代",
+          "es": "Los nacidos en los 90 son la generación que se enganchó de lleno a Yu-Gi-Oh, ¿verdad?",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1027.98,
+          "fin": 1032.06,
+          "jp": "日本の2000年代とか90年代とか",
+          "parte": "年代",
+          "es": "Como los años 2000 o los 90 en Japón...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1030.4,
+          "fin": 1035.3,
+          "jp": "90年代とかそういうものを",
+          "parte": "年代",
+          "es": "Los años 90 y ese tipo de cosas...",
+          "ok": false,
+          "nota": "Línea cortada, no se entiende sola sin contexto previo."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0911",
+      "palabraJP": "世代",
+      "lectura": "せだい",
+      "significado": "generación",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 194.39,
+          "fin": 200.17,
+          "jp": "遊戯王世代だよねそうですね上の世代がギャザー",
+          "parte": "世代",
+          "es": "Son la generación de Yu-Gi-Oh, ¿verdad? —Sí. La generación de arriba estaba con Magic: The Gathering.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 207.93,
+          "fin": 212.15,
+          "jp": "遊戯王ドハマリ世代ですよねマジでど真ん中だったな",
+          "parte": "世代",
+          "es": "Son la generación que se enganchó totalmente a Yu-Gi-Oh, ¿verdad? Yo estaba justo en el centro de todo eso.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0913",
+      "palabraJP": "基準",
+      "lectura": "きじゅん",
+      "significado": "estándar, criterio",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 281.52,
+          "fin": 285.14,
+          "jp": "ざっくりそれぐらいの基準で日本語話者も数えているので",
+          "parte": "基準",
+          "es": "Con ese criterio tan general también se cuenta a los hablantes de japonés.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 709.72,
+          "fin": 712.98,
+          "jp": "みたいな基準が我々がいるとあるを使い分ける",
+          "parte": "基準",
+          "es": "Con criterios como ese, nosotros distinguimos el uso de 'いる' y 'ある'.",
+          "ok": false,
+          "nota": "La frase está mal estructurada gramaticalmente; parece transcripción automática con corte incompleto."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0940",
+      "palabraJP": "処理",
+      "lectura": "しょり",
+      "significado": "procesamiento, gestión",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 297.34,
+          "fin": 303.3,
+          "jp": "それすごい日本語処理の中で迷っちゃうことがあって一応これもルールはあるんですよ",
+          "parte": "処理",
+          "es": "Hay veces que me pierdo haciendo el procesamiento del japonés en mi cabeza; igual sí hay una regla para esto.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0951",
+      "palabraJP": "現場",
+      "lectura": "げんば",
+      "significado": "escena, lugar de los hechos",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1592.12,
+          "fin": 1595.96,
+          "jp": "次の現場では録音部をやってたりとかさっき",
+          "parte": "現場",
+          "es": "En el siguiente trabajo estaba en el equipo de sonido, y antes mencioné...",
+          "ok": false,
+          "nota": "Línea cortada, no se entiende sola."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1674.12,
+          "fin": 1678.42,
+          "jp": "あの現場映画の現場",
+          "parte": "現場",
+          "es": "Ese set... el set de una película.",
+          "ok": false,
+          "nota": "Línea muy corta y fragmentada, no se entiende sola."
+        },
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1676.18,
+          "fin": 1681.26,
+          "jp": "映画の現場学生の映画の現場ですけど",
+          "parte": "現場",
+          "es": "El set de la película... bueno, el set de una película estudiantil.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0952",
+      "palabraJP": "状況",
+      "lectura": "じょうきょう",
+      "significado": "situación, circunstancias",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 732.02,
+          "fin": 735.52,
+          "jp": "タクシーに人が乗ってなくてエンジンがかかってないっていう状況では",
+          "parte": "状況",
+          "es": "En la situación en que no hay nadie en el taxi y el motor está apagado...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0956",
+      "palabraJP": "形式",
+      "lectura": "けいしき",
+      "significado": "forma, formato",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2371.49,
+          "fin": 2374.89,
+          "jp": "直接法の過去の形式と合流していったんだけど",
+          "parte": "形式",
+          "es": "Se fue fusionando con la forma de pasado del modo indicativo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2468.39,
+          "fin": 2473.17,
+          "jp": "こっちの方もライトに雑談形式で書いてあるので読めるんじゃないかなと思います",
+          "parte": "形式",
+          "es": "Este también está escrito en formato de charla informal, así que creo que se puede leer sin problema.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0957",
+      "palabraJP": "傾向",
+      "lectura": "けいこう",
+      "significado": "tendencia",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 246.9,
+          "fin": 250.48,
+          "jp": "数える傾向がありますちゃんと書いてあるんですよ",
+          "parte": "傾向",
+          "es": "Hay tendencia a contarlos; está bien explicado ahí.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 464.3,
+          "fin": 467.42,
+          "jp": "簡単な傾向みたいなのがあってそれ何かっていうと",
+          "parte": "傾向",
+          "es": "Hay una tendencia general, y ¿qué es esa tendencia?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 682.38,
+          "fin": 686.8,
+          "jp": "ざっくりとした傾向をとりあえず分かってもらう時には便利な説明なんですけど",
+          "parte": "傾向",
+          "es": "Es una explicación útil cuando quieres que alguien entienda a grandes rasgos la tendencia general.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0966",
+      "palabraJP": "分野",
+      "lectura": "ぶんや",
+      "significado": "campo, área de estudio o trabajo",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 95.01,
+          "fin": 100.27,
+          "jp": "言語学っていう学問分野があるんですけど大学生の頃も研究室にいて",
+          "parte": "分野",
+          "es": "Existe una disciplina académica llamada lingüística; yo también estuve en un laboratorio de investigación en la universidad.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0967",
+      "palabraJP": "需要",
+      "lectura": "じゅよう",
+      "significado": "demanda",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 434.8,
+          "fin": 438.6,
+          "jp": "人間の需要に合わせてそうです果たしていくんだ",
+          "parte": "需要",
+          "es": "Se va cumpliendo en función de la demanda humana. —Exacto, así es.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0985",
+      "palabraJP": "負担",
+      "lectura": "ふたん",
+      "significado": "carga, costo a asumir",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1775.5,
+          "fin": 1779.9,
+          "jp": "負担が結構大きいコンテンツだっていう話とかも最近",
+          "parte": "負担",
+          "es": "Últimamente también se habla de que es un contenido que representa una carga bastante grande.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0988",
+      "palabraJP": "成立",
+      "lectura": "せいりつ",
+      "significado": "constituirse, formarse",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 850.62,
+          "fin": 854.4,
+          "jp": "それってなんで日本語として成立するんですか逆質問してもいいですか",
+          "parte": "成立",
+          "es": "¿Por qué eso funciona como japonés? ¿Puedo hacerte una contrapregunta?",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2417.83,
+          "fin": 2421.17,
+          "jp": "0.2秒でこんな会話のラリーが成立してるのって",
+          "parte": "成立",
+          "es": "Que en 0.2 segundos ya se haya dado ese intercambio de ida y vuelta en la conversación...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0989",
+      "palabraJP": "矛盾",
+      "lectura": "むじゅん",
+      "significado": "contradicción",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1957.01,
+          "fin": 1960.11,
+          "jp": "基本的に矛盾して",
+          "parte": "矛盾",
+          "es": "Básicamente está en contradicción...",
+          "ok": false,
+          "nota": "Línea cortada, no se entiende sola."
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1963.79,
+          "fin": 1968.25,
+          "jp": "なんか常に矛盾をしてるかもしれないというか",
+          "parte": "矛盾",
+          "es": "Bueno, puede que siempre esté en contradicción, o algo así.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 842.52,
+          "fin": 846.6,
+          "jp": "矛盾してるんじゃないかと思ってだってヤバいって時点で",
+          "parte": "矛盾",
+          "es": "Pensé que era contradictorio, porque ya con decir \"¡qué bestia!\"...",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0990",
+      "palabraJP": "存在",
+      "lectura": "そんざい",
+      "significado": "existencia",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1960.11,
+          "fin": 1963.79,
+          "jp": "生きてる存在な感じがしているんですよ",
+          "parte": "存在",
+          "es": "Tengo la sensación de que es una existencia viva.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 447.34,
+          "fin": 450.48,
+          "jp": "曖昧な存在でもあるのでだからそうなってるんじゃないかなって気がします",
+          "parte": "存在",
+          "es": "También es una existencia ambigua, así que creo que por eso es así.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 455.24,
+          "fin": 460.7,
+          "jp": "この助数詞っていう存在を不思議に思う理由っていうのは助数詞って言語の中で",
+          "parte": "存在",
+          "es": "La razón por la que uno encuentra misteriosa la existencia de los clasificadores numéricos es que, dentro del idioma...",
+          "ok": false,
+          "nota": "Línea cortada, la oración queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_0993",
+      "palabraJP": "指す",
+      "lectura": "さす",
+      "significado": "señalar, indicar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 489.94,
+          "fin": 493.96,
+          "jp": "パソコンとか机とかこういったものを指すときに",
+          "parte": "指す",
+          "es": "Cuando señalamos cosas como la computadora o el escritorio...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 509.26,
+          "fin": 514.2,
+          "jp": "人がその言語を使って何かを指すときにすごく便利なヒントになるんですけど",
+          "parte": "指す",
+          "es": "Cuando alguien usa ese idioma para señalar algo, se convierte en una pista muy útil.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 995.36,
+          "fin": 998.98,
+          "jp": "身を隠すための掘った場所を指していた",
+          "parte": "指し",
+          "es": "Se refería al lugar excavado para esconderse.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_0999",
+      "palabraJP": "抱く",
+      "lectura": "いだく",
+      "significado": "albergar un sentimiento, abrazar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 229.56,
+          "fin": 234.34,
+          "jp": "人間が抱きかかえられる程度の大きさの小型中型犬はヒキと数え",
+          "parte": "抱き",
+          "es": "Los perros pequeños y medianos que caben en brazos de una persona se cuentan con \"hiki\".",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 269.18,
+          "fin": 274.02,
+          "jp": "もう書いてあるんでちゃんとその抱きかかえるぐらいのられるぐらいのサイズとか",
+          "parte": "抱き",
+          "es": "Ya está escrito, algo como el tamaño justo para poder cargarlo en brazos...",
+          "ok": false,
+          "nota": "Transcripción con repetición y fragmento gramaticalmente roto (「られるぐらいの」 duplicado/cortado)."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1003",
+      "palabraJP": "描く",
+      "lectura": "えがく",
+      "significado": "dibujar, pintar",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1173.24,
+          "fin": 1177,
+          "jp": "絵描く人がいたりとか踊り",
+          "parte": "描く",
+          "es": "Hay quienes dibujan cuadros, quienes bailan...",
+          "ok": false,
+          "nota": "Línea cortada, la oración queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1012",
+      "palabraJP": "見つめる",
+      "lectura": "みつめる",
+      "significado": "mirar fijamente",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 4,
+          "fin": 9.84,
+          "jp": "インタビューを通してそれぞれの違いを認め自分自身の個性を見つめるカルチャー音声メディアです",
+          "parte": "見つめる",
+          "es": "Es un medio de audio cultural que, a través de entrevistas, reconoce las diferencias de cada uno y reflexiona sobre la propia individualidad.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1019",
+      "palabraJP": "すする",
+      "lectura": "すする",
+      "significado": "sorber haciendo ruido",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1242.28,
+          "fin": 1246.98,
+          "jp": "大学入試とかに使うんですするんですけどその時に日本語では全く同じ語なんだけど",
+          "parte": "すする",
+          "es": "Se usa en los exámenes de ingreso universitario, pero en japonés es exactamente la misma palabra, aunque...",
+          "ok": false,
+          "nota": "La palabra de estudio \"すする\" (sorber) no aparece ni tiene relación con el contenido; posible error de asignación."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1024",
+      "palabraJP": "語る",
+      "lectura": "かたる",
+      "significado": "relatar, contar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 541.78,
+          "fin": 547.52,
+          "jp": "ジルバル語って名詞を大きく4つのカテゴリーに分けているんですね",
+          "parte": "語っ",
+          "es": "El idioma dyirbal divide los sustantivos en cuatro categorías principales.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1033",
+      "palabraJP": "沿う",
+      "lectura": "そう",
+      "significado": "bordear, seguir un camino o línea",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1848.34,
+          "fin": 1853.16,
+          "jp": "学習者さんのニーズには沿うようなものになると思いますよ受験生の頃に",
+          "parte": "沿う",
+          "es": "Creo que será algo que se adapta a las necesidades de los estudiantes; cuando era aspirante a la universidad...",
+          "ok": false,
+          "nota": "Línea cortada, la oración queda incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1055",
+      "palabraJP": "学ぶ",
+      "lectura": "まなぶ",
+      "significado": "aprender, estudiar",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1778.33,
+          "fin": 1783.05,
+          "jp": "映画を学び映画を学びそれで",
+          "parte": "学び",
+          "es": "Aprendí cine, aprendí cine, y así...",
+          "ok": false,
+          "nota": "Repetición que parece error de transcripción automática; línea incompleta."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1057",
+      "palabraJP": "負う",
+      "lectura": "おう",
+      "significado": "llevar a cuestas, cargar",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2687.49,
+          "fin": 2691.41,
+          "jp": "致命傷を負うこともいくらでもあると思うんですよ",
+          "parte": "負う",
+          "es": "También creo que hay muchísimos casos en los que uno puede sufrir una herida mortal.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1089",
+      "palabraJP": "ためらう",
+      "lectura": "ためらう",
+      "significado": "dudar, vacilar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1744.04,
+          "fin": 1750.08,
+          "jp": "中長の後にうをつけるとためらうですかねもう全然違う違うじゃないですか",
+          "parte": "ためらう",
+          "es": "Si le añades う a 中長 te da ためらう, ¿no? Para nada, eso es completamente diferente, ¿verdad?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1097",
+      "palabraJP": "どうにか",
+      "lectura": "どうにか",
+      "significado": "de algún modo, lograr algo con esfuerzo",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2448.96,
+          "fin": 2452.68,
+          "jp": "どうにか書き上げないとなっていうことで",
+          "parte": "どうにか",
+          "es": "Pensé que de algún modo tenía que terminar de escribirlo.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1643.44,
+          "fin": 1647.68,
+          "jp": "つづりと発音の関係どうにかしてくれよとかねいや思いましたよ私も",
+          "parte": "どうにか",
+          "es": "La relación entre la ortografía y la pronunciación, ¡que alguien la arregle! —Sí, yo también lo pensé.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1098",
+      "palabraJP": "どうにも",
+      "lectura": "どうにも",
+      "significado": "no poder hacer nada en absoluto",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2822.04,
+          "fin": 2826.36,
+          "jp": "どうにもこうにもないかなとは思いますね",
+          "parte": "どうにも",
+          "es": "Creo que no hay nada que hacerle al respecto.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1099",
+      "palabraJP": "何とか",
+      "lectura": "なんとか",
+      "significado": "de alguna manera, lograr con esfuerzo",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1333.64,
+          "fin": 1337.4,
+          "jp": "いっぱい何とかさせる系を知ったんですけど",
+          "parte": "何とか",
+          "es": "Me enteré de un montón de expresiones del tipo 'lograr que alguien haga algo como sea'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1108",
+      "palabraJP": "とにかく",
+      "lectura": "とにかく",
+      "significado": "de todos modos, en todo caso",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 64.95,
+          "fin": 68.23,
+          "jp": "僕は特に言語がとにかく好きな人間として",
+          "parte": "とにかく",
+          "es": "Como persona a la que simplemente le encantan los idiomas en general…",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1112",
+      "palabraJP": "どうせ",
+      "lectura": "どうせ",
+      "significado": "de todos modos, en cualquier caso",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 266.14,
+          "fin": 269.54,
+          "jp": "どうせバイトって言うと変ですけど",
+          "parte": "どうせ",
+          "es": "Decir que de todos modos es un trabajo de medio tiempo suena raro, pero…",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1117",
+      "palabraJP": "ちゃんと",
+      "lectura": "ちゃんと",
+      "significado": "de manera correcta, apropiada",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 620.72,
+          "fin": 626.16,
+          "jp": "あんまでもちゃんと選んだ感じはしないですけどでもそれは結構楽しくやってた",
+          "parte": "ちゃんと",
+          "es": "Tampoco siento que lo haya elegido bien, pero eso lo disfruté bastante.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 248.16,
+          "fin": 251.52,
+          "jp": "ちゃんと書いてあるんですよ書いてあるんですよ",
+          "parte": "ちゃんと",
+          "es": "Sí está escrito, ¿eh? Sí está escrito.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 269.18,
+          "fin": 274.02,
+          "jp": "もう書いてあるんでちゃんとその抱きかかえるぐらいのられるぐらいのサイズとか",
+          "parte": "ちゃんと",
+          "es": "Ya está escrito, con las medidas exactas, como el tamaño para poder cargarlo en brazos o algo así…",
+          "ok": false,
+          "nota": "'のられるぐらいの' parece error de transcripción; la frase queda gramaticalmente rota."
+        }
+      ]
+    },
+    {
+      "id": "vaud_1142",
+      "palabraJP": "むしろ",
+      "lectura": "むしろ",
+      "significado": "más bien, mejor dicho",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1819.98,
+          "fin": 1823.58,
+          "jp": "むしろ行ってきますのスとかが不思議に映ると思うんですね",
+          "parte": "むしろ",
+          "es": "Más bien creo que cosas como la 's' de 行ってきます les parecerían extrañas.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1837.16,
+          "fin": 1840.42,
+          "jp": "むしろだいぶ僕らは発音をサボっている部分があるんで",
+          "parte": "むしろ",
+          "es": "Más bien hay bastantes partes en las que nosotros nos salteamos la pronunciación.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1143",
+      "palabraJP": "果たして",
+      "lectura": "はたして",
+      "significado": "realmente, en efecto",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 437.14,
+          "fin": 443.2,
+          "jp": "果たしていくんだだから厳密に何センチ以上みたいに決まってないのは何でかって言ったら",
+          "parte": "果たして",
+          "es": "Efectivamente es así; por eso, si me preguntan por qué no hay algo definido como 'más de X centímetros exactamente'…",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1147",
+      "palabraJP": "いまだに",
+      "lectura": "いまだに",
+      "significado": "todavía, aún (con negación)",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1400.8,
+          "fin": 1404.8,
+          "jp": "あれとか一生わかんない。本当にいまだに。Gottoとかね。",
+          "parte": "いまだに",
+          "es": "Eso nunca lo voy a entender en la vida. En serio, hasta ahora. Como 'Gotto' y esas cosas.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1149",
+      "palabraJP": "とりあえず",
+      "lectura": "とりあえず",
+      "significado": "por lo pronto, antes que nada",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 500.66,
+          "fin": 505.7,
+          "jp": "とりあえずこう映像の授業がある楽しそうみたいな感じで入って",
+          "parte": "とりあえず",
+          "es": "Por lo pronto entré pensando 'hay clases de video, parece divertido'.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 532.91,
+          "fin": 537.05,
+          "jp": "俺のとことりあえず席置いとけよって言ってくれて",
+          "parte": "とりあえず",
+          "es": "Me dijo 'por lo pronto guárdate un lugar junto a mí'.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 548.25,
+          "fin": 553.71,
+          "jp": "これは書類だけで書類選考だからとりあえず出しとくぞみたいな話とかで",
+          "parte": "とりあえず",
+          "es": "Era algo como 'esto es solo revisión de documentos, así que por lo pronto lo mando'.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1153",
+      "palabraJP": "実際に",
+      "lectura": "じっさいに",
+      "significado": "en realidad, de hecho",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 1835.37,
+          "fin": 1839.13,
+          "jp": "実際に出る側の経験をした",
+          "parte": "実際に",
+          "es": "Tuve la experiencia de estar del lado de quien sale al frente.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2458.72,
+          "fin": 2462.52,
+          "jp": "書いたりして実際に書いて誰かに見てもらったり",
+          "parte": "実際に",
+          "es": "Escribir y que alguien lo revisara de verdad.",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1835.78,
+          "fin": 1840.42,
+          "jp": "実際にそうかは分からなくてむしろだいぶ僕らは発音をサボっている部分があるんで",
+          "parte": "実際に",
+          "es": "En realidad no sé si es así; más bien hay bastantes partes en las que nosotros nos salteamos la pronunciación.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1154",
+      "palabraJP": "同様",
+      "lectura": "どうよう",
+      "significado": "igual, similar a",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1613.82,
+          "fin": 1617,
+          "jp": "英語でも同様の現象はあるなるほど",
+          "parte": "同様",
+          "es": "En inglés también existe el mismo fenómeno. —Ah, ya veo.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1155",
+      "palabraJP": "元々",
+      "lectura": "もともと",
+      "significado": "desde un principio, por naturaleza",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 891.96,
+          "fin": 897.94,
+          "jp": "他にも英語だったらナイスとかって元々原義をたどっていくとバカなとか愚かなとか",
+          "parte": "元々",
+          "es": "En inglés también, 'nice' por ejemplo: si rastreás su significado original llega a ser algo como tonto o estúpido.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "vaud_1160",
+      "palabraJP": "いわゆる",
+      "lectura": "いわゆる",
+      "significado": "el/lo llamado, así llamado",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 2104.32,
+          "fin": 2109.56,
+          "jp": "北海道の歴史ってもともとそのいわゆる日本政府の統治とか",
+          "parte": "いわゆる",
+          "es": "La historia de Hokkaido originalmente tiene que ver con la llamada dominación del gobierno japonés y esas cosas.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "理解",
+      "lectura": "りかい",
+      "significado": "entender/comprender",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1305.16,
+          "fin": 1309.5,
+          "jp": "そもそも聞こうとしてることを理解してない強制してるのか",
+          "parte": "理解",
+          "es": "De entrada ni entiende lo que intenta preguntar, ¿o es que lo está forzando?",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "印刷",
+      "lectura": "いんさつ",
+      "significado": "impresión, imprimir",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 671.29,
+          "fin": 675.67,
+          "jp": "グラフィックを印刷して売るっていう感じの",
+          "parte": "印刷",
+          "es": "Algo así como imprimir gráficos y venderlos.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "健康",
+      "lectura": "けんこう",
+      "significado": "Salud",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 1758.29,
+          "fin": 1761.95,
+          "jp": "健康なのかって言ったらあれですけどでもそういう",
+          "parte": "健康",
+          "es": "Si te preguntaran si es saludable, bueno... no exactamente, pero así es la cosa.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "習う",
+      "lectura": "ならう",
+      "significado": "tomar clases / aprender",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1249.18,
+          "fin": 1253.4,
+          "jp": "使い分けを気をつけましょうって習うことが結構あって僕がよく覚えてるのは",
+          "parte": "習う",
+          "es": "Hay bastantes casos en los que te enseñan a cuidar el uso diferenciado, y el que más recuerdo yo es...",
+          "ok": true
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1323.4,
+          "fin": 1327.6,
+          "jp": "私益同士とかって習うんですけどハブとかメイクとかレッドとか",
+          "parte": "習う",
+          "es": "Nos enseñan algo como 私益同士, y también ハブ, メイク, レッド y esas cosas.",
+          "ok": false,
+          "nota": "私益同士 no es un término japonés reconocible; probable error de transcripción automática."
+        },
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 1161.72,
+          "fin": 1168.9,
+          "jp": "たぶんそうじゃないですか。結構これあって、例えば速いとかも、小学生の頃に2個の漢字を習うんですよ。",
+          "parte": "習う",
+          "es": "Creo que sí, ¿no? Esto pasa bastante; por ejemplo con 速い también, de chicos en primaria nos enseñan dos kanjis.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "個性",
+      "lectura": "こせい",
+      "significado": "personalidad, individualidad, características propias.",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 4,
+          "fin": 9.84,
+          "jp": "インタビューを通してそれぞれの違いを認め自分自身の個性を見つめるカルチャー音声メディアです",
+          "parte": "個性",
+          "es": "Es un medio de audio cultural donde, a través de entrevistas, se reconocen las diferencias de cada quien y se reflexiona sobre la propia individualidad.",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2547.43,
+          "fin": 2550.71,
+          "jp": "この番組は一応個性みたいなの",
+          "parte": "個性",
+          "es": "Este programa toma más o menos la individualidad como...",
+          "ok": true
+        },
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2550.71,
+          "fin": 2554.17,
+          "jp": "個性とか自分らしさみたいなのをテーマにしてて",
+          "parte": "個性",
+          "es": "Con temas como la individualidad y el ser uno mismo,",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "程度",
+      "lectura": "ていど",
+      "significado": "grado, límite (grado más alto), hasta cierto punto (normalmente se usa como: ある程度)",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 229.56,
+          "fin": 234.34,
+          "jp": "人間が抱きかかえられる程度の大きさの小型中型犬はヒキと数え",
+          "parte": "程度",
+          "es": "A los perros pequeños y medianos de un tamaño que una persona puede cargar en brazos se les cuenta con ヒキ.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "視聴者",
+      "lectura": "しちょうしゃ",
+      "significado": "telespectador, televidente, audiencia",
+      "clips": [
+        {
+          "fuente": "weirdos_52",
+          "trackId": 117,
+          "inicio": 2115.5,
+          "fin": 2119.16,
+          "jp": "僕も自分が視聴者として",
+          "parte": "視聴者",
+          "es": "Yo también, como espectador,",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "掘る",
+      "lectura": "ほる",
+      "significado": "cavar",
+      "clips": [
+        {
+          "fuente": "episodio_4",
+          "trackId": 118,
+          "inicio": 995.36,
+          "fin": 998.98,
+          "jp": "身を隠すための掘った場所を指していた",
+          "parte": "掘っ",
+          "es": "Se refería al lugar que se había excavado para ocultarse.",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "palabraJP": "一般",
+      "lectura": "いっぱん",
+      "significado": "general, común",
+      "clips": [
+        {
+          "fuente": "weirdos_52a",
+          "trackId": 116,
+          "inicio": 737.88,
+          "fin": 744.78,
+          "jp": "今更一般の大学行ける感じもしないしっていうのもあるんですけど",
+          "parte": "一般",
+          "es": "Y también está el hecho de que a estas alturas ya no me veo yendo a una universidad normal.",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}
