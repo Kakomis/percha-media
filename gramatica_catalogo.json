@@ -175,7 +175,8 @@
    "glosaES": "a lo largo de/durante",
    "variantes": [
     "にわたって",
-    "にわたり"
+    "にわたり",
+    "にわたる"
    ],
    "nivel_seed": "N2",
    "nivel_skm": "N2",
@@ -720,7 +721,8 @@
    "variantes": [
     "せいで",
     "せいだ",
-    "せいか"
+    "せいか",
+    "のせいで"
    ],
    "nivel_seed": "N3",
    "nivel_skm": "N3",
@@ -766,7 +768,8 @@
    "tituloJP": "んじゃない",
    "glosaES": "¿no es...? / me parece que...",
    "variantes": [
-    "んじゃない"
+    "んじゃない",
+    "んじゃないか"
    ],
    "nivel_seed": "N3",
    "nivel_skm": "sin_ubicar",
