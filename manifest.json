@@ -8773,5 +8773,14 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos_52.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos_52.srt"
+  },
+  {
+    "id": 118,
+    "titulo": "Extranjero pregunta sobre japonés",
+    "categoria": "shadowing_srt",
+    "orden": 118,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_4.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_4.srt"
   }
 ]
