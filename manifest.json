@@ -8758,19 +8758,19 @@
   },
   {
     "id": 116,
-    "titulo": "La extraordinaria carrera actoral de Shohei Matsuzaki P1",
+    "titulo": "Shohei Matsuzaki A",
     "categoria": "shadowing_srt",
     "orden": 116,
-    "version": "v4",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos_52a.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos_52a.srt"
   },
   {
     "id": 117,
-    "titulo": "La extraordinaria carrera actoral de Shohei Matsuzaki P2",
+    "titulo": "Shohei Matsuzaki B",
     "categoria": "shadowing_srt",
     "orden": 117,
-    "version": "v1",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos_52.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos_52.srt"
   },
@@ -8782,5 +8782,122 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/episodio_4.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/episodio_4.srt"
+  },
+  {
+    "id": 119,
+    "titulo": "Kei Hashimoto A",
+    "categoria": "shadowing_srt",
+    "orden": 119,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-17.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-17.srt"
+  },
+  {
+    "id": 120,
+    "titulo": "Kei Hashimoto B",
+    "categoria": "shadowing_srt",
+    "orden": 120,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-18.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-18.srt"
+  },
+  {
+    "id": 121,
+    "titulo": "ta1yo B",
+    "categoria": "shadowing_srt",
+    "orden": 121,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-39.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-39.srt"
+  },
+  {
+    "id": 122,
+    "titulo": "ta1yo B",
+    "categoria": "shadowing_srt",
+    "orden": 122,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-40.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-40.srt"
+  },
+  {
+    "id": 123,
+    "titulo": "Reo Yoshioka",
+    "categoria": "shadowing_srt",
+    "orden": 123,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-reo_yoshioka.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-reo_yoshioka.srt"
+  },
+  {
+    "id": 124,
+    "titulo": "Takamama",
+    "categoria": "shadowing_srt",
+    "orden": 124,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-takamama.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-takamama.srt"
+  },
+  {
+    "id": 125,
+    "titulo": "La hipótesis de Sapir-Whorf",
+    "categoria": "shadowing_srt",
+    "orden": 125,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-450.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-450.srt"
+  },
+    {
+    "id": 126,
+    "titulo": "¿Por qué la gente de Tokio puede parecer tan fría?",
+    "categoria": "shadowing_srt",
+    "orden": 126,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-469.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-469.srt"
+  },
+  {
+    "id": 127,
+    "titulo": "¿Por qué se produce la tartamudez?",
+    "categoria": "shadowing_srt",
+    "orden": 127,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-472.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-472.srt"
+  },
+  {
+    "id": 128,
+    "titulo": "¿Hablar con demasiados «eeeh…» hace que te rechacen en una entrevista de trabajo?",
+    "categoria": "shadowing_srt",
+    "orden": 128,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-474.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-474.srt"
+  },
+  {
+    "id": 129,
+    "titulo": "¿No es demasiado difícil el trabajo de comentarista?",
+    "categoria": "shadowing_srt",
+    "orden": 129,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-475.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-475.srt"
+  },
+  {
+    "id": 130,
+    "titulo": "¿El ser humano es malo por naturaleza?",
+    "categoria": "shadowing_srt",
+    "orden": 130,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-477.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-477.srt"
+  },
+  {
+    "id": 131,
+    "titulo": "LIntroducción a la filosofía del lenguaje a través de Hiroyuki",
+    "categoria": "shadowing_srt",
+    "orden": 131,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-478.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-478.srt"
   }
 ]
