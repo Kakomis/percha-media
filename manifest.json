@@ -8893,11 +8893,38 @@
   },
   {
     "id": 131,
-    "titulo": "LIntroducción a la filosofía del lenguaje a través de Hiroyuki",
+    "titulo": "Introducción a la filosofía del lenguaje a través de Hiroyuki",
     "categoria": "shadowing_srt",
     "orden": 131,
-    "version": "v1",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/yurugengo-478.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/yurugengo-478.srt"
+  },
+  {
+    "id": 132,
+    "titulo": "El principio",
+    "categoria": "shadowing_srt",
+    "orden": 132,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/botw_beginning.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/botw_beginning.srt"
+  },
+  {
+    "id": 133,
+    "titulo": "Un mundo abierto",
+    "categoria": "shadowing_srt",
+    "orden": 133,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/botw_open-air.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/botw_open-air.srt"
+  },
+  {
+    "id": 134,
+    "titulo": "Historia y personajes",
+    "categoria": "shadowing_srt",
+    "orden": 134,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/botw_story.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/botw_story.srt"
   }
 ]
