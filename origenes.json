@@ -1,0 +1,86 @@
+[
+  {
+    "id": "yurugengo",
+    "titulo": "ゆる言語学ラジオ",
+    "subtitulo": "Podcast de lingüística",
+    "tipo": "Podcast",
+    "orden": 1,
+    "kanji": "言",
+    "color": "#1E4A44",
+    "color_fin": "#102E2A",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "weirdos",
+    "titulo": "Weirdos",
+    "subtitulo": "Podcast de entrevistas",
+    "tipo": "Podcast",
+    "orden": 2,
+    "kanji": "変",
+    "color": "#4A2E52",
+    "color_fin": "#2E1B33",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "botw",
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "subtitulo": "Nintendo",
+    "tipo": "Entrevista",
+    "orden": 3,
+    "kanji": "野",
+    "color": "#2F4A34",
+    "color_fin": "#1B2E1F",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "nameraka",
+    "titulo": "Nameraka",
+    "subtitulo": "Curso de habla natural",
+    "tipo": "Curso",
+    "orden": 4,
+    "kanji": "滑",
+    "color": "#6B5220",
+    "color_fin": "#3D2E12",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "miku-sensei",
+    "titulo": "Miku Sensei",
+    "subtitulo": "Clases y transcripciones",
+    "tipo": "Curso",
+    "orden": 5,
+    "kanji": "先",
+    "color": "#6B2C41",
+    "color_fin": "#421A29",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "mrfuji",
+    "titulo": "MrFuji from Japan",
+    "subtitulo": "Canal de YouTube",
+    "tipo": "YouTube",
+    "orden": 6,
+    "kanji": "富",
+    "color": "#1C2B4A",
+    "color_fin": "#0E1830",
+    "url_portada": "",
+    "version_portada": "v1"
+  },
+  {
+    "id": "nihongo-wo-hanasou",
+    "titulo": "Shadowing: Nihongo wo Hanasou!",
+    "subtitulo": "Libro con audios",
+    "tipo": "Libro",
+    "orden": 7,
+    "kanji": "話",
+    "color": "#7A3D1A",
+    "color_fin": "#4A2410",
+    "url_portada": "",
+    "version_portada": "v1"
+  }
+]

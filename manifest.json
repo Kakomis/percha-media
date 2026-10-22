@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversación con colegas I",
     "orden": 1,
     "version": "v4",
@@ -3501,6 +3502,7 @@
   },
   {
     "id": 53,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja I",
     "categoria": "shadowing",
     "orden": 53,
@@ -3631,6 +3633,7 @@
   },
   {
     "id": 54,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja II",
     "categoria": "shadowing",
     "orden": 54,
@@ -3761,6 +3764,7 @@
   },
   {
     "id": 55,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja III",
     "categoria": "shadowing",
     "orden": 55,
@@ -7662,6 +7666,7 @@
   },
   {
     "id": 56,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja IV",
     "categoria": "shadowing",
     "orden": 56,
@@ -7792,6 +7797,7 @@
   },
   {
     "id": 57,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja V",
     "categoria": "shadowing",
     "orden": 57,
@@ -7922,6 +7928,7 @@
   },
   {
     "id": 58,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja VI",
     "categoria": "shadowing",
     "orden": 58,
@@ -8052,6 +8059,7 @@
   },
   {
     "id": 59,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja VII",
     "categoria": "shadowing",
     "orden": 59,
@@ -8187,6 +8195,7 @@
   },
   {
     "id": 60,
+    "origenId": "nihongo-wo-hanasou",
     "titulo": "Conversaciones con la familia, el cónyuge o la pareja VIII",
     "categoria": "shadowing",
     "orden": 60,
@@ -8317,6 +8326,7 @@
   },
   {
     "id": 64,
+    "origenId": "yurugengo",
     "titulo": "¿Por qué los niños quieren ir a la Universidad del Pulpo?",
     "categoria": "shadowing_srt",
     "orden": 64,
@@ -8326,6 +8336,7 @@
   },
   {
     "id": 65,
+    "origenId": "miku-sensei",
     "titulo": "Cómo llegó a dominar el japonés mediante la inmersión",
     "categoria": "shadowing_srt",
     "orden": 65,
@@ -8335,6 +8346,7 @@
   },
   {
     "id": 66,
+    "origenId": "yurugengo",
     "titulo": "¿Por qué Google Drive está destinado a convertirse en un desastre?",
     "categoria": "shadowing_srt",
     "orden": 66,
@@ -8344,6 +8356,7 @@
   },
   {
     "id": 67,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 1-1",
     "categoria": "shadowing_srt",
     "orden": 67,
@@ -8353,6 +8366,7 @@
   },
   {
     "id": 68,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 1-2",
     "categoria": "shadowing_srt",
     "orden": 68,
@@ -8362,6 +8376,7 @@
   },
   {
     "id": 69,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 2-1",
     "categoria": "shadowing_srt",
     "orden": 69,
@@ -8371,6 +8386,7 @@
   },
   {
     "id": 70,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 2-2",
     "categoria": "shadowing_srt",
     "orden": 70,
@@ -8380,6 +8396,7 @@
   },
   {
     "id": 71,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 3-1",
     "categoria": "shadowing_srt",
     "orden": 71,
@@ -8389,6 +8406,7 @@
   },
   {
     "id": 72,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 3-2",
     "categoria": "shadowing_srt",
     "orden": 72,
@@ -8398,6 +8416,7 @@
   },
   {
     "id": 73,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 4-1",
     "categoria": "shadowing_srt",
     "orden": 73,
@@ -8407,6 +8426,7 @@
   },
   {
     "id": 74,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 4-2",
     "categoria": "shadowing_srt",
     "orden": 74,
@@ -8416,6 +8436,7 @@
   },
   {
     "id": 75,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 5-1",
     "categoria": "shadowing_srt",
     "orden": 75,
@@ -8425,6 +8446,7 @@
   },
   {
     "id": 76,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 5-2",
     "categoria": "shadowing_srt",
     "orden": 76,
@@ -8434,6 +8456,7 @@
   },
   {
     "id": 77,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 6-1",
     "categoria": "shadowing_srt",
     "orden": 77,
@@ -8443,6 +8466,7 @@
   },
   {
     "id": 78,
+    "origenId": "nameraka",
     "titulo": "Cambio de sonido 6-2",
     "categoria": "shadowing_srt",
     "orden": 78,
@@ -8452,6 +8476,7 @@
   },
   {
     "id": 79,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 7-1",
     "categoria": "shadowing_srt",
     "orden": 79,
@@ -8461,6 +8486,7 @@
   },
   {
     "id": 80,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 7-2",
     "categoria": "shadowing_srt",
     "orden": 80,
@@ -8470,6 +8496,7 @@
   },
   {
     "id": 81,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 8-1",
     "categoria": "shadowing_srt",
     "orden": 81,
@@ -8479,6 +8506,7 @@
   },
   {
     "id": 82,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 8-2",
     "categoria": "shadowing_srt",
     "orden": 82,
@@ -8488,6 +8516,7 @@
   },
   {
     "id": 83,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 9-1",
     "categoria": "shadowing_srt",
     "orden": 83,
@@ -8497,6 +8526,7 @@
   },
   {
     "id": 84,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 9-2",
     "categoria": "shadowing_srt",
     "orden": 84,
@@ -8506,6 +8536,7 @@
   },
   {
     "id": 85,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 10-1",
     "categoria": "shadowing_srt",
     "orden": 85,
@@ -8515,6 +8546,7 @@
   },
   {
     "id": 86,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 10-2",
     "categoria": "shadowing_srt",
     "orden": 86,
@@ -8524,6 +8556,7 @@
   },
   {
     "id": 87,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 11-1",
     "categoria": "shadowing_srt",
     "orden": 87,
@@ -8533,6 +8566,7 @@
   },
   {
     "id": 88,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 11-2",
     "categoria": "shadowing_srt",
     "orden": 88,
@@ -8542,6 +8576,7 @@
   },
   {
     "id": 89,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 12-1",
     "categoria": "shadowing_srt",
     "orden": 89,
@@ -8551,6 +8586,7 @@
   },
   {
     "id": 90,
+    "origenId": "nameraka",
     "titulo": "Estilo conversacional 12-2",
     "categoria": "shadowing_srt",
     "orden": 90,
@@ -8560,6 +8596,7 @@
   },
   {
     "id": 91,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 13-1",
     "categoria": "shadowing_srt",
     "orden": 91,
@@ -8569,6 +8606,7 @@
   },
   {
     "id": 92,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 13-2",
     "categoria": "shadowing_srt",
     "orden": 92,
@@ -8578,6 +8616,7 @@
   },
   {
     "id": 93,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 14-1",
     "categoria": "shadowing_srt",
     "orden": 93,
@@ -8587,6 +8626,7 @@
   },
   {
     "id": 94,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 14-2",
     "categoria": "shadowing_srt",
     "orden": 94,
@@ -8596,6 +8636,7 @@
   },
   {
     "id": 95,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 15-1",
     "categoria": "shadowing_srt",
     "orden": 95,
@@ -8605,6 +8646,7 @@
   },
   {
     "id": 96,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 15-2",
     "categoria": "shadowing_srt",
     "orden": 96,
@@ -8614,6 +8656,7 @@
   },
   {
     "id": 97,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 16-1",
     "categoria": "shadowing_srt",
     "orden": 97,
@@ -8623,6 +8666,7 @@
   },
   {
     "id": 98,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 16-2",
     "categoria": "shadowing_srt",
     "orden": 98,
@@ -8632,6 +8676,7 @@
   },
   {
     "id": 99,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 17-1",
     "categoria": "shadowing_srt",
     "orden": 99,
@@ -8641,6 +8686,7 @@
   },
   {
     "id": 100,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 17-2",
     "categoria": "shadowing_srt",
     "orden": 100,
@@ -8650,6 +8696,7 @@
   },
   {
     "id": 101,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 18-1",
     "categoria": "shadowing_srt",
     "orden": 101,
@@ -8659,6 +8706,7 @@
   },
   {
     "id": 102,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 18-2",
     "categoria": "shadowing_srt",
     "orden": 102,
@@ -8668,6 +8716,7 @@
   },
   {
     "id": 103,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 19-1",
     "categoria": "shadowing_srt",
     "orden": 103,
@@ -8677,6 +8726,7 @@
   },
   {
     "id": 104,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 19-2",
     "categoria": "shadowing_srt",
     "orden": 104,
@@ -8686,6 +8736,7 @@
   },
   {
     "id": 105,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 20-1",
     "categoria": "shadowing_srt",
     "orden": 105,
@@ -8695,6 +8746,7 @@
   },
   {
     "id": 106,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 20-2",
     "categoria": "shadowing_srt",
     "orden": 106,
@@ -8704,6 +8756,7 @@
   },
   {
     "id": 107,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 21-1",
     "categoria": "shadowing_srt",
     "orden": 107,
@@ -8713,6 +8766,7 @@
   },
   {
     "id": 108,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 21-2",
     "categoria": "shadowing_srt",
     "orden": 108,
@@ -8722,6 +8776,7 @@
   },
   {
     "id": 109,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 22-1",
     "categoria": "shadowing_srt",
     "orden": 109,
@@ -8731,6 +8786,7 @@
   },
   {
     "id": 110,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 22-2",
     "categoria": "shadowing_srt",
     "orden": 110,
@@ -8740,6 +8796,7 @@
   },
   {
     "id": 111,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 23-1",
     "categoria": "shadowing_srt",
     "orden": 111,
@@ -8749,6 +8806,7 @@
   },
   {
     "id": 112,
+    "origenId": "nameraka",
     "titulo": "Funciones del habla 23-2",
     "categoria": "shadowing_srt",
     "orden": 112,
@@ -8758,6 +8816,7 @@
   },
   {
     "id": 116,
+    "origenId": "weirdos",
     "titulo": "Shohei Matsuzaki A",
     "categoria": "shadowing_srt",
     "orden": 116,
@@ -8767,6 +8826,7 @@
   },
   {
     "id": 117,
+    "origenId": "weirdos",
     "titulo": "Shohei Matsuzaki B",
     "categoria": "shadowing_srt",
     "orden": 117,
@@ -8776,6 +8836,7 @@
   },
   {
     "id": 118,
+    "origenId": "mrfuji",
     "titulo": "Extranjero pregunta sobre japonés",
     "categoria": "shadowing_srt",
     "orden": 118,
@@ -8785,6 +8846,7 @@
   },
   {
     "id": 119,
+    "origenId": "weirdos",
     "titulo": "Kei Hashimoto A",
     "categoria": "shadowing_srt",
     "orden": 119,
@@ -8794,6 +8856,7 @@
   },
   {
     "id": 120,
+    "origenId": "weirdos",
     "titulo": "Kei Hashimoto B",
     "categoria": "shadowing_srt",
     "orden": 120,
@@ -8803,15 +8866,17 @@
   },
   {
     "id": 121,
-    "titulo": "ta1yo B",
+    "origenId": "weirdos",
+    "titulo": "ta1yo A",
     "categoria": "shadowing_srt",
     "orden": 121,
-    "version": "v1",
+    "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/weirdos-39.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/weirdos-39.srt"
   },
   {
     "id": 122,
+    "origenId": "weirdos",
     "titulo": "ta1yo B",
     "categoria": "shadowing_srt",
     "orden": 122,
@@ -8821,6 +8886,7 @@
   },
   {
     "id": 123,
+    "origenId": "weirdos",
     "titulo": "Reo Yoshioka",
     "categoria": "shadowing_srt",
     "orden": 123,
@@ -8830,6 +8896,7 @@
   },
   {
     "id": 124,
+    "origenId": "weirdos",
     "titulo": "Takamama",
     "categoria": "shadowing_srt",
     "orden": 124,
@@ -8839,6 +8906,7 @@
   },
   {
     "id": 125,
+    "origenId": "yurugengo",
     "titulo": "La hipótesis de Sapir-Whorf",
     "categoria": "shadowing_srt",
     "orden": 125,
@@ -8848,6 +8916,7 @@
   },
     {
     "id": 126,
+    "origenId": "yurugengo",
     "titulo": "¿Por qué la gente de Tokio puede parecer tan fría?",
     "categoria": "shadowing_srt",
     "orden": 126,
@@ -8857,6 +8926,7 @@
   },
   {
     "id": 127,
+    "origenId": "yurugengo",
     "titulo": "¿Por qué se produce la tartamudez?",
     "categoria": "shadowing_srt",
     "orden": 127,
@@ -8866,6 +8936,7 @@
   },
   {
     "id": 128,
+    "origenId": "yurugengo",
     "titulo": "¿Hablar con demasiados «eeeh…» hace que te rechacen en una entrevista de trabajo?",
     "categoria": "shadowing_srt",
     "orden": 128,
@@ -8875,6 +8946,7 @@
   },
   {
     "id": 129,
+    "origenId": "yurugengo",
     "titulo": "¿No es demasiado difícil el trabajo de comentarista?",
     "categoria": "shadowing_srt",
     "orden": 129,
@@ -8884,6 +8956,7 @@
   },
   {
     "id": 130,
+    "origenId": "yurugengo",
     "titulo": "¿El ser humano es malo por naturaleza?",
     "categoria": "shadowing_srt",
     "orden": 130,
@@ -8893,6 +8966,7 @@
   },
   {
     "id": 131,
+    "origenId": "yurugengo",
     "titulo": "Introducción a la filosofía del lenguaje a través de Hiroyuki",
     "categoria": "shadowing_srt",
     "orden": 131,
@@ -8902,6 +8976,7 @@
   },
   {
     "id": 132,
+    "origenId": "botw",
     "titulo": "El principio",
     "categoria": "shadowing_srt",
     "orden": 132,
@@ -8911,6 +8986,7 @@
   },
   {
     "id": 133,
+    "origenId": "botw",
     "titulo": "Un mundo abierto",
     "categoria": "shadowing_srt",
     "orden": 133,
@@ -8920,6 +8996,7 @@
   },
   {
     "id": 134,
+    "origenId": "botw",
     "titulo": "Historia y personajes",
     "categoria": "shadowing_srt",
     "orden": 134,
