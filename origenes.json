@@ -8,7 +8,7 @@
     "kanji": "言",
     "color": "#1E4A44",
     "color_fin": "#102E2A",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/yurugengo.jpg",
     "version_portada": "v1"
   },
   {
@@ -20,7 +20,7 @@
     "kanji": "変",
     "color": "#4A2E52",
     "color_fin": "#2E1B33",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/weirdos.png",
     "version_portada": "v1"
   },
   {
@@ -32,7 +32,7 @@
     "kanji": "野",
     "color": "#2F4A34",
     "color_fin": "#1B2E1F",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/Zelda.jpeg",
     "version_portada": "v1"
   },
   {
@@ -44,7 +44,7 @@
     "kanji": "滑",
     "color": "#6B5220",
     "color_fin": "#3D2E12",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/nameraka.jpeg",
     "version_portada": "v1"
   },
   {
@@ -56,7 +56,7 @@
     "kanji": "先",
     "color": "#6B2C41",
     "color_fin": "#421A29",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/miku.jpeg",
     "version_portada": "v1"
   },
   {
@@ -68,7 +68,7 @@
     "kanji": "富",
     "color": "#1C2B4A",
     "color_fin": "#0E1830",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/mr-fuji.webp",
     "version_portada": "v1"
   },
   {
@@ -80,7 +80,7 @@
     "kanji": "話",
     "color": "#7A3D1A",
     "color_fin": "#4A2410",
-    "url_portada": "",
+    "url_portada": "https://hablar.s3.us-east-1.amazonaws.com/portadas/nihongo-hanasou.jpeg",
     "version_portada": "v1"
   }
 ]
