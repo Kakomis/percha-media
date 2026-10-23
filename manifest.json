@@ -9004,7 +9004,7 @@
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/botw_story.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/botw_story.srt"
   },
-    {
+  {
     "id": 135,
     "origenId": "miku-sensei",
     "titulo": "Cómo llegar a dominar el japonés de verdad",
@@ -9013,5 +9013,25 @@
     "version": "v2",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/fluent-in-japanese.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/fluent-in-japanese.srt"
+  },
+  {
+    "id": 136,
+    "origenId": "miku-sensei",
+    "titulo": "Conversación en un salón de pestañas A",
+    "categoria": "shadowing_srt",
+    "orden": 136,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/eyelash-salon-a.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/eyelash-salon-a.srt"
+  },
+  {
+    "id": 137,
+    "origenId": "miku-sensei",
+    "titulo": "Conversación en un salón de pestañas B",
+    "categoria": "shadowing_srt",
+    "orden": 137,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/eyelash-salon-b.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/eyelash-salon-b.srt"
   }
 ]
