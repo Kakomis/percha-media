@@ -9003,5 +9003,15 @@
     "version": "v1",
     "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/botw_story.mp3",
     "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/botw_story.srt"
+  },
+    {
+    "id": 135,
+    "origenId": "miku-sensei",
+    "titulo": "Cómo llegar a dominar el japonés de verdad B",
+    "categoria": "shadowing_srt",
+    "orden": 135,
+    "version": "v1",
+    "audioUrl": "https://hablar.s3.us-east-1.amazonaws.com/kaiwa/fluent-in-japanese.mp3",
+    "srtUrl": "https://hablar.s3.us-east-1.amazonaws.com/srt/fluent-in-japanese.srt"
   }
 ]
